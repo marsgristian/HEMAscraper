@@ -12,7 +12,6 @@ Dentro do CSV cada coluna representa uma versão do livro, como são manuscritos
 | ------------------------------------- | ------- | -------- | -------------------------- |
 | DE LO SCHERMO OVERO SCIENZA D’ARME    | Archetype (1606) | Salvator Fabris | Transcribed by Michael Chidester |
 | DE LO SCHERMO OVERO SCIENZA D’ARME Draft Translation  | (ca. 1900) from the Archetype (1606) | Salvator Fabris | A. F. Johnson (transcribed by Michael Chidester) |
-| Título    | Versão | Autor | Tradutor/Transcritor | 
 | Fior di Battaglia    | Novati (1400s) | Fiore Furlano de’i Liberi | Transcribed by Michael Chidester | 
 | Fior di Battaglia    | Novati (1400s) | Fiore Furlano de’i Liberi | Translation by Colin Hatcher Transcribed by Michael Chidester | 
 | Fior di Battaglia    | Morgan (1400s) | Fiore Furlano de’i Liberi | Transcribed by Michael Chidester | 
