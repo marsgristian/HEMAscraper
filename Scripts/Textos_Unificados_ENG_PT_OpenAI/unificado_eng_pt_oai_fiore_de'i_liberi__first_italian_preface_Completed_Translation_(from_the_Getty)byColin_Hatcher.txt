@@ -1,0 +1,12 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__first_italian_preface
+FIELD NAME: Completed Translation (from the Getty)byColin Hatcher
+TOTAL TEXTOS: 2
+================================================================================
+
+[1] (P0.S0)
+Eu, Fiore, o Friulano, nascido em Cividale D'Austria, fui filho do Senhor Benedetto da nobre ordem dos cavaleiros livres de Premariacco, na diocese do Patriarcado de Aquileia.
+
+[2] (P0.S1)
+Quando jovem, eu [34] desejava aprender a luta armada, [35] incluindo a arte de lutar nas listas [36] com lança, machado de haste, espada, adaga e agarramento desarmado, a pé e a cavalo, armado e desarmado.
+

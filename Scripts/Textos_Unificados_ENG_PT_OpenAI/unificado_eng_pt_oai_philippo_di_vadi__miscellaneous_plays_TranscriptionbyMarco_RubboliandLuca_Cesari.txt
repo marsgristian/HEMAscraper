@@ -1,0 +1,33 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__miscellaneous_plays
+FIELD NAME: TranscriptionbyMarco RubboliandLuca Cesari
+TOTAL TEXTOS: 9
+================================================================================
+
+[1] (P74.S0)
+Defendo-me tanto quanto posso; assim como você trai, eu verei você cair.
+
+[2] (P75.S0)
+[ 38v-a ] Estou em guarda com a boa mão direita, Você entenderá a lança escrita.
+
+[3] (P76.S0)
+[ 39r-a ] Guarda de adaga
+
+[4] (P77.S0)
+[ 39v-a ] Separação de Adagas
+
+[5] (P78.S0)
+[ 40r-a ] Jogo de Adaga
+
+[6] (P79.S0)
+[ 40v-a ] Guarda de adaga
+
+[7] (P81.S0)
+[ 41v-a ] Guarda de adaga
+
+[8] (P82.S0)
+[ 42r-a ] Guarda de adaga
+
+[9] (P83.S0)
+[ 42v-a ] Guarda de adaga
+

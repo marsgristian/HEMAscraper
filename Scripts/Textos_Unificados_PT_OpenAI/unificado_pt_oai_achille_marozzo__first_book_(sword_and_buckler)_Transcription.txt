@@ -1,0 +1,708 @@
+MASTER: Achille Marozzo
+SOURCE BOOK: achille marozzo__first_book_(sword_and_buckler)
+FIELD NAME: Transcription
+TOTAL TEXTOS: 234
+================================================================================
+
+[1] (P5.S0)
+LIVRO PRIMEIRO Embora a disciplina e a Arte Militar sejam amplamente conhecidas e claras para muitos valentes Cavaleiros e nobres combatentes, ainda assim, em muitos dos mais hábeis, por sua falta de habilidade, se revela oculta.
+
+[2] (P5.S1)
+Onde algumas vezes, ao falar ou ao operar com as armas, por ignorância e não por malícia, falham: e vendo alguns desses erros ocorrerem muitas vezes, para querer evitar essas transgressões, mais por piedade e amor do que pela virtude que lhes dedico, que por qualquer glória que me impeça e incite, eu me movi amorosamente, despertando meu engenho e minha arte, para advertir esses tais audaciosos combatentes a fim de que justificada e corretamente tomem as armas.
+
+[3] (P5.S2)
+Porque já vi homens valentes e corajosos serem superados por aqueles menos poderosos do que eles, e isso não é outra coisa senão o resultado do erro que, por sua vez, estava situado.
+
+[4] (P5.S3)
+Onde cada um que em batalha singular ou plural esteja para entrar, acima de tudo exorto, antes admonesto, que, como o antiquíssimo Tebano Hércules, busque ter do seu lado a justiça, a qual, ainda que fosse o mais feroz do universo, nunca quis combater contra a razão.
+
+[5] (P5.S4)
+E aquele que operasse ao contrário, embora fosse valente de pessoa e estivesse excelentemente instruído nas armas, pode quase ter certeza de perda ou de vergonha, porque o Sumo Deus, que é a mais clara Verdade, permite, por sua imensa justiça, que aquilo que foi violado não permaneça.
+
+[6] (P5.S5)
+E acima de tudo, notifico a cada um que, ao chegar a uma diferença, no falar seja muito cauteloso, porque embora a justiça tenha seu lado, ainda assim, ao raciocinar mal, pode em alguma palavra transgredir, sobre a qual seu adversário igualmente pode fundamentar-se; e o primeiro que a justiça tinha a seu favor, acaba por se privar dela, e em erro a converte. E então, com as armas em mãos, lutando, porque perdeu a justiça por sua própria falha, ainda que armado, perde vergonhosamente a guerra, e para ele e para os presentes (não conhecendo a verdade) parece que a justiça é superada pela força, e estão fora da verdade, por não entenderem bem a queixa.
+
+[7] (P5.S6)
+Onde, como já disse, se chega a ter a sua justiça, por não falar corretamente, a converter em erro.
+
+[8] (P5.S7)
+Onde cada um que se encontra neste caso, eu fraternalmente exorto que a língua se contenha, para que em algum desvio de discurso não transborde, nem venha a macular a sua justiça.
+
+[9] (P5.S8)
+E porque cada um é bom compositor de palavras, assim como sua diferença, com algum prudente e moderado, de sua língua não suspire, por conselho do qual sua diferença fundadamente escreva e ao seu adversário, gentilmente escrevendo, sempre dele (além de sua diferença) magnificamente fale e graciosamente o exalte, e valente o chame, e assim toda a vergonha prostra e todo o desprezo virilmente fuja.
+
+[10] (P5.S9)
+Mas se o triste e covarde o nomeasse, além de falar como um vilão, a si mesmo se rebaixaria, pois para um homem valoroso e viril, combatente, é pouco de glória, antes é grande vergonha repelir-se a lutar com um infame e ignóbil, e o chamado a atacar não se pode; mas se o covarde o chamasse, ou se com outra palavra injuriosa, fora de propósito, o ofendesse, sobre aquilo que o chamou, ou o requisitou, poderia se voltar e combater.
+
+[11] (P5.S10)
+E assim o chamante, ou requisitante, mudaria sua justiça em erro.
+
+[12] (P5.S11)
+E, portanto, fale discretamente, e assim sua razão, de maneira magnânima e com reputação, será sustentada com louvor e boa fama, e será considerado e reputado como sábio e de bem.
+
+[13] (P5.S12)
+Além disso, todo leitor deve ser advertido de que, nesta presente obra ou volume, com Sebastião, a quem estimo como um querido filhinho, continuamente eu falo, a quem toda esta minha arte e toda outra maneira ou sorte de jogo de armas, aprendidas por mim e, em sua maior parte, compostas e feitas novamente, eu tenho na memória e na prática impressas e diariamente imprimo.
+
+[14] (P5.S13)
+E, portanto, à glória do onipotente e clementíssimo Deus e do beato advogado nosso Santo Jorge, daremos início à nossa obra duradoura, não diminuindo em parte alguma a honra de qualquer outro excelente Mestre desta arte bélica, mas salvando-a em todo lugar e modo, aos beneplácitos dos quais me ofereço e fraternalmente recomendo.
+
+[15] (P6.S0)
+Capítulo primeiro.
+
+[16] (P6.S1)
+Do modo que tu deves segurar, querendo ensinar a outros, isto é, no princípio, quando lhes colocares as armas na mão.
+
+[17] (P6.S2)
+À louvor e glória do Deus onipotente e de sua mãe, a Senhora Santa Maria, e de Messer São Sebastião e de M. Santo Roque e do Cavaleiro Messer Santo Jorge, e de todos os outros santos e santas de Deus, neste livro comporei mais e mais coisas da arte da esgrima, para que tu possas recordar de memória tudo aquilo que de mim aprendeste: e isso faço para que, se por algum tempo não exercitares tal ofício, possas te lembrar dele.
+
+[18] (P6.S3)
+E avisando-te que o que será aqui escrito neste livro poucos entenderão, salvo tu e aqueles que tenham aprendido bem de mim e também com grande esforço o poderão entender, visto que eles não têm exercitado tanto quanto tu; no entanto, eu te aviso que em algumas ocasiões tu deves lê-lo e depois praticar com a espada na mão, para que com pouco esforço isso possa voltar à tua memória, especialmente a prática do jogo e do ensino. Embora eu te encoraje a não fazer tal ofício, ou seja, tal arte, porque é de grande perigo, mas o que te digo, se a fortuna te levar a fazer tal arte, eu quero que saibas o que deves fazer; e por isso eu te comporei o modo e o caminho que deves seguir para ensinar aos teus alunos: então, em nome de Deus, antes que lhes coloques a espada na mão, tu lhes dirás o que desejas ensinar-lhes sobre aquelas armas que a eles agradarão, e como tu estiveres de acordo, então, em nome de Deus e da Mãe e do Cavaleiro Senhor São Jorge, tu lhes colocarás a espada na mão, e sobre a qual tu lhes darás a entender o que é fio reto e o que é fio falso da dita espada. E feito este tal ensinamento, tu o colocarás em frente do dito sinal, o qual será marcado, ao qual sinal estarão em seus lugares as letras que demonstram todos os golpes principais que se fazem com a espada, tanto com duas mãos como com uma, isto é, reto redondo, reto cortante, reto descomposto, reto duplo e falso reto e também ascendente, e saiba que do lado direito começam todos esses golpes e da esquerda estarão as letras que demonstram reverso redondo, reverso descomposto, reverso cortante, reverso duplo e falso esquerdo, e falso reto e falso reverso; assim, neste princípio tu lhes darás a entender o que é reto e reverso, fazendo-os diariamente atacar contra o dito sinal, o qual eu te desenharei neste livro, para que não te esqueças dele, mas cuida bem que tal sinal seja próprio como o alfabeto: tu sabes bem que quando alguém vai à escola para ler, é necessário que ele aprenda primeiro o dito alfabeto, porque dele saem todas as letras, e assim faz o dito sinal, dele saem todos os golpes.
+
+[19] (P6.S4)
+Porém, tu os farás primeiro realizar todos aqueles golpes para frente e para trás, a fim de que ele possa praticar no desferir das investidas, e fazê-los executar longas e estendidas com seus braços, até que eles saibam te dizer todos os nomes desses golpes, e quando te parecer que eles saberão realizar os ditos golpes e seus nomes, então tu iniciarás o jogo que eles desejarão aprender.
+
+[20] (P6.S5)
+Saiba que quando você lhes der tal princípio, ou meio ou fim, faça com que os leve à câmara, onde não haja ninguém, salvo se não forem também eles daquela mesma lição, então você não se cuidará deles, porque aprendem melhor um com o outro, e não devem se envergonhar: pois há alguns, principalmente a maior parte, que no princípio se envergonham de aprender publicamente e, de fato, têm razão, porque naturalmente, no início, todos temem, e ainda aprendendo publicamente não têm coragem em relação àquele que os ensina, visto que sempre têm medo de não serem zombados por alguns que estão a ver, e por isso tal respeito você os ensinará secretamente; e ainda te digo que quando você os tiver ensinado aquelas técnicas que lhe parecerem, isto é, ir ao jogo, e a partida, e voltar para trás, quero que você os faça praticar as coisas que você lhes ensinou, quatro ou cinco dias com você, e depois que ele souber fazer bem os golpes e as paradas que você lhe terá ensinado, quero que você comece a examiná-lo de guarda em guarda, principalmente na porta de ferro larga, ou porta de ferro estreita, ou alta, e em guarda longa e alta, e em guarda longa e estreita, e também em cinghiara porta de ferro e em guarda alta, e em guarda longa e estendida, e faça, quando fizer tal exame, que não haja ninguém, salvo se não for algum aluno dos seus antigos, porque destes não quero que você se cuide.
+
+[21] (P7.S0)
+Capítulo segundo.
+
+[22] (P7.S1)
+Dos aparatos e dos ferimentos.
+
+[23] (P7.S2)
+E ainda te digo que nunca o ferirás sem a sua defesa e assim defendido sem o seu ferir, e se assim fizeres, não poderás falhar.
+
+[24] (P8.S0)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[25] (P8.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[26] (P8.S2)
+Da prática que o Mestre deve fazer com os alunos.
+
+[27] (P8.S3)
+E ainda te digo que quando tu tiveres feito a dita examinação e dado a entender o pró e o contra do que tu lhes ensinaste, quero que tu o faças praticar com eles por vários dias, e ainda assim emendá-los onde eles falharem e dar-lhes boas corteladas e fortes, para que se tornem bons paradores e fortes de braços: depois, quando tu tiveres isso, e te parecer que eles estão prontos para entrar em jogo, então tu escolherás um dos teus antigos alunos que seja bom jogador e agradável, e ele jogará com ele, e tu dirás ao dito aluno antigo que não lhes cause descontentamento algum até quatro ou seis vezes, e então, colocando o dito aluno em jogo, eles devem fazer uma colação a todos os alunos novos, e aquele que jogará com eles; e isso se faz para criar fraternidade entre um aluno e outro.
+
+[28] (P9.S0)
+Capítulo.
+
+[29] (P9.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[30] (P9.S2)
+Da proibição de jogar dos alunos novos.
+
+[31] (P9.S3)
+Ainda te digo que nunca deixes jogar nenhum dos ditos novos alunos se não estiveres presente por vários dias, e faze isso porque, ao falharem, poderás corrigi-los e fazê-los entender como devem se comportar, jogando, com outros que não sejam com o mestre, pois ao jogarem com outros poderiam adquirir algum mau costume, e terias depois mais trabalho para corrigi-los.
+
+[32] (P9.S4)
+Portanto, não te esqueças que há diferença entre praticar com os alunos e com o Mestre que lhes ensinou, e essa prática durará muitos e muitos dias antes que eles tenham adquirido boa prática, embora Deus queira que tenham muita Teoria, por isso eu te faço este aviso.
+
+[33] (P9.S5)
+Na referida exibição de valor, você lhes mostrará que, ao jogarem ou lutarem com facas, não podem desferir golpe algum sem que estejam, ainda assim, em guarda, como mais adiante te direi sobre isso, e esclarecer-te-ei sobre tudo, a favor e contra, do que se poderá fazer.
+
+[34] (P10.S0)
+Capítulo.
+
+[35] (P10.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[36] (P10.S2)
+Da advertência do caminhar.
+
+[37] (P10.S3)
+Ainda te digo que, ao ensinar aos teus alunos, principalmente sobre armas de fio, ou seja, targa e rotella, e broquiere largo, e espada só, e espada e capa, espada e punhal, e de duas espadas, e de muitas outras sortes de armas que tu sabes, faz com que sempre os ensines a passear de guarda em guarda, assim para frente como para trás e de lado, e em toda maneira que seja possível, e a acompanharem a mão com o pé, e o pé com a mão, de outra forma não farás coisa boa; assim, portanto, se tu te esquecesses da ordem do dito passear, eu te a desenharei aqui, como tu poderás ver claramente, mas te recordo bem que, ao ensinar o passear sobre tal sinal, tu o ensinarás em lugar onde não haja gente que a ti não agrade, principalmente se forem alunos de outras escolas; e isso faço para que não te seja usurpado o teu fundamento, ainda que o teu ensinar.
+
+[38] (P11.S0)
+Capítulo.
+
+[39] (P11.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[40] (P11.S2)
+Do juramento que deve fazer o Mestre aos alunos.
+
+[41] (P11.S3)
+Ainda te digo que quando tu os quiseres começar, dirás a eles deste modo: «Fazei-o aqui, filhos e irmãos meus: eu quero que vós jureis sobre esta lâmina de espada, a qual é a cruz de Deus, antes de não vir nunca contra o vosso Mestre e também de não ensinar nunca a pessoa alguma aquilo que de mim vós aprendestes sem a minha licença».
+
+[42] (P11.S4)
+Então, feito isso, tu os começarás.
+
+[43] (P12.S0)
+Capítulo.
+
+[44] (P12.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[45] (P12.S2)
+Porque se faz o juramento aos alunos.
+
+[46] (P12.S3)
+E saiba que tal juramento se faz somente porque é certo, como sabem manejar a espada em mãos, vão mostrando a outros, e então, ouvindo alguns de seus alunos que andam mostrando aquilo que você lhes ensinou, faça com que a esses você nunca ensine coisa verdadeira, e desse modo se virão sendo castigados, acreditando que sabem muito, visto que se tornaram mestres; assim, sendo mestres, eles nunca poderão se queixar de você, porque quando eles disserem que você deveria ensiná-los, então você responderá dizendo a eles: «Eu me envergonharia de ensinar a um que seja mestre, visto que a outros você vai ensinando: você não tem vergonha de aprender com outrem?
+
+[47] (P12.S4)
+"O que poderiam dizer os teus alunos?"
+
+[48] (P12.S5)
+Assim, a estes tais, tal resposta.
+
+[49] (P13.S0)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[50] (P13.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[51] (P13.S2)
+Da proibição de confrontar um aluno com o outro.
+
+[52] (P13.S3)
+Ainda para a utilidade de ti e de teus alunos, nunca os deixes lutar juntos onde haja alguém que te agrade, pois não é útil de maneira alguma; mas quando eles tiverem vontade de fazer alguma presa, ou golpe de meia espada, então dize-lhes que devem experimentar tais presas, ou golpes, jogando, para que por prática eles as aprendam, lembrando a cada um que, ao lutar de maneira calma, todas as presas ou golpes sejam feitos; mas se um estiver de um lado da escola e o outro do outro, jogando juntos virão às presas, ou golpes, aprendendo, de modo que não te esqueças de dar a teus alunos tal ensinamento, pois quero que saibas que é uma bela arte saber ensinar bem aos outros mais do que saber jogar bem para si mesmo: mas aquele que sabe ensinar bem é bom para muitas pessoas, mas saiba que quando alguém sabe fazer um e o outro é uma dupla virtude e são duas artes.
+
+[53] (P14.S0)
+Capítulo.
+
+[54] (P14.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[55] (P14.S2)
+Da definição dos ensinamentos.
+
+[56] (P14.S3)
+Agora note que no presente não te darei mais ensinamentos, porque estou forçado a dar início a muitos jogos de armas, diferenciados um do outro, e serão armas diferenciadas de muitas sortes, como neste você poderá ver; primeiro daremos início à arte do branquinho pequeno e depois discorreremos de mão em mão com a graça de Deus, e de sua mãe Madonna Santa Maria, que sempre sejam louvados.
+
+[57] (P15.S0)
+Capítulo.
+
+[58] (P15.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[59] (P15.S2)
+Do primeiro ataque de jogo largo de Espada e Broque.
+
+[60] (P15.S3)
+Agora aqui começaremos o primeiro ataque de espada e broquel apertado, que será muito bonito e útil para lutar e para ensinar.
+
+[61] (P15.S4)
+Assim, nota: primeiro é necessário que você vá para o jogo para encontrar o companheiro, mas eu quero que você se coloque em um canto da sala com o seu broqueiro sob a sua lasina esquerda, isto é, sobre o galão, seu pé direito próximo do esquerdo esticado, polido e com a espada em posição longa e larga, com o seu braço estendido e a pessoa ereta e elegante, tanto quanto for possível.
+
+[62] (P15.S5)
+Aqui quero que você coloque seu pé direito à frente, e com esse movimento quero que você coloque o falso da espada na copa do broqueiro e, ao fazer isso, você girará a dita copa em direção ao seu rosto; e, a partir daí, você dará um grande passo à frente com seu pé esquerdo, e nesse movimento você fará um toque no broqueiro, e colocará a espada em guarda alta com os braços bem estendidos; e, a partir daí, você girará a ponta da espada em direção ao chão, isto é, com o falso voltado para o seu broqueiro e, então, você baterá com o dedo falso no broqueiro, isto é, você puxará para cima com sua mão direita, e ao fazer isso você fará um molinelo, com seu pé direito dando um grande passo à frente do esquerdo, para cima e, de fato, você fará outro, com o pé esquerdo à frente, o qual irá sobre o braço do broqueiro, e ali tocará o broqueiro com o pomo da espada de lado, dentro da pena; e, a partir daí, você empurrará o punho da espada à frente do seu broqueiro, também voltado com a ponta para o chão, e ao fazer essa rotação você também puxará com um falso no broqueiro para cima; e ao puxar você colocará o pé direito à frente e assim subirá com um movimento ascendente, puxando de fato o pé direito próximo do esquerdo e sua espada irá para a guarda alta, com seu broqueiro estendido.
+
+[63] (P15.S6)
+E então tu cortarás um golpe descendente na pena do brochiere com o pé direito para trás, e de fato tu puxarás o lado esquerdo ao lado do direito e a tua espada estará em posição longa e estendida, e então tu darás um passo grande à frente com o pé direito, e ao fazer isso tu farás um retoque de brochiere e a tua espada irá em guarda alta, puxando também de novo ao insuso de um falso na copa do brochiere; e ao puxar, tu darás um grande passo com o pé direito à frente do esquerdo, e assim subirás com um golpe ascendente no brochiere, puxando imediatamente o pé direito atrás do esquerdo, e a tua espada irá em guarda alta com os teus braços bem estendidos, e o teu galon esquerdo guardará mais em direção ao inimigo do que o outro, o teu pé direito bem estendido e puxado com elegância; estando tu próximo do teu inimigo, é necessário que tu sejas agente ou paciente; mas suponhamos que tu sejas agente, ou seja, o iniciador do ataque: eu quero que, estando tu em guarda alta, tu avanças com o pé direito à frente e que tu desferes um golpe direto desleixado que vá sobre o braço, com o brochiere bem estendido pelo lado direito do inimigo, puxando imediatamente o dito pé direito atrás do esquerdo, e se nesse momento o teu inimigo te atacar com um golpe na cabeça, ou na perna um golpe direto, ou reverso, ou ponta, ou tramazon, eu quero que nesse tempo tu dês um grande passo com o pé direito à frente, e que tu desferes um golpe reverso desleixado na pena do teu brochiere, e a tua espada cairá em posição longa e estreita; e se o teu inimigo te atacar pela cabeça, eu quero que tu desfaças uma ponta sob o teu brochiere que vá na face do teu inimigo, com dois tramazoni acompanhados com a dita ponta firme, e a tua espada cairá em posição de porta de ferro estreita; e se então, estando em porta de ferro estreita, o teu inimigo te atacar pela cabeça, eu quero que tu acompanhes a espada e o teu brochiere juntos em guarda alta, e ali tu pararás o seu golpe e assim que tu tiveres parado tal golpe, eu quero que tu desferes um golpe direto redondo nas pernas, puxando imediatamente o pé direito atrás do esquerdo, avançando também com o dito pé direito à frente, e desferindo um golpe reverso desleixado subindo imediatamente com um golpe ascendente no brochiere, e a tua espada irá em guarda alta puxando o pé direito atrás do esquerdo, arrumado, polido, com os teus braços bem estendidos; e de lá eu quero que tu embelezes o jogo, ou seja, eu quero que tu dês um grande passo com o pé direito para trás do esquerdo e que tu cortes um golpe descendente na pena do brochiere puxando, ao fazer tal corte, o pé esquerdo atrás do direito, e imediatamente tu retornarás o dito esquerdo à frente e assim farás um retoque do brochiere e feito o dito retoque, eu quero que tu faças uma meia volta de punho, ou seja, tu girarás a ponta da tua espada em direção ao chão, e de lá tu tocarás a copa do brochiere com o falso da espada ao insuso e ao tocar assim tu darás um grande passo com o pé direito à frente do esquerdo, e assim subirás com um golpe ascendente pelo brochiere, puxando, feito isso, o dito pé direito atrás do esquerdo e a tua espada irá em guarda alta, e com o brochiere bem estendido o quanto for possível.
+
+[64] (P16.S0)
+Segunda parte.
+
+[65] (P16.S1)
+Estando em guarda alta, quero que de lá você dê um grande passo com o pé direito à frente e que você desferre um golpe reto sobre o braço, puxando imediatamente o pé direito para perto do esquerdo; e de lá quero que você passe com o pé esquerdo em direção ao lado direito do inimigo, e ao passar assim, você lhe dará um golpe reverso na têmpora direita, e sua espada não passará pela guarda de cabeça, ao mesmo tempo em que você empurrará seu pé direito em direção às suas partes fracas e lhe dará um golpe descendente com um golpe de cima na cabeça, e seu pé esquerdo seguirá o direito por trás, e sua espada não passará pela porta de ferro alta; e se seu inimigo lhe atacar pela cabeça como deve fazer, quero que você feche a espada junto com seu broqueiro à frente, ou seja, em guarda de cabeça com os braços bem estendidos, e ali você defenderá o golpe do seu inimigo, dando-lhe imediatamente um golpe reto redondo nas pernas que vá por baixo do braço, puxando ao mesmo tempo um golpe reverso descompassado; e após ter dado o dito golpe reverso, você subirá com um golpe ascendente, e ao subir, você puxará o pé direito para perto do esquerdo; então, para embelezar o jogo, você dará um grande passo com o pé direito para trás do esquerdo e assim cortará um golpe descendente na pena do broqueiro com os braços bem estendidos, e ao mesmo tempo você puxará o pé esquerdo para perto do direito, e imediatamente você empurrará o pé esquerdo à frente e, ao fazer isso, você lhe dará um toque de broqueiro, ou seja, com o pomo da espada sobre o broqueiro, e sua espada irá para a guarda de cabeça com os braços bem estendidos à frente; e então você girará a ponta da dita espada em direção ao chão, e de lá tocará com o falso da espada fora do broqueiro para cima, passando ao tocar com seu pé direito um grande passo à frente do esquerdo, e ao passar assim, você subirá com um golpe ascendente na pena do broqueiro para cima, e sua espada irá para a guarda alta e com o pé direito puxado para perto do esquerdo, e o braço do broqueiro bem estendido para o direito e o pulso da mão olhará para cima, e o braço da espada bem polido, e estendido em guarda alta, ou seja, o pomo da espada olhará em direção ao rosto do inimigo, com seu pé direito puxado.
+
+[66] (P17.S0)
+Terceira parte.
+
+[67] (P17.S1)
+Estando em guarda alta, de lá quero que você tire um tramazon a zinghiara porta de ferro, ou seja, com seu pé esquerdo à frente, um pouco de lado, em direção às partes direitas do inimigo, e ali você aguardará o dito inimigo que desferirá um mandritto, ou um roverso, ou ponta ou tramazon pela cabeça ou pela perna, atirando ele onde quiser: a cada uma dessas investidas quero que você coloque seu pé direito à frente com um grande passo do esquerdo, e ao fazer isso você parará a investida do inimigo com o falso da sua espada, e assim lhe dará um roverso ou um mandritto nas pernas; e se você atirar falso e roverso, sua espada irá em cauda longa e estreita, e se você fizer falso e direito, sua espada irá a porta de ferro larga; e se então seu inimigo lhe atirar pela cabeça um mandritto redondo ou fendente ou tramazon, eu quero, estando você em cada uma dessas guardas, que você pare em fio de espada direito, acompanhando o punho da espada com o punho do seu brochiero polido, e a ponta da sua espada guardará pela face do seu inimigo, e você parará a investida no fio direito, e estando preparado para o tramazon ou mandritto, você lhe desferirá um roverso pela sua têmpora direita, ou um golpe nas pernas, firme com seu pé direito; mas suponhamos que ele lhe atire novamente pela cabeça: eu quero que ao tal golpe você acompanhe a espada com seu brochiero, juntos em guarda de cabeça, com seus braços bem estendidos, e ali você parará mais uma vez a investida do inimigo, e estando preparado para a dita investida, você lhe desferirá um mandritto redondo pelas pernas que irá em guarda de sob braço, e não parando, você atirará um roverso descompassado, levantando logo um montante de baixo para cima pela pena do seu brochiero, puxando o pé direito próximo do esquerdo, e sua espada estará em guarda alta; e de lá você embelezará o jogo, ou seja, você dará um grande passo com o pé direito atrás do esquerdo, e ao fazer isso você cortará com um fendente na pena do seu brochiero, e sua espada irá em cauda longa e estendida, puxando nesse tempo o pé esquerdo próximo do direito, crescendo logo do dito esquerdo, e fará um rettocho de brochiero e sua espada irá em guarda de cabeça com seus braços bem estendidos e polidos, e feito que você tiver o dito rettocho, você voltará a ponta da sua espada para baixo, e assim baterá com o falso da espada de fora na cúpula do brochiero de baixo para cima e montará com um montante com seu pé direito à frente do esquerdo, puxando rapidamente o pé direito próximo do esquerdo, e sua espada irá em guarda alta com seus braços e pernas bem polidos e ajustados.
+
+[68] (P18.S0)
+Quarta parte do primeiro ataque.
+
+[69] (P18.S1)
+Estando em guarda alta, se o teu inimigo estiver como tu, quero que dês um grande passo à frente com o teu pé direito, e ao passar, tu desferirás um golpe reto que irá em guarda sobre o braço, puxando imediatamente o dito pé direito para junto do esquerdo, fazendo um bom brochiero; e se, nesse momento em que estás sobre o braço, o teu inimigo estiver embaixo, ou acima, ou em guarda alta, quero que tu avances com o teu pé direito e que empurres uma ponta para o rosto do inimigo, para fora do seu lado direito, e ele, por medo da ponta mencionada, a bloqueará com o falso da espada para fora, e descobrirá as partes esquerdas, e então tu desferirás um golpe reto em falso para a sua têmpora esquerda, e se ele quisesse cobrir a parte acima citada, tu lhe darás um golpe reverso na sua coxa direita, sem mover nem pés nem pernas; e rapidamente, para tua defesa, tu voltarás com um falso transversal ao seu braço direito, fazendo nesse tempo uma meia volta de punho e assim cortarás com um golpe descendente na pena do brochiero, enquanto recuas um grande passo para trás com o pé esquerdo, e a tua espada irá em guarda longa estendida, puxando o pé esquerdo para junto do direito; e de lá tu embelezarás o jogo, ou seja, lançando o teu pé esquerdo à frente do direito, fazendo nesse movimento um retoque do brochiero e assim irás com a tua espada em guarda de cabeça com os teus braços bem estendidos e polidos, e de lá farás uma meia volta de punho, ou seja, virando a ponta da tua espada em direção ao chão, batendo ao mesmo tempo com o falso da dita espada na cúpula do brochiero, passando à frente do teu pé direito e assim subirás nesse movimento com um golpe ascendente na pena do brochiero, bem polido, e a tua espada irá em guarda de cabeça, puxando a perna direita para junto da esquerda e os teus braços e pernas bem estendidos e polidos, e o galão do teu lado esquerdo voltado em direção ao inimigo e a mão do teu brochiero voltada com o pulso para cima; estando em guarda de cabeça e o teu inimigo em guarda alta, quero que dês um grande passo à frente com o pé direito e que desferes um golpe reto sob o braço, puxando de fato o dito pé para ti, e se o teu inimigo te agarrar pela cabeça ou pela perna, quero que nesse puxar tu lancem o pé esquerdo um pouco para o lado, em direção à parte direita do inimigo, e que tu lhe des um golpe reverso que pega da cabeça, e assim pelas suas braços até os pés do seu lado direito, e a tua espada irá em guarda longa e alta; e se então o dito teu inimigo te agarrar pela cabeça ou pelas pernas, quero que tu dês um grande passo à frente com o pé direito para fora do esquerdo, e nesse movimento tu colocarás a espada com o teu brochiero apertados juntos e ali pararás o golpe do mencionado, e estando preparado que tu terás, darás um golpe reto nas pernas, e imediatamente recolherás o pé direito para junto do esquerdo, e ao mesmo tempo avançando com o dito direito, assim desferirás um golpe reverso desleixado, subindo com um golpe ascendente, e a tua espada irá em guarda alta, com o teu pé direito puxando para junto do esquerdo; e de lá tu embelezarás o jogo de modo habitual, ou seja, com subir, cortar e tocar com o brochiero, e quando tiveres cortado e tocado com o brochiero, e subido, a tua espada irá em guarda de cabeça com os teus braços bem estendidos e polidos.
+
+[70] (P19.S0)
+Quinta parte do acima mencionado.
+
+[71] (P19.S1)
+Estando em guarda alta, e se o teu inimigo estiver em guarda alta, ou em guarda de cabeça, ou em porta de ferro alta, quero que imediatamente cortes um golpe largo em porta de ferro. E se o teu inimigo te atacar com um golpe descendente ou um golpe reverso ou um golpe largo, ou se ele te empurrar uma ponta na face, quero que nesse momento strikes a sua investida com o falso da tua espada, e que tu o cortes com um fio reto atravessando sua face, enquanto o teu pé esquerdo passa em direção ao seu lado direito; ao mesmo tempo, tu desferirás dois golpes largos, avançando com o teu pé direito em direção ao inimigo, e a tua espada descerá em guarda de ferro estreita; se o teu inimigo então te responder com um golpe na cabeça, quero que tu unifiques a tua espada com o broque e a mantenhas em guarda alta, e que pares o seu golpe reto, passando e desenrolando um golpe redondo em direção às suas pernas, que irá para a guarda de baixo do braço, e assim recolherás neste movimento o teu pé direito junto ao esquerdo ao mesmo tempo, desferindo um golpe reverso desordenado que atingirá da cabeça até os braços, alegremente, até os pés do seu lado direito, subindo de montante ao mesmo tempo, e o teu pé direito tu o puxarás junto ao esquerdo e a tua espada irá para guarda alta; e então, embelezando o jogo da maneira habitual, ou seja, cortando e tocando com o broque e subindo de montante, a tua espada estará em guarda alta, e o teu pé direito puxado junto ao esquerdo de forma elegante e polida, com os teus braços bem estendidos, e a pessoa voltada para a direita.
+
+[72] (P20.S0)
+Sexta parte.
+
+[73] (P20.S1)
+Estando em guarda de cabeça, imediatamente quero que você abaixe sua espada a porta de ferro alta, e se seu inimigo estiver nesta mesma guarda, ou onde quer que esteja, desde que ele esteja com o pé direito à frente, então você o empurrará com uma ponta por fora de sua espada, passando com o pé esquerdo pelo seu lado direito para a face, e ele, por medo da dita ponta, descobrirá a parte fraca, e você então puxará sua espada, na linha reta, contra a dele, colocando seu broqueiro no punho da espada dele, ao mesmo tempo em que avança com seu pé direito forte em direção à parte fraca do inimigo, desferindo outra ponta em sua têmpora direita, ou preferindo pelos flancos, e seu pé esquerdo seguirá o direito por detrás, e ao seguir assim você o atingirá com dois golpes na cabeça, e sua espada descerá a porta de ferro estreita; e se nesse momento seu inimigo o atacar pela cabeça, então você lhe empurrará uma ponta pela face, com a mão da espada coberta sob seu broqueiro, e o parará em linha reta, ou seja, em guarda de face, e assim lhe desferirá um golpe reverso na coxa, sem mover nem pé nem pernas, e sua espada descerá em cauda longa e estreita; e se novamente ele o atacar pelas partes acima mencionadas, então você fechará sua espada com seu broqueiro, e parará seu golpe, atacando-o de fato com um golpe direto e redondo nas pernas, que irá rapidamente sob o braço, sem parar nada, e depois golpeie alegremente com um reverso descontrolado, que pegará da cabeça até a ponta dos pés, subindo de fato com um golpe ascendente, e sua espada irá para a guarda alta; e daqui é necessário que você embelezasse o jogo, ou seja, cortando e bloqueando com o broqueiro e subindo, e quando você subir, sua espada não passará da guarda de cabeça, e seus braços estarão muito bem estendidos e polidos.
+
+[74] (P21.S0)
+Sétima parte e última do primeiro ataque.
+
+[75] (P21.S1)
+E de aqui tu voltarás para trás do jogo, dando um grande passo com o pé direito para trás do esquerdo, e assim desferirás um golpe de mandritto sob o braço, imediatamente seguido de um redoppio roverso de baixo para cima e então subirás com um montante, fugindo com o pé esquerdo forte de trás; novamente tu desferirás sob o braço um golpe de mandritto, fugindo com o pé direito de trás do esquerdo, e ao mesmo tempo puxando com o dito direito, prendendo o braço do brochiero dentro do braço da espada direita, de modo que a tua espada ficará fora do braço esquerdo, e dali tu farás dois molinelli, avançando para frente com o pé esquerdo, e o último irá para cima, batendo sobre a tua espada direita, ou seja, voltando as costas para aquele com quem tu jogas, puxando o pé direito atrás do esquerdo e então dando um grande passo com o dito pé direito, fazendo neste movimento três molinelli, um para fora a lo in gioso e dois para dentro a l’insuso, e o último irá sobre o braço esquerdo, batendo o pomo da espada na pena do brochiero dentro, puxando a perna esquerda atrás da direita bem polida e ajustada quanto for possível, e dali tu terás voltado do jogo para trás, e terminado o primeiro assalto.
+
+[76] (P22.S0)
+Capítulo.
+
+[77] (P22.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[78] (P22.S2)
+Do segundo ataque do jogo largo e estreito juntos de espada e broquel pequeno.
+
+[79] (P22.S3)
+Agora aqui começaremos o segundo ataque também do dito broqueiro estreito, o qual quero que vá forte à meia espada, nas estreitas, e não colocando outra coisa em jogo no presente, porque seria de muito volume descrevê-lo sempre; portanto, tu irás a jogo com um daqueles que tu aprendeste de mim, de modo que nota, em primeiro lugar, tu estarás em guarda alta, bem polido e galante.
+
+[80] (P23.S0)
+Segunda parte.
+
+[81] (P23.S1)
+Sendo assim como dito acima, se o teu inimigo estiver em guarda sobre os braços ou na mesma guarda, então tu lhe desferirás um golpe vertical na cabeça, o qual não passará pela guarda de face; de fato, desferindo-lhe um golpe redobrado de baixo para cima, o qual atingirá fortemente a espada do inimigo, de modo que, por medo do redobrado mencionado, ele descobrirá a parte superior do seu lado direito: então, desferirás dois golpes com um golpe vertical acompanhado, e a tua espada cairá em porta de ferro estreita; e se o teu inimigo então te atacar pela cabeça, tu lhe cravarás uma ponta na face, acompanhada na pena do broquel pelo lado direito, e ali desviarás o golpe dele sobre o fio reto da tua espada, isto é, na guarda de face, avançando com o teu pé esquerdo em direção às suas partes direitas, e assim lhe darás um golpe de lado na sua têmpora, e a tua perna direita seguirá a esquerda por detrás, e a tua espada cairá em cauda longa e alta; e se então o teu inimigo te atacar pela cabeça ou pela perna, imediatamente tu lançarás o pé esquerdo em direção às tuas partes direitas, e ao fazer isso, colocarás o falso da tua espada sob a dele, avançando nesse momento com o teu pé direito forte em direção às partes esquerdas do supracitado, puxando nesse avanço um golpe reto, o qual irá sob o braço, e a perna esquerda seguindo a direita por detrás, desferindo nesse momento um golpe de lado, subindo do montante que o segue por trás, puxando a perna direita junto à esquerda, e a tua espada irá para a guarda alta, adaptando o jogo então ao modo usado, isto é, cortando e golpeando e subindo de montante, passeando e desferindo os teus golpes no local habitual, de modo que a tua espada retornará à guarda alta, com os teus braços e pernas bem ajustados.
+
+[82] (P24.S0)
+Terceira parte.
+
+[83] (P24.S1)
+Sendo tu armado na dita guarda alta, e o teu inimigo estivesse onde quisesse, eu quero que tu avances com o teu pé direito, e que o cortes com um golpe na pena do broqueiro, o qual cairá na porta de ferro estreita; não te detendo com o golpe dito, que tu lhe tragas um tramazone sobre a espada do inimigo, de fato empurrando uma ponta para a face ao supracitado, acompanhada com o broqueiro, com a tua perna esquerda passando, e empurrando dita ponta em direção à parte direita do inimigo: então ele, por medo da dita ponta, descobrirá a parte esquerda e tu lhe darás um golpe na cabeça, passando com o teu pé direito nesse momento pela direita do inimigo, fugindo e tragando de um roverso com o pé direito ao esquerdo por detrás, de modo que tu estarás com a tua espada em guarda de cauda longa e alta; e se nesse momento o teu inimigo te atacar com um tramazone, ou mandritto, então quero que tu passes à frente e ao passar tu lhe cravarás uma ponta para a face do inimigo, acompanhada com o teu broqueiro, que estará em guarda de face, e nesse parato tu lhe darás um roverso por perna e cortando de um golpe para trás pela pena do broqueiro com o pé direito empurrando o esquerdo por detrás; então, habilitando o jogo, ou seja, com o choque do broqueiro e subindo como de costume, assim tu voltarás novamente à guarda alta como antes, bem ajustado com os teus braços como outras vezes eu te disse.
+
+[84] (P25.S0)
+Quarta parte.
+
+[85] (P25.S1)
+Agora que você está em guarda alta, como disse acima, quero que você avance com o pé direito e, ao fazer isso, você desferirá um golpe descendente e um falso de baixo para cima, e um golpe reverso ao mesmo tempo na lâmina do seu broqueiro, e sua espada cairá em uma posição longa e estreita; e, nesse momento, se o seu inimigo te atacar pela cabeça ou pela perna, quero que você responda com o falso, golpeando de baixo para cima, com dois golpes na cabeça, e o último cairá em uma porta de ferro estreita; e se, ao desferir esse golpe, ele te responder de alguma forma, quero que você golpeie com um falso e passe rapidamente com o pé esquerdo em direção ao lado direito do inimigo e cortará, ao fazer isso, com um golpe reverso na lâmina do seu broqueiro, que irá forte em direção ao rosto do mencionado, enquanto o pé esquerdo se move para a direita; e é necessário que você embeleze o jogo, ou seja, de maneira semelhante ao que se usa ao manobrar o broqueiro, e suba novamente em guarda alta como você foi ensinado anteriormente, para que isso seja notado para sempre.
+
+[86] (P26.S0)
+Quinta parte.
+
+[87] (P26.S1)
+Agora, estando você em guarda alta, é necessário que você faça uma estocada em ato de montante, ou seja, passando com seu pé esquerdo em direção ao lado direito do inimigo e a dita estocada atingindo fortemente o rosto pelo lado esquerdo do mencionado, e ele, por medo da dita estocada, descobrirá suas partes superiores direitas, e você então lhe dará um golpe de falso por cima, entre a espada e o broquel dele, passando nesse movimento com seu pé direito em direção ao lado esquerdo dele, e a perna esquerda seguirá a direita por trás, e sua espada não passará a guarda de entrar, apertada com sua espada e o broquel, polido; então é necessário que ele te traga para a parte de cima e você, puxando-o, pegará seu golpe na lâmina reta da sua espada e assim lhe dará um golpe reverso empurrado para sua têmpora direita, de modo que sua espada não passará a guarda de cauda longa alta; então você, puxando o pé direito para o esquerdo próximo, assim habilitará o jogo da maneira habitual, ou seja, fechando e montando de montante com seus passos, retornando também à guarda alta como acima você já viu, bem posicionado com seus braços e pernas bem estendidos de maneira habitual e polida.
+
+[88] (P27.S0)
+Sexta parte.
+
+[89] (P27.S1)
+Agora nota e esteja atento, que quando tu quiseres enganar alguém em um jogo, quero que no momento em que ele se preparar para atacar, tu estejas antes dele preparado e imediatamente, assim que ele estiver preparado, tu lhe cortarás pela face na lâmina do teu broque, um golpe descendente, com o teu pé direito à frente passando e a tua espada não passará da guarda de porta de ferro alta; e se o teu inimigo então te atacar de baixo ou de cima, ou de frente, ou com um golpe transversal e também reverso, a cada um desses golpes tu lhe darás de baixo para cima um falso com a espada e o teu broque, acompanhado de um golpe direto na têmpora, e o teu pé, ou seja, o esquerdo, estará passado em direção ao seu lado direito com um golpe transversal que desça na porta de ferro estreita; então, se o teu inimigo te atacar pela cabeça, nesse momento vai te defender com falso e direto e reverso redondo, cortando também outro golpe reverso empurrado na lâmina do broque, lançando nesse tempo o pé direito para o lado esquerdo de trás, puxando o esquerdo próximo do direito; e a partir daí tu embelezarás o jogo da maneira habitual como antes eu te disse, que tu te colocasses em guarda alta bem ajustada, e com as tuas pernas e braços bem estendidos, e galante.
+
+[90] (P28.S0)
+Sétima parte.
+
+[91] (P28.S1)
+Estando tu em guarda alta, é necessário que tu o atires com um golpe redondo sob o braço, para que ele te responda nas partes de cima; mas se ele te responder nas partes mencionadas, seja com qualquer golpe que ele queira, tu colocarás o pé esquerdo em direção às suas partes direitas, e ao fazer isso, tu pegarás a tua espada com a mão do broqueiro em forma de espada em armas e ali parará o golpe do inimigo, e nesse paramento tu lhe empurrarás uma ponta para o rosto com um golpe descendente para a cabeça, entre a espada dele e o broqueiro, e com o pé direito, nesse momento, passando para o direito e a tua espada em posição de ferro alta; então, ao te responder o teu inimigo, tu empurrarás uma ponta para o rosto dele acompanhada com o teu broqueiro, e assim lhe darás um golpe reverso na sua coxa direita e ao mesmo tempo cortarás outro golpe reverso empurrado na pena do teu broqueiro, fugindo o pé direito para o esquerdo de trás, de modo que o dito esquerdo se coloque atrás do direito; agora, a partir daqui, é necessário que tu embelezes o jogo, isto é, em chiocare e em montare de modo habitual, para que te encontres novamente em guarda alta como foi dito acima.
+
+[92] (P29.S0)
+Oitava e última parte do segundo ataque.
+
+[93] (P29.S1)
+Agora, estando também na dita guarda alta, você desferirá dois golpes retos na face, passando ao mesmo tempo com o pé direito à frente, e o último golpe reto não o interromperá em nada, pois você o empurrará com uma ponta para fora da espada dele, por cima do seu lado direito, indo forte em direção à sua têmpora esquerda e, nesse momento, ele, por medo daquela ponta mencionada, se abrirá à sua frente: você atingirá com o punho da sua espada na espada dele e lhe dará um meio golpe reto em falso, e sua espada estará embaixo da dele, com o pé direito passando em direção ao seu lado esquerdo; e ao mesmo tempo você atingirá novamente com o mesmo punho e assim lhe dará um meio golpe reverso, empurrando na sua têmpora direita, passando com o seu pé esquerdo em direção ao seu lado direito, e de fato, para sua defesa, você colocará o pé direito atrás do esquerdo com uma ponta em guarda de face; e daí você embelezará o jogo cortando, subindo e golpeando com broqueira de modo habitual; agora, a partir daqui, você fará uma retirada do jogo para trás, daquelas que você aprendeu comigo, e assim será terminado o segundo assalto.
+
+[94] (P30.S0)
+Desculpe, mas parece que você não forneceu o texto que gostaria que eu traduzisse. Por favor, envie o texto em italiano medieval que você deseja traduzir para o português.
+
+[95] (P30.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[96] (P30.S2)
+Do prólogo do terceiro assalto, o qual trata de pegadas e apertos de meia espada juntos.
+
+[97] (P30.S3)
+Em nome de M. Iesu Cristo, que comporemos o terceiro ataque, o qual demonstrará a arte da meia espada, e isto faço porque tu, que desejas ensinar, saibas que a arte da meia espada é o melhor do jogo; e aqueles que ensinam ou que se consideram bons jogadores e não conhecem a arte acima mencionada não são fundamentados. Portanto, quero que saibas que esta é o fundamento da arte da esgrima, não apenas em pequenos broqueiros, mas em todas as outras sortes de armas, tanto de armas de haste como de fio; assim, eu te exorto a que os homens que têm bom coração se dediquem a estas coisas, pois eles as farão sem respeito algum e serão aqueles que te darão honra. Mas àqueles que te parecerem não ter tanto ânimo, dá-lhes as coisas do primeiro ataque, pois se lhes ofereceste as do segundo e do terceiro, tu as desprezarias, porque a eles não bastaria a coragem para realizá-las, de modo que nota isso para sempre.
+
+[98] (P31.S0)
+Capítulo.
+
+[99] (P31.S1)
+Desculpe, mas parece que você não forneceu o texto que deseja traduzir. Por favor, envie o texto e eu ficarei feliz em ajudar com a tradução.
+
+[100] (P31.S2)
+Que segundo os homens se dão os preparos e os ferimentos.
+
+[101] (P31.S3)
+Ainda quero que, no início do ensino, você não lhes mostre coisas muito difíceis, pois para eles pareceria algo pesado e poderiam desdenhar, e não aprenderiam tão facilmente como o farão, ao lhe dar, no princípio, algo que lhes seja mais apropriado.
+
+[102] (P31.S4)
+Portanto, nota que em outro lugar te abrirei mais o entendimento, pois aqui me convém dar início à primeira parte do terceiro ataque acima mencionado.
+
+[103] (P31.S5)
+Mas antes diremos sobre um ensinamento que ocorre para o ensinar.
+
+[104] (P32.S0)
+Documento a quem quiser ensinar a outros.
+
+[105] (P32.S1)
+Agora note que, se algum dia lhe vier a vontade de ensinar, eu o aconselho a que não deva suportar tal fadiga de ensinar a um aluno todas essas coisas que estão compostas neste terceiro assalto em público, para que outros não as replicassem para si, ou seja, que não vejam o seu fundamento; e ainda por outra razão não o faça, porque quando você ensinasse tal jogo, ou seja, tais pegadas e apertos, você não pode melhorar, pois o jogo largo é diferente do estreito e, assim, seria confusão no início ensinar a um aluno todas as técnicas de meia espada e ainda eles não ficariam satisfeitos, mas sempre acreditariam que você tivesse algo melhor a lhes dar e não reconheceriam o bem que você lhes faria, de modo que deve ensiná-los, no início, outras coisas.
+
+[106] (P32.S2)
+Ou seja, ensine-lhes outras coisas do jogo comum, e depois, quando eles tiverem aprendido o dito jogo comum, então eu quero que tu lhes ensines estas coisas do terceiro assalto e assim tu os satisfarás; e saiba que eu te encorajo a ensinar estas coisas acima mencionadas para que não te esqueças, e mais te digo que algumas vezes deves recorrer a este livro e assim não te esquecerás; e faça como diz aquele breve que está nos Capítulos que diz “Quem paga bem, aprende bem, e quem paga mal, aprende mal”; assim, aos que pagam bem, ensine-lhes bem, porque isso honra a ti: é de consciência um grande pecado de alma para quem paga ao Mestre a sua dívida e não o ensina bem, e assim para os pobres quanto para os ricos, porque tanto vale um ducado para um pobre, como vale dois para um rico, assim que sobre isso não continuarei mais, porque quero começar o dito terceiro assalto.
+
+[107] (P33.S0)
+Primeira parte do terceiro ataque.
+
+[108] (P33.S1)
+Agora nota que é necessário que você vá encontrar seu inimigo com um dos movimentos que lhe parecerá apropriado, e quando você estiver próximo dele, você se colocará na guarda de ferro alta; e se ele estiver como você, ou em guarda alta, ou sobre o braço, então você lhe empurrará uma ponta falsa para fora da sua espada, a qual irá forte em direção à sua têmpora esquerda, com o pé esquerdo empurrando para frente, de modo que com o pé direito você lhe dará um chute no joelho, com um golpe de cima para baixo ao retornar com o pé direito para trás; e para sua defesa, você colocará o pé esquerdo atrás e assim desferirá um golpe reverso na cabeça e nos braços, de modo que sua espada irá em uma longa e estreita trajetória; e se naquele momento seu inimigo lhe responder com um golpe na cabeça ou na perna, defenda-se com um falso cruzado de baixo para cima com o broqueiro, acompanhando e a tempo você lhe cortará um golpe reverso na perna direita e para sua defesa você colocará o pé direito atrás do esquerdo e cortará com um golpe de cima para baixo na pena do broqueiro, puxando com o pé esquerdo em direção ao direito; e a partir daí você embelezará o jogo da maneira habitual, com um grito e subindo com uma ponta em ato de montante que não ultrapasse a dita guarda de ferro alta, como acima lhe disse.
+
+[109] (P34.S0)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[110] (P34.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[111] (P34.S2)
+Do contrário da primeira parte.
+
+[112] (P34.S3)
+Estando tu na dita porta de ferro alta e o teu inimigo te empurrasse a dita ponta, no momento em que ele empurrar, tu farás elza e fugirás, e a tua espada cairá na larga porta de ferro; não te detendo, que tu tragas um roverso em cauda longa e estendida, e deste modo tu terás tirado a sua fantasia e assim lhe farás desagradar, e feito que tu tiveres o dito roverso, tu puxarás a perna manca atrás da direita, habilitando o jogo de modo usado.
+
+[113] (P34.S4)
+Agora nota que quando tu não souberes o que seja elza e fugie, eu te ensinarei aqui para sempre: elza e fugie é quando alguém te desferir um golpe perigoso, estando tu em uma porta de ferro alta ou estreita ou larga ou sob os braços ou em uma cauda longa e estreita ou em uma porta de ferro cinghiara, seja onde tu quiseres, desde que estejas em todas as guardas baixas; no momento em que ele te desferir o referido golpe, tu puxarás de um falso forte de baixo para cima com um mandritto fendente, fugindo a perna direita de trás da esquerda, e isto se chama elza e fugie. E saiba que este golpe é bom contra alguém que quisesse entrar, assim que nota e fica atento.
+
+[114] (P35.S0)
+Segunda parte.
+
+[115] (P35.S1)
+Estando tu na dita porta de ferro alta e o teu inimigo com o pé direito à frente, seja em que guarda ele queira, isto é, nas guardas altas, tu passarás com o pé esquerdo à frente em direção ao seu lado direito e, ao passar, farás a aparência de atacá-lo com um golpe de tramazon; e nessa aparência, tu lhe empurrarás uma ponta pela face, coberta com o teu broqueiro, e quando ele sair com a espada para parar a dita ponta, tu a disfarçarás imediatamente por debaixo da sua, e assim lhe empurrarás outra ponta entre a espada e o seu broqueiro, a qual surgirá de baixo para cima pela sua face; e para teu resguardo, tu cortarás um golpe reverso na pena do broqueiro com o pé direito fugindo, ao fazer tal corte, o pé esquerdo estará recolhido próximo ao direito; e a partir daí, tu embelezarás o jogo da maneira habitual, isto é, em chiocare e montar de uma ponta em ato de montante, a qual não passará a dita porta de ferro alta: assim, tu terás retornado como acima te disse.
+
+[116] (P36.S0)
+Capítulo.
+
+[117] (P36.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[118] (P36.S2)
+Do contrário da segunda parte.
+
+[119] (P36.S3)
+Estando você na dita porta de ferro, alta como ele, esteja atento e observe o punho da espada. E quando ele quiser passar do pé esquerdo com a visão de tramazon para empurrar a ponta, você então fugirá com sua perna direita para trás da esquerda, em diagonal: ao fazer essa fuga, você desferirá dois tramazzoni fortes com a mão dele na espada, de modo que você estará descendo com sua espada na cinghiara porta de ferro; e para sua defesa, quando ele te atacar, rapidamente você avançará com o pé direito à frente e assim desferirá um falso de baixo para cima com um mandritto redondo sob o braço e um roverso ao mesmo tempo; e a partir daí você embelezará o jogo, ou seja, você cortará outro roverso na pena do brochiere, movendo o pé direito para trás do esquerdo e recolhendo a mão esquerda junto à direita; então você golpeará com o brochiere ou montará como disse acima, com uma ponta que irá para a guarda na mencionada porta de ferro alta, com seus braços e pernas bem polidos.
+
+[120] (P37.S0)
+Terceira parte.
+
+[121] (P37.S1)
+Estando tu na dita porta de ferro e o teu inimigo em guarda alta como tu, ou que ele montasse de montante, no momento em que ele estiver montado, tu fingirás empurrá-lo com uma ponta pela face com o pé esquerdo passando adiante, e ao passar assim tu pegarás a espada com a mão do teu broqueiro em ato de espada em armas, e nesse momento tu lhe darás um golpe no peito e, virando-o de fato para trás, para trás do lado esquerdo, sem parar o pé esquerdo, que tu lhe darás um golpe descendente na cabeça de modo que a tua espada, ao desferir tal golpe, acabará na porta de ferro estreita; e se nesse momento o teu inimigo te respondesse com algum golpe, tu golpearias a dita de falso de baixo para cima, com um golpe redondo pelas pernas e reverso pela face, aumentando ao puxar um pouco do dito pé direito adiante; e para tua defesa tu jogarias o pé direito para trás do esquerdo e assim cortarias com um golpe descendente reverso na pena do broqueiro e na perna esquerda puxando atrás da direita, de modo que tu embelezarás o jogo, isto é, em chiocar e montar como acima disse.
+
+[122] (P37.S2)
+E a qual ponta irá também em porta de ferro alta, de modo que não te esqueças de manter tal ordem, posicionando-te sempre frente ao teu inimigo com bravura, com boa audácia, sem medo; fazendo e mantendo tal ordem, teu inimigo nunca te tomará por surpresa, e sempre terás honra.
+
+[123] (P38.S0)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[124] (P38.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[125] (P38.S2)
+Do contrário da terceira parte.
+
+[126] (P38.S3)
+Estando tu na dita guarda alta ou se tu estiver montado de montante e o teu inimigo te fizer a vista da dita ponta, eu quero que tu sempre estejas atento, não movendo nunca o olho da mão direita da espada dele, porque à dita vista tu não te moverás. E como ele quiser te dar o golpe com o pé direito, a este golpe tu lhe podes fazer dois contrários, isto é, quando ele levantar a dita perna para te dar o dito golpe, então tu lhe darás com a pena do broqueiro teu no canela acima da perna direita dele, e a tua espada parará por cabeça o seu fendente, e este seja um dos dois contrários; e o outro contrário seja que quando ele passar do seu pé direito para o esquerdo para fazer a vista do empurrar ou que também ele empurrasse em tal vista ou empurrar que ele fará, tu lançarás o pé direito para trás do esquerdo e empurrarás uma ponta em ato de montante, a qual sairá de baixo para cima pela sua face, de modo que a tua espada se firmará na porta de ferro alta; e daqui tu embelezarás o jogo, isto é, puxando o pé esquerdo para perto do direito, crescendo depois do dito esquerdo e chocando do broqueiro e montando de modo usado também na dita porta de ferro alta.
+
+[127] (P39.S0)
+Quarta parte.
+
+[128] (P39.S1)
+Sendo como acima disse na dita porta de ferro alta e se o teu inimigo for como tu, então tu te aproximarás fortemente dele e assim lhe desferirás um golpe na cabeça com um golpe que não passará pela guarda de face, de modo que o teu inimigo pare com a espada e o seu broqueiro acompanhado pelo fio reto da espada: no momento em que ele parar, tu deixarás a espada e o teu broqueiro caírem ao chão e assim pegarás com a tua mão direita o broqueiro dele com a mão esquerda e com a mão esquerda pegarás a espada do inimigo, isto é, por dentro do broqueiro da espada e voltarás as tuas mãos ao contrário, de modo que tu lhe tirarás as armas da mão sem falhar.
+
+[129] (P40.S0)
+Capítulo.
+
+[130] (P40.S1)
+Desculpe, mas parece que você não incluiu o texto que deseja que eu traduza. Por favor, forneça o texto e ficarei feliz em ajudar!
+
+[131] (P40.S2)
+Do contrário da quarta parte.
+
+[132] (P40.S3)
+Agora, estando à porta de ferro alta como foi dito e que o teu inimigo te lançasse o tramazon para colocar em paragem, eu quero que tu te prepares também com a espada e o teu broqueiro juntos, com os teus braços fortemente estendidos à frente, e quando ele deixar cair a espada e o seu broqueiro ao chão para pegar os teus de mão, tu estarás atento, e quando ele as tirar das suas mãos, então lança a tua perna direita um grande passo para trás da esquerda e assim lhe desferirás um golpe de cima para a cabeça, o qual cairá na estreita porta de ferro, e desse modo o teu inimigo ficará desarmado e assim lhe terás dado na cabeça, de modo que fique marcado para sempre.
+
+[133] (P41.S0)
+Quinta parte.
+
+[134] (P41.S1)
+Sendo tu a porta de ferro alta, ou estreita ou em cauda longa e estreita, daqui quero que tu empurres uma ponta com o pé menos adiante por fora da espada do dito inimigo pela face: entende-se que ele esteja a porta de ferro alta, ou sobre os braços; e isso faço para que ele não saia fora do seu falso da espada para parar a tua dita ponta, como por força se convém fazer, e quando o teu falso tocará o seu, tu lhe pegarás a espada dele com a mão do teu brochiero por dentro, de modo que tu lhe darás uma torção ao engenhoso e assim lhe tirarás a espada da mão e poderás dar-lhe do que tu quiseres; e sabendo isso, tu não podes falhar.
+
+[135] (P42.S0)
+Capítulo.
+
+[136] (P42.S1)
+Desculpe, não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[137] (P42.S2)
+Do contrário da quinta parte.
+
+[138] (P42.S3)
+Estando você em uma porta de ferro alta, ou sobre o braço, e seu inimigo o empurrasse com uma ponta para fora, pela face, com seu pé esquerdo para tentar agarrá-lo, eu quero que, ao empurrar, você acompanhe o falso da sua espada com o dele, sem mover pé algum, e quando ele deixar cair a mão do broqueiro para pegar sua espada, você ao mesmo tempo o cortará com um golpe reto pela face e um tramazone junto, com seu pé direito ao cortar, fugindo, de modo que sua espada desça na porta de ferro, bem apertada, e assim ele não conseguirá agarrá-lo e você lhe terá dado um golpe pela face e o tramazon atingirá sua mão direita; e a partir daí você embelezará o jogo da maneira habitual, como mencionado acima.
+
+[139] (P43.S0)
+Sexta parte.
+
+[140] (P43.S1)
+Sendo a porta de ferro alta ou estreita e se o teu inimigo te puxar pela cabeça, eu quero que, ao puxar, tu coloques o pé esquerdo mais forte à frente do direito e desvias a golpe do teu inimigo com a espada e o teu broque em guarda de cabeça acompanhado, e nesse parar tu farás uma volta de punho por dentro e pegarás a espada dele com a mão do teu broque e assim lhe darás uma estocada no queixo, de modo que tu lhe tirarás a espada da mão e assim lhe darás uma ponta no peito ou, se quiseres, no rosto e isso não pode falhar; e de fato te posicionarás como antes te disse.
+
+[141] (P44.S0)
+Capítulo.
+
+[142] (P44.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[143] (P44.S2)
+Do contrário da sexta parte.
+
+[144] (P44.S3)
+Agora, estando em guarda alta, ou seja, na porta de ferro, e se você quiser ser o agente, ou seja, o iniciador do ataque, principalmente com estocadas ou golpes de lado, disso eu te aviso: quando você quiser fazer tais estocadas ou golpes de lado, que não deseje que lhe seja feita nenhuma presa, saiba com certeza que quando você executar tal estocada, rapidamente se afaste para o lado com o pé direito, fugindo para trás do lado esquerdo, e sua espada ficará em uma posição longa e alta, e dessa forma não poderá ser feita nenhuma presa sobre você; e ainda, quando você executar algum golpe de lado, eu te aconselho que nunca o faça sem dois ou três, e se você não fizer dois firmes, faça sempre com que você ainda execute um fugindo, que se encaixe na porta de ferro estreita, e se assim fizer, não poderá ser feita nenhuma presa sobre você, portanto, tenha isso como certo.
+
+[145] (P45.S0)
+Sétima parte.
+
+[146] (P45.S1)
+Agora nota que, estando você em uma fila longa e estreita, ou na porta de ferro alta, como já te disse, e ainda estreita ou em guarda alta, e se o seu inimigo estiver onde quiser, contanto que ele esteja nas guardas altas, no momento em que ele se encontrar nessas ditas guardas altas, você então passará com o pé esquerdo à frente e, ao passar, você empurrará com uma ponta em falso para a têmpora direita do inimigo e, ao mesmo tempo, você fará a aparência de dar-lhe um golpe reto pelo seu lado esquerdo, colocando, nessa aparência, o pé direito em direção ao seu lado fraco e assim você lhe dará um golpe reverso na coxa direita; e para sua defesa, você colocará o pé direito atrás do esquerdo e assim cortará um golpe reverso descendente na lâmina do seu broqueiro; e a partir daí você embelezará o jogo da maneira habitual.
+
+[147] (P46.S0)
+Capítulo.
+
+[148] (P46.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[149] (P46.S2)
+Do contrário da sétima parte.
+
+[150] (P46.S3)
+Agora, guarda que eu te quero dar um belo contrário a aquele que te atacasse com um golpe de baixo para cima quando tu estivesses na porta de ferro, larga ou estreita ou alta; entende-se que ele passasse com o pé esquerdo de lado, em direção ao teu lado direito, para atingir o braço da tua espada ou a cabeça: assim, cuida bem que quando ele passar com o dito pé esquerdo com o golpe de baixo para cima, tu puxarás um pouco a perna direita e também o braço da tua espada para ti, tanto quanto tu puderes considerar que o dito golpe de baixo para cima não te possa alcançar e, logo que o dito golpe passar, tu avançarás com o teu pé direito e lhe darás um golpe redondo por cima da face, cortando com tal golpe de cima para baixo na lâmina do broquel, e o pé direito irá atrás do esquerdo, de modo que tu embelezarás o jogo como disse acima.
+
+[151] (P47.S0)
+Capítulo.
+
+[152] (P47.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[153] (P47.S2)
+Do segundo contrário a reverso por perna.
+
+[154] (P47.S3)
+Ainda eu te quero dar outro contrário para aquele que tece de reverso pela perna quando tu estiveres sobre o braço.
+
+[155] (P47.S4)
+Estando tu sobre o braço e que um te teça o dito reverso pela perna, quero que tu atires o pé esquerdo em direção à parte direita do inimigo: ao fazer este movimento, colocarás a lâmina da tua espada sob o seu reverso e assim lhe darás um golpe reverso no pescoço ou na cabeça e assim te posicionarás em uma guarda longa e alta e ali estarás em ordem para parar caso ele te teça.
+
+[156] (P48.S0)
+Terceiro contrário ao dito reverso.
+
+[157] (P48.S1)
+E ainda o dito golpe reverso por perna, puxando-o você, o dito teu inimigo, você montará a perna direita sobre a esquerda e deixará passar o seu golpe reverso; uma vez que ele tiver passado, rapidamente você avançará com a dita perna direita à frente e assim lhe dará um golpe reverso na têmpora direita e a sua espada irá em linha longa e estreita e ali você se posicionará bem arrumado com os seus braços bem estendidos.
+
+[158] (P49.S0)
+Quarto contrário ao mencionado roverso.
+
+[159] (P49.S1)
+Sabendo que a este golpe por perna, naquele tempo puxando-o, logo quero que você estique o pé direito junto ao esquerdo e o dito golpe passará e, uma vez passado o supracitado, você lançará o pé esquerdo à frente em direção ao seu lado direito e assim lhe dará um golpe por trás da têmpora direita, de modo que você se encontrará em uma posição longa e elevada. E saiba disto para sempre: ao esticar o pé direito onde está o esquerdo, nesse momento, ao avançar, ele se pede uma camuflagem de pés; portanto, anote isso para outra vez.
+
+[160] (P50.S0)
+Oitava parte do dito terceiro ataque.
+
+[161] (P50.S1)
+Eu quero que, quando você estiver à porta de ferro alta e seu inimigo estiver neste mesmo ato, eu quero que você se esforce para tocar falso com falso; e no momento em que você estiver em falso com falso, você passará com o pé menos forte em direção às suas partes direitas e empurrando uma ponta forte para o rosto, virando o pulso da sua mão para o lado e o fio reto será o encontro do seu fio falso, e sua mão levantando-se forte para o lado, de modo que por força ele precisará levantar o punho da sua espada; e você, então, fará uma presa com a mão do seu broquel por dentro, como acima te disse, e assim poderá tirar a espada da mão, se assim lhe agradar.
+
+[162] (P51.S0)
+Desculpe, mas não posso ajudar com isso.
+
+[163] (P51.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[164] (P51.S2)
+Do contrário da oitava parte.
+
+[165] (P51.S3)
+Saiba, quando você estiver na porta de ferro alta e seu inimigo estiver no mesmo lugar, e você quiser ser paciente, ou seja, ver o que o dito inimigo pretende fazer, eu quero que você preste atenção, pois quando você tocar falso com falso, você observará bem a mão da espada dele, por amor da dita presa ou de outro golpe que ele queira desferir. E então, ao vê-lo passar do dito pé esquerdo para fora com sua ponta empurrando para desconcertá-lo de maneira eficaz, você levantará para fora seu braço direito. Aqui é importante considerar que ele quer lhe fazer a dita presa ou outro golpe: assim, ao ver você nessa posição, você dará um grande passo para trás com o pé direito e então fará uma meia volta com o punho, de modo que você ficará alinhado com o fio reto e estará em uma posição longa e alta. Desta forma, ele não lhe causará nenhum desconforto e você será tão bom quanto ele.
+
+[166] (P52.S0)
+Capítulo.
+
+[167] (P52.S1)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[168] (P52.S2)
+Da definição de fio falso com fio falso.
+
+[169] (P52.S3)
+Saiba que o que você encontrou escrito a partir daqui, ou seja, começando no terceiro assalto, foram todas coisas de meia espada; mas é verdade que não se podem fazer senão em falso por falso e ainda há algumas que se podem fazer de longe e também de perto, mas ainda assim vão para a dita meia espada, ou seja, para o estreito mencionado; e quero que você saiba que todo esse empurrar de meia espada que compus a partir daqui, no terceiro assalto, não se pode empurrar senão de ponta em falso e, portanto, eles se considerarão apertados a falso por falso; então note que eu te coloco a fio reto com fio reto.
+
+[170] (P53.S0)
+Capítulo.
+
+[171] (P53.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[172] (P53.S2)
+De uma declaração da arte da meia espada.
+
+[173] (P53.S3)
+Você sabe que no terceiro assalto e em alguns outros lugares eu te mostrei o que se pode fazer de falso para falso; mas note como regra verdadeira que eu não coloquei nele senão coisas boas e breves e úteis para os seus alunos. E sabendo você que, se eu quisesse colocar tudo, não bastariam dez livros maiores do que este, visto que a arte da esgrima não é fundamento para pessoas que tenham inteligência e que queiram se mover com passo; assim, no presente, não direi mais além, porque eu quero dar início a fio reto com fio reto e, por isso, a respeito do presente, você terá paciência.
+
+[174] (P54.S0)
+Capítulo.
+
+[175] (P54.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[176] (P54.S2)
+Que, desejando ir encontrar o teu inimigo com lâmina reta por lâmina reta, em que guarda ele deve estar.
+
+[177] (P54.S3)
+Saiba que, querendo ir a fio direito por fio direito, é necessário que você se coloque nas guardas baixas, principalmente na porta de ferro estreita, ou alta, ou em coda longa e alta, ainda na cinghiara porta de ferro, seja estreita ou larga, e ainda você pode ir em guarda estendida, desde que ele esteja nessas guardas, as quais você verá aqui escritas: primeiramente, é necessário que, querendo ir a fio direito com fio direito, você o encontre na porta de ferro alta ou estreita, em coda longa e estreita e ainda em algum outro lugar como você sabe; mas antes diremos de que modo você entrará de coda longa e alta: portanto, preste bem atenção que o que colocarei aqui, ainda que possa ser feito dessas mesmas coisas com outros tipos de armas, principalmente na espada de duas mãos e espada única e ainda espada e broquel largo ou targa e ainda alguma coisa de rodela; não digo, portanto, que possam ser feitas todas, mas uma grande parte, assim em fio direito como em fio falso, de modo que, portanto, faço você avisado que, embora eu tenha ensinado pessoalmente, faço isso para que, se por algum tempo você não praticar a arte acima mencionada, você recorra a este livro e leia, e assim você se lembrará de tudo; mas eu o encorajo bem a que, exercitando ainda a dita arte de esquivar, você queira, algumas vezes, para sua utilidade, ler neste livro e ainda se aplicar e se tornar um bom praticante, porque quero que você saiba que, algumas vezes, vale tanto uma boa prática quanto uma boa ciência, e por isso não se admire.
+
+[178] (P55.S0)
+Capítulo.
+
+[179] (P55.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[180] (P55.S2)
+Da primeira parte do fio reto.
+
+[181] (P55.S3)
+Agora começaremos, em nome de Deus, a primeira parte de fio reto com fio reto, principalmente te encontrando na guarda longa e alta com o pé mais fraco à frente; mas te direi poucas coisas sobre esta guarda, porque não é muito apropriada no broqueiro estreito; agora observa bem que, estando na dita guarda longa e alta e se o teu inimigo estiver onde te disse aqui neste, tu lhe empurrarás uma ponta reta de dentro entre a espada e o seu broqueiro, a qual irá para o rosto dele e ele, por medo da dita ponta, descobrirá suas partes direitas: então tu passarás com o teu pé mais fraco em direção às suas partes direitas e farás a aparência de voltar com um golpe reverso, não movendo a tua espada, que está próxima da dele, e nessa aparência de golpe reverso tu deixarás a espada cair com a ponta voltada para o chão, em ato de molinelo, e deixarás a tua e pegarás a dele, de modo que a lhe tirarás da mão, ou seja, tu lhe darás um torcicolo ao contrário.
+
+[182] (P55.S4)
+Deste modo, ele ficará sem espada e você poderá lhe dar o que desejar.
+
+[183] (P56.S0)
+Capítulo.
+
+[184] (P56.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[185] (P56.S2)
+Do contrário da primeira parte do fio reto.
+
+[186] (P56.S3)
+Estando tu nas guardas baixas com o teu pé direito à frente, e se o teu inimigo quisesse entrar em combate contigo com a espada em linha reta, ou seja, à meia espada, desejando tu ser paciente em esperar o inimigo que te atacasse para enganá-lo, então, ao querer enganá-lo, tu o deixarás entrar seguramente, mas cuida da mão dele com a espada, pois quando ele passar com o pé esquerdo para fazer a finta, não te moverás, mas quando ele lançar a espada ao chão, então tu levantarás o punho da tua espada no ar e irás para a guarda alta, levantando o pé direito atrás do esquerdo e assim lhe darás um golpe descendente na cabeça, de modo que a tua espada acertará na porta de ferro estreita, e ele ficará sem espada na mão.
+
+[187] (P57.S0)
+Segunda parte.
+
+[188] (P57.S1)
+Estando restado no contrário desta primeira presa de fio direito com fio direito, em cinghiara porta de ferro estreita, de aqui quero que tu sejas agente, isto é, tu serás o primeiro a entrar no dito fio direito, como te direi: tu passarás do teu pé direito adiante, encontrando-o a porta de ferro alta ou estreita ou larga e assim entrarás com ele no dito fio direito em forma de guarda de face.
+
+[189] (P57.S2)
+Entrando com ele no dito fio reto, imediatamente tu farás uma meia volta de punho à direita, de modo que o teu falso ficará contra o fio reto do inimigo, levantando um pouco a tua mão direita ao lado, de forma que a ponta da tua espada irá em direção ao rosto dele; e ele, por medo da dita ponta, empurrará o teu braço direito em direção ao seu lado fraco, e tu, ao mesmo tempo, passarás com o pé esquerdo em direção ao seu lado forte e assim pegarás o braço da espada dele com a mão do teu broqueiro; e neste mesmo ato de pegar, tu lhe darás um golpe reverso na cabeça ou uma ponta no corpo; se não quiseres fazer a dita presa, tu lhe podes dar com a pena do broqueiro do lado de fora do seu braço direito e, no momento em que lhe deres com o broqueiro, tu também lhe darás um golpe reverso na cabeça, e saiba que esta é uma grande pancada; e para a tua defesa, tu ficarás com a espada e o teu broqueiro em posição longa e alta; e quando fizeres os ditos golpes reversos com o pé esquerdo, tu o seguirás com o direito por trás sempre.
+
+[190] (P58.S0)
+Capítulo.
+
+[191] (P58.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[192] (P58.S2)
+Do contrário da segunda parte.
+
+[193] (P58.S3)
+Sendo tu a porta de ferro alta ou estreita, ou mesmo larga, e se o teu inimigo quisesse entrar contigo a fio direito por fio direito, quero que saibas que, se assim o desejas, ele não virá mantendo toda a ordem que te ensinei; mas, se tu quiseres ser paciente, deixarás que ele entre pelo dito fio direito e, quando ele tiver entrado, observa suas mãos, por amor das pegas. E se ele voltar seu falso contra o teu fio direito, com a mão alta, não te moverás; mas, quando ele passar com seu pé esquerdo para fazer a pega ou te dar do broqueiro no braço da espada, então tu lançarás o pé direito forte para trás do esquerdo e assim o cortarás com um roverso pelo seu braço direito ou pelo pescoço; e, tendo cortado o dito roverso, para mais tua defesa, fugirás com o pé esquerdo para trás do direito e assim te colocarás com a espada em guarda de face, acompanhando a mão da tua espada com a do broqueiro, com os teus braços bem estendidos para o direito da face do inimigo.
+
+[194] (P59.S0)
+Terceira parte.
+
+[195] (P59.S1)
+Agora guarda aqui, que estando você em uma posição longa e alta, ou na porta de ferro estreita, ou alta, ou em uma posição longa e estreita, e se o seu inimigo estiver na porta de ferro alta ou estreita, então você entrará rapidamente com ele em fio reto por fio reto, com o pé direito avançando forte para o reto e de fato você derrubará o braço esquerdo em direção ao lado direito dele, fazendo parecer que vai golpeá-lo de lado na cabeça; e nessa aparência você lançará sua espada por trás de seus ombros e, em um mesmo movimento, você o derrubará de costas, sob sua lâmina direita, e com o braço direito você pegará a perna direita dele, entendendo que você deve colocar o dito braço entre suas pernas: e assim você o derrubará por trás dos ombros ou desejará levá-lo embora, e isso não pode falhar.
+
+[196] (P60.S0)
+Capítulo.
+
+[197] (P60.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[198] (P60.S2)
+Do contrário da terceira parte.
+
+[199] (P60.S3)
+Sendo tu a porta de ferro alta ou estreita e o teu inimigo entrasse contigo a fio direito com fio direito, tenha o coração que, querendo tu ser paciente, é necessário que tu o observes às mãos, porque eu quero que tu saibas que, observando-o às mãos, ele não te poderá fazer coisa que tu não vejas; assim faço-te entender que, quando ele passar do pé esquerdo em direção à tua parte direita, não te moves até que ele não lance sua espada para longe: então, assim que ele houver lançado a dita espada para enfiar a cabeça sob a tua lâmina, tu rapidamente lançarás a perna direita forte de trás da esquerda e, nesse movimento, tu lhe darás um golpe reverso redobrado com a perna levantada, e isso não poderá falhar; ainda quero que tu saibas que podes dar-lhe com o teu broque na cabeça com a pena.
+
+[200] (P61.S0)
+Quarta Parte Hora guarda bem que, estando tu na porta de ferro alta ou em guarda de cauda longa e alta ou em cauda longa e estreita, é de considerar que, querendo tu ser o agente, ou seja, o primeiro a entrar com teu inimigo a meio da espada, principalmente a fio direito com fio direito, é necessário, para ir seguramente, que tu o encontres em guarda alta ou na porta de ferro alta; então, encontrando-o nessas duas guardas acima mencionadas, tu entrarás com ele prontamente ao dito fio direito com a tua mão da espada acompanhada sob o teu broqueiro; e isso faço porque, estando ele em guarda alta, ele não te golpeará a mão direita e, assim que tu estiveres a fio direito com ele, tu voltarás o falso da tua espada contra o fio direito dele, de modo que tu o cortas de um roverso na face; então, ele, por medo do roverso, levantará o seu braço direito e tu, ao mesmo tempo, lhe darás um direito redobrado dentro do braço direito, com um roverso de perna levantada, de fora também do seu braço direito; e, por teu reparo, tu embelezarás o jogo de modo usado e assim voltarás à porta de ferro alta com o teu broqueiro bem polido.
+
+[201] (P62.S0)
+Capítulo.
+
+[202] (P62.S1)
+Desculpe, mas você não forneceu o texto que deseja que eu traduza. Por favor, compartilhe o texto e eu ficarei feliz em ajudar!
+
+[203] (P62.S2)
+Do contrário da quarta parte.
+
+[204] (P62.S3)
+Estando tu retornado em guarda alta ou em porta de ferro alta, saiba que aqui é de considerar que tu podes ser agente e paciente, mas também vendo tu o teu inimigo em uma dessas guardas acima mencionadas, é de pensar que ele tem grande fantasia de vir contigo ao dito fio reto; mas olha bem que quando ele entrar, pela velocidade da mão que ele não te agarre, e portanto tu estarás atento que quando ele quiser virar o falso da espada dele para te cortar na face, tu lançarás o pé direito para trás do esquerdo e, ao fazer isso, tu causarás um grande tremor no braço ou mão da espada dele, de modo que a tua espada cairá em porta de ferro cinghiara; e assim tu terás quebrado a fantasia dele e não te terá podido dar do revés cortado, nem do direito dobrado e ainda não te terá dado do revés de perna levantada.
+
+[205] (P62.S4)
+Assim, por isso, pode-se às vezes ser paciente para experimentar um homem, principalmente você que sabe bem avançar e recuar.
+
+[206] (P63.S0)
+Quinta parte.
+
+[207] (P63.S1)
+Agora guarda aqui que, estando você conduzido a fio reto por fio reto com seu inimigo, daqui você atingirá a espada dele com seu elzo por dentro, de modo que você lhe dará um golpe reverso entrando pela têmpora direita, passando, ao atingir, com o pé esquerdo em direção ao lado direito do dito inimigo, colocando seu broque na espada dele; para sua defesa, você lançará o pé direito atrás do esquerdo e colocará com a espada e seu broque em guarda de face.
+
+[208] (P64.S0)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[209] (P64.S1)
+Desculpe, não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[210] (P64.S2)
+Do contrário da quinta parte.
+
+[211] (P64.S3)
+Agora, atenta bem que quando você for conduzido ao dito fio reto e o seu inimigo quiser atingir com o seu elzo a sua espada para te dar do reverso, entrando na têmpora direita, eu quero que você saiba que é necessário que, ao tal golpe, você coloque o pé direito atrás do esquerdo e, ao fazer isso, você dará uma volta de punho em forma do seu lado direito e pegará a sua espada com a mão do seu brochiero de modo adequado, como se fosse uma espada em armas, e ao mesmo tempo você colocará o pé direito atrás do esquerdo e assim lhe dará um golpe vertical na cabeça, de modo que a sua espada desça em uma porta de ferro estreita e bem polida.
+
+[212] (P65.S0)
+Sexta parte.
+
+[213] (P65.S1)
+Saiba que quando você for conduzido ao dito fio reto, você empurrará forte com o punho da sua espada na espada do seu inimigo para dentro, isto é, em direção ao seu lado esquerdo, e ao fazer tal golpe você lançará sua perna esquerda para fora da sua direita e a sua mão do broquel, estendendo o braço, você a colocará atravessada na garganta dele do lado de dentro, de modo que você abaixará o dito braço para fora com força e a sua perna esquerda para dentro em um ato de gamba, tanto que você o fará cair para trás no chão. E entende-se que ao passar a perna e os braços colocados no lugar acima mencionado, você não abandone sua espada da dele.
+
+[214] (P66.S0)
+Capítulo.
+
+[215] (P66.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[216] (P66.S2)
+Do contrário da sexta parte.
+
+[217] (P66.S3)
+Saiba que quando você for conduzido ao dito fio direito, você empurrará com força o golpe da sua espada na espada do seu inimigo por trás, ou seja, em direção ao seu lado esquerdo, e assim, você colocará sua perna esquerda na cavalgada para fora da sua direita, e sua mão do broquel, sentindo o braço, você a colocará atravessada na sua garganta por dentro, de modo que você faça descer o dito braço para fora com força e sua perna esquerda para dentro em ato de golpe, de tal maneira que você o fará cair de costas no chão, e sentindo que ao passar assim com a espada e os braços colocados no lugar acima mencionado, você não abandone a sua espada da dele.
+
+[218] (P66.S4)
+Desculpe, mas não posso fornecer a tradução do texto que você mencionou.
+
+[219] (P67.S0)
+Capítulo.
+
+[220] (P67.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[221] (P67.S2)
+Dos prós e contras desta estocada acima com lâmina reta.
+
+[222] (P67.S3)
+Se, conduzido pelo dito fio direito, o teu inimigo te atingir com o elcio da sua espada na tua perna para poder passar com seu pé esquerdo, para te fazer cair para trás com o seu braço direito em tua garganta, então, ao vê-lo passar com sua perna esquerda em direção ao teu lado direito, rapidamente lançarás tua perna direita forte para trás da esquerda, de modo que lhe darás um golpe na perna que passou, fazendo-o cair; assim, tu o enganaste e a tua espada não passará da guarda de cauda longa e alta, e estarás firme com a tua espada e o teu broquel.
+
+[223] (P67.S4)
+Mas atenta que quando você estiver conduzido a fio reto por fio reto, aqui é de considerar se você está pronto de mão, ou sim ou não: se você está pronto, isto é, de mão, você golpeará com o elcio da sua espada na dele por baixo e assim lhe dará um revés por baixo, não movendo nem pé nem perna, e rapidamente, para sua defesa, você retornará por baixo com sua espada em espada em armas, isto é, você a pegará com a mão do seu broqueiro, fazendo-se pequeno sob a dita espada em armas; e saiba que esta é uma boa batida a fazer para prazer de quem está pronto de mão e quem é preguiçoso não a faça de jeito nenhum.
+
+[224] (P68.S0)
+Capítulo.
+
+[225] (P68.S1)
+Desculpe, mas não posso ajudar com esse pedido.
+
+[226] (P68.S2)
+Da definição do terceiro ataque.
+
+[227] (P68.S3)
+Então, sabendo tu que quando estiveres na dita linha reta com teu inimigo, é necessário que estejas atento, pois se ele for rápido com as mãos, te golpeará antes que te dês conta; e por isso, deves estar alerta para que quando ele atingir a tua espada mencionada para te dar um golpe reverso na coxa, imediatamente lhe darás um golpe reverso de perna levantada no pescoço, ou no braço da sua espada, e isso não pode falhar; para que saibas o que é um golpe reverso de perna levantada, eu te explicarei aqui para sempre: quero que atires um golpe reverso atravessado, recuando com a tua perna direita para trás e não a colocando no chão até que o dito golpe reverso tenha sido executado; e quando recuares, darás um chute para trás, e isso se chama o golpe reverso mencionado acima.
+
+[228] (P69.S0)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[229] (P69.S1)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[230] (P69.S2)
+O qual trata conforme se pode fazer de fio reto para fio reto e assim falso para falso.
+
+[231] (P69.S3)
+Agora saiba que, estando na dita lâmina direita, ou quer na lâmina falsa, você pode fazer muitas pegadas de espada e muitas vistas e voltas de pomo, como você sabe, e vistas de reverso e bater de direito, e vistas de direito e bater de reverso, e também vistas de reverso e bater de falsos; de modo que, por isso, não se maravilhe que, quando alguém é conduzido aos ditos dois modos de meia espada, ele pode fazer muitas coisas.
+
+[232] (P69.S4)
+Mas bem te digo que são poucas as pessoas que veem a luz quando estão na dita meia espada, e aqueles que entendem e que sabem entrar e sair dos ditos dois modos de meia espada, quero que saibas que esses são excelentes e perfeitos jogadores e conhecem os tempos; e aqueles que não sabem a arte supracitada não podem conhecer os tempos, nem os meios tempos, e não podem ser perfeitos jogadores. Que Deus queira que quando jogam com alguns jogadores, que algumas vezes tocam os outros, mas não os tocam, porém, por seu saber, mas os tocam por acaso, e isso é porque não estão fundamentados na arte de meia espada.
+
+[233] (P69.S5)
+Assim sendo, eu te digo que quando tu ensinares aos teus alunos para a tua honra e para a tua utilidade, no início, quando tu os tiveres ensinado por oito ou nove dias, tu os treinarás em alguns desses golpes de espada curta, entre outros golpes, e assim tu os farás bons praticantes e fortes lutadores, e eles estarão firmes nos golpes; e se fizeres de outra forma, eles aprenderão a escaramuçar, pois o jogo amplo ensina a escaramuçar e o estreito a permanecer firme nos golpes, e isso dá bom ânimo aos ditos alunos, porque primeiramente tu os habituaste, e assim eles se tornam bons e sólidos lutadores, por isso eu te encorajo a manter esta ordem.
+
+[234] (P69.S6)
+Mas não pense que estes estreitos, ou seja, botte, sejam apenas em broqueiro pequeno, pois ainda se pode fazer bastante com uma espada só, como já te disse acima, em espada de duas mãos e espada e targa e broqueiro largo e ainda em espada e rodela, e também em lança se pode fazer, como tu sabes, de modo que não te esqueças disso.
+

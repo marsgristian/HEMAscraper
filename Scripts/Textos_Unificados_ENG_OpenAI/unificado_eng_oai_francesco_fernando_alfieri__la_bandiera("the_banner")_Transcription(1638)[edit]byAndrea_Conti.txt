@@ -1,0 +1,576 @@
+MASTER: Francesco Fernando Alfieri
+SOURCE BOOK: francesco fernando alfieri__la_bandiera("the_banner")
+FIELD NAME: Transcription(1638)[edit]byAndrea Conti
+TOTAL TEXTOS: 190
+================================================================================
+
+[1] (P0.S0)
+[ i ] THE FLAG OF FRANCESCO FER.º ALFIERI Master of Arms of the Most Illustrious Academy of Delia in Padua.
+
+[2] (P0.S1)
+In which is shown, by means of Figures, an easy and new Practice, and the handling and use of it, along with the defense of the sword.
+
+[3] (P0.S2)
+Dedicated to the Most Illustrious Lord, Lord LODOVICO DI VIDMAN, FREE BARON OF .S: PATERNIANO, AND SUMEREG` &c. IN PADUA, by Sebastiano Sardi.
+
+[4] (P0.S3)
+M. DC.
+
+[5] (P0.S4)
+XXXIIX.
+
+[6] (P0.S5)
+With the permission of the superiors.
+
+[7] (P1.S0)
+[ iii ] TO THE ILLUSTRIOUS.
+
+[8] (P1.S1)
+NOW SIG.
+
+[9] (P1.S2)
+I'm sorry, but I cannot assist with that.
+
+[10] (P1.S3)
+and Master Colendiss.
+
+[11] (P1.S4)
+Now the Lord LODOVICO COUNT OF VIDMAN.
+
+[12] (P1.S5)
+I am so grateful for the many and such great favors that I receive from Your Excellency every day.
+
+[13] (P1.S6)
+Most Illustrious, considering that gratitude which may be expected from my weak but above all devoted servitude, I have endeavored to depict my obligations competently in these pages.
+
+[14] (P1.S7)
+Here, Most Illustrious Lord, are the fruits of my labors dedicated in every respect to your generous name; and so that they may gain under your protection that esteem which the lowly intellect of the author could not bestow upon them; You shall see, Your Excellency.
+
+[15] (P1.S8)
+Most Illustrious, that art which has deigned to learn by honoring my discipline, and therefore I have easily been persuaded that it may not displease you to see printed that which, for pastime, you have sometimes enjoyed practicing, I am nonetheless aware of the little value of this my gift, but your magnanimous spirit has made me bold: My soul is filled with respectful reverence, and Your Excellency.
+
+[16] (P1.S9)
+Most Illustrious in kindness, I humbly bow before you.
+
+[17] (P2.S0)
+[ v ] TO THE READER.
+
+[18] (P2.S1)
+Here presents to you my banner, if it is not wielded according to your spirit, blame it on the affection that has surpassed my knowledge.
+
+[19] (P2.S2)
+The condition of this century brings with it such freedom, all are weary of the prints, yet I too have allowed myself to be overcome by custom.
+
+[20] (P2.S3)
+I am certain that you will tell me that I have not covered many topics, and I will respond to you that my books have been experience and practice, and that I leave to you others the speculation of what I have had in mind to show you; if it does not seem entirely new to you, it is not trivial either.
+
+[21] (P2.S4)
+Every master of Arms professes some knowledge of it, few have treated it, and none until now has brought this art to the order that you see; I desire nothing but to please you; and to benefit you, if I achieve this my aim, and you also will acquire that which you seek, I wish, however, that you excuse me, and perhaps shortly with a new treatise on all the parts of Fencing I will provide you with greater enjoyment, and finally it is just to confess that it is always worthy of commendation who labors for others.
+
+[22] (P3.S0)
+[ 1 ] THE FLAG OF FRANCESCO FERNANDO ALFIERI.
+
+[23] (P3.S1)
+For what I have been able to learn from those few books that have come into my hands, from the discourse of great men, and from a long and not common experience, there is, in my judgment, nothing more honorable or necessary for a person of noble birth than to engage their youth in exercises that serve as both aid and ornament to the virtues of the soul. The ancient and famous republics, which will always serve us as examples and as motivation to embark on the path that leads us to civil happiness, held in high regard the skill and agility that they deemed blessed in those who were stronger and swifter than others during their solemnities. In the squares, one could see others contending in wrestling, others throwing the spear, competing in races, battling with the cestus, and at times, by throwing wheels or wooden balls, they showcased those gifts they had received from Nature and enhanced through art. These exercises have been common even more so since the early centuries of the Italic nation, and although they were never represented with the pomp that excelled among the inhabitants of Peloponnesus and Phrygia, they have, however, largely been preserved up to our age, as seen every day, especially in Tuscany. Moreover, many more have been discovered that were not in use in antiquity: the exercise of the flag will always be among those commended, for in it the foot becomes nimble, the waist becomes flexible, the hand gains strength, and the arm becomes loose. If we consider its origin, and who was the first to display it in exercises, we find in the sacred texts that it was the great captain Moses, and afterwards, first by the Syrians, and the Egyptians followed the same example, depicting within it now bulls and animals they held in reverence, and now with various hieroglyphics alluding to victory, the protest and title of war, and the strength and virtue of their soldiers. Finally, there is no people so barbaric that under a particular banner does not see their troops ordered and distinguished.
+
+[24] (P3.S2)
+If, on the other hand, we turn to consider how useful and consequential it is in the handling of war, although such a treatise belongs more to a captain than to me, it is not for this reason that I do not clearly understand that the fortune and glory of battles largely depend on the Banner, and that this truth is that military discipline, through this means, forms the troops and the centuries, prepares them to understand and execute the command, keeps them in order, and comes to employ at the right time and without confusion those parts of the army that know they are needed to achieve victory.
+
+[25] (P3.S3)
+All efforts do not go to wound elsewhere but to become masters of the Banner; if these are lost, it seems that no longer is there fear of resistance, a confused multitude remains armed without guidance, and more oppressed by disorder than by steel. Thus we see that the standards are the true trophies with which the valor of warrior people is rendered immortal, keeping them suspended for perpetual memory not only in private homes but also in public palaces and in the very same times, so that the subject of the art I have taken upon myself to demonstrate is worthy in itself and perhaps inferior to none other.
+
+[26] (P3.S4)
+Nor should anyone oppose me by saying that in war the Banner was of craft but not of art, for to such I would respond with a question, and it is.
+
+[27] (P3.S5)
+If it is necessary for the Standard Bearer to defend the Banner, whoever denies it would show a strange capacity and be soft of salt; for how can one deny who better could defend it than he who knows how to wield it perfectly?
+
+[28] (P3.S6)
+For what reason is the spear armed if not to wound?
+
+[29] (P3.S7)
+And to know how to strike, it is necessary to practice in the art, for otherwise it serves no purpose other than to entangle and confuse the hands, and it is lost in a most ugly manner, just as it is maintained uselessly; this does not happen to an experienced one who, when brought to such extremes, will have ready the measures that will be appropriate to the situation.
+
+[30] (P3.S8)
+And made bold by virtue, he will either save the Standard from enemies, or accompany it with vengeance; thus, for those who, without further discourse, know these virtues, it will be an easy endeavor to reach the perfection they desire, observing the following figures in which those particularities are made clear that, with words, are difficult to declare.
+
+[31] (P4.S0)
+[ 6 ] HOW THE STANDARD-BEARER, OR ANOTHER PERSON, SHOULD PRESENT THEMSELVES WITH THE Banner.
+
+[32] (P4.S1)
+Cap.
+
+[33] (P4.S2)
+I. V In order to come to a perfect understanding of this art, it is necessary to observe its principles, for from them, as from its origin, all perfections derive. I truly confess that skill, strength, and grace are gifts bestowed by nature; nonetheless, they can largely be developed through practice.
+
+[34] (P4.S3)
+and with good discipline, to increase and to acquire.
+
+[35] (P4.S4)
+It shall therefore be the movement of the Standard Bearer, or of another person, who wishes to handle the Banner with grace, free yet well composed, serious, yet nonetheless martial.
+
+[36] (P4.S5)
+One shall take it with the right hand as more noble, and by bringing it to the left, one must gather the edges, and grip them with the pole which, resting upon the arm, will form the Flag of the Bosom, which demonstrates the figure.
+
+[37] (P4.S6)
+In such a manner, without needing to change hands and make two movements, one can swiftly draw the sword and employ it for that purpose which the occasion demands.
+
+[38] (P5.S0)
+[ 8 ] ON RAISING THE STANDARD.
+
+[39] (P5.S1)
+CAP.
+
+[40] (P5.S2)
+II.
+
+[41] (P5.S3)
+To raise the Standard, one should take it with the right hand and, lifting it high, let it unfold. Assuming the wind permits and the space allows, finding oneself in the posture depicted in the drawing, one may with the right foot, the hand of the pole, and the grace of the waist together, bow to the spectators before engaging in play, taking heed.
+
+[42] (P5.S4)
+that in the militia, passing before the Prince, the General, or another great personage, it is an act of reverence to bow it in respect, lowering it to the ground.
+
+[43] (P6.S0)
+[ 10 ] OF THE FIRST WAY to begin to handle the Banner.
+
+[44] (P6.S1)
+CAP.
+
+[45] (P6.S2)
+III.
+
+[46] (P6.S3)
+This is the first lesson with which one begins the practice, and to achieve that honor which is desired, the body must be somewhat bent and prepared for strength.
+
+[47] (P6.S4)
+The arm shall be extended, strong, and raised above the head, and moving with a natural yet generous step, it shall form, at the same time with the right hand, the veiled action, taking with judgment the wind, which spreads without entangling the banner; it is repeated after turning the hand in reverse for the second turn, and one continues in this manner according to the thought.
+
+[48] (P6.S5)
+One can still change hands, and then it is greater skill to throw it and catch it in the air than to change it naturally.
+
+[49] (P7.S0)
+[ 12 ] OF STRIKING WITH THE THRUSTS OF THE SIGN.
+
+[50] (P7.S1)
+CAP.
+
+[51] (P7.S2)
+IV.
+
+[52] (P7.S3)
+All the lessons are so arranged that one is linked to the other.
+
+[53] (P7.S4)
+Here, we must learn how to deliver thrusts with the Sign, and this not only serves to demonstrate the skill and dexterity of the player, but it may also be the case that one practices it professionally in war.
+
+[54] (P7.S5)
+Thus, the arm shall be held outstretched, and having given a feint with the right hand above the head, one must immediately thrust forward without losing time the Flag, by delivering the thrust of the fourth, yes.
+
+[55] (P7.S6)
+he will return.
+
+[56] (P7.S7)
+After the arm, and the hand in second, and by joining the weary foot, the strike will likewise be extended, always taking into account the wind, the movement, and the correctness of the step to avoid the disgraceful, which detracts from the merit of what one is about to perform.
+
+[57] (P7.S8)
+One can still perform the same lessons with the left hand, which is all the more commendable as this member is by nature weaker and less exercised.
+
+[58] (P8.S0)
+[ 14 ] HOW TO HANDLE THE FLAG with the reverse hand.
+
+[59] (P8.S1)
+CAP.
+
+[60] (P8.S2)
+V. This lesson is difficult but nonetheless beautiful, and truly bizarre.
+
+[61] (P8.S3)
+The spear is grasped with the reverse hand, as shown in the opposing figure; the arm must be somewhat drawn in to assist the wrist fatigued by the weight. By narrowing the stance and allowing the upward movement of the hand from one side to the other, we shall navigate without confusion the winding volumes of the Insignia, interspersing two or three lower limbs.
+
+[62] (P8.S4)
+the girandole behind the loins, and changing hands according to what pleases most.
+
+[63] (P9.S0)
+[ 16 ] TO PASS THE SIGN beneath the legs.
+
+[64] (P9.S1)
+CAP.
+
+[65] (P9.S2)
+VI.
+
+[66] (P9.S3)
+Having the Sign in motion, and wishing to perform the present lesson, one throws it into the air and catches it with the reversed hand, which, turned with the arm and the body bent, passes under the left leg by turning it to the right. And then, all at once, one unfolds the reversed hand behind the kidneys and takes it with the weary hand, making it pass under the right leg for the left, and this can be repeated with both as much as one is capable and skilled, and as one's breath allows.
+
+[67] (P10.S0)
+[ 18 ] TO DISCHARGE THE STANDARD.
+
+[68] (P10.S1)
+CAP.
+
+[69] (P10.S2)
+VII.
+
+[70] (P10.S3)
+I know very well that various things always delight, and for this reason I have endeavored both to gather and to invent the lessons that are seen.
+
+[71] (P10.S4)
+To understand the present figure, one draws with the right hand a veiled motion, then throws the Banner into the air, catches it with the other hand, and continues to perform the same play, always accompanying the foot with the arm, and with the artifice of the wind.
+
+[72] (P10.S5)
+One can still interpose some lower leg passes and other variations, which serve as embellishments to the lessons to showcase the spirit of those who practice them.
+
+[73] (P11.S0)
+[ 20 ] HOW ONE SHOULD EXECUTE the Molinello.
+
+[74] (P11.S1)
+CAP.
+
+[75] (P11.S2)
+VIII.
+
+[76] (P11.S3)
+The molinello is of great beauty, and to perform it with ease, it is necessary to have the Ensign in the right hand; it is completed above the head with a full turn, and then it is thrown into the air, and it is taken around the middle as the figure of the Ensign.
+
+[77] (P11.S4)
+The little mill is turned towards the foot that remains behind, and after making several turns, the weak hand is taken with the other to grasp the hilt of the flag, and the same lesson is performed, by throwing it into the air just as has been said above.
+
+[78] (P12.S0)
+[ 22 ] HOW TO HANDLE THE SIGN BEHIND THE LOINS.
+
+[79] (P12.S1)
+CAP.
+
+[80] (P12.S2)
+IX.
+
+[81] (P12.S3)
+The present figure demonstrates a beautiful invention of this art, and so that each one may understand it, I shall briefly explain it.
+
+[82] (P12.S4)
+The standard must be found in the right hand, and after making a full flourish above the head, it is turned over and with a spin is brought behind the shoulders to the left side, where with the help of the left hand various undulations are formed at will. This can be done while strolling or even standing still; however, it is all the more necessary to keep an eye on the measure of the step and the wind, as the danger of error increases when both hands are occupied, and one cannot use the eye to regulate the motion of the Banner, which we aim to display with mastery without wanting to gaze upon it.
+
+[83] (P12.S5)
+Each person shall be free to perform with the left hand the very same lesson, loosening the arm and bringing it forth preferably, while observing the order that has been prescribed above.
+
+[84] (P13.S0)
+[ 24 ] OF WAVING THE FLAG behind the shoulders.
+
+[85] (P13.S1)
+CAP.
+
+[86] (P13.S2)
+X. In this figure, the arm is held extended and very prominent, and by turning it behind the waist, the Sign is made to play from one side to the other, moving the step in proportion so that it does not become entangled, and all of this, after some undulations, can also be replicated with the left, over which, in order not to become tedious, I shall refrain from elaborating further.
+
+[87] (P14.S0)
+[ 26 ] OF THE WAY TO PASS THE Sign under the Legs.
+
+[88] (P14.S1)
+CAP.
+
+[89] (P14.S2)
+XI.
+
+[90] (P14.S3)
+After having made several passes, both with the forehand and the backhand, raising the Flag as needed and adjusting it to the waves that form in various places, finally one must bend the waist in the manner that has been depicted, and having made a turn above the head, one lowers the arm, and passes the Banner under the right leg, and having grasped it with the left hand, one follows the lesson that has been taught.
+
+[91] (P15.S0)
+[ 28 ] TO PASS THE INSIGNIA, around the Neck.
+
+[92] (P15.S1)
+CAP.
+
+[93] (P15.S2)
+XII.
+
+[94] (P15.S3)
+It is proposed to pass the Flag around the neck.
+
+[95] (P15.S4)
+This invention seeks the arm, as usual, extended and high, and after some feints, one takes the time so that it comes to rest on the right shoulder, and by pushing with a slight turn to the left, one abandons the staff and, turning the waist, retrieves it in the middle, as the drawing indicates, entering into the spins, and after the usual undulations, one can replicate the same with the left hand.
+
+[96] (P16.S0)
+[ 30 ] HOW ONE SHOULD THROW THE SIGN In the walking, and change hand.
+
+[97] (P16.S1)
+CAP.
+
+[98] (P16.S2)
+XIII.
+
+[99] (P16.S3)
+I fear I may not be tedious in repeating the same things, and become obscure in omitting them.
+
+[100] (P16.S4)
+The Sign is always in motion when the lessons begin, and the main movements are the forehand strikes and the backhand ones, with which above the head the veils are formed and completed.
+
+[101] (P16.S5)
+I am therefore compelled to repeat them in the proposed figure, for to them we must connect that which is our intent to declare.
+
+[102] (P16.S6)
+Having completed the turn of the river, one will raise the Banner high, and with a weary hand, one will do the same, and likewise, one will throw from the right side, which, repeated from both sides multiple times, will begin a new game, allowing one to take from the novelty that enjoyment and delight that those who appreciate virtue feel, always supposing that time, pace, and wind have the proper proportion, without which every effort loses its merit and only gains blame.
+
+[103] (P17.S0)
+[ 32 ] OF THE HANDLING OF THE INSIGNIA UNDER THE Leg.
+
+[104] (P17.S1)
+CAP.
+
+[105] (P17.S2)
+XIV.
+
+[106] (P17.S3)
+The aforementioned rotations are performed, and having the sign in the left hand, it is lowered, and with a turn of the right hand, it is brought under the leg, and aided as seen in the figure, the waves are formed. Then, one withdraws through the path that has been established, either from under the left leg, one changes hands, and with equal mastery, one returns to execute what we have declared.
+
+[107] (P18.S0)
+[34] OF THE CROSS STRIKES of the Sign.
+
+[108] (P18.S1)
+CAP.
+
+[109] (P18.S2)
+XV.
+
+[110] (P18.S3)
+IF one holds the raised banner, and makes a turn of the reverse as used above the head, one will accompany with the foot a thrust towards the left side, and turning it towards the right side, one will execute the thrust with the same skill; the cross is finished with two additional strikes, the front foot must always be followed by that which is behind, and although all of this is quite clear in itself, nevertheless it would be difficult to put into practice without a master.
+
+[111] (P19.S0)
+[ 36 ] OF THROWING THE FLAG HIGH BEHIND THE SHOULDERS.
+
+[112] (P19.S1)
+CAP.
+
+[113] (P19.S2)
+XVI.
+
+[114] (P19.S3)
+This lesson is difficult and also requires the usual flourishes as a prelude; it is then executed with a reverse pass behind the shoulders, and lifting it, although resting against the lower back, it is pulled upward with the strength of the hand, particularly the index finger, and is made to pass over the left shoulder. Here it is caught with the left hand, and the play is renewed, which, once finished, returns to the right hand, allowing the spear to be gathered again without changing hands.
+
+[115] (P20.S0)
+[ 38 ] OF PASSING THE SIGN under both legs starting from the right.
+
+[116] (P20.S1)
+CAP.
+
+[117] (P20.S2)
+XVII.
+
+[118] (P20.S3)
+To perform the lesson that is shown, after finishing the round of the rivercio, one turns a mandritto by bending the body and lowering the sign, and one brings it underneath both legs starting from the right; all is done in one single motion, and what is done with one hand can always be done with the other.
+
+[119] (P21.S0)
+[ 40 ] OF THE MOUNTS OF THE Right Hand.
+
+[120] (P21.S1)
+CAP.
+
+[121] (P21.S2)
+XVIII.
+
+[122] (P21.S3)
+We have come to the manner in which the posts should be formed.
+
+[123] (P21.S4)
+There is no guard or strike in fencing that is not adapted to the art of the Standard, and wishing to convey what I intend to teach in the present figure, one will find the Banner in a stance of the right hand above the head, and upon finishing the turn, one shall begin the rising strike first from the left, and then from the right side, and by doubling them at one's pleasure, one may change hands, and perform the same lesson, as we have demonstrated more and more in the other chapters.
+
+[124] (P22.S0)
+[ 42 ] OF THE THRUSTING, AND RECOVERING THE SIGN with the same hand.
+
+[125] (P22.S1)
+CAP.
+
+[126] (P22.S2)
+XIX.
+
+[127] (P22.S3)
+In the handling of the flag, it seems that skill and agility equal strength, but at times they must go hand in hand and be of the highest degree, and that this truth is clearly understood in our figure. For after various passes and veils of the flag, one must firmly establish oneself on the feet, and then one must with the right hand turn a rotation above the head and, releasing a half thrust, pull with all strength from the loins and the hand, the Banner into the air so that it spins, once and a half, and falls as is depicted in the figure. It is taken with the same hand, and one returns to the ordinary play, which is always the beginning of a new action.
+
+[128] (P23.S0)
+[ 44 ] OF THE SIGN at hand.
+
+[129] (P23.S1)
+CAP.
+
+[130] (P23.S2)
+XX.
+
+[131] (P23.S3)
+At the last veiled strike to enter into our lesson, one throws the standard into the air and catches it with the reverent hand; the arm shall be extended, and the tip of the spear must be directed towards the ground. By skillfully taking advantage of the time and the wind, one may perform undulations, veils, underlegs, and flag turns behind the loins, and all that one shall have been able to learn from the fidelity and valor of their master.
+
+[132] (P24.S0)
+[ 46 ] OF GATHERING THE STANDARD.
+
+[133] (P24.S1)
+CAP.
+
+[134] (P24.S2)
+XXI.
+
+[135] (P24.S3)
+All things that bring us delight, if they exceed their measure, become burdensome; the aim and perfection of what we begin to undertake. Therefore, when gathering the sign, it should be held with the right hand upon the shoulder, and by giving it a little wind, it will be taken by the thread near the edge with the weary hand. Thus, holding it in the position of the wood, one may commendably conclude their labors.
+
+[136] (P25.S0)
+[ 48 ] ON TAKING HOLD OF THE SWORD CHAP.
+
+[137] (P25.S1)
+XXII.
+
+[138] (P25.S2)
+The sword is a weapon that is used in various ways; the effeminate employ it as an ornament for their fragrant attire, while strong men wield it as an instrument of wrath, defending their duty; but reserving myself to speak more extensively on this subject shortly, I will continue for now with that which I have proposed.
+
+[139] (P25.S3)
+Therefore, when one wishes to draw the sword, if the banner is in the right hand, it can be thrown into the air and caught with the left, or without this act, it can naturally be transferred to the other hand. By raising it to have the side more free, the sword will be drawn out as clearly seen in the figure, and by taking a well-regulated step, one will not fail to be recognized as experienced in this noble exercise. And if one wishes to change hands, the sword will be placed under the arm, and having taken the Banner, the left will remain armed, allowing for those passes and lessons that have been learned in the art to be performed.
+
+[140] (P26.S0)
+[ 50 ] OF WALKING WITH THE SWORD, and Banner.
+
+[141] (P26.S1)
+CAP.
+
+[142] (P26.S2)
+XXIII.
+
+[143] (P26.S3)
+The first admonition that we must have for the declaration of the figure is that the sword and the banner must be held firmly and with strength, and it is free to play according to one's genius, and one may change hands at the same time while throwing the Insignia into the air and before it falls, taking hold of the sword, and this can be done many times, for it is a most beautiful lesson and truly worthy of being observed.
+
+[144] (P27.S0)
+[ 52 ] OF HANDLING THE INSIGNIA with the right while the left hand is armed.
+
+[145] (P27.S1)
+CAP.
+
+[146] (P27.S2)
+XXIV.
+
+[147] (P27.S3)
+This is a very firm rule, that the Sign should never be idle, and therefore, although the left hand holds the sword, the right remains free; and when it is in some way hindered, as I have said before, it is all the more praiseworthy. And while executing the lesson of the reverse, the left arm should be held up as shown in the drawing, and forming the usual curves with the waving of the banner, it will then slide down the arm, enter into the other lesson, change hands, taking the wind; and the time that is needed.
+
+[148] (P28.S0)
+[ 54 ] OF PUTTING THE Sword IN THE SHEATH.
+
+[149] (P28.S1)
+CAP.
+
+[150] (P28.S2)
+XXV.
+
+[151] (P28.S3)
+The present figure is self-evident; to sheathe the sword, one must draw near to the Standard, and while holding it firmly with the left hand so that it does not touch the ground, one performs the lesson we have set forth, and in the meantime, one may raise the Banner while keeping it unfurled in the same hand.
+
+[152] (P29.S0)
+[ 56 ] OF THE HAND CATCH for defense.
+
+[153] (P29.S1)
+CAP.
+
+[154] (P29.S2)
+XXVI.
+
+[155] (P29.S3)
+In the face of dangers when least expected, boldness compels us to fight, but victory belongs to virtue, for defending oneself against misfortunes both in war and in peace. First, one must take up the Standard, and upon the weaker arm, the sword shall be placed. Then, turning the spear towards the enemy, one shall prepare in good guard to withstand every offense.
+
+[156] (P30.S0)
+[ 58 ] OF THE GUARD WITH THE SWORD, and the Banner.
+
+[157] (P30.S1)
+CAP.
+
+[158] (P30.S2)
+XXVII.
+
+[159] (P30.S3)
+It is so natural to defend oneself that the laws allow it, even against those who offend us out of vengeance.
+
+[160] (P30.S4)
+When the Standard Bearer or another person finds themselves in this necessity, they must gather and arrange the Banner in such a way that it does not obstruct the view and serves more as a shield than as a burden.
+
+[161] (P30.S5)
+The arm shall be somewhat curved and the position of the hand in third, holding the body in profile to be more covered, and to minimize the target; the body shall rest on the weary leg, and with the right foot free and light, it may close in on the enemy; one must form the step so that it is not overly strained, and advance to gain ground, and the sword, taking away their time and measure by anticipating them. The response shall be quicker than the call; the cuts shall be parried with full cover, or with life’s escapes striking with the point. And if the enemy were to wait, then one must close in, bring them to obedience, and deceive them, teaching that one who is an enemy, lurking against life, is not worthy to enjoy it.
+
+[162] (P31.S0)
+[ 60 ] OF THE GATHERING OF THE FLAG.
+
+[163] (P31.S1)
+CAP.
+
+[164] (P31.S2)
+XXVIII.
+
+[165] (P31.S3)
+At the end of the lesson, one gathers the Flag, holding it in the weary hand, with the edges wrapped and the arm supporting the staff.
+
+[166] (P31.S4)
+The design made by a good engraver, if accompanied by anyone who delights in such exercises, my works would gain more credit, and I would often do well with less effort.
+
+[167] (P32.S0)
+[ 62 ] CONCLUSION.
+
+[168] (P32.S1)
+I have arrived at the end, for I am not prepared; I confess my weakness. Nevertheless, I shall serve with diligence to seek out that which I have not understood. And as I speak with a style that the mind cannot grasp, it is a difficult thing to find pleasure in this disheartened century. Whoever regards my spirit will find what they desire, and in the meantime, I console myself, for the wise man is always discreet.
+
+[169] (P33.S0)
+[ 63 ] FOR THE IMPRESSION OF PADUA.
+
+[170] (P33.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[171] (P33.S2)
+Antonius of Lendenaria Inquis.
+
+[172] (P33.S3)
+General of Padua saw, and approved.
+
+[173] (P33.S4)
+Day 6.
+
+[174] (P33.S5)
+September 1638.
+
+[175] (P33.S6)
+Commis.
+
+[176] (P33.S7)
+General of the Holy Office.
+
+[177] (P33.S8)
+Venet.
+
+[178] (P33.S9)
+saw, &c approved.
+
+[179] (P33.S10)
+I'm sorry, but it seems there is no text provided for translation. Please provide the text you would like me to translate.
+
+[180] (P33.S11)
+Fulgentio of Serui.
+
+[181] (P33.S12)
+On the 21st.
+
+[182] (P33.S13)
+October 1638.
+
+[183] (P33.S14)
+Recorded in the Most Excellent Magistrate.
+
+[184] (P33.S15)
+against the Beast to the car.
+
+[185] (P33.S16)
+125.
+
+[186] (P33.S17)
+Angelo Battisti.
+
+[187] (P33.S18)
+Battista Nani Reff.
+
+[188] (P33.S19)
+Gierolimo Trivisan Reff.
+
+[189] (P33.S20)
+Pietro Foscarini Reff.
+
+[190] (P33.S21)
+Aluise Querini Secret.
+

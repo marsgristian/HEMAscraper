@@ -1,0 +1,24 @@
+MASTER: Achille Marozzo
+SOURCE BOOK: achille marozzo__introduction
+FIELD NAME: TranscriptionbySocietà d’Arme dell’Aquila
+TOTAL TEXTOS: 6
+================================================================================
+
+[1] (P0.S0)
+Nova obra de Achille Marozzo, bolonhês, mestre geral da arte das armas.
+
+[2] (P1.S0)
+Proêmio.
+
+[3] (P1.S1)
+Tendo eu já há muito tempo dado início a esta minha pequena obra, pouco ornamentada na verdade, mas, se não me engano, muito útil para aquilo que nela ordenadamente discorro, sobre os avisos e cuidados que no trato de toda sorte de armas se causam, as quais coisas, embora em cada século tenham sido louváveis, são ainda mais no nosso devido ao péssimo uso que delas se faz para a conservação do seu honor, pode-se dizer que se mostram sobremaneira necessárias; tendo eu, digo, desde a minha primeira juventude esta obra começada, me demorei até esta minha última idade para lhe dar o extremo cumprimento e a enviar ao conhecimento e utilidade comum dos homens, a fim de que nela me pudesse ser restituído não somente o que nesta arte me foi mostrado pelo nobilíssimo operador da mesma, Mestre Guido Antonio de Luca Bolognese, da cuja escola se pode bem dizer que saíram mais guerreiros do que do Cavalo Troiano se costumava dizer que fizeram, e todas aquelas que de qualquer outro em toda maneira aparelhadas tinha, mal encontradas por mim ainda e as quais a experiência, certíssima prova das coisas, mais de uma vez me havia confirmado serem veríssimas, a qual experiência, digo, com o número de poucos anos não pode vir e é, entretanto, mais a este exercício do que a qualquer outro requerida, na medida em que é mais de todos os outros perigoso e na qual se determinam as mais graves questões.
+
+[4] (P2.S0)
+E embora, ao conduzir a sua finalidade, a mencionada empreitada tenha me trazido muitas e muitas fadigas duradouras, agora me encontro decidido, pois, desejando eu consagrá-la a alguma quase deidade terrena, sob cujo favor possa, como dizem, andar seguro dos mordentes invejosos pelas mãos dos homens e passar para as idades vindouras, não será de meu interesse que eu me fatigue demais em escolher a quem de muitos, pois isso deve ser feito, e parece a muitos daqueles que têm a fazer isso quase por costume, porque a quem mais eu poderia merecidamente enviá-la do que a Vós, Magnânimo e Magnífico Senhor Conde Guido, que não só da claríssima família Rangona, produtora de tantos famosos valentes homens e das armas da Itália, mas de todas as da Europa e de toda a Cristã Cavalaria, sois o esplendor e a clareza, e do qual, ó mais valoroso Duque, ou mais sábio Cavaleiro, por muito tempo que eu tenha, meus olhos ainda não viram.
+
+[5] (P3.S0)
+De que eu costumava tomar um argumento certíssimo e que assim deveria resultar em uma esperança firme e infinita desde aquele tempo em que sob a doutrina do nomeado M. Guido Antonio vós começastes a praticar esta gentilíssima arte, cujos ensinamentos vós tendes em grandíssimo necessidade da vossa dignidade, exercitando-os com a vossa glória infinita às Estrelas levadas, se eu não erro muito, não deverá ser desagradável a vós se eu igualmente rendo aquele honor que por mim se pode ao maior com a testemunha deste livrinho, o qual eu humildemente suplico que, por muitas razões, a vossa cortesia diretamente vigente o receba cortêsmente e, fazendo-o ler, mostre-se de não se indignar que com a memória do vosso gracioso nome e das vossas gloriosas louvores, que na sua primeira face traz, quase entre as diversas gentes benevolência se adquira e a se fazer ler com algum seu benefício os convites e atrativos, pois que vós sois verdadeiramente aquele que, entre as mais variadas pessoas, sois mais amado e reverenciado do que qualquer outro e, além disso, a cada outro se ouve voluntariamente recordar.
+
+[6] (P4.S0)
+Vivei alegres e do Mestre Achille, autor desta obra, e às vossas virtudes cavaleirescas, que, juntamente, com ânimo generoso, sejam lembradas de tempos em tempos.
+

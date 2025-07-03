@@ -1,0 +1,36 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__miscellaneous_plays
+FIELD NAME: TranscriptionbyMarco RubboliandLuca Cesari
+TOTAL TEXTOS: 10
+================================================================================
+
+[1] (P74.S0)
+Eu me defendo tanto quanto posso, como tu me traíste, eu te verei em desgraça.
+
+[2] (P75.S0)
+[ 38v-a ] Eu estou em guarda com a boa mão direita, eu te lançarei, entenderás o escrito.
+
+[3] (P76.S0)
+[ 39r-a ] Partida de adaga
+
+[4] (P77.S0)
+[ 39v-a ] Partida de adaga
+
+[5] (P78.S0)
+[ 40r-a ] Partida de adaga
+
+[6] (P79.S0)
+[ 40v-a ] Partida de adaga
+
+[7] (P80.S0)
+[ 41r-a ] Partida de adaga
+
+[8] (P81.S0)
+[ 41v-a ] Partida de adaga
+
+[9] (P82.S0)
+[ 42r-a ] Partida de adaga
+
+[10] (P83.S0)
+[ 42v-a ] Partida de adaga
+

@@ -8,9 +8,9 @@ import os
 from Traducao import traduzir_texto_contextualizado_openai
 
 # Configurações
-CHECKPOINT_FILE = '/home/danieldna/pln/HEMAscraper/Scripts/checkpoint_openai.json'
-OUTPUT_FILE = '/home/danieldna/pln/HEMAscraper/Scripts/corpus_sentences_openai_pt.jsonl'
-INPUT_FILE = '/home/danieldna/pln/HEMAscraper/Scripts/corpus_sentences.jsonl'
+CHECKPOINT_FILE = '/HEMAscraper/Scripts/checkpoint_openai.json'
+OUTPUT_FILE = '/HEMAscraper/Scripts/corpus_sentences_openai_pt.jsonl'
+INPUT_FILE = '/HEMAscraper/Scripts/corpus_sentences.jsonl'
 
 def load_checkpoint():
     """Carrega o checkpoint se existir"""

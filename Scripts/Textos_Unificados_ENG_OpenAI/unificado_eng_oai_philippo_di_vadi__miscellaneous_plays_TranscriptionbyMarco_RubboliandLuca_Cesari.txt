@@ -1,0 +1,36 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__miscellaneous_plays
+FIELD NAME: TranscriptionbyMarco RubboliandLuca Cesari
+TOTAL TEXTOS: 10
+================================================================================
+
+[1] (P74.S0)
+I defend myself as much as I can; as you betray, I will see you fall.
+
+[2] (P75.S0)
+[ 38v-a ] I am in guard with the good right hand, You will understand the written lance.
+
+[3] (P76.S0)
+[ 39r-a ] Dagger guard
+
+[4] (P77.S0)
+[ 39v-a ] Dagger Parting
+
+[5] (P78.S0)
+[ 40r-a ] Dagger Play
+
+[6] (P79.S0)
+[ 40v-a ] Dagger guard
+
+[7] (P80.S0)
+[ 41r-a ] Dagger Parting
+
+[8] (P81.S0)
+[ 41v-a ] Dagger guard
+
+[9] (P82.S0)
+[ 42r-a ] Dagger guard
+
+[10] (P83.S0)
+[ 42v-a ] Dagger guard
+
