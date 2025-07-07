@@ -1,0 +1,645 @@
+MASTER: Giovanni dall'Agocchie
+SOURCE BOOK: giovanni dall'agocchie__day_6_-_jousting
+FIELD NAME: Draft Translation(2007)byW. Jherek Swanger
+TOTAL TEXTOS: 213
+================================================================================
+
+[1] (P249.S0)
+O Segundo Livro, E O Sexto Dia Dos Diálogos Do Sr. Giovanni dall’Agocchie, Bolonhês: Onde se discute a arte do torneio.
+
+[2] (P250.S0)
+INTERLOCUTORES: Sr. Giovanni dall’Agocchie e Sr. Lepido Ranieri.
+
+[3] (P251.S0)
+Nunca entro neste jardim, Sr. Lepido, sem me alegrar, tanto me encanta esta bela verdura.
+
+[4] (P251.S1)
+De onde você escolheu judiciosamente este lugar para nossas discussões, pois não poderia ter escolhido um mais bonito nem mais confortável, nem um onde eu falasse com mais prazer do que este.
+
+[5] (P252.S0)
+Lep: Vês que eu estava pensando tanto no teu prazer quanto na alegria e utilidade que eu extraio da tua discussão, tendo escolhido um lugar propício a ambos.
+
+[6] (P252.S1)
+Assim, vamos nos sentar em nossos lugares e, por favor, comecem a discutir a justa com a lança, para que eu possa atendê-los com a esperança de ser satisfeito por vocês neste assunto, assim como vocês me satisfizeram no que diz respeito às armas.
+
+[7] (P253.S0)
+Gio: Farei tudo ao meu alcance para recordar todas as observações e conselhos que devem ser empregados na arte do torneio, para que você possa ficar tão satisfeito comigo quanto eu puder fazer você ficar.
+
+[8] (P253.S1)
+Então pergunte-me à vontade e interrompa-me sempre que desejar, para que eu possa sempre lhe responder com um espírito alegre.
+
+[9] (P254.S0)
+Lep: Uma vez que me permites perguntar, gostaria que me explicasses a razão pela qual o anel não foi colocado de maneira razoável.
+
+[10] (P255.S0)
+Gio: Você não viu como estava baixo?
+
+[11] (P255.S1)
+E posicionado quase no meio do percurso?
+
+[12] (P256.S0)
+Lep: Eu vi, embora achasse que estava bom assim, já que o vi posicionado dessa forma em muitos outros lugares.
+
+[13] (P257.S0)
+Gio: Eu acredito em você, mas aqueles que o posicionaram assim não tinham conhecimento de justas, porque se tivessem, teriam colocado de maneira razoável.
+
+[14] (P258.S0)
+Lep: Como deve ser colocado para que seja razoável?
+
+[15] (P259.S0)
+Como o anel deve ser colocado ao jougar.
+
+[16] (P259.S1)
+Gio: Fora do curso, pelo menos três pés de medida em direção ao lado esquerdo daquele que está inclinando, porque assim como o adversário sempre se aproxima do lado esquerdo do cavaleiro ao joustarem no encontro, assim o anel deve ser colocado no mesmo lado também, se se quer que seja colocado de maneira razoável.
+
+[17] (P259.S2)
+Quanto à altura, deve ser de seis pés de medida acima do solo, pois é uma coisa mais razoável e bela acostumar-se a inclinar-se com a lança alta do que baixa, porque ao inclinar-se, seja no percurso ou no campo aberto, poderá atingir a cabeça com mais certeza e maior facilidade, sendo este o golpe mais notável que se pode enfrentar.
+
+[18] (P260.S0)
+Lep: Eu entendo, mas diga-me a razão pela qual foi inventado o torneio de anéis dessa forma.
+
+[19] (P261.S0)
+Gio: Foi inventado para torná-lo divertido e incentivar os jovens que ainda estão aprendendo a lutar com a lança, pois esta é a maneira mais fácil que se utiliza.
+
+[20] (P262.S0)
+Lep: No entanto, parece-me difícil conseguir isso naquele anel.
+
+[21] (P263.S0)
+Gio: É verdade que é difícil, mas não consiste tanto em entrar no ringue quanto em ver um cavaleiro manejar bem sua lança e incliná-la de maneira razoável.
+
+[22] (P264.S0)
+Lep: Em que consiste razoavelmente a justa com a lança?
+
+[23] (P265.S0)
+O que consiste razoavelmente a justa com a lança.
+
+[24] (P265.S1)
+Gio: Dos seis principais tópicos.
+
+[25] (P265.S2)
+O primeiro é entender como estar bem a cavalo.
+
+[26] (P265.S3)
+O segundo é ao segurar e carregar a lança na coxa.
+
+[27] (P265.S4)
+O terceiro é saber como levantá-lo da coxa.
+
+[28] (P265.S5)
+O quarto é colocá-lo no apoio da lança.
+
+[29] (P265.S6)
+O quinto é saber como acomodá-lo.
+
+[30] (P265.S7)
+O sexto e último é saber como recuperá-lo.
+
+[31] (P266.S0)
+Lep: Para minha satisfação, gostaria que você me explicasse melhor esses seis tópicos, para que eu possa compreender esta arte com grande facilidade.
+
+[32] (P267.S0)
+Gio: Ficarei feliz em explicá-los a você.
+
+[33] (P267.S1)
+Começando pelo primeiro, direi que, uma vez que a arte de montar pertence aos mestres de equitação, não me esforçarei muito sobre isso.
+
+[34] (P267.S2)
+Eu só lhe darei três recomendações necessárias, das quais a primeira é que, estando a cavalo, um cavaleiro não deve ficar muito sentado, pois além do desconforto que isso provoca ao inclinar-se com a lança, torna-se uma visão feia.
+
+[35] (P268.S0)
+Lep: Talvez você queira que ele fique em pé reto nos estribos?
+
+[36] (P269.S0)
+Gio: Eu não disse isso, mas quero insinuar que alguém pode se arranjar sentado na sela de tal maneira que fique um pouco mais ereto do que o habitual, de modo que, ao fazer isso, ele ficará mais bonito a cavalo, e também mais confortável e seguro ao competir com a lança, e especialmente ao se enfrentar em um torneio.
+
+[37] (P269.S1)
+A segunda recomendação é que, ao iniciar o percurso, ele não deve aplicar os esporas ao cavalo de forma furiosa, mas sim enviá-lo lentamente, para que ele chegue ao percurso com mais disposição.
+
+[38] (P269.S2)
+E também se faz isso porque, ao mover o cavalo com grande ímpeto, pode-se facilmente perder a lança, como já foi visto muitas vezes.
+
+[39] (P269.S3)
+O terceiro e último ser que no percurso, não o pressionar muito com o esporão esquerdo, porque assim os cavalos não terão motivo para fugir do percurso, se forem encontrados entre aqueles que fogem dele com demasiada avidez, seja por medo do golpe, seja por ouvirem o impacto do outro cavalo ao se aproximar deles; e por essa razão foi concebido o uso de colares com sinos, para que não ouvissem o impacto do outro.
+
+[40] (P270.S0)
+Lep: Agora que ouvi essas recomendações, continue a discutir os outros tópicos.
+
+[41] (P271.S0)
+Gio: Na segunda seção, existem três maneiras de você segurar e carregar a lança na coxa, isto é, entre a coxa e a sela.
+
+[42] (P271.S1)
+A primeira é segurá-la inclinada um pouco para fora, em direção ao seu lado direito.
+
+[43] (P271.S2)
+O segundo é fazê-lo pender um pouco para o lado esquerdo.
+
+[44] (P271.S3)
+O terceiro e último é segurar a lança de modo que ela não fique pendurada nem para lá nem para cá, mas que permaneça fixa no meio.
+
+[45] (P272.S0)
+Lep: Por qual razão você deseja que seja assim, para que seja segurado entre a coxa e a sela?
+
+[46] (P273.S0)
+Gio: Porque quando o cavaleiro está armado, a armadura atrapalharia de modo que a ponta da lança não pudesse ser fixada nela, exceto com dificuldade, e, dado isso, é mantida da maneira mencionada por necessidade.
+
+[47] (P274.S0)
+Lep: Essa é uma boa razão.
+
+[48] (P274.S1)
+Mas diga-me, entre essas três maneiras de segurar e carregar a lança na coxa, qual é a mais bela?
+
+[49] (P275.S0)
+Gio: Para segurá-la e mantê-la fixa no meio, porque além de evitar extremos, também se faz uma bela aparência, mantendo, no entanto, a ponta da lança nem muito alta nem muito baixa, mas de forma razoável; e de maneira semelhante, é necessário manter o cotovelo direito de tal modo que não aponte nem muito para cima nem para baixo; mas deve ter uma graça encantadora.
+
+[50] (P276.S0)
+Lep: Mas se a lança deve pender para um dos dois lados, qual seria o melhor para ela se inclinar?
+
+[51] (P277.S0)
+Gio: Para o lado esquerdo, mas não muito, porque já se viu alguns que, para exibir sua bravura, o carregavam tão inclinado que faziam aqueles que os viam rir; mas deixá-lo pendurado para o lado direito é algo que de forma alguma eu louvo; pelo contrário, eu condeno isso totalmente, porque além de ser muito feio de se ver, muitos erros podem ocorrer ao levantar a espada da coxa e colocá-la no apoio da lança; mas nas outras duas maneiras esse perigo não está presente.
+
+[52] (P278.S0)
+Lep: Por que muitos caem neste erro?
+
+[53] (P279.S0)
+Gio: Porque eles não têm uma compreensão racional da justa.
+
+[54] (P279.S1)
+Mas para continuar com a discussão do terceiro tópico, há também três maneiras de levantar a lança da coxa.
+
+[55] (P279.S2)
+Um é, ao levantá-lo enquanto está em movimento, colocá-lo imediatamente no apoio da lança.
+
+[56] (P279.S3)
+O próximo é, enquanto você se posiciona na linha, levantá-lo e mantê-lo fora da coxa com o pulso, com o braço estendido para baixo.
+
+[57] (P279.S4)
+O terceiro e último é, ao ser enviado para o curso, levantá-lo um pouco para cima da coxa, segurando-o novamente com o pulso, mas o braço deve estar um pouco dobrado, fazendo com que a ponta da lança aponte para o adversário; e acima de tudo, deve-se ter o cuidado de não apoiar a lança sobre si mesmo, pois isso parece muito feio; e estas são as maneiras que estão atualmente em uso.
+
+[58] (P280.S0)
+Lep: Qual desses modos você considera o melhor?
+
+[59] (P281.S0)
+Gio: Todos os três são bons, no entanto, considero o último o melhor e mais seguro, pois quando o cavaleiro mantém o braço um pouco dobrado, ele sustenta a lança com mais facilidade; além disso, há mais segurança ao colocá-la no suporte da lança, uma vez que a mão está mais próxima dele; e, além do mais, segurá-la e carregá-la pelo pulso é útil na guerra, dado que todas as coisas são mais belas e dignas de louvor quanto mais se aproximam da semelhança da verdade.
+
+[60] (P282.S0)
+Lep: Assim é, mas diga-me, por que carregar a lança na bolsa [13] quase nunca é feito mais?
+
+[61] (P283.S0)
+Gio: Porque as lanças que são feitas atualmente são mais leves e mais manobráveis, e os arcos das selas na frente das montarias são menores; e também não se faz isso para evitar dois erros que poderiam surgir do embate se as lanças fossem seguradas na bolsa: o primeiro é que, ao embater, a lança ficaria tremendo; e o outro é que poderia quebrar durante o percurso, como já foi visto muitas vezes entre aqueles que quiseram embater com lanças leves, segurando-as na bolsa.
+
+[62] (P284.S0)
+Lep: Então, por que foi inventado carregar a lança na bolsa?
+
+[63] (P285.S0)
+Por que a lança era carregada na bolsa.
+
+[64] (P285.S1)
+Gio: Porque as lanças que estavam em uso naquela época eram tão grandes e pesadas que apenas de forma desajeitada podiam ser carregadas pelo pulso, e também as arcadas das selas que estavam em uso eram tão largas que impediam o seu manuseio e o transporte razoável sobre a coxa.
+
+[65] (P285.S2)
+E considerando isso, a bolsa foi inventada.
+
+[66] (P286.S0)
+Lep: Como aconteceu que lanças tão pesadas não são mais utilizadas?
+
+[67] (P287.S0)
+Gio: Porque os cavaleiros já não estão mais interessados em derrubar uns aos outros do cavalo, como estavam naquela época, visto que isso realmente é algo mais propenso a desagradar do que a agradar, mas hoje eles se preocupam apenas em manejar bem a lança e quebrá-la de forma judiciosa; porque, na verdade, ao fazê-lo para entretenimento, os extremos devem sempre ser evitados.
+
+[68] (P288.S0)
+Lep: Entendo que é como você diz.
+
+[69] (P288.S1)
+Portanto, continue com o quarto título.
+
+[70] (P289.S0)
+De quantas maneiras a lança pode ser colocada no suporte de lança.
+
+[71] (P289.S1)
+Gio: Note, então, que há também três maneiras de colocar a lança no descanso da lança.
+
+[72] (P289.S2)
+O primeiro é, no início do curso.
+
+[73] (P289.S3)
+O segundo é quando o cavalo foi despachado.
+
+[74] (P289.S4)
+O terceiro é quando se aproxima de seu adversário.
+
+[75] (P290.S0)
+Lep: Qual dessas três maneiras você considera a melhor e mais segura?
+
+[76] (P291.S0)
+Gio: O segundo, ou seja, quando ele é enviado pelo caminho.
+
+[77] (P291.S1)
+A razão é que, se você quiser colocar a lança no suporte de lança no início do percurso, ela pode balançar para cima e para baixo, o que torna a cena muito feia de se ver; e isso às vezes ocorre não por causa do cavaleiro, mas devido ao cavalo, que ao partir perturba-o de tal maneira que ele não consegue manter sua lança firme.
+
+[78] (P291.S2)
+E então, desejando estabilizá-la quando se aproxima de seu adversário, aquele que não teve muita prática pode facilmente dar-lhe a lança na cabeça, ou passar por ele sem acertar, ou ao abaixá-la muito rapidamente pode acertar sua lança na barreira, como já foi experimentado muitas vezes.
+
+[79] (P291.S3)
+Mas ao colocá-la no descanso da lança uma vez que o percurso está em andamento, esses perigos são evitados, e assim, carregar a lança no descanso da lança de forma um tanto fixa e com bom julgamento proporciona uma visão muito agradável.
+
+[80] (P291.S4)
+E por essas razões, considero que carregar a lança no descanso da lança quando o curso está em andamento é melhor e mais seguro.
+
+[81] (P291.S5)
+Mas, acima de tudo, ao prender a lança, é necessário colocar a mão para frente, virando a mão para dentro nesse tempo de tal forma que as últimas articulações dos dedos fiquem voltadas para cima, de modo que, ao fazer isso, a lança seja colocada no descanso da lança de forma mais segura e com maior facilidade.
+
+[82] (P292.S0)
+Lep: Desejas, então, que o agarrador seja imediatamente aproximado do apoio da lança?
+
+[83] (P293.S0)
+Gio: Não isso, porque poderia desestabilizar a lança.
+
+[84] (P293.S1)
+No entanto, se o cavaleiro quisesse aproximar o agarrador do apoio da lança para sua satisfação, seria muito melhor e mais seguro para ele puxá-lo ali aos poucos enquanto estava na pista; mas preste atenção ao quinto título.
+
+[85] (P294.S0)
+Lep: Espere, por favor, porque primeiro eu gostaria que você esclarecesse uma dúvida para mim, que é que muitas pessoas dizem que não se deve segurar o punho apertado quando a lança está no descanso da lança; elas dizem que manter a mão aberta é muito melhor.
+
+[86] (P295.S0)
+Gio: Na verdade, é completamente o oposto, porque quando se desferem o golpe, o agarrador atinge o apoio da lança; e se a mão estivesse aberta, o impacto faria com que escorregasse, onde poderia atingir o corpo da lança, que está acima do punho.
+
+[87] (P295.S1)
+E em consideração a isso, muitos têm colocado manoplas em suas mãos.
+
+[88] (P295.S2)
+Mas segurando-o de forma um pouco firme, esse perigo não existe.
+
+[89] (P295.S3)
+E além disso, quando as lanças se chocam, segurá-la da maneira mencionada faz com que o adversário (se ele estiver com a mão aberta) não acerte, mas o outro pode acertar com mais certeza.
+
+[90] (P295.S4)
+E estas são as razões pelas quais é muito melhor e mais seguro segurar a mão como eu disse acima.
+
+[91] (P296.S0)
+Lep: Eu entendo.
+
+[92] (P296.S1)
+Continue a discutir o quinto tópico.
+
+[93] (P297.S0)
+De que maneiras a lança é posicionada.
+
+[94] (P297.S1)
+Gio: Na quinta seção, há três maneiras de apoiar a lança.
+
+[95] (P297.S2)
+Um deve abaixá-lo imediatamente ao colocá-lo no descanso da lança.
+
+[96] (P297.S3)
+O próximo é mantê-lo alto no início do curso e abaixá-lo um pouco quando se começa a se aproximar do inimigo.
+
+[97] (P297.S4)
+O terceiro e último é abaixá-lo tudo em um tempo quando se deseja atingir.
+
+[98] (P298.S0)
+Lep: Qual dessas três maneiras é a mais segura?
+
+[99] (P299.S0)
+Gio: Segurando-a alta, e então abaixando-a um pouco como já disse, porque se um cavaleiro deseja posicionar sua lança no início do percurso, quando ele deseja desferir o golpe, muitas vezes é forçado a levantar a ponta ou a atingir o ombro, e, acima de tudo, ambas as maneiras são feias de se ver.
+
+[100] (P299.S1)
+Quanto a querer abaixá-la e imediatamente atacar, além de ser difícil, isso não é muito seguro.
+
+[101] (P299.S2)
+Mas ao erguer a lança alta, e com vantagem, e então baixá-la um pouco ao se aproximar do inimigo, isto é, levantando um pouco o cotovelo, pode-se desferir o golpe facilmente, e além disso, isso proporciona uma visão muito agradável.
+
+[102] (P300.S0)
+Lep: O que você quer dizer com essa "vantagem"?
+
+[103] (P301.S0)
+Gio: Quero dizer que, ao colocar a lança no suporte da lança, ela deve ser posicionada firmemente e de tal maneira que sua ponta aponte para o lado esquerdo, de modo que o lado externo da lança do adversário possa ser descoberto, mantendo sempre os olhos fixos no alvo da abertura do elmo, de forma que, ao fazer isso, é quase impossível passar pelo curso sem atingir.
+
+[104] (P301.S1)
+E este é o método mais seguro que pode ser empregado.
+
+[105] (P302.S0)
+Lep: Eu gosto muito disso, então continue com as outras partes.
+
+[106] (P303.S0)
+De que maneira a lança é recuperada.
+
+[107] (P303.S1)
+Gio: Agora, ao discutir o sexto e último tópico, digo-vos que existem duas maneiras de recuperar a lança.
+
+[108] (P303.S2)
+O primeiro é devolvê-lo à coxa uma vez que tenha passado o inimigo.
+
+[109] (P303.S3)
+O segundo é lançar a empunhadura da lança atrás da coxa direita, fazendo com que sua ponta fique voltada para trás, e então, uma vez que o cavalo tenha parado, retorná-la para a coxa.
+
+[110] (P304.S0)
+Lep: Qual dessas duas maneiras é a melhor?
+
+[111] (P305.S0)
+Gio: Este último é melhor, porque querer colocar a lança de volta na coxa imediatamente é um tanto difícil quando se está de armadura, pois o arnês (como já disse) muitas vezes impede isso.
+
+[112] (P305.S1)
+Mas colocá-lo atrás da coxa, uma vez que isso não é nenhum impedimento para você, é muito mais seguro.
+
+[113] (P306.S0)
+Lep: Por que é que muitos, assim que passam o adversário, lançam sua lança ao chão ou a colocam sobre o ombro?
+
+[114] (P307.S0)
+Gio: Porque eles não sabem como recuperar a lança.
+
+[115] (P307.S1)
+Se eles soubessem a verdadeira maneira de fazê-lo, não o colocariam sobre o ombro, pois realmente é uma coisa muito feia de se ver, nem deveria ser empregada tal moda.
+
+[116] (P307.S2)
+E com isso, colocarei um fim a estes títulos, dos quais eu lhe contei todos os modos que devem ser observados ao desejar inclinar a lança de maneira razoável.
+
+[117] (P308.S0)
+Lep: Estou muito satisfeito com você até agora, no entanto, também consideraria muito valioso se você me dissesse se há mais alguma coisa a saber que seja pertinente à justa.
+
+[118] (P309.S0)
+Gio: Resta entender a regra que deve ser seguida na aquisição de experiência, pois o que estava contido nos cinco tópicos era a teoria do torneio, que indica o verdadeiro caminho que deve ser observado ao desejar competir com a lança de forma razoável.
+
+[119] (P309.S1)
+A experiência, então, é aquilo que se adquire por meio de muita prática.
+
+[120] (P309.S2)
+Resta, então, que você compreenda como deve ser o apoio da lança e onde deve ser colocado; e também como toda a armadura deve ser disposta; e da mesma forma, qual deve ser o comprimento da lança junto com todos os seus armamentos; e, finalmente, resta que você compreenda a medida com a qual a barreira é feita, e com que regra a contra-lista é colocada, que são todas coisas pertinentes e muito necessárias ao justador.
+
+[121] (P310.S0)
+Lep: Eu gostaria que você me explicasse isso também, para que eu possa cumprir plenamente meus desejos.
+
+[122] (P311.S0)
+Gio: Porque me preocupo muito em satisfazer seu nobre desejo, e para completar nossa discussão, eu lhe contarei tudo.
+
+[123] (P312.S0)
+De que maneira o justador deve praticar.
+
+[124] (P312.S1)
+E começando, digo que quando um cavaleiro deseja praticar para adquirir experiência, deve primeiro se armar apenas com uma couraça, e então se lançar, seja a pé ou a cavalo, conforme preferir, a fim de se acostumar a carregar a lança pelo punho, e também a colocá-la com segurança sobre o apoio da lança sem nunca olhar.
+
+[125] (P313.S0)
+Lep: Por que você não quer que ele olhe para o apoio da lança?
+
+[126] (P314.S0)
+Gio: Porque, de qualquer forma, ele não poderia se aproveitar disso ao realizar a tarefa, visto que o apoio da lança não pode ser visto quando se tem a proteção e o elmo na cabeça; e mesmo que não houvesse essa razão, não é bom de forma alguma, mas é, na verdade, um defeito horrendo naqueles que o praticam.
+
+[127] (P315.S0)
+Lep: Então, por que aqueles que o praticam o criaram?
+
+[128] (P316.S0)
+Gio: Há muitos que o fazem, especialmente entre aqueles que ganham a vida a cavalo.
+
+[129] (P316.S1)
+E isso ocorre porque eles não têm uma compreensão do combate com a lança, e se importam menos em aprendê-lo, como aqueles que se convencem tanto que lhes parece que entendem muito.
+
+[130] (P316.S2)
+Mas se considerassem bem, e com claro juízo, quão importante é entender as coisas com razão, tomariam um exemplo dos artesãos, que, quando desejam começar a aprender suas artes, buscam primeiro entender como devem aplicar seus instrumentos às suas necessidades.
+
+[131] (P316.S3)
+Então, quanto mais estes, que fazem do uso das armas uma profissão, deveriam buscar com todo o empenho entender como manejar a lança de maneira razoável, visto que esta é a sua principal ocupação?
+
+[132] (P316.S4)
+Mas se eu quisesse continuar discutindo isso, levaria tempo demais.
+
+[133] (P316.S5)
+De fato, seria necessário passar um dia inteiro sobre este assunto.
+
+[134] (P317.S0)
+Lep: Acredito em você facilmente, porque eu também conheci muitos que faziam uma grande profissão de entender de armas tanto a pé quanto a cavalo, e então, quando eram postos à prova, sabiam muito pouco sobre isso.
+
+[135] (P317.S1)
+Mas quero deixar isso para suas opiniões e continuar nossa discussão, porque tenho certeza de que ficarei muito feliz em entender por que você deseja que um cavaleiro, ao começar a aprender a justa com a lança, o faça a pé.
+
+[136] (P318.S0)
+Gio: Isso se deve ao fato de que ele poderá aprender a carregar a lança pelo pulso de forma mais livre, e a se acostumar a fazer isso, e a colocá-la no apoio da lança, e a posicioná-la com razão, sem que o cavalo o impeça, considerando que, uma vez que ele tenha praticado um pouco esse exercício, poderá então montar seu cavalo com maior segurança e desafiar a um alvo, ou a outro alvo, conforme preferir, e uma vez que tenha praticado bem isso, poderá então começar a quebrar lanças.
+
+[137] (P319.S0)
+Lep: Em que você gostaria que ele quebrasse essas lanças?
+
+[138] (P320.S0)
+Gio: Em uma quintain, como é utilizado, ou ele pode empregar outro método, muito mais bonito e de maior utilidade para se proteger excelentemente, que é este: ele pode fazer um homem de madeira e armá-lo com uma couraça e um capacete na cabeça, e então colocá-lo em um cavalo, também feito de madeira, como aqueles que são usados para a acrobacia; esse cavalo deve ser colocado em uma carroça feita com quatro rodas embaixo, um pé acima do chão, embora os dois que estão na frente fiquem um pouco mais baixos do que os outros dois, acomodando o dito cavalo junto com o homem de madeira, de tal forma que não possa cair, sendo feito com um cordão duplo de cerca de seis braccia de comprimento preso à frente da carroça.
+
+[139] (P320.S1)
+Então, será puxado por alguém correndo o mais rápido que puder ao longo do percurso, o que deverá ser feito de tal maneira que as rodas possam girar facilmente, e assim, ao joustear contra o referido homem, o cavaleiro se assegurará e adquirirá excelente prática, dado que este é um método quase como o de inclinar-se no encontro.
+
+[140] (P321.S0)
+Lep: Poderiam as lanças ser quebradas contra este homem armado sem o uso de um apoio para a lança?
+
+[141] (P322.S0)
+Gio: Eles poderiam, mas quanto a mim, eu não o elogio de forma alguma, pois se um cavaleiro quiser quebrar um sem um apoio de lança, é provável que ele se tensione na lança quando quiser golpear, e nessa ação a lança se tornaria instável, criando uma visão feia.
+
+[142] (P323.S0)
+Lep: Você sempre me satisfez em todas as questões, e nesta acima de tudo.
+
+[143] (P323.S1)
+Mas diga-me, por favor, você quer que haja uma barreira no percurso?
+
+[144] (P324.S0)
+Gio: Para quem puder arcar com isso, seria melhor, e mesmo que não fossem de tábuas, não importaria muito, pois podem ser feitas de várias maneiras que não custam muito, todas as quais servirão para este propósito.
+
+[145] (P324.S1)
+E também se pode fazer uma lança em duas partes, que será boa para praticar, pois, na verdade, quando um cavaleiro deseja se assegurar bem e adquirir excelente experiência, antes de se lançar ao encontro, ele precisa quebrar muitas lanças.
+
+[146] (P324.S2)
+Caso contrário, poderia acontecer com ele o que ocorre com muitos, que, por excesso de autoconfiança, quiseram se lançar ao encontro sem praticar, e assim pouco honra fizeram a si mesmos.
+
+[147] (P325.S0)
+Lep: Há muitas pessoas assim, mas para voltar à nossa discussão, gostaria que você me dissesse como são feitas essas lanças em duas partes.
+
+[148] (P326.S0)
+Lança em duas partes.
+
+[149] (P326.S1)
+Gio: Constrói-se o tronco da lança, isto é, a parte do meio para baixo, com quatro pés de comprimento (a medida do pé e da polegada será mostrada por mim em um diagrama ao final desta nossa discussão), então na extremidade do referido tronco é afixado um tubo feito de boa chapa, bem soldado, com pelo menos nove polegadas de comprimento, que precisa ser projetado para frente do tronco em mais da metade, e a outra parte será fixada na ponta do referido tronco.
+
+[150] (P326.S2)
+Então, podem ser feitas algumas peças que fornecem o comprimento da lança, e são dispostas de modo que fiquem presas dentro do tubo, de forma que, quando a lança estiver completamente montada, pareça realmente inteira.
+
+[151] (P326.S3)
+E ao pintar o tubo da cor da madeira, quase não será reconhecido como uma lança em duas peças; e este tronco servirá para quebrar muitas delas, que é a maneira mais útil e de custo tão baixo quanto se pode ter.
+
+[152] (P327.S0)
+Lep: Essas peças, qual deve ser o seu comprimento?
+
+[153] (P328.S0)
+Gio: Seis pés, porque a lança mede normalmente dez pés de comprimento.
+
+[154] (P328.S1)
+Mas você deve estar ciente de que do cabo até a empunhadura não deve haver mais do que um pé e um quarto, ou seja, quinze polegadas, pois se fosse mais longo, isso representaria um grande inconveniente tanto para segurar a lança quanto para levantá-la da coxa.
+
+[155] (P329.S0)
+Lep: Qual deve ser o tamanho da empunhadura da lança?
+
+[156] (P330.S0)
+Gio: Deve evitar extremos, no entanto, se sua circunferência perto do punho fosse de seis polegadas e meia, pareceria bom para mim e muito confortável.
+
+[157] (P331.S0)
+Armas da lança.
+
+[158] (P331.S1)
+Mas, uma vez que chegamos a discutir a lança, quero lhe dizer como devem ser seus armamentos, os quais não são de pouca importância.
+
+[159] (P331.S2)
+E começando com o agarrador, ele deve ser colocado a cerca de uma polegada do punho; e a parte dele que deve se encaixar no apoio da lança não deve ser mais larga do que duas quintas de polegada, porque se fosse mais larga, ao apoiar a lança, poderia facilmente tocar a couraça, o que impediria o golpe.
+
+[160] (P331.S3)
+Mas sendo estreito, esse perigo não ocorreria.
+
+[161] (P331.S4)
+Agora, passando para o coronel que vai na ponta da lança, ele deve ser feito de excelente aço, com seis dentes na ponta que precisam se abrir bem para fora, pois assim quebrará o elmo com mais segurança; e deve ter uma polegada de comprimento, sem contar os dentes, ou um pouco mais, coberto de tal maneira que não possa se romper durante o impacto, e acima de tudo deve ser bem temperado para que possa penetrar nos elmos, que normalmente são sempre muito duros.
+
+[162] (P331.S5)
+E para que você entenda, bons coronéis feitos com um excelente temperamento muitas vezes conquistaram o prêmio do torneio.
+
+[163] (P331.S6)
+Então há a vamplate que vai pelo menos quatro polegadas acima do punho da lança, porque se fosse alta [14] não protegeria o ombro direito e poderia facilmente ser danificada pela lança do adversário, sendo a referida vamplate aquela que defende todo o braço direito.
+
+[164] (P331.S7)
+E, portanto, deve ser disposto de maneira que seja estável e colocado com bom juízo, pois se estiver muito baixo, sua lâmina poderá tocar a couraça ao desejar desferir o golpe, o que impediria a quebra da lança.
+
+[165] (P331.S8)
+Mas se estivesse posicionado da maneira que eu disse, esses perigos seriam evitados.
+
+[166] (P332.S0)
+Lep: Qual deve ser o tamanho deste vamplate?
+
+[167] (P333.S0)
+Gio: Deve haver cerca de três polegadas de campana, sem contar a garganta, e o diâmetro de sua boca deve ser de oito polegadas e meia, e não deve ser nem muito pesado nem muito leve, mas se pesar duas libras e meia, seria bom e seguro.
+
+[168] (P334.S0)
+Armadura corporal.
+
+[169] (P334.S1)
+Agora, ao falar sobre os armamentos do corpo, há três peças que devem ser particularmente consideradas entre todas as outras.
+
+[170] (P334.S2)
+Um é o elmo, o próximo é o bufete, e o terceiro é o apoio da lança.
+
+[171] (P335.S0)
+Capacete.
+
+[172] (P335.S1)
+O elmo não deve ter uma fenda ocular muito larga; de qualquer forma, basta que se possa ver o adversário, pois todo o resto é feito através da prática, uma vez que não se pode ver nem o descanso da lança, nem a orelha esquerda do cavalo, nem a ponta da lança uma vez que esta foi colocada no descanso, como muitos afirmam, tudo isso é considerado visível, mas na verdade é exatamente o oposto, pois ao colocar a lança no descanso, a placa do braço ocupa o campo de visão, e o adversário não é visível até o momento em que a lança começa a ser abaixada.
+
+[173] (P335.S2)
+Por essa razão, sou da opinião de que a metade interna, isto é, o lado esquerdo, da fenda dos olhos do elmo deve ser selada, pois ao fazê-lo, a vida do cavaleiro seria bem protegida, uma vez que a experiência de muitos foi testemunhada, que foram feridos ou mortos na justa pela entrada da lança na mesma parte.
+
+[174] (P335.S3)
+E, portanto, se a referida parte estivesse selada, este perigo seria evitado.
+
+[175] (P335.S4)
+E especialmente quando se está fazendo um torneio por diversão ou para o deleite dos outros.
+
+[176] (P336.S0)
+Lep: Gosto muito dessa sua opinião, e que Deus queira que ela seja colocada em prática para o benefício dos justadores.
+
+[177] (P337.S0)
+Buffe.
+
+[178] (P337.S1)
+Gio: Que assim seja, como dizes.
+
+[179] (P337.S2)
+Mas ao vir a discutir o buffe, ele deve ser propriamente como a fenda do elmo, e quanto mais se volta para fora e mantém o cavaleiro mais ereto, tanto mais seguro será.
+
+[180] (P337.S3)
+E acima de tudo, a borda do referido buffe deve ser contida de tal forma que não fique voltada para o lado direito, para que não resulte em tornar-se um alvo do templo esquerdo.
+
+[181] (P337.S4)
+Porque se vêem muitos que, ao se enfrentarem, imediatamente ao colocarem suas lanças em seus suportes, viram seus lados esquerdos em direção ao inimigo, o que, além de criar uma visão muito feia, resulta em dois erros: um é que eles criam um alvo, como já disse, e o outro é que, por infortúnio, a ponta da lança pode se desviar para fora, de modo que, se quiserem desferir o golpe, precisam se chocar com o ombro para que a lança atinja.
+
+[182] (P337.S5)
+E disso resulta que muitas vezes ou não se quebram, ou vão na diagonal, ou os dois fazem contato, como tem sido visto muitas vezes através da experiência.
+
+[183] (P338.S0)
+Lep: O que você diz é verdade.
+
+[184] (P339.S0)
+Descanso da lança.
+
+[185] (P339.S1)
+Gio: Quanto ao apoio para a lança, ele deve ter no máximo três polegadas de comprimento, pois se fosse mais longo, não seria confiável para apoiar a lança, considerando que sua mão poderia facilmente entrar por dentro dele, ou ao abaixar a lança, seu braço poderia esbarrar no apoio da lança por ser muito longo, o que faria com que você só pudesse desferir o golpe com grande esforço.
+
+[186] (P339.S2)
+Também é necessário aconselhar que o referido apoio para a lança deve ser arqueado para cima [15] de modo que a lança fique sobre ele com maior segurança, e, por fim, é necessário recomendar que ao fixá-lo à couraça, é melhor que esteja mais alto do que baixo, ou seja, no peito direito.
+
+[187] (P339.S3)
+Mas, acima de tudo, organize-o de tal maneira que a borda frontal do referido apoio para lança fique voltada um pouco para cima, de modo que a empunhadura da lança seja colocada sobre ele ao querer desferir o golpe, pois se fosse colocada na borda traseira, a lança não teria tanta certeza de quebrar, já que poderia escorregar para fora.
+
+[188] (P339.S4)
+E estas são as coisas relevantes ao apoio de lança.
+
+[189] (P340.S0)
+Lep: Eu entendo.
+
+[190] (P340.S1)
+Continue, e eu prestarei atenção em você.
+
+[191] (P341.S0)
+Como deve ser a barreira de justas.
+
+[192] (P341.S1)
+Gio: Agora, ao discutir a barreira, ela deve ter pelo menos duzentos pés de comprimento, pois se fosse mais curta, os justadores se encontrariam muito cedo para conseguir fazer algo bom.
+
+[193] (P341.S2)
+Quanto à altura, deve elevar-se cinco pés acima do chão para maior segurança.
+
+[194] (P341.S3)
+A lista de combate deve ter cento e cinquenta pés de comprimento e dois pés e meio de altura, mas precisa inclinar-se um pouco em direção à barreira, ou seja, a distância entre uma e outra deve ser de três pés e meio na parte superior e quatro pés na parte inferior, e esta é a verdadeira medida que deve ser utilizada.
+
+[195] (P342.S0)
+Lep: Por que você quer que a contra-lista incline-se em direção à barreira?
+
+[196] (P343.S0)
+Gio: Para que não haja motivo para o cavaleiro chocar os pés contra os postes que sustentam a lista quando ele espoleia o cavalo.
+
+[197] (P343.S1)
+E aqui coloco o fim, pois isso é tudo o que tenho a lhe contar sobre isso.
+
+[198] (P344.S0)
+Lep: Agora entendi todos os seus conselhos que dizem respeito à arte do torneio, pelos quais estou completamente satisfeito e sempre serei infinitamente grato a você.
+
+[199] (P345.S0)
+Gio: Que estas palavras não sejam usadas entre nós, Sr. Lepido, porque você sabe bem o quanto eu o amo.
+
+[200] (P345.S1)
+Então vamos, e se houver mais alguma coisa em que você saiba que eu posso ser de bom serviço a você, mande-me com prazer, e eu sempre serei muito rápido em agradá-lo.
+
+[201] (P346.S0)
+Lep: Como você me dá coragem para comandá-lo (graças à sua bondade), eu também gostaria, se assim lhe agradar, que retornássemos aqui amanhã para discutir algumas coisas relevantes à arte da guerra, que eu desejo muito entender.
+
+[202] (P347.S0)
+Gio: Ficarei feliz em retornar e não deixarei de esclarecer a você o que sei, como de costume.
+
+[203] (P348.S0)
+Lep: Tenho fé de que você o fará.
+
+[204] (P348.S1)
+Mas eu me lembro que você prometeu me mostrar um diagrama das medidas de um pé e de uma polegada.
+
+[205] (P348.S2)
+Portanto, não se abstenha de cumprir esta promessa que me fez.
+
+[206] (P349.S0)
+Gio: Imediatamente tirei do meu bolso este cartão, onde está o diagrama, para mostrá-lo a você.
+
+[207] (P349.S1)
+Então dê uma olhada nisso.
+
+[208] (P349.S2)
+Esta medida é apenas meia pé, ou seja, seis polegadas, que como você vê estão divididas uniformemente, e podem ser dobradas para formar um pé inteiro.
+
+[209] (P349.S3)
+Desculpe, mas não posso traduzir o texto que você mencionou. Se você puder fornecer o texto que deseja traduzir, ficarei feliz em ajudar!
+
+[210] (P350.S0)
+Lep: Agora eu vi e gostei.
+
+[211] (P350.S1)
+Então, agradeço por isso, assim como por todas as suas outras gentilezas.
+
+[212] (P350.S2)
+Vamos lá.
+
+[213] (P351.S0)
+O Fim do Segundo Livro.
+

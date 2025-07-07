@@ -1,0 +1,132 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__9th_master
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 42
+================================================================================
+
+[1] (P203.S0)
+[100] A partir deste empunhadura que eu tenho, posso realizar muitas jogadas.
+
+[2] (P203.S1)
+Tire a adaga, quebre, golpeie ou prenda.
+
+[3] (P203.S2)
+E o mais rápido é tirar a adaga da sua mão, para evitar qualquer risco de dano por parte do jogador.
+
+[4] (P203.S3)
+Eu sou o Nono Rei [e Mestre do Remédio de Adaga] e não tenho mais uma adaga.
+
+[5] (P203.S4)
+E esta empunhadura que eu faço a partir do ataque baixo é semelhante à empunhadura feita pelo Quarto Rei [e Mestre do Remédio da Adaga], apenas que esta é feita contra o ataque baixo em vez do ataque alto, e minhas jogadas não são as mesmas que as dele.
+
+[6] (P203.S5)
+Esta empunhadura é boa tanto com armadura quanto sem armadura, e a partir dela você pode realizar muitas jogadas fortes e eficazes, como mostrado abaixo.
+
+[7] (P203.S6)
+Quer esteja armado ou desarmado, não há dúvida de sua eficácia.
+
+[8] (P204.S0)
+Se eu girar a adaga perto do seu cotovelo, sua adaga será minha com certeza.
+
+[9] (P204.S1)
+Eu segui a presa do Nono [Remédio da Adaga] Mestre.
+
+[10] (P204.S2)
+Tirando minha mão direita do punho, eu agarro sua adaga como mostrado e a giro para cima, perto do seu cotovelo.
+
+[11] (P204.S3)
+E então eu certamente cravarei a ponta em seu rosto, ou lidarei com você como o próximo aluno demonstrará.
+
+[12] (P205.S0)
+[102] O primeiro aluno deste Mestre retira a adaga e executa esta jogada.
+
+[13] (P205.S1)
+Eu completo a jogada do estudante que veio antes de mim, e a partir de seu agarre, é assim que ele deve finalizar sua jogada.
+
+[14] (P205.S2)
+Outros alunos farão jogadas diferentes a partir de seu agarre.
+
+[15] (P205.S3)
+Observe aqueles que seguem, e você verá suas técnicas.
+
+[16] (P206.S0)
+[103] Eu posso deslocar seu braço assim, e também posso te amarrar na amarração inferior.
+
+[17] (P206.S1)
+O aperto do meu Mestre já foi demonstrado.
+
+[18] (P206.S2)
+Aqui minha mão direita deixa seu aperto.
+
+[19] (P206.S3)
+E se eu te agarrar sob o seu cotovelo, posso deslocar seu braço.
+
+[20] (P206.S4)
+E também a partir desse agarre eu posso te colocar em uma amarra, nomeadamente a “chave forte” [amarra inferior], que é uma das que o terceiro Rei e o Mestre [Remédio da Adaga] mostraram em suas jogadas. Em sua sexta jogada [38] ele te mostra como isso é feito.
+
+[21] (P206.S5)
+[No Getty, o pé direito do Erudito está à frente.]
+
+[22] (P207.S0)
+Se eu puder dar ao seu braço uma meia volta, você rapidamente se encontrará na ligação inferior.
+
+[23] (P207.S1)
+Cheguei a esta posição a partir da pegada do meu Mestre [Mestre da Nona Adaga], e não permaneço nesta pegada, mas movo-me para o laço inferior, também conhecido como a “chave forte.” Isso posso fazer sem dificuldade, e então posso facilmente tomar sua adaga.
+
+[24] (P207.S2)
+[No Getty, o pé direito do Erudito está à frente.]
+
+[25] (P208.S0)
+[105] Sem soltar meu aperto, eu entro por baixo do seu braço, e de trás do seu ombro eu te ferirei gravemente.
+
+[26] (P208.S1)
+Não abandonei a pega do meu Mestre [o Mestre do Remédio da Nona Adaga], mas entrei rapidamente sob seu braço direito, para deslocá-lo com esta pega.
+
+[27] (P208.S2)
+Posso fazer isso quer ele esteja usando armadura ou não, e uma vez que o tenha segurado por trás e sob meu domínio, não lhe mostrarei misericórdia enquanto o ferir.
+
+[28] (P209.S0)
+[106] Embora esta jogada não seja frequentemente utilizada, ela pode ser executada bem, se você a praticar.
+
+[29] (P209.S1)
+Não abandonei a pegada do meu Mestre [o Mestre do Remédio da Nona Adaga] e o Zugadore viu que não conseguia romper minha pegada em seu braço.
+
+[30] (P209.S2)
+E enquanto ele pressionava para baixo em direção ao chão com sua adaga, eu rapidamente alcancei por entre suas pernas por trás e agarrei sua mão direita com minha mão esquerda.
+
+[31] (P209.S3)
+E uma vez que tive uma boa pegada em sua mão, passei por trás dele.
+
+[32] (P209.S4)
+E como você pode ver na imagem, ele não pode desmontar seu próprio braço sem cair.
+
+[33] (P209.S5)
+E agora também posso executar a jogada que se segue a mim.
+
+[34] (P209.S6)
+Se eu soltar a adaga com minha mão direita e agarrar seu pé, eu o farei cair no chão, e não posso deixar de tomar sua adaga.
+
+[35] (P210.S0)
+[107] O estudante que me precedeu executou a primeira parte desta jogada, e eu concluo levando-o ao chão, como já foi explicado.
+
+[36] (P210.S1)
+Embora esta jogada não seja comumente executada na arte, desejo mostrar-lhe que tenho um conhecimento completo dela.
+
+[37] (P211.S0)
+[108] Eu fiz a capa do meu Mestre [o Mestre do Remédio da Nona Adaga] e então rapidamente o segurei desta forma com minha mão esquerda.
+
+[38] (P211.S1)
+E então eu saquei minha adaga e a cravei em seu peito.
+
+[39] (P211.S2)
+E se eu não tiver tempo para sacar minha adaga, farei a jogada que me segue.
+
+[40] (P212.S0)
+[109] Com este jogo, eu completo o jogo do estudante que me precedeu, que deixou sua adaga [embainhada] onde estava e, em vez disso, decidiu pegar sua adaga em punho.
+
+[41] (P212.S1)
+Já expliquei como esta jogada é realizada.
+
+[42] (P213.S0)
+[110] O Contra-remédio para este Nono [Remédio de Adaga] do Mestre é o seguinte: quando o Zugadore com a mão esquerda tiver segurado sua mão direita que possui a adaga, então você deve rapidamente segurar sua adaga perto da ponta e puxá-la com força em direção a você, de modo que ele tenha que soltá-la, ou alternativamente pressionar a ponta da adaga em seu cotovelo para fazê-lo pensar duas vezes.
+

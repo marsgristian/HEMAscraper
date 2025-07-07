@@ -1,0 +1,72 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__axe_in_armor
+FIELD NAME: Paris TranslationbyKendra BrownandRebecca GarberMorgan TranslationbyMichael Chidester
+TOTAL TEXTOS: 22
+================================================================================
+
+[1] (P344.S0)
+Eis que, com mãos firmes, sou chamado de Posição da Lança Curta entre os mortais.
+
+[2] (P344.S1)
+E se a ponta da lança não tentasse enganar, talvez eu te engane, homem.
+
+[3] (P344.S2)
+Júpiter está próximo em uma montanha.
+
+[4] (P345.S0)
+Eis que sou uma Posição de força, e sou chamado de Cruz.
+
+[5] (P345.S1)
+Nenhum golpe me incomoda, nem tampouco a ponta da alabarda [358] a qualquer momento.
+
+[6] (P345.S2)
+[Este Mestre estava inicialmente sem sua coroa, mas uma coroa parece ter sido desenhada por um anotador posterior.]
+
+[7] (P346.S0)
+Eis que sou puro de fé, em pé na Posição da Mulher.
+
+[8] (P346.S1)
+E eu trabalho coisas mortais dobrando um golpe de golpes.
+
+[9] (P347.S0)
+Eu sou o forte Dente de Javali e, horrivelmente audacioso, De maneira alguma temo os golpes que você faz.
+
+[10] (P347.S1)
+Não se pode acreditar.
+
+[11] (P347.S2)
+[A imagem de Paris se assemelha à de Pisani Dossi.]
+
+[12] (P350.S0)
+Certamente jogarei sua alabarda ao chão, mas a minha atingirá o rosto com feridas sem vida.
+
+[13] (P352.S0)
+Agora, do Dente do Javali e da particular alabarda, prontamente eu saltei à frente.
+
+[14] (P352.S1)
+E eu perfurei o rosto usando aquela coisa com a força do carvalho.
+
+[15] (P352.S2)
+[Em Paris, o Erudito usa uma coroa.]
+
+[16] (P353.S0)
+Eis que eu pressiono o seu próprio rosto com a mão forte, e você sente isso.
+
+[17] (P353.S1)
+Meu sagrado machado agora extrairá estes, seus próprios dentes.
+
+[18] (P353.S2)
+[Em Paris, o Erudito usa uma coroa.]
+
+[19] (P355.S0)
+Por meio desta tomada, eu possivelmente terei feito uma volta.
+
+[20] (P355.S1)
+Daqui você será saqueado, mas meu machado de guerra atingirá sua testa.
+
+[21] (P355.S2)
+Dessa forma, o destino quer que os fortes sobrevivam.
+
+[22] (P355.S3)
+[Em Paris, o Erudito tem o pé direito à frente e usa uma coroa.]
+

@@ -1,0 +1,213 @@
+MASTER: Nicoletto Giganti
+SOURCE BOOK: nicoletto giganti__rapier_and_other_weapons
+FIELD NAME: Draft TranslationbyJeff Vansteenkiste
+TOTAL TEXTOS: 69
+================================================================================
+
+[1] (P142.S0)
+[35] Prefácio aos Senhores Leitores Todos os homens que sabem como manejar a espada única e a espada e adaga ou, melhor dizendo, que aprenderam com um bom mestre a conduzir sua vida e controlar a espada, e que sabem o que são tempo e medida, também sabem como manejar todos os tipos de armas que estão neste livro, pois não há diferença além de saber como são seguradas na mão e se tornar hábil com elas.
+
+[2] (P142.S1)
+Na verdade, todas aquelas coisas que são feitas com a espada e a adaga, tanto estocadas quanto cortadas, podem ser realizadas com muita facilidade com espada e rotela, espada e targa, e espada e escudo.
+
+[3] (P142.S2)
+Como já disse, ter aprendido a espada única é útil para entender como se defender com a espada.
+
+[4] (P142.S3)
+Portanto, quero mostrar-lhe como esses tipos de armas são segurados na mão e quais propriedades têm aqueles que as empunham, pois, afinal, como já disse, tudo o que você aprendeu com a espada, a espada e a adaga, pode ser feito com a espada e a rotella, espada e targa, e espada e escudo.
+
+[5] (P143.S0)
+[36] O Método Adequado de Segurar a Rotella Estas quatro figuras mostram como a rotella deve ser segurada na mão.
+
+[6] (P143.S1)
+Os primeiros dois ensinam como se deve ficar em guarda, e os outros dois mostram como se deve defender e ferir.
+
+[7] (P143.S2)
+A rotella é segurada com o punho para cima, como você vê na figura, de modo que te sobrecarregue menos e para que você possa defender-se mais facilmente de todos os tipos de golpes, seja estocada ou corte.
+
+[8] (P143.S3)
+Se você segurasse a rotella com o braço estendido, como muitos acreditam que deve ser segurada, você cansaria seu braço e estaria em perigo.
+
+[9] (P143.S4)
+A rotella possui características maravilhosas para alguém que sabe como segurá-la na mão e que é experiente, pois, devido ao grande tamanho da rotella, é fácil se defender tanto de cortes mandritto quanto de cortes riverso com ela.
+
+[10] (P143.S5)
+Toda estocada que o toca mesmo que levemente é defendida e, defendida, torna-se então fácil de ferir.
+
+[11] (P143.S6)
+O mandritto é defendido com a superfície da rotella, o riverso com sua borda, e a imbroccata com sua superfície.
+
+[12] (P143.S7)
+Outros estocadas são defendidas com sua lâmina.
+
+[13] (P143.S8)
+Assim que se defende, é necessário retornar a ter o punho voltado para cima, para que, enquanto você defende por fora ou por dentro, possa observar parcialmente seu inimigo e perceber o que ele deseja fazer.
+
+[14] (P143.S9)
+Se você segurasse a rotella para frente ao se defender, estaria em perigo porque não veria o que seu inimigo é capaz de fazer.
+
+[15] (P143.S10)
+Estocadas que vêm por baixo da rotela no flanco são defendidas com a espada, e então se causa uma ferida.
+
+[16] (P143.S11)
+Eu produzi estas quatro figuras: uma está em guarda alta e a outra em guarda baixa.
+
+[17] (P143.S12)
+Os outros dois são aquele que está na guarda alta lançando imbroccata, e o outro que se defende com a rotella e fere no mesmo tempo, conforme descrito com a espada e a adaga.
+
+[18] (P143.S13)
+A rotella é boa à noite quando atacada por mais de um.
+
+[19] (P144.S0)
+O Método Apropriado de Segurar a Targa A targa é um braço de defesa que veio dos gregos, que ainda a utilizam.
+
+[20] (P144.S1)
+Agora está em muito uso não apenas em Veneza, mas em muitas cidades da Lombardia, e é bastante útil em contendas porque defende facilmente de todos os mandritti e riversi.
+
+[21] (P144.S2)
+Defender-se com a targa é pouco diferente de defender-se com a adaga, pois os estocadas são defendidas com a borda da targa que, por ter quatro lados, encontra facilmente os ataques do inimigo, e assim que a espada é tocada de alguma forma com a targa, elas estão defendidas.
+
+[22] (P144.S3)
+A targa é segurada da maneira que você vê essas primeiras figuras fazerem.
+
+[23] (P144.S4)
+O mandritto e a imbroccata são defendidos com a superfície da targa, e as stoccate que vêm por dentro ou por fora são defendidas com a lâmina, girando a targa como se faz com a adaga.
+
+[24] (P144.S5)
+Com a targa, você pode produzir todas as guardas e artifícios que aprendeu a executar com a espada e a adaga, mas deve ser experiente.
+
+[25] (P144.S6)
+Estas são quatro figuras: Duas em guarda que lhe ensinam como a targa é segurada, enquanto as outras duas mostram como se defende e se fere.
+
+[26] (P144.S7)
+Pode ser posicionado de muitas maneiras na defesa e na ferida, mas, como eu disse, aqueles que você aprendeu a fazer com espada e adaga podem ser feitos com espada e targa, embora seja necessário praticá-los.
+
+[27] (P145.S0)
+[38] O Método de Segurar o Escudo O escudo de ferro é uma arma muito adequada para a defesa e é bastante comum em algumas partes da Europa, particularmente na Espanha, Itália, Sicília e no Reino de Nápoles.
+
+[28] (P145.S1)
+Os golpes são defendidos da mesma forma que com a targa, mas não com a mesma segurança devido àquelas esquinas que impedem a espada do inimigo.
+
+[29] (P145.S2)
+O broquel é redondo, e por isso você não pode bloquear bem a espada do inimigo.
+
+[30] (P145.S3)
+O pequeno escudo é segurado como você vê estas primeiras figuras fazerem.
+
+[31] (P145.S4)
+Fica-se com a espada à frente para poder utilizá-la de várias maneiras.
+
+[32] (P145.S5)
+Você segura o escudo de um lado, nem eu jamais lhe aconselharia a segurá-lo diretamente à sua frente, pois você não conseguiria ver o que seu adversário faz.
+
+[33] (P145.S6)
+Quanto ao resto, tudo o que você sabe fazer com espada e adaga, você sabe fazer com espada e escudo.
+
+[34] (P145.S7)
+É necessário praticar com isso, no entanto, e tornar-se experiente.
+
+[35] (P145.S8)
+Aqui coloquei duas guardas com as quais você aprenderá a segurar o escudo.
+
+[36] (P145.S9)
+Os outros dois são: Se seu inimigo fosse desferir um golpe em sua cabeça, defenda-se com o escudo e, no mesmo tempo, desferir um golpe em sua perna, como a figura lhe mostra.
+
+[37] (P145.S10)
+Você também poderia desferir um golpe de estocada como se faz com espada e adaga, mas eu fiz este lançando na perna para variar.
+
+[38] (P146.S0)
+Método de Segurar a Capa e o Método de Ferir Para lutar com segurança usando espada e capa, primeiro é necessário saber como lutar com a espada única, uma vez que todos os cortes, e igualmente todas as estocadas, são defendidos com a espada.
+
+[39] (P146.S1)
+Além disso, é muito útil saber como a capa deve ser segurada e quais qualidades ela possui, pois há muitos países onde não é permitido portar a adaga e, portanto, todos utilizam a capa para defesa.
+
+[40] (P146.S2)
+Em algumas ocasiões, encontram-se até aqueles que, apesar de terem a adaga ao seu lado, por inclinação natural consideram muito melhor pegar a capa quando são atacados de repente, e deixar a adaga de lado.
+
+[41] (P146.S3)
+Existem muitas maneiras de segurar a capa, assim como há homens de muitos temperamentos diferentes.
+
+[42] (P146.S4)
+Para ser breve, neste Segundo Livro ensinarei apenas duas maneiras, pois produziria dois livros se quisesse dizer tudo o que pode ser dito sobre este assunto.
+
+[43] (P146.S5)
+A partir dessas duas figuras, pessoas inteligentes poderão aprender muitas outras maneiras.
+
+[44] (P146.S6)
+Primeiramente, para ser bem feita, a capa deve ser de tecido, uma vez que, se você tivesse uma capa de seda, receberia danos em troca de utilidade, pois não conseguiria se defender de um corte na cabeça ou nas pernas à medida que se aproxima.
+
+[45] (P146.S7)
+Portanto, considero melhor utilizar a espada única do que a espada e a capa de seda.
+
+[46] (P146.S8)
+Deve ser de tecido, portanto.
+
+[47] (P146.S9)
+Quando você for atacado pelo inimigo, desenrole a capa com a mão esquerda na borda da gola, deixe-a cair sobre o braço até o cotovelo e dê uma volta sobre o braço, como você vê nas duas figuras, uma com o pé direito à frente, a outra com o pé esquerdo à frente.
+
+[48] (P146.S10)
+Depois de ter pegado a capa, é necessário posicionar-se para frente com a espada apoiada na capa, como você vê nas figuras.
+
+[49] (P146.S11)
+Nessas guardas, você pode se defender contra todos os tipos de golpes que um homem pode desferir.
+
+[50] (P146.S12)
+Estando em uma guarda como você vê, com a espada à frente e o pé direito ou esquerdo à frente, se o seu inimigo lhe lançasse um golpe de estocada ou imbroccata, vá para defender com a espada, apoiando a mão da capa na espada para que você tenha maior força ao bloquear a estocada do inimigo, então ataque a partir de um pé firme ou com um passo, conforme considerar mais conveniente.
+
+[51] (P146.S13)
+Quando você tiver ferido, recue para fora da medida e escape, protegendo-se com sua espada da do inimigo da maneira mencionada acima.
+
+[52] (P146.S14)
+Se o seu inimigo fosse desferir um golpe em sua cabeça, você pode se defender da seguinte maneira: Enquanto ele desferir o golpe, vá para parry com a espada, acompanhado e fortalecido pelo braço da capa, de modo que você faça a espada do inimigo cair, como você vê na figura.
+
+[53] (P146.S15)
+O golpe desferido, retorne para trás, fora da medida, da maneira acima.
+
+[54] (P146.S16)
+Estando em uma guarda como você vê, sua capa pendurada, seu inimigo desferindo um golpe em sua perna, você pode ir para defendê-lo com a capa e desferir uma estocada em seu rosto, como descreverei abaixo.
+
+[55] (P147.S0)
+[40] Outro Método de Segurar a Capa, Enrolando-a Duas Vezes ao Redor do Braço Este é outro modo de segurar a capa.
+
+[56] (P147.S1)
+É apreendido da mesma forma que acima e envolto duas vezes ao redor do braço para que possa suportar os golpes dos cortes.
+
+[57] (P147.S2)
+Porque a maioria das pessoas não sabe como lutar, elas desferem muitos golpes.
+
+[58] (P147.S3)
+Portanto, essa maneira de segurar a capa é bastante necessária.
+
+[59] (P147.S4)
+Com isso, é possível ferir com segurança, como você vê na figura, que parou o corte e, no mesmo tempo, desferiu uma estocada.
+
+[60] (P147.S5)
+Ao desviar o corte, você pode fazer muitas coisas, como desferir um mandritto contra ele, ou um riverso em sua perna, ou, em suma, tudo o que você aprendeu a fazer com a espada e a adaga.
+
+[61] (P147.S6)
+Os cortes em direção à perna são defendidos da maneira descrita com a espada e a adaga, e os stoccate são desviados com a espada, assim como os imbroccate também o são.
+
+[62] (P147.S7)
+Fere-se com corte ou estocada, conforme parece mais apropriado.
+
+[63] (P148.S0)
+[41] O Método de Defender Contra [Cortes] na Perna com a Capa Esta é a terceira maneira de segurar a capa que prometi ensinar a você, e dessa forma é possível defender contra cortes direcionados à perna.
+
+[64] (P148.S1)
+A capa é agarrada pela gola e mantida suspensa, como você vê.
+
+[65] (P148.S2)
+Se o seu inimigo desferir um golpe ou corte em sua cabeça, é necessário defender-se com a espada e ferir, como descrito com a espada e a adaga.
+
+[66] (P148.S3)
+Lutando com seu inimigo e sabendo como manejar bem a espada única, você será capaz de fazer o seguinte: Defender estocadas e cortes com a espada e, enquanto você defende, lançar a capa sobre as armas ou o rosto do adversário de modo que você obstrua de tal forma que será fácil então golpeá-lo onde ele está mais desprotegido antes que a capa tenha caído de suas armas.
+
+[67] (P148.S4)
+A figura que você vê é de dois homens desejosos de atacar a perna.
+
+[68] (P148.S5)
+Portanto, ao lutar com seu inimigo, quando você estiver com a espada avançada para parry e ferir, e o inimigo desferir um golpe em sua perna, vá ao encontro do golpe do inimigo com sua capa, de modo que, no mesmo tempo, você retire a força dele e o acerte no rosto com uma estocada, como você vê na figura, porque enquanto ele ataca sua perna, é necessário que ele avance, de onde, ao você atacar seu rosto, será fácil para você feri-lo.
+
+[69] (P148.S6)
+A estocada lançada, retorne para trás fora da medida como de costume.
+

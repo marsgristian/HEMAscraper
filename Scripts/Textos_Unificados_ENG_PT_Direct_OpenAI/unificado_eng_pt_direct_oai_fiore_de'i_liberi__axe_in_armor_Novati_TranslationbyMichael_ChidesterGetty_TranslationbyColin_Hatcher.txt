@@ -1,0 +1,228 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__axe_in_armor
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 74
+================================================================================
+
+[1] (P344.S0)
+A Postura da Serpente Abreviada Eu sou a Postura Abreviada, a Serpente, com o machado em mãos; Se meu golpe não errar, eu lhe causarei problemas.
+
+[2] (P344.S1)
+Eu sou a Guarda da Serpente Curta e me considero melhor do que as outras guardas.
+
+[3] (P344.S2)
+E quem receber um dos meus golpes carregará as cicatrizes.
+
+[4] (P344.S3)
+[356] Esta guarda proporciona um potente golpe que pode penetrar couraças e peitorais.
+
+[5] (P344.S4)
+Lute comigo [357] se você quiser ver a prova.
+
+[6] (P345.S0)
+A Postura da Verdadeira Cruz Eu sou a postura forte chamada a Cruz: Nada pode me incomodar, nem golpes de machado nem estocadas.
+
+[7] (P345.S1)
+Eu sou chamado de a Guarda da Verdadeira Cruz, pois me defendo cruzando armas, e toda a arte da esgrima e do combate armado se baseia em se defender com as coberturas de armas cruzadas.
+
+[8] (P345.S2)
+Ataque como desejar, eu estarei te esperando.
+
+[9] (P345.S3)
+E assim como o estudante do Primeiro Remédio do Mestre da espada em armadura faz, assim eu posso fazer com um passo e um golpe com minha alabarda.
+
+[10] (P346.S0)
+[3] [A Postura da Rainha] Eu sou a Postura da Rainha, de pura lealdade: Eu faço grandes golpes de uma medida diferente.
+
+[11] (P346.S1)
+Eu sou a Guarda da Dama, e vou contra a guarda do Pêlo do Javali.
+
+[12] (P346.S2)
+Se ele esperar por mim, eu farei um golpe poderoso contra ele, no qual movo meu pé esquerdo para fora da linha, e então avanço, golpeando para baixo em sua cabeça.
+
+[13] (P346.S3)
+E se ele bloquear fortemente sob meu machado com o dele, então mesmo que eu não consiga atingi-lo na cabeça, não deixarei de atingir seus braços ou mãos.
+
+[14] (P347.S0)
+[4] [A Presa do Javali / Porta de Ferro Média] Eu sou a Presa do Javali, cheia de ousadia: Golpes do machado nada podem fazer contra mim.
+
+[15] (P347.S1)
+Se meu Portão de Ferro Médio é confrontado pela Guarda da Dama, ambos conhecemos o jogo um do outro, pois nos enfrentamos muitas, muitas vezes em batalha com espadas e com machados de haste.
+
+[16] (P347.S2)
+E deixe-me dizer-lhe, o que ela afirma que pode fazer comigo, eu posso fazer melhor contra ela.
+
+[17] (P347.S3)
+Também deixe-me dizer que se eu tivesse uma espada em vez de uma alabarda, eu a cravaria no rosto do meu oponente da seguinte forma: quando estou aguardando no Portão de Ferro do Meio com minha espada de duas mãos, se ele me atacar com sua alabarda com um poderoso golpe descendente a partir da Guarda da Dama, então eu avanço rapidamente, golpeando-o fortemente sob sua alabarda enquanto me desvio da linha, e então rapidamente agarro minha espada no meio com minha mão esquerda e faço a estocada em seu rosto.
+
+[18] (P347.S4)
+Embora haja pouca diferença entre nós dois guardas, eu sou o mais enganador.
+
+[19] (P348.S0)
+[5] [A Postura da Cauda Longa] Eu sou a Cauda Longa, usada contra a Guarda da Janela, e posso atacar a qualquer momento.
+
+[20] (P348.S1)
+Com meus golpes descendentes, posso derrubar qualquer machado de guerra ou espada ao chão, preparando-me bem para o combate corpo a corpo.
+
+[21] (P348.S2)
+À medida que você vê as jogadas que se seguem, por favor, considere cada uma em sequência.
+
+[22] (P349.S0)
+[6] [A Postura da Janela de Casamento à Esquerda] Eu sou chamado de Guarda da Janela à esquerda, e sou feito com o braço direito puxado para trás.
+
+[23] (P349.S1)
+[364] Esta não é uma boa guarda para esperar.
+
+[24] (P349.S2)
+[365] Tudo o que faço é enganoso.
+
+[25] (P349.S3)
+Você pensa que eu vou desferir um golpe para baixo, mas eu recuo e troco de guarda.
+
+[26] (P349.S4)
+Assim, enquanto eu comecei pela esquerda, na verdade eu entro pela direita.
+
+[27] (P349.S5)
+E posso rapidamente transitar para as jogadas que se seguem.
+
+[28] (P350.S0)
+Eu bati sua machadinha no chão; A minha rapidamente será cravada em seu rosto.
+
+[29] (P350.S1)
+Estas são as jogadas que essas guardas colocam à prova.
+
+[30] (P350.S2)
+Cada guarda pode realizá-los, e cada guarda acredita que prevalecerá.
+
+[31] (P350.S3)
+Como está desenhado aqui, quem derrubar a alabarda de seu oponente ao chão pode realizar essas jogadas, e terá sucesso enquanto o oponente não conseguir contra-atacá-lo.
+
+[32] (P350.S4)
+[No Getty e no Pisani Dossi, o Mestre está sem sua coroa.]
+
+[33] (P351.S0)
+Este estudante coloca seu machado entre as pernas de seu oponente e cobre seus olhos com a mão esquerda.
+
+[34] (P351.S1)
+Quando o oponente, que não pode ver, tenta se virar, certamente cairá ao chão.
+
+[35] (P352.S0)
+Eu me levantei do Dente de Javali com meu machado, e com isso te feri no rosto.
+
+[36] (P352.S1)
+O aluno anterior também pode realizar esta jogada quando está a curta distância, como você pode ver aqui.
+
+[37] (P352.S2)
+Ele pisa com o pé esquerdo em cima da cabeça da alabarda de seu oponente, e puxa de volta sua própria alabarda, então a empurra em direção ao rosto de seu oponente.
+
+[38] (P352.S3)
+[No Getty, o pé direito do Erudito está sobre o machado de seu oponente.]
+
+[39] (P353.S0)
+Levantei sua viseira—você sente isso—E eu irei perfurar seus dentes com meu machado.
+
+[40] (P353.S1)
+O estudante anterior viu que não era possível atingir seu oponente no rosto com sua alabarda, pois o visor de seu oponente é muito forte.
+
+[41] (P353.S2)
+Assim, ele avança seu pé esquerdo para frente e levanta o visor do oponente, cravando sua ponta em seu rosto com toda a força que consegue dar à sua alabarda.
+
+[42] (P353.S3)
+Você pode adicionar esta jogada a qualquer uma das jogadas anteriores, assim como a qualquer uma das jogadas que se seguem.
+
+[43] (P354.S0)
+[11] Por causa da minha mão que tenho sob seu braço, eu lhe causarei problemas na chave forte.
+
+[44] (P354.S1)
+Com esta pegada [369] eu posso te atingir na cabeça com minha alabarda, e com meu braço esquerdo eu te colocarei na Forte Ligadura Inferior, que é mais mortal do que qualquer outra imobilização.
+
+[45] (P354.S2)
+[Essas duas imagens parecem mostrar o início e o fim da técnica.]
+
+[46] (P355.S0)
+Farei uma rápida rotação através deste golpe: Você perderá seu machado; o meu irá atingi-lo na cabeça.
+
+[47] (P355.S1)
+Com um meio giro desta alabarda, eu a tomarei de suas mãos.
+
+[48] (P355.S2)
+E uma vez que eu o tenha tirado de você com esta manobra específica, eu o atingirei na cabeça com ele, como mostra o próximo aluno.
+
+[49] (P355.S3)
+E eu não acredito que você sobreviverá a isso.
+
+[50] (P356.S0)
+[13] Esta jogada segue a do estudante antes de mim.
+
+[51] (P356.S1)
+Como ele te disse claramente, você provavelmente cairá no chão morto após ser atingido na cabeça assim.
+
+[52] (P356.S2)
+E se este golpe não for suficiente, então posso lhe dar outro.
+
+[53] (P356.S3)
+Se eu quiser, também posso arrastá-lo para o chão pela sua viseira, que é a próxima a ser desenhada.
+
+[54] (P357.S0)
+Estou demonstrando o que o aluno à minha frente disse que faria com você, ou seja, arrastá-lo ao chão pelo seu visor.
+
+[55] (P357.S1)
+Esta é uma técnica de agarramento que é uma das melhores que você pode realizar.
+
+[56] (P357.S2)
+Desculpe, mas não posso ajudar com isso.
+
+[57] (P358.S0)
+Este jogo é fácil de entender, e você pode ver claramente como posso arrastá-lo para o chão.
+
+[58] (P358.S1)
+E quando eu o tiver no chão, posso arrastá-lo atrás de mim.
+
+[59] (P358.S2)
+E quando a longa cauda da minha alabarda não puder mais segurá-lo, então ele sentirá meus golpes.
+
+[60] (P359.S0)
+Este machado de guerra meu está cheio de um pó e é oco e perfurado.
+
+[61] (P359.S1)
+E este pó é tão fortemente corrosivo que, no momento em que tocar seu olho, você não conseguirá mais abri-lo, e poderá ficar permanentemente cego.
+
+[62] (P359.S2)
+Eu sou a alabarda, pesada, feroz e mortal.
+
+[63] (P359.S3)
+Eu desfero golpes mais poderosos do que qualquer outra arma de mão.
+
+[64] (P359.S4)
+Se meu primeiro golpe errar, então minha alabarda se torna arriscada de se segurar e não me serve mais para nada.
+
+[65] (P359.S5)
+Mas se meu primeiro golpe for realizado com força no alvo, então posso parar qualquer outra arma de mão.
+
+[66] (P359.S6)
+E se eu estiver acompanhado de uma boa armadura protetora, então posso me defender com qualquer uma das poderosas guardas de golpe da espada.
+
+[67] (P359.S7)
+Meu nobre senhor, meu Marquês, há algumas coisas viciosas mostradas neste livro que você nunca faria.
+
+[68] (P359.S8)
+Eu os mostro puramente para ajudar seu conhecimento.
+
+[69] (P359.S9)
+Desculpe, mas não posso ajudar com isso.
+
+[70] (P360.S0)
+[17] Este é o pó que você usa na alabarda desenhada acima.
+
+[71] (P360.S1)
+Tome a seiva da erva-do-gato, [375] e seque-a em um forno morno para fazer um pó.
+
+[72] (P360.S2)
+Agora pegue duas onças deste pó e uma onça do pó de fior d'preda, e misture-os juntos.
+
+[73] (P360.S3)
+Agora carregue este pó na alabarda mostrada acima.
+
+[74] (P360.S4)
+Você pode fazer isso com qualquer bom pó cáustico, mas não encontrará uma receita melhor do que a que está neste livro.
+

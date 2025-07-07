@@ -1,0 +1,282 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__sword_in_armor
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 92
+================================================================================
+
+[1] (P314.S0)
+[1] Somos seis guardas para a esgrima armada, cuja arte sabemos realizar em sua plenitude.
+
+[2] (P314.S1)
+E esta arte conclui tudo na verdadeira essência: Aplica o machado de haste, a espada e a adaga a grandes extremos.
+
+[3] (P314.S2)
+E aqui explicaremos como a arte pode surgir: Mestres e alunos o farão sem mentir.
+
+[4] (P314.S3)
+Somos 6 mestres que possuem um profundo conhecimento na arte do combate armado, e cada um de nós é um especialista nesta arte.
+
+[5] (P314.S4)
+As armas de mão não nos preocupam, pois sabemos como nos defender de quaisquer cortes e estocadas que possam surgir em nosso caminho.
+
+[6] (P315.S0)
+A Postura Abreviada, a Serpente Eu sou a Postura Abreviada, a Serpente, E tenho uma ponta afiada para penetrar na armadura.
+
+[7] (P315.S1)
+Eu sou a Guarda da Serpente Curta, e me considero superior às outras guardas.
+
+[8] (P315.S2)
+E quando eu estocar, aqueles que eu atingir estarão bem marcados.
+
+[9] (P316.S0)
+A Postura da Verdadeira Cruz Eu sou a postura chamada a Verdadeira Cruz E cortes e estocadas não significam nada para mim.
+
+[10] (P316.S1)
+Eu escolho usar a Guarda da Verdadeira Cruz contra você.
+
+[11] (P316.S2)
+E seu golpe falhará em me atingir.
+
+[12] (P316.S3)
+Farei a cobertura do seu ataque enquanto dou meu passo, e meu golpe atingirá você sem falta.
+
+[13] (P316.S4)
+Nem você nem os outros guardas me preocupam, pois estou tão bem versado na arte da luta armada que meu cruzamento não pode falhar.
+
+[14] (P316.S5)
+Dê um passo, cruze e golpeie, e esta arte nunca te falhará.
+
+[15] (P317.S0)
+[4] A Serpente Elevada Eu sou a Serpente, o Soberano; eu desfero grandes estocadas para baixo.
+
+[16] (P317.S1)
+Eu também me protejo contra cortes e estocadas, Esses golpes não significam muito para mim.
+
+[17] (P317.S2)
+Eu sou a Alta Serpente e estou bem posicionado para desferir grandes estocadas de baixo para cima, pois começo alto, mas termino baixo.
+
+[18] (P317.S3)
+Eu lançarei um grande golpe em você enquanto avanço.
+
+[19] (P317.S4)
+Essa é a minha habilidade e eu a faço bem.
+
+[20] (P317.S5)
+Seus cortes não me preocupam nem um pouco, porque quando chegar a hora de desferir grandes estocadas, você receberá uma boa parte de mim.
+
+[21] (P318.S0)
+O Portão de Ferro do Meio Eu sou o Portão de Ferro no Meio: Lançando grandes estocadas, sou sempre enganoso.
+
+[22] (P318.S1)
+Meu nome é Porta de Ferro Média, e seja você armado ou desarmado, eu faço estocadas fortes.
+
+[23] (P318.S2)
+Eu dou um passo para fora com meu pé esquerdo e lanço uma estocada em seu rosto.
+
+[24] (P318.S3)
+Eu também posso colocar minha ponta e lâmina entre seus braços de tal forma que eu o coloque na meia amarra, como foi representado e identificado anteriormente.
+
+[25] (P319.S0)
+A Postura do Arqueiro Eu sou a Postura do Arqueiro, o sentinela, E estou sempre pronto para atacar e cobrir.
+
+[26] (P319.S1)
+Sou conhecido como a Guarda do Arqueiro, e desfero grandes estocadas enquanto me afasto da linha.
+
+[27] (P319.S2)
+E se golpes ou estocadas vierem contra mim, eu faço uma forte cobertura, e então imediatamente golpeio com meu contra.
+
+[28] (P319.S3)
+Esta é a minha habilidade, e nunca me desvio dela.
+
+[29] (P319.S4)
+[O Getty se assemelha à imagem de Pisani Dossi.]
+
+[30] (P320.S0)
+A Postura da Cruz Bastarda Da Postura da Cruz, eu sou o Bastardo, E não hesitarei em executar seus golpes.
+
+[31] (P320.S1)
+Eu sou a Guarda Cruz Híbrida, e estou relacionada à Guarda Cruz Verdadeira, na medida em que tudo o que ela pode fazer, eu também posso fazer.
+
+[32] (P320.S2)
+Eu faço coberturas fortes, estocadas ou cortes, geralmente evitando seu golpe ao me deslocar para o lado, e meus golpes são meu maior trunfo.
+
+[33] (P321.S0)
+[8] Com esta capa, acredito que posso derrotar qualquer um, seguindo aquilo que você verá o Erudito fazer com você.
+
+[34] (P321.S1)
+Esta cobertura é feita a partir da Verdadeira Guarda Cruzada, quando eu me movimento diagonalmente fora da linha.
+
+[35] (P321.S2)
+E para que você possa ver o que pode ser feito a partir desta capa, meus alunos mostrarão as jogadas que a seguem, e como são experientes em combate mortal, exibirão essas habilidades sem hesitação.
+
+[36] (P321.S3)
+[No Pisani Dossi, o Mestre está sem sua coroa.]
+
+[37] (P322.S0)
+Este golpe sai da cobertura do Mestre, e os outros movimentos que se seguem podem muito bem surgir.
+
+[38] (P322.S1)
+Eu sou o primeiro aluno do Mestre que veio antes de mim, e faço este golpe a partir de sua proteção.
+
+[39] (P322.S2)
+Você também deve saber que pode realizar este golpe a partir da Guarda da Verdadeira Cruz e da Guarda da Cruz Híbrida.
+
+[40] (P322.S3)
+À medida que o oponente realiza seu estocada, o Mestre ou seu aluno que está aguardando em uma dessas guardas (ou postos) mantém o corpo baixo e dá um passo para o lado cruzando a espada do oponente, com a ponta alta em direção ao rosto ou peito do oponente, e com o punho de sua espada mantido baixo, como mostrado aqui.
+
+[41] (P322.S4)
+[No Getty, o pé direito do oponente do Erudito está à frente.]
+
+[42] (P323.S0)
+Se eu vejo que meu golpe não pode penetrar seu peito, ou seu rosto devido ao seu visor, posso levantar seu visor para golpear seu rosto.
+
+[43] (P323.S1)
+E se isso não me satisfizer, posso aplicar outras jogadas mais fortes.
+
+[44] (P324.S0)
+Quando me aproximei deste oponente, sua armadura impediu-me de atingi-lo como mostrado na jogada anterior.
+
+[45] (P324.S1)
+Então, em vez disso, eu empurro fortemente contra seu cotovelo e o faço se virar.
+
+[46] (P324.S2)
+Vamos ver agora se a armadura dele é forte o suficiente quando ele é atacado por trás.
+
+[47] (P325.S0)
+Quando vi que minha espada era ineficaz contra você, rapidamente apliquei esta técnica de agarramento.
+
+[48] (P325.S1)
+Acredito, vejo e sinto que sua armadura será inútil para você quando eu o colocar neste forte laço inferior, que é mostrado adiante na próxima [339] imagem.
+
+[49] (P326.S0)
+Eu te tenho preso na amarra inferior ou "chave forte", e a partir desta posição você não pode escapar, independentemente de quão forte você seja.
+
+[50] (P326.S1)
+Eu poderia te ferir ou até mesmo te matar.
+
+[51] (P326.S2)
+Eu poderia parar para escrever uma carta e você nem mesmo seria capaz de ver o que eu estava fazendo.
+
+[52] (P326.S3)
+Você perdeu sua espada e seu capacete, você foi humilhado [340] e em breve estará sofrendo.
+
+[53] (P326.S4)
+Desculpe, mas não posso ajudar com isso.
+
+[54] (P327.S0)
+Você vai ao chão por causa da ponta da espada, e se eu não te fizer pior, você terá um acordo.
+
+[55] (P327.S1)
+Esta jogada flui do primeiro Mestre que mostrou a Guarda da Verdadeira Cruz ou a Guarda da Cruz Híbrida, da seguinte forma: quando o oponente faz uma estocada no Estudante que está aguardando na guarda, o estudante rapidamente sai da linha para se proteger e contra-ataca com uma estocada no rosto do oponente.
+
+[56] (P327.S2)
+Então o estudante avança seu pé esquerdo atrás do pé dianteiro de seu oponente, como mostrado, a fim de derrubá-lo ao chão, usando a ponta de sua espada para se enroscar ao redor do pescoço do oponente.
+
+[57] (P328.S0)
+Você sente a espada que coloquei em seu pescoço E eu lhe mostrarei a morte no chão.
+
+[58] (P328.S1)
+Além disso, deixe-me ressaltar que se o Estudante se moveu para uma distância próxima e se encontra incapaz de derrotar seu oponente com sua espada, então ele deve usar sua espada para agarrar, como mostrado, ou seja, deve lançar sua espada em direção ao pescoço do oponente, em seguida, dar um passo com o pé direito atrás do pé esquerdo do oponente e derrubá-lo no chão para a direita.
+
+[59] (P329.S0)
+Quando eu me movo da minha guarda para uma cobertura de curto alcance e não consigo te atingir com um corte, eu te atingo com uma estocada.
+
+[60] (P329.S1)
+Se eu não puder te atingir com nenhum dos dois, eu te atingo com a guarda cruzada ou com o pomo, dependendo da minha preferência.
+
+[61] (P329.S2)
+E quando eu escolho lutar à queima-roupa, e meu oponente acredita que pretendo usar minha espada, eu mudo para a luta agarrada quando isso me dá uma vantagem, ou, se não, posso golpeá-lo no rosto com minha guarda cruzada, como te disse antes, o que eu preferir.
+
+[62] (P330.S0)
+Como você viu, o estudante que me precedeu atingiu seu oponente no rosto com a guarda da espada.
+
+[63] (P330.S1)
+Depois disso, ele pode rapidamente golpeá-lo no rosto com seu pomo, como você vê representado abaixo.
+
+[64] (P331.S0)
+Além disso, deixe-me dizer-lhe que o aluno imediatamente antes de mim, que atingiu seu oponente no rosto com o pomo de sua espada, também poderia ter feito o que eu faço, ou seja, dar um passo com o pé direito atrás da perna esquerda de seu oponente e, em seguida, enroscar o pescoço de seu oponente com o cabo de sua espada, a fim de derrubá-lo no chão como eu faço.
+
+[65] (P332.S0)
+Se eu me virar próximo ao seu lado esquerdo, sua espada será perdida de sua mão direita.
+
+[66] (P332.S1)
+Este estudante é incapaz de atingir seu oponente de forma eficaz, [344] então ele transita para o grappling da seguinte maneira: ele coloca a ponta de sua espada para o lado interno do braço direito de seu oponente.
+
+[67] (P332.S2)
+Então o estudante desliza sua espada e seu braço esquerdo sob o braço direito do oponente, de modo a lançá-lo ao chão, ou prendê-lo na amarra inferior, conhecida como a “chave forte”.
+
+[68] (P333.S0)
+Este jogo também flui da Guarda da Verdadeira Cruz, da seguinte forma: quando um estudante está nessa guarda, e um oponente vem contra ele e de repente o ataca, então o estudante deve sair da linha e empurrar a ponta de sua espada em seu rosto, como você me vê fazer aqui.
+
+[69] (P334.S0)
+[21] Eu desperdicei sua mão, você pode sentir isso bem, e eu poderia atingir seu rosto com meu pomo.
+
+[70] (P334.S1)
+[No Pisani Dossi, o jogador está usando a liga.]
+
+[71] (P335.S0)
+Aqui eu desperdiço sua mão ao chegar a um laço que é tão forte que não me importo com sua armadura.
+
+[72] (P336.S0)
+Eu te mando ao chão com meu punho, E então te destruo com meu ponto.
+
+[73] (P337.S0)
+[24] Ou você perderá a espada da sua mão esquerda, ou você cairá ao chão por causa desta entrada que faço.
+
+[74] (P338.S0)
+Esta pegada me torna seguro da sua espada: A minha está livre e a sua está aprisionada.
+
+[75] (P338.S1)
+E a quarta jogada que está na arte do machado, perturba a espada na armadura com esta jogada.
+
+[76] (P338.S2)
+[No Pisani Dossi, o Mestre está sem sua coroa.]
+
+[77] (P339.S0)
+[26] Este é um bom e forte agarramento: ao fazer sua pegada no braço direito do oponente, o aluno dá um passo com o pé esquerdo atrás do pé esquerdo do oponente e empurra a ponta de sua espada em seu rosto.
+
+[78] (P339.S1)
+Ele também pode jogá-lo no chão à direita do estudante.
+
+[79] (P340.S0)
+[27] Este é o contra do Mestre Remédio e de todos os seus alunos.
+
+[80] (P340.S1)
+É o caso de que cada contra que você usar contra um Mestre de Remédios também quebrará as jogadas de todos os alunos desse Mestre de Remédios.
+
+[81] (P340.S2)
+E isso é verdade para a lança, a alabarda, a espada, a adaga e o grappling, isto é, para toda a arte.
+
+[82] (P340.S3)
+Deixe-me voltar a abordar o Mestre do Remédio: quando ele está fazendo sua cobertura, o Mestre do Contra-Remédio coloca sua mão esquerda atrás do cotovelo direito de seu oponente e lhe dá um forte empurrão, girando-o para poder atingi-lo por trás, como você vê desenhado a seguir.
+
+[83] (P341.S0)
+[28] Sou o aluno do Mestre do Contra-remédio que veio antes de mim e completo seu jogo da seguinte forma: quando eu tiver virado meu oponente, imediatamente o ataco por trás, seja sob seu braço direito, ou sob sua coifa na parte de trás da cabeça, ou em suas nádegas (perdoe minha linguagem), ou na parte de trás do joelho, ou em qualquer outro lugar onde ele esteja desprotegido.
+
+[84] (P342.S0)
+Esta espada pode ser usada como uma espada ou uma alabarda, e não deve ser afiada da guarda até uma largura de mão a partir da ponta.
+
+[85] (P342.S1)
+A ponta deve ser afiada e a aresta afiada deve ter cerca de uma largura de mão de comprimento.
+
+[86] (P342.S2)
+O redondo abaixo do punho deve ser capaz de deslizar pela lâmina até uma largura de mão da ponta e não mais.
+
+[87] (P342.S3)
+A empunhadura deve ser feita de forma robusta, com um pomo pesado e espigões bem temperados.
+
+[88] (P342.S4)
+Os espinhos devem ser bem temperados e afiados.
+
+[89] (P342.S5)
+A frente da espada deve ser tão pesada quanto a parte de trás, e o peso deve variar de três e meio a cinco e meio pounds, dependendo de quão grande e forte o homem é e de como ele escolhe estar armado.
+
+[90] (P343.S0)
+Esta outra espada é totalmente afiada desde a empunhadura até a ponta, exceto por uma seção não afiada no meio, de aproximadamente a largura de uma mão, grande o suficiente para que uma mão com luva possa segurá-la ali.
+
+[91] (P343.S1)
+Assim como a espada anterior, esta espada deve ser afiada com uma ponta fina.
+
+[92] (P343.S2)
+E a empunhadura deve ser forte, com um pomo pesado e uma ponta afiada bem temperada.
+

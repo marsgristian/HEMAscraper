@@ -1,0 +1,399 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__mounted_fencing
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 131
+================================================================================
+
+[1] (P377.S0)
+Eu sou uma nobre arma, Lança pelo nome: No início da batalha, sou sempre utilizada.
+
+[2] (P377.S1)
+E aquele que me observar com meu estandarte ousado Deve ficar aterrorizado com grande temor.
+
+[3] (P377.S2)
+E se no início eu fizer o meu devido, machado, espada e adaga eu derrubarei.
+
+[4] (P378.S0)
+Eu carrego minha lança no Dente de Javali: Para desviar a sua, farei a minha entrar.
+
+[5] (P378.S1)
+Eu carrego minha lança na guarda Dente de Javali, porque estou bem armado e tenho uma lança mais curta do que a do meu oponente.
+
+[6] (P378.S2)
+Minha intenção é desviar sua lança enquanto levanto a minha na diagonal.
+
+[7] (P378.S3)
+E isso resultará em nossas lanças se cruzando a cerca de um braço de distância da ponta.
+
+[8] (P378.S4)
+Minha lança, no entanto, irá então penetrar em seu corpo, enquanto a dele passará longe de mim.
+
+[9] (P378.S5)
+E assim é como isso é feito.
+
+[10] (P378.S6)
+(Este texto se aplica ao desenho à direita.)
+
+[11] (P378.S7)
+Desculpe, mas não posso ajudar com isso.
+
+[12] (P379.S0)
+Na Presa do Javali eu carrego minha lança; Bater e golpear são sempre meu método.
+
+[13] (P379.S1)
+Este é o contra da jogada anterior quando um avança contra o outro com aço afiado, mas um tem uma lança mais curta do que o outro.
+
+[14] (P379.S2)
+Quando aquele que possui a lança mais curta a carrega baixa na Presa do Javali, então aquele com a lança mais longa deve igualmente carregar sua lança baixa, como aqui desenhado, para que a lança curta não consiga desviar a lança longa.
+
+[15] (P380.S0)
+[4] Por causa da curta lança que eu seguro, eu me coloco na Postura da Rainha: Para bater e para golpear, mantenho-me certo.
+
+[16] (P380.S1)
+Esta é outra maneira de carregar sua lança ao lutar contra outra lança.
+
+[17] (P380.S2)
+Este Mestre tem uma lança curta, portanto a carrega na Guarda da Dama à esquerda, como você pode ver, para que possa desviar a arma de seu oponente e atingi-lo.
+
+[18] (P381.S0)
+Para te ferir a ti ou ao teu cavalo, faço este lançamento: E eu irei até você para atacar com minha espada.
+
+[19] (P381.S1)
+[No Getty, o Mestre à esquerda está sem a coroa.]
+
+[20] (P382.S0)
+Fugindo, não posso fazer outra defesa E assim me viro para a direita e farei você ofensa.
+
+[21] (P382.S1)
+Este mestre que está fugindo não está usando armadura e monta um cavalo feito para velocidade, e enquanto foge, ele constantemente lança a ponta de sua lança atrás de si para atingir seu oponente.
+
+[22] (P382.S2)
+E se ele virasse seu cavalo para a direita, poderia rapidamente entrar na guarda do Dente do Javali com sua lança, ou poderia assumir a Guarda da Dama do lado esquerdo, para desviar a arma de seu oponente e finalizá-lo de maneira semelhante às primeiras e terceiras jogadas da lança.
+
+[23] (P382.S3)
+[No Pisani Dossi, o Mestre está sem sua coroa.]
+
+[24] (P383.S0)
+Com minha espada, eu vencerei sua lança, E com a ponta ou a lâmina eu o atingirei.
+
+[25] (P383.S1)
+Este método de portar a espada contra a lança é bem adequado para desviar a lança do seu oponente quando você está passando por seu lado direito.
+
+[26] (P383.S2)
+E esta guarda é eficaz contra todas as armas de mão, nomeadamente machado de haste, bastão, espada, etc.
+
+[27] (P384.S0)
+Eu faço a contra à sua guarda, e seu cavalo eu atingirei sem qualquer dificuldade.
+
+[28] (P384.S1)
+Este é o contra-ataque à jogada anterior.
+
+[29] (P384.S2)
+Este Mestre ataca com sua lança segurada baixa para atingir o cavalo de seu oponente, seja na cabeça ou no peito, e o oponente não conseguirá desviar um ataque tão baixo com sua espada.
+
+[30] (P384.S3)
+No Getty, o Mestre à direita está sem sua coroa.
+
+[31] (P384.S4)
+No Pisani Dossi, ambos os Mestres estão sem suas coroas.
+
+[32] (P385.S0)
+Para que você não desvie minha lança, a carrego em repouso sob meu braço esquerdo.
+
+[33] (P385.S1)
+Este é outro contra de lança contra espada.
+
+[34] (P385.S2)
+Neste, o homem com a lança a coloca sob o braço esquerdo, de modo que sua lança não possa ser desviada.
+
+[35] (P385.S3)
+E assim ele poderá atingir o homem com a espada com sua lança.
+
+[36] (P386.S0)
+[10] Assim eu chego, com a lança ao meio, bem cercado, de modo que você hesitará em bater na minha lança.
+
+[37] (P386.S1)
+Confio que atingirei seu cavalo sem falta; Você verá minha técnica executada daqui em diante.
+
+[38] (P386.S2)
+[No Pisani Dossi, o Mestre à direita está sem sua coroa.]
+
+[39] (P387.S0)
+[11] Para que você não possa cruzar sua espada com a minha [arma], eu a carrego baixa para prejudicar seu cavalo.
+
+[40] (P387.S1)
+Este é o contra da jogada anterior de lança contra espada.
+
+[41] (P387.S2)
+Aqui o homem com a lança atinge a cabeça do cavalo de seu oponente (o homem com a espada), porque ele não consegue desviar a lança com sua espada, pois ela está muito baixa.
+
+[42] (P387.S3)
+[No Pisani Dossi, o Mestre está sem sua coroa.]
+
+[43] (P388.S0)
+Tal modo de manejar a espada me oferece quatro jogadas a fazer: eu poderia golpear com a ponta e com a lâmina sem falhar, e também derrubar alguém do cavalo ou tomar sua espada.
+
+[44] (P388.S1)
+Raramente essas coisas são falhas para mim.
+
+[45] (P388.S2)
+Esse modo de empunhar a espada é chamado de “a Guarda da Cauda Longa”.
+
+[46] (P388.S3)
+Quando você estiver cavalgando ao lado direito do seu oponente, esta é uma guarda muito boa para usar contra a lança e todas as outras armas de mão.
+
+[47] (P388.S4)
+Mantenha firmemente em sua mente que os golpes e estocadas do lado esquerdo devem ser desviados para sua linha externa, batendo-os diagonalmente para cima, e não verticalmente.
+
+[48] (P388.S5)
+E os golpes descendentes devem ser igualmente desviados para o lado de fora, levantando um pouco a espada do seu oponente ao fazê-lo.
+
+[49] (P388.S6)
+Você pode realizar essas jogadas como mostram esses desenhos.
+
+[50] (P389.S0)
+[13] Destas duas guardas não faço comparação; Quem sabe mais, seu julgamento prevalecerá.
+
+[51] (P389.S1)
+E aquele que souber vigiar a enganação conseguirá executar bem os quatro jogos acima mencionados.
+
+[52] (P389.S2)
+Esta versão da Guarda de Cauda Longa é uma boa guarda quando seu oponente ataca você de sua espada sobre o ombro esquerdo, como este oponente está mostrado fazendo aqui.
+
+[53] (P389.S3)
+E esteja ciente de que esta guarda funcionará contra todos os ataques tanto do lado direito quanto do lado esquerdo, e contra qualquer um, seja destro ou canhoto.
+
+[54] (P389.S4)
+A partir de agora, começam as jogadas da Cauda Longa, que sempre começam com o desvio da arma do oponente, como você viu representado na primeira guarda da Cauda Longa.
+
+[55] (P389.S5)
+[No Getty, o Mestre à esquerda está sem sua coroa.]
+
+[56] (P390.S0)
+[14] Este é um cruzamento igual, sem vantagem; Quem tiver mais arte e malícia inicia a ação.
+
+[57] (P391.S0)
+Este ponto eu alegremente coloquei em sua garganta, conforme o terceiro Mestre que demonstra tal guarda.
+
+[58] (P391.S1)
+Esta é a primeira jogada que vem da Guarda do Longo Rabo mostrada acima.
+
+[59] (P391.S2)
+Aqui o Mestre desvia a espada de seu oponente e, em seguida, coloca uma estocada em seu peito ou em seu rosto, como você vê desenhado aqui.
+
+[60] (P392.S0)
+De acordo com o primeiro Mestre que está em guarda com a espada, eu dei este golpe na sua cabeça.
+
+[61] (P392.S1)
+Esta é a segunda jogada que você pode fazer após desviar a arma do seu oponente.
+
+[62] (P392.S2)
+Aqui eu golpeio este homem na cabeça, porque vejo que sua cabeça está desprotegida.
+
+[63] (P393.S0)
+[17] Ao cruzar à frente da sua espada, eu a desviei E com a minha dei um grande golpe: E também poderia tê-lo atingido com a minha ponta; E nenhuma das armas que você possui significa algo para mim.
+
+[64] (P393.S1)
+Esta é a outra jogada, a terceira, onde, após desviar a espada do seu oponente, você a agarra com a mão esquerda e o atinge na cabeça.
+
+[65] (P393.S2)
+Você também poderia atingi-lo com um golpe de estocada.
+
+[66] (P394.S0)
+Você perderá sua espada por causa dessa pegada ou irá ao chão sem nenhuma defesa.
+
+[67] (P394.S1)
+Esta é a quarta jogada, na qual o estudante atinge seu oponente na cabeça e então toma sua espada da maneira aqui mostrada.
+
+[68] (P395.S0)
+[19] Para que minha espada não me seja tirada Contra você eu fiz esta manobra: De tal forma que aquilo que você queria fazer a mim Através deste contra eu farei a você.
+
+[69] (P395.S1)
+Esta é a sexta [quinta] jogada, onde você desarma a espada do seu oponente.
+
+[70] (P395.S2)
+Você usa o punho da sua espada para levantar o punho dele para cima, o que fará com que a espada dele caia de suas mãos.
+
+[71] (P396.S0)
+Do cavalo ao chão você deverá ir; Talvez então eu saiba o que devo fazer com você.
+
+[72] (P396.S1)
+Esta é a quinta [sexta] jogada que flui da cobertura onde você desvia sua espada.
+
+[73] (P396.S2)
+Aqui eu coloco meu braço ao redor do seu pescoço e me viro rapidamente, e com a base da minha espada eu o derrubo no chão.
+
+[74] (P396.S3)
+Meu contra é a segunda jogada que me segue, mas este contra não funcionará se seu oponente estiver armado.
+
+[75] (P396.S4)
+Desculpe, mas não posso ajudar com isso.
+
+[76] (P397.S0)
+Se me conviesse ir ao chão, [espada] e tudo, não poderia fazer outra defesa além deste golpe.
+
+[77] (P397.S1)
+Esta é a sétima jogada, que é a contrapartida da quinta [sexta] jogada acima.
+
+[78] (P397.S2)
+Ele emprega um golpe na perna do seu oponente.
+
+[79] (P397.S3)
+Mas se o seu oponente estiver armado, você não pode confiar que este contra-ataque funcione.
+
+[80] (P398.S0)
+[22] Quero fazer minha defesa contra a ponta e a lâmina, de modo que a espada não me seja tirada nem agarrada, e que eu não seja derrubado do meu cavalo: Eu atingirei seu rosto com meu pomo sem falta.
+
+[81] (P398.S1)
+Esta é a oitava jogada, que é a contrapartida de todas as jogadas anteriores, mas especialmente das jogadas da espada montada quando os mestres estão na guarda da Cauda Longa.
+
+[82] (P398.S2)
+Quando os Mestres ou seus alunos estão nesta guarda, e quando eu golpeio ou empurro contra eles, e quando eles rapidamente desviam meu ataque, então eu rapidamente viro minha espada e os golpeio no rosto com meu pomo.
+
+[83] (P398.S3)
+Então eu me movo rapidamente da minha posição [421] e os golpeio na parte de trás da cabeça com um golpe horizontal de costas.
+
+[84] (P398.S4)
+O Pisani Dossi mostra a posição do cavalo do Paris e a posição da mão do Getty.
+
+[85] (P399.S0)
+[23] Para que você não pudesse me atingir no rosto com seu pomo, eu recebi seu golpe com a empunhadura da minha espada.
+
+[86] (P399.S1)
+Eu sou a nona jogada, que é a contrarresposta à contrarresposta que me precedeu.
+
+[87] (P399.S2)
+Quando ele vira sua espada, eu rapidamente coloco meu punho como você vê desenhado aqui, para que ele não possa me atingir no rosto com seu pomo.
+
+[88] (P399.S3)
+E se eu levantar minha espada, e a virar para a esquerda, você [424] pode muito bem ter sua espada retirada.
+
+[89] (P399.S4)
+E se eu não conseguir fazer isso, posso em vez disso te atingir com um golpe de costas no rosto, ou com uma rápida virada da minha espada te acertar na cabeça com meu pomo.
+
+[90] (P399.S5)
+Aqui terminam as jogadas de espada contra espada a cavalo.
+
+[91] (P399.S6)
+Se você souber mais sobre isso, por favor, compartilhe.
+
+[92] (P399.S7)
+[Este Mestre está sem sua coroa.]
+
+[93] (P399.S8)
+No Getty, o jogador está usando a cinta em vez do Mestre.
+
+[94] (P400.S0)
+[24] De tal maneira eu te agarrei, correndo por trás, Que eu te lançarei do cavalo—isso eu acredito.
+
+[95] (P400.S1)
+Este é um jogo de agarrar, isto é, um jogo de braços, [425] e é assim que você o faz: se seu oponente está fugindo de você, você se aproxima por trás dele, do lado esquerdo.
+
+[96] (P400.S2)
+Agora, com a sua mão direita, agarre a peça de bochecha do seu bascinet, ou se ele estiver desarmado, agarre-o pelo cabelo ou pelo braço direito por trás do ombro.
+
+[97] (P400.S3)
+Dessa forma, você o fará cair para trás no chão.
+
+[98] (P400.S4)
+[No Getty e no Pisani Dossi, o Mestre está sem sua coroa.]
+
+[99] (P401.S0)
+Você queria me derrubar do meu cavalo, mas com este contra-ataque você irá ao chão em vez disso.
+
+[100] (P401.S1)
+Este é o contra da jogada anterior, e essa jogada não funcionará quando este contra for aplicado rapidamente da seguinte forma: quando ele te agarrar por trás, você rapidamente troca as mãos nas rédeas, e com a mão esquerda você o imobiliza como mostrado aqui.
+
+[101] (P402.S0)
+[26] Quero levantar sua perna com o estribo, E por causa disso, você irá ao chão.
+
+[102] (P402.S1)
+Este estudante está prestes a derrubar seu oponente de seu cavalo, agarrando o estribo e puxando-o para cima.
+
+[103] (P402.S2)
+Se seu oponente não cair no chão, ele ficará indefeso no ar, e a menos que seu oponente esteja amarrado ao seu cavalo, esta jogada não falhará.
+
+[104] (P402.S3)
+Se ele não tiver o pé no estribo, o estudante pode agarrá-lo pelo tornozelo e levantá-lo no ar da mesma forma que descrevi acima.
+
+[105] (P402.S4)
+[No Pisani Dossi, o Erudito usa uma coroa.]
+
+[106] (P403.S0)
+Você quis me derrubar bem do meu cavalo; Com este contra, ao chão você irá.
+
+[107] (P403.S1)
+Aqui está a contra-jogada à jogada anterior: quando seu oponente agarrar seu estribo ou seu pé, jogue rapidamente seu braço em torno do pescoço dele, e assim você conseguirá desmontá-lo.
+
+[108] (P403.S2)
+Siga este conselho e ele certamente acabará no chão.
+
+[109] (P404.S0)
+[28] Quero te derrubar e ao teu cavalo no chão; O meu peito irá ao seu estribo: Não soltarei a brida do seu cavalo, E no final você não evitará o chão; E quando se está bem armado, esta é uma boa pegada, Porque uma ofensa não pode ser feita com armas.
+
+[110] (P404.S1)
+Este é um método de derrubar seu oponente no chão ao derrubar seu cavalo.
+
+[111] (P404.S2)
+Faz-se assim: [436] quando você e seu oponente montado se aproximam, avance para o lado direito dele.
+
+[112] (P404.S3)
+Então jogue seu braço direito sobre o pescoço do cavalo dele, e agarre a rédea perto de onde a brida entra na boca do animal, e forceiramente puxe-a para cima e para o lado.
+
+[113] (P404.S4)
+Ao mesmo tempo, certifique-se de que os ombros do seu cavalo [437] empurrem contra as haunches do cavalo dele [438]. Dessa forma, você derrubará tanto ele quanto seu cavalo ao mesmo tempo.
+
+[114] (P404.S5)
+[No Pisani Dossi, o Erudito está usando uma coroa.]
+
+[115] (P405.S0)
+[30] Eu busco tirar a rédea de suas mãos E quero lançá-la sobre a cabeça de seu cavalo: E quando a rédea for lançada sobre sua cabeça, Com minha posição eu te levarei a um país diferente.
+
+[116] (P405.S1)
+Neste jogo, você toma as rédeas do cavalo do seu oponente de suas mãos, como se vê aqui desenhado.
+
+[117] (P405.S2)
+Quando você e seu oponente montado se aproximarem, cavalque para o lado direito dele, e jogue seu braço direito sobre o pescoço do cavalo dele, segurando as rédeas perto da mão esquerda dele com sua mão direita voltada para baixo.
+
+[118] (P405.S3)
+Agora puxe as rédeas sobre a cabeça do seu cavalo.
+
+[119] (P405.S4)
+Esta jogada é mais segura de ser realizada com armadura do que sem armadura.
+
+[120] (P405.S5)
+[No Pisani Dossi, o Erudito está usando uma coroa.]
+
+[121] (P406.S0)
+[31] Este Mestre prendeu um cordão à sua sela E ao pé de sua lança, que é cruel e destrutiva, Para lançar ao pescoço de seu inimigo, Com o intuito de arrastá-lo ao chão; assim eu digo.
+
+[122] (P406.S1)
+Este Mestre amarrou uma extremidade de uma corda forte ao selim de seu cavalo e a outra extremidade ao cabo de sua lança.
+
+[123] (P406.S2)
+Primeiro, ele atinge seu oponente, então lançará a lança para o lado esquerdo de seu oponente, sobre o ombro esquerdo de seu oponente, e assim poderá arrastar seu oponente de seu cavalo.
+
+[124] (P407.S0)
+Este vilão estava fugindo de mim em direção a um castelo.
+
+[125] (P407.S1)
+Cavalguei tão forte e rápido, com as rédeas soltas, que o alcancei perto de seu castelo.
+
+[126] (P407.S2)
+E eu o atingi com minha espada em sua axila, que é uma área difícil de proteger com armadura.
+
+[127] (P407.S3)
+Agora eu me retiro para evitar retaliação de seus amigos.
+
+[128] (P408.S0)
+Aqui termina a Flor da Arte do Combate, Desta forma um homem pode enfrentar outro: Feito por Fiore Furlano, filho do Senhor Benedetto; Aqueles que o conheceram podem acreditar bem em suas palavras.
+
+[129] (P408.S1)
+Aqui termina este livro que foi escrito por Fiore, o erudito, que publicou aqui tudo o que sabe sobre esta arte, ou seja, tudo o que sabe sobre a luta armada está contido neste livro.
+
+[130] (P408.S2)
+Este mesmo Fiore nomeou seu livro de “A Flor da Batalha”.
+
+[131] (P408.S3)
+Que aquele para quem este livro foi feito seja eternamente louvado, pois sua nobreza e virtude não têm igual, Fiore, o Friulano, um simples homem idoso, confia este livro a você.
+

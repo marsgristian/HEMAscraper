@@ -1,0 +1,18 @@
+MASTER: Giovanni Filoteo Achillini
+SOURCE BOOK: giovanni filoteo achillini__sword_and_buckler
+FIELD NAME: No Translation
+TOTAL TEXTOS: 4
+================================================================================
+
+[1] (P0.S0)
+XCIX As coisas de importância eu quero dizer, atrevo-me a dizer que digo todo segredo.
+
+[2] (P0.S1)
+Chegando à meia espada na esgrima, Starli de duas maneiras, apenas e usual, fio falso com fio falso pode acontecer, ou fio reto com reto, agora estamos prontos.
+
+[3] (P0.S2)
+Cada ser pode ser agente e paciente.
+
+[4] (P0.S3)
+Quem for mais astuto será o mestre vitorioso.
+

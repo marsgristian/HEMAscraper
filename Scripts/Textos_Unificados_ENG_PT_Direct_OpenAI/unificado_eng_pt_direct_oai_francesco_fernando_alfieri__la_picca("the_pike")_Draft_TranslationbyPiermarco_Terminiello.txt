@@ -1,0 +1,435 @@
+MASTER: Francesco Fernando Alfieri
+SOURCE BOOK: francesco fernando alfieri__la_picca("the_pike")
+FIELD NAME: Draft TranslationbyPiermarco Terminiello
+TOTAL TEXTOS: 143
+================================================================================
+
+[1] (P34.S0)
+A Lança de Francesco Alfieri, Mestre de Armas da mais ilustre Accademia Delia em Pádua.
+
+[2] (P35.S0)
+Mais Ilustre Senhor e Honrado Patrono, a aquisição por sua mais ilustre casa do domínio de Ortenburg, um condado muito nobre no Império na Caríntia, foi para mim - como seu mais devotado servo, tão jubilosa que não consegui compreendê-la em meu coração.
+
+[3] (P35.S1)
+Fui obrigado a comunicá-lo ao mundo com este presente livro, que como um testemunho vivo de minhas infinitas obrigações dedico à imortalidade do seu nome mais ilustre.
+
+[4] (P35.S2)
+O presente é pequeno e grandemente desproporcional em comparação à grandeza dos seus méritos, enquanto em comparação meus talentos também são escassos.
+
+[5] (P35.S3)
+No entanto, não estão desprovidos de estima, quando têm a sorte de ser acompanhados pelo seu favor.
+
+[6] (P35.S4)
+Dediquei meu tratado sobre a bandeira a Vossa Excelência, que teve a bondade de apreciá-lo.
+
+[7] (P35.S5)
+Embora tudo o que pode ser reconhecido como singular nele seja a minha veneração, meu espírito - sempre em um tom de respeito, me dá esperança de que você também desfrutará deste breve tratado sobre a lança.
+
+[8] (P35.S6)
+Os louváveis trabalhos do intelecto devem, por direito, ser oferecidos a Vossa Excelência Ilustríssima, que, pelo esplendor das sublimes virtudes ao seu redor, estará em todos os tempos além de toda comparação.
+
+[9] (P35.S7)
+Em qual arte cavalheiresca você não prevalecerá?
+
+[10] (P35.S8)
+Qual ciência, que nas armas ou na vida civil pode tornar alguém respeitado, em você não merece ser admirada?
+
+[11] (P35.S9)
+Não creio que deva falar longamente sobre suas qualidades, o que não é um fardo para meus ombros; falo com a língua de todos, que é movida apenas pela verdade.
+
+[12] (P35.S10)
+Que Sua Excelentíssima Ilustríssima desfrute, com toda a paz, a posse de muitos bens, e que seja minha glória ser nomeado entre aqueles que perpetuamente dependem de seus gestos.
+
+[13] (P35.S11)
+A Sua Excelentíssima Ilustríssima me curvo.
+
+[14] (P35.S12)
+De Pádua, 28 de março de 1641.
+
+[15] (P35.S13)
+A Sua Mais Ilustre Excelência, Seu mais humilde servo, Francesco Alfieri.
+
+[16] (P36.S0)
+AO LEITOR.
+
+[17] (P36.S1)
+Não faz muito tempo que você viu meu La Scherma sair das impressoras.
+
+[18] (P36.S2)
+O primeiro ensaio dos meus trabalhos foi La Bandiera.
+
+[19] (P36.S3)
+Agora eu adiciono La Picca.
+
+[20] (P36.S4)
+O livro não é longo, mas é completo.
+
+[21] (P36.S5)
+Hoje em dia, a brevidade é valorizada, especialmente se não for devido à omissão de elementos necessários, para que a obra não seja deficiente.
+
+[22] (P36.S6)
+Eu condensei toda a arte em algumas figuras, ou pelo menos nas verdadeiras fundações da arte.
+
+[23] (P36.S7)
+Intelectos sutis e experientes podem encontrar várias inovações que não estão aqui contidas, mas aquele que compreendeu bem o que eu demonstro saberá que são supérfluas ou desprovidas de dificuldade.
+
+[24] (P36.S8)
+Sempre foi meu objetivo guiar os alunos à perfeição por caminhos claros, aprovados pelos bons, e não confundi-los com artifícios e fantasias, que servem apenas para desperdiçar tempo.
+
+[25] (P36.S9)
+Desejo satisfazer os desejos de todos, e se o estilo ou o material não forem válidos para esse objetivo, devo ser ainda mais lamentado, pois a intenção que tive de agradar ao público me fez desejar mais do que eu poderia ter.
+
+[26] (P37.S0)
+Na Lança por Francesco Ferdinando Alfieri Capítulo I O homem é, por natureza, difícil de contentar.
+
+[27] (P37.S1)
+Para eliminar a oportunidade de conflito, as terras foram divididas e domínios foram introduzidos.
+
+[28] (P37.S2)
+Cada um começou reconhecendo o seu, e quase todos ao mesmo tempo, seja para proteger o seu ou para ocupar o do vizinho, eles entraram em guerra.
+
+[29] (P37.S3)
+Para a guerra, descobriram armas, e entre as primeiras estava a lança.
+
+[30] (P37.S4)
+Todas as coisas, no início, são ásperas e, pouco a pouco, são aprimoradas.
+
+[31] (P37.S5)
+Dessa forma, a lança foi inicialmente utilizada sem o refinamento ao qual foi destilada.
+
+[32] (P37.S6)
+Antes da descoberta do ferro, o cabo era armado com pedras afiadas, ossos e materiais semelhantes aptos a causar dano, e assim lutavam.
+
+[33] (P37.S7)
+Tendo descoberto o ferro, este foi colocado em uma e, por muitos povos, em ambas as extremidades, na forma que se acreditava ser a mais penetrante e a mais forte no ataque.
+
+[34] (P37.S8)
+Seu comprimento e largura variavam dependendo de quão mais ou menos robustas eram as nações que o utilizavam.
+
+[35] (P37.S9)
+Os assírios foram os primeiros, que na opinião de muitos autores sérios, os levaram à guerra, esta província tendo tido os primeiros reinos e senhorios.
+
+[36] (P37.S10)
+Os judeus, cujos exércitos floresceram porque o grande profeta Moisés havia aprendido com Deus, ordenaram que suas unidades fossem armadas com a lança, como é claramente visto várias vezes na Bíblia.
+
+[37] (P37.S11)
+As batalhas que eles travaram na Palestina, contra aqueles condenados pela justiça divina a serem derrotados pelo povo escolhido, foram conduzidas por exércitos que lutavam com armas de haste.
+
+[38] (P37.S12)
+Os persas também o usaram e aprimoraram sua habilidade em manejá-lo, pois o grande comandante Ciro, juntamente com a disciplina militar, introduziu a arte do treinamento.
+
+[39] (P37.S13)
+Após os persas, a glória das armas floresceu na Grécia.
+
+[40] (P37.S14)
+Eles também o consideravam com estima, como se vê nas vidas de Palamedes, Filopômenes, Milcíades, Temístocles e outros guerreiros de grande renome: atenienses, lacedemônios e tebanos.
+
+[41] (P37.S15)
+Filipe da Macedônia, que aprendeu a arte das armas com Lysis, formou sua falange armada com armas de haste, com as quais seu filho Alexandre, o Grande, subjugou quase o mundo inteiro.
+
+[42] (P37.S16)
+A República de Roma, em todas as suas virtudes superiores, incluindo o poder que detinha sobre a terra, tinha seus "hastati", e com esta arma o nome de suas legiões inspirava terror.
+
+[43] (P37.S17)
+Mas, para nos aproximarmos de nossos tempos, omitindo a menção a Uguccione dalla Faggiola e, em particular, ao famoso Castruccio Castracani, que impulsionou as disciplinas militares, há muito negligenciadas, os suíços sempre serão imortais por suas lanças, com sua habilidade em usá-las, tendo sido os árbitros da vitória na Itália.
+
+[44] (P37.S18)
+Todos sabem o nível ao qual chegaram, quando as guerras se tornaram mais impiedosas para o estado de Milão; que foi arrancado de Ludovico il Moro, seu filho Maximiliano, Luís XII, o Rei da França, e Francisco I.
+
+[45] (P37.S19)
+Porque o Imperador fez todo o esforço para devolver os Sforzas ao ducado, seguiram-se as célebres façanhas de armas em Novara, Bicocca e em outros lugares, que permanecerão como testemunho eterno da bravura daquela nação livre de treze cantões.
+
+[46] (P37.S20)
+Portanto, ninguém pode duvidar da antiguidade, nobreza e efeito maravilhoso da lança; e é muito certo que esta arte deve ser considerada como tal, e que sempre serão dignos de louvor aqueles que, desejando seguir as fortunas da guerra, se empenham com todo o cuidado em aprendê-la.
+
+[47] (P38.S0)
+Sobre o uso da lança Capítulo II Para fazer bom uso da lança, é necessário conhecer seu comprimento e natureza.
+
+[48] (P38.S1)
+Quanto à sua extensão, normalmente é de nove braccia, [11] quanto à sua natureza, deve ser feito de freixo liso, a madeira bem curada.
+
+[49] (P38.S2)
+Nos tempos antigos, era utilizado sem armas defensivas, para ser manuseado com mais agilidade, e porque as pessoas ainda não haviam se tornado tão engenhosas no ataque.
+
+[50] (P38.S3)
+No entanto, como dessa forma feriu apenas à distância, e se o inimigo se aproximasse não era possível resistir ao seu ímpeto, tendo-se depositado toda a esperança na arma de haste, pela experiência tornou-se claro que, utilizada dessa maneira, era de pouca importância.
+
+[51] (P38.S4)
+Por essa razão, os soldados eram ainda equipados com uma espada bastante curta e larga, para serem rápidos e aptos ao corte, e também uma adaga, uma arma muito apreciada em combates corpo a corpo.
+
+[52] (P38.S5)
+Além disso, uma vez que os piques servem para formar o corpo das tropas e absorver o choque e o ímpeto dos cavalos, a fim de não serem dispersos, atualmente eles se protegem com suas tassetas, [12] braceletes, manoplas, gorgetes e morions, [13] de modo que metade de seu corpo esteja bem armada.
+
+[53] (P38.S6)
+Por causa disso, eles podem facilmente frustrar as tentativas e esforços do inimigo, ainda mais se a guarnição se estender pelos flancos do campo de batalha, formando linhas de tantos mosqueteiros quanto as lanças podem cobrir.
+
+[54] (P38.S7)
+A lança deve, portanto, ter um tamanho determinado, em proporção à estatura e à força dos homens, portando suas armas defensivas, que, sem impedir os soldados, aumenta sua confiança e os dispõe à fortaleza.
+
+[55] (P39.S0)
+Sobre a diferença entre a lança em jogo e em guerra Capítulo III Como muitos apenas gostam de criticar, alguns dirão logo no início que há lança para combate e lança para jogo.
+
+[56] (P39.S1)
+Sei muito bem que no campo, diante do inimigo, você não pensa em pompa, ou em mostrar sua destreza, nem sua graça, nem chega a certas ações que servem mais para deleitar do que para ferir.
+
+[57] (P39.S2)
+Mas somos autorizados a perguntar a essas pessoas se tal conhecimento de manuseio da lança é vantajoso; se a arte de estocar sem se enredar e confundir facilita a superioridade.
+
+[58] (P39.S3)
+Conhecer o tempo e quando explorá-lo, estar pronto para usar o cabo de diferentes maneiras e colocar a mão na espada são elementos essenciais na guerra, e estes são aprendidos principalmente nas academias, onde demonstram os métodos que você pratica no jogo.
+
+[59] (P39.S4)
+É impossível saber quão importante e útil é para um soldado compreender tudo o que pode ser feito com a arma, que por sua escolha deve ser o instrumento de sua honra e de suas fortunas.
+
+[60] (P39.S5)
+Se alguém completamente novo é enviado, e é necessário lutar em algum lugar estreito, não há nada mais ridículo e inútil; se ele deseja colocar a mão na espada e sua lança cai, ou se ele deve mudar de posição, ele colidirá e prejudicará sua linha ou aqueles que estão próximos.
+
+[61] (P39.S6)
+No final, não será bom nem para ele nem para seu capitão.
+
+[62] (P39.S7)
+Isso não acontece com aquele que é praticante da arte, pois aquele que possui o que é mais difícil também possui o que é mais simples na mesma arte.
+
+[63] (P39.S8)
+No entanto, aquele que sabe como fazer a lança voar, como fazê-la deslizar e correr em todas as direções não se enredará, nem dará ocasião para ser zombado por seu dano.
+
+[64] (P39.S9)
+Portanto, eles são diferentes, mas no jogo você abrange tudo o que é necessário na guerra, onde apenas aqueles que sabem progridem.
+
+[65] (P39.S10)
+Porque, como diz o ditado, ninguém tem dúvidas em algo que sabe ter aprendido bem.
+
+[66] (P39.S11)
+Para alcançar esse conhecimento, você deve praticar, e deve louvar aquilo que o torna familiar com os preceitos que o conduzem aos seus objetivos.
+
+[67] (P39.S12)
+Suor nas coisas mais difíceis, para se deleitar nelas, de modo que se tornem mais a seu gosto, maleáveis aos seus pensamentos.
+
+[68] (P40.S0)
+Ao pegar a lança Capítulo IV Chego às demonstrações e às figuras, que ensinam de forma muito mais eficaz do que os discursos, pois ver os desenhos das posturas e os métodos que você deve observar para imitá-las elimina todas as dúvidas que poderiam surgir da fraqueza no aprendizado.
+
+[69] (P40.S1)
+Aqui, devemos primeiramente aprender como levantar a lança do chão.
+
+[70] (P40.S2)
+Isso pode ser alcançado tanto com a direita quanto com a esquerda, como é universalmente observado.
+
+[71] (P40.S3)
+No entanto, você deve garantir que segure a lança firmemente, e levantá-la no ar deve ser realizado em um único tempo indivisível, mantendo seu corpo reto, sem torções, e, uma vez levantada, com sua mão no lugar, ela deve deslizar próxima à sua coxa direita.
+
+[72] (P40.S4)
+Se a lança estiver apoiada contra uma parede, para que não caia, ou para evitar pegá-la com as duas mãos com algum desconforto, ela pode ser levantada de duas maneiras.
+
+[73] (P40.S5)
+Ou você coloca o pé esquerdo na base para que ele permaneça imóvel, como fazem os franceses, ou com o pé direito para o mesmo efeito, como é costume entre os espanhóis.
+
+[74] (P40.S6)
+Lembre-se de ser gracioso em cada movimento, assegurando-se de segurar a lança mantendo o polegar estendido sob o cabo, com a mão direita posicionada ao nível da sua espada.
+
+[75] (P41.S0)
+Ao segurar a lança para marchar Capítulo V Ao desejar marchar com a lança erguida, como mostrado na figura, são necessários três tempos para levantá-la.
+
+[76] (P41.S1)
+O primeiro é levantar a lança o suficiente para que fique um pouco acima da sua cabeça, segurando a lança com a mão esquerda alinhada com seu flanco.
+
+[77] (P41.S2)
+O segundo é realizado levantando a lança até o nível determinado, rapidamente trazendo sua mão direita para a empunhadura.
+
+[78] (P41.S3)
+O terceiro consiste em segurar a lança inteiramente com a mão direita, com ela apoiada entre o seu braço e o ombro, como é claro no desenho.
+
+[79] (P42.S0)
+Ao marchar com a lança sobre o ombro Capítulo VI Para carregar a lança sobre o ombro, as seguintes regras são válidas.
+
+[80] (P42.S1)
+Seu cotovelo não deve ser forçado, portanto, não deve estar nem muito alto, nem inclinado para o chão, pois um está fraco, o outro não é muito gracioso.
+
+[81] (P42.S2)
+Sua mão deve ser mantida quieta, longe do seu ombro, com sua esquerda dobrada em seu flanco.
+
+[82] (P42.S3)
+Dessa maneira, você pode mudar de face e mover a lança enquanto gira o corpo, sem se desordenar.
+
+[83] (P42.S4)
+Se você deve passar diante de algum príncipe, ou ministro e oficial de guerra, você demonstra seu respeito da seguinte maneira.
+
+[84] (P42.S5)
+Primeiro você muda sua perspectiva, e quando está diante deles, baixa o olhar, virando seu corpo um pouco na direção deles, puxando sua perna direita para trás e dobrando o joelho, enquanto mantém a gravitas exigida pela milícia.
+
+[85] (P43.S0)
+Sobre armar a lança, ou colocar-se em guarda Capítulo VII Depois de ter demonstrado como pegar e levantar a lança, e como marchar com ela, chegamos à ação utilizada para ferir.
+
+[86] (P43.S1)
+Para manter seu corpo bem estruturado, você deve manter o pé esquerdo à frente.
+
+[87] (P43.S2)
+Sua mão direita segura o cabo na empunhadura, e com sua outra mão na altura do peito, seu braço está dobrado em um arco, com o cotovelo tendo que sustentar a lança.
+
+[88] (P43.S3)
+Você também pode ampliar seu passo, e após ter ampliado seu golpe, deve sempre retirar seu braço esquerdo para a posição indicada, retornando à mesma guarda na qual, seja o inimigo pressionando ou recuando, você avança.
+
+[89] (P43.S4)
+Se você deve mudar de face, move seu pé direito para frente e, tendo abaixado a parte de trás ao chão, levanta a ponta em linha reta, chegando assim a parar nesta postura.
+
+[90] (P43.S5)
+Se você deseja mudar de direção sem mudar seu passo, enquanto realiza o mesmo movimento com a lança, você troca as mãos, de modo que no lugar da sua direita você encontra a sua esquerda.
+
+[91] (P44.S0)
+No alabardeiro elevado, para permanecer em formação, ou então em desfile, e passo Capítulo VIII Como a alabarda deve ser segurada enquanto em formação, ou em desfile, é evidente pela figura, e sem incertezas.
+
+[92] (P44.S1)
+No entanto, a maneira como você caminha com a lança não é observada da mesma forma em todos os lugares.
+
+[93] (P44.S2)
+Os espanhóis usam um passo largo, que é o costume dos antigos, enquanto os franceses usam um passo muito menor, que é seguido nos tempos modernos.
+
+[94] (P44.S3)
+Ambos os métodos podem ser defendidos como bons, mas um passo moderado, que não é nem largo nem estreito, é muito superior a ambos.
+
+[95] (P44.S4)
+Ao empregar este método, o soldado deve ser aconselhado a manter seu corpo ereto, seu braço dobrado e a lança a antecipar seu pé direito.
+
+[96] (P44.S5)
+Acompanha-o de todas as maneiras, de tal forma que, ao começar a dar o passo, o braço direito se estende, e ao avançar o pé esquerdo, ele recua, sem levantar o cabo muito longe do chão, com a mão sempre ajustada ao ombro.
+
+[97] (P44.S6)
+Sem exceções, este método é confortável e muito natural, como você pode entender pela figura.
+
+[98] (P44.S7)
+Se acontecer que você deve reverenciar um príncipe ou general, neste caso, tendo parado, você puxará a perna esquerda para trás (como a mais livre) e dobrará ligeiramente o joelho, com gravidade militar.
+
+[99] (P44.S8)
+Durante toda essa ação, mantenha a lança fixa e imóvel, e ao terminar, retorne à sua posição.
+
+[100] (P45.S0)
+Como o capitão segura a lança em formação Capítulo IX Devemos aprender com a figura oposta a maneira adequada para um capitão segurar a lança em formação, que é normalmente praticada de uma das duas maneiras.
+
+[101] (P45.S1)
+O primeiro é carregá-lo no ombro, o que o torna muito pesado.
+
+[102] (P45.S2)
+O segundo é segurá-lo no meio do cabo, e isso é novo, praticado pela guarda do Rei da França, para ser confortável, útil e ágil no ataque; e para exibir várias habilidades ao levar sua mão até a empunhadura, depois até a ponta, fazendo a lança deslizar de uma para a outra, dependendo da inclinação de seu portador.
+
+[103] (P45.S3)
+Tais curiosidades acumulam crédito e amor pelo soldado, e são muito úteis por servirem como testemunho de que você é proficiente no uso de suas armas.
+
+[104] (P46.S0)
+Sobre a lança em lugares onde não pode ser levantada Capítulo X Os locais onde as armas são utilizadas nem sempre são da mesma natureza: o combate pode ocorrer no campo aberto, ou às vezes nas florestas.
+
+[105] (P46.S1)
+Se ao proteger uma localização você for forçado a arrastar a lança, suas opções para segurá-la se reduzem a apenas duas.
+
+[106] (P46.S2)
+O primeiro é com a sua mão direita próxima à ponta.
+
+[107] (P46.S3)
+O segundo é com ambas as mãos, buscando manter os polegares estendidos ao longo do comprimento do cabo, isso é útil para operá-lo com graça, que é a alma de tudo que fazemos nesta profissão.
+
+[108] (P46.S4)
+É mantido curto desta forma, e alinhado com seu flanco, a circunstância não permitindo que você permaneça no ato de atacar.
+
+[109] (P46.S5)
+Se você deve permanecer dentro de um portão ou em outro local, a fim de esperar que outros passem e exigir seus nomes, um ofício para aqueles em serviço de sentinela, ainda assim você pode vencer e tomar o controle das armas de seu inimigo; um pensamento digno de qualquer soldado honrado; que merece ser preferido a outros na medida em que os supera no uso de tais armas nas quais as esperanças de progresso estão depositadas.
+
+[110] (P46.S6)
+No entanto, é sempre necessário praticar e treinar nas academias, para que você possa utilizá-los prontamente conforme a necessidade exigir.
+
+[111] (P46.S7)
+Saber como manejá-los em qualquer local e extrair da arte aquela defesa que se adquire através do jogo.
+
+[112] (P47.S0)
+Sobre o transporte da lança ao recuar e a mudança de direção durante a retirada Capítulo XI As batalhas são incertas, algumas são vencidas e outras são perdidas, e frequentemente acontece que você deve fugir.
+
+[113] (P47.S1)
+Chegando a este ponto, em posição de guarda para lutar, você abandona a lança com a mão esquerda.
+
+[114] (P47.S2)
+Mantendo-o na sua direita, com a mesma empunhadura, você apenas precisa virar suas costas, deixando para trás seu braço, como se vê no desenho.
+
+[115] (P47.S3)
+Se você deseja ficar firme e mudar de direção, você vira o corpo e rapidamente traz de volta o pé direito, e ao girar o braço, levanta a lança no ar.
+
+[116] (P47.S4)
+Ao encontrá-lo enquanto cai com a sua esquerda, você se coloca em guarda.
+
+[117] (P47.S5)
+Essas ações são possíveis com muitos enfeites: deslizamentos, lançamentos, meio-lançamentos e outros artifícios, que são típicos nas academias.
+
+[118] (P48.S0)
+Sobre deslizar a lança, e sobre a espada Capítulo XII Neste desenho vemos o método para deslizar a lança para trás, até que ela descanse em sua mão esquerda perto da cabeça.
+
+[119] (P48.S1)
+O soldado encontra seu flanco esquerdo à frente e, desejando aproveitar suas armas e não abandoná-las, vira a mão esquerda, que deve usar para passar a lança sobre sua cabeça.
+
+[120] (P48.S2)
+Com este movimento, ele retorna à sua postura natural, segurando a lança, e depois pode facilmente colocar a mão na espada, sem se desordenar ao puxá-la sobre o braço esquerdo, sem mover os pés.
+
+[121] (P48.S3)
+Dessa forma, ele pode facilmente empregar ambos juntos, para melhor resistir e lutar com a vantagem de duas armas, o que é óbvio para aqueles que sabem quão importante isso é e que se dedicam às artes militares.
+
+[122] (P48.S4)
+No entanto, os prudentes nunca se cansam de praticar e aprender: demonstrando sua força e agilidade ao lançar a lança de diferentes maneiras, deixando-a escorregar da ponta até a empunhadura, e extraindo mil novas descobertas, todas contribuindo para a plenitude desta arte.
+
+[123] (P49.S0)
+Sobre a lança e a espada em batalha Capítulo XIII Aqui demonstramos o uso da lança com a espada.
+
+[124] (P49.S1)
+É necessário grande habilidade para deslizar a lança conforme necessário, para frente e para trás com a mão esquerda, um membro que por si só é fraco e mal disposto, capaz apenas através da prática.
+
+[125] (P49.S2)
+Ao trocar de armas, você realiza vários deslizamentos da lança, sempre mantendo boa ordem, com as armas prontas para defender e atacar; seja avançando e pressionando o inimigo, ou recuando.
+
+[126] (P49.S3)
+Nem tampouco eles impedirão que você mude de face e execute o que é sugerido pelo bom julgamento e pela necessidade, quando o soldado não precisa mudar de curso nesses dois extremos.
+
+[127] (P50.S0)
+Ao erguer a lança para o seu ombro enquanto segura a espada na mão Capítulo XIV O material deste capítulo revela muitas novas descobertas, como mudar de face e trocar de mãos simultaneamente, deslizar, lançar a lança e tudo o que constitui a arte.
+
+[128] (P50.S1)
+O presente método é muito apropriado, rápido e o mais seguro de todos.
+
+[129] (P50.S2)
+O soldado se encontra como mostrado no desenho.
+
+[130] (P50.S3)
+Desejando elevar o punho, ele deve levantar seu cotovelo na altura do ombro.
+
+[131] (P50.S4)
+Com ele firmemente no lugar, ele rapidamente passará a mão sob o pescoço e agarrará a lança virando a palma da mão.
+
+[132] (P50.S5)
+Então ele estende o braço, e o cabo cai ao chão com uma graça ostentosa.
+
+[133] (P51.S0)
+Ao erguer a lança para o seu ombro enquanto segura a espada na mão Capítulo XV Todos os professores trabalham para desenvolver o que foi descoberto, ou para refiná-lo.
+
+[134] (P51.S1)
+Demonstramos o progresso da arte, sem muitas sutilezas, que são difíceis de representar sem ser prolixo, e que só podem ser aprendidas sob a disciplina de alguém que ensina.
+
+[135] (P51.S2)
+Estamos na última lição, e esta por si só é muito clara, embora tenha suas particularidades, em muitos aspectos não muito comuns.
+
+[136] (P51.S3)
+Eu sei que em qualquer lugar onde você encontre a lança, que sem abandoná-la você pode embainhar sua espada.
+
+[137] (P51.S4)
+No entanto, ao levantá-la, apoiando-a reta sobre o seu ombro, mantendo a empunhadura pela ponta do seu pé, como apresentado na figura, permanecendo bem firme e ajustada, é um método com muita graça e grande facilidade.
+
+[138] (P51.S5)
+Depois, você está livre para pegar o bastão dependendo de sua intenção e da ocasião, e com a espada ao seu lado, pode adotar uma postura regular, e com uma gravidade que não demonstra afetação, pode fazer as pazes com seus trabalhos.
+
+[139] (P52.S0)
+Conclusão deste trabalho Capítulo XVI Aqui estão as breves lições que prometi, e aqui está o resumo ao qual me referi no início.
+
+[140] (P52.S1)
+Não me alonguei em minhas explicações, para evitar repetir as mesmas coisas muitas vezes, e porque, de certa forma, as figuras falam por si mesmas.
+
+[141] (P52.S2)
+Meu espírito é grande, mas minha força me trai.
+
+[142] (P52.S3)
+No entanto, desejo mostrar-lhe em outro livro o "spadone", o uso de armas com cabo nas barreiras, o uso da alabarda e dos sabres.
+
+[143] (P52.S4)
+Enquanto isso, receba este sinal do meu afeto, e se eu não consegui te agradar muito com palavras, talvez você me encontre mais habilidoso em ação.
+

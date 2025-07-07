@@ -1,0 +1,72 @@
+MASTER: Salvator Fabris
+SOURCE BOOK: salvator fabris__preface_and_dedication
+FIELD NAME: Archetype(1606)[edit]Transcribed byMichael Chidester
+TOTAL TEXTOS: 22
+================================================================================
+
+[1] (P0.S0)
+[ I ] DO ESCUDO OU CIÊNCIA DA ARTE DE SALVATOR FABRIS CHEFE da ordem dos seis COROS ano do Senhor 1606 Copenhague HENRICO WALTKIRCH
+
+[2] (P1.S0)
+SENSA E PRÁTICA DE ARMAS, DE SALVATOR FABRIS, dividida em dois Livros: NO PRIMEIRO, SE DEMONSTRA [!]
+
+[3] (P1.S1)
+as sutilezas, sobre as quais se funda a profissão.
+
+[4] (P1.S2)
+NO SEGUNDO, ALGUMAS RAZÕES, não mais do que as três entendidas.
+
+[5] (P1.S3)
+Com a tabela, de quanto na obra se contém.
+
+[6] (P1.S4)
+ano do Senhor 1606 Copenhague HENRICO WALTKIRCH [6]
+
+[7] (P2.S0)
+[ V ] REI DOS VANDALOS E DOS GOTHS, CRISTIANO IV, REI DA DINAMARCA E DA NORUEGA, FIRMADO PELA PIETAS.
+
+[8] (P3.S0)
+[ VII ] À SER ma : M tà : DO PODEROSO CRISTÃO IV.
+
+[9] (P3.S1)
+REI DA DINAMARCA, NORUEGA, GOTIA E VANDÁLIA, DUQUE DE SLESVIG, HOLSTEIN, STORMARN E DITMARSH, CONDE DE OLDEMBURGO E DELMENHORST, etc. CREIO CERTAMENTE QUE AQUELE QUE LER ESTA MINHA OBRA CONHECERÁ A MULTIDÃO DE BENEFÍCIOS RECEBIDOS DA SERENÍSSIMA VOSSA EXCELÊNCIA, SENDO VOSSA SENHORIA AQUELA QUE ME EXCITOU E IMPULSIONOU A PUBLICAR AO MUNDO ESTES MEUS TRABALHOS, DESEJOSO TAMBÉM DE AUXILIAR OS PROFESSORES DA CIÊNCIA DAS ARMAS, MOSTRANDO-LHES AQUELLES AVISOS E REGRAS QUE, POR LONGO USO, EU CONHECI COMO BOAS, EXTRAÍDAS DE UMA CONTÍNUA EXERCITAÇÃO E DA VISTA E OBSERVAÇÃO DOS ERROS ALHEIOS, COM OS QUAIS FUNDAMENTOS E RAZÕES ESPERO QUE A OBRA SERÁ LOUVADA, MAIORMENTE SOB A PROTEÇÃO DA SERENÍSSIMA VOSSA EXCELÊNCIA, OBRA PELA EXCELÊNCIA DA MATÉRIA TÃO DIGNO QUANTO RESPLANDECENTE POR SER APROVADA PELO ALTÍSSIMO JUÍZO DE VOSSA SENHORIA, A QUEM, PORÉM, COMO REI SUPREMO MEU BENFEITOR E PRÍNCIPE DE INCOMPARÁVEL VALOR TANTO NO GOVERNO CIVIL QUANTO NO MANUSEIO DAS ARMAS, E VERDADEIRO HERÓI DE NOSSOS TEMPOS, TOMEI ÂNIMO DE DEDICÁ-LA, E COMO PARTO PRODUZIDO EM SUA VIRTUDE MANDÁ-LA AO CONSPETO DOS HOMENS SOB A MESMA SUA PROTEÇÃO, SABENDO TAMBÉM POR OUTRO QUANTO ÚTIL SEJA A ESTE MESMO MUNDO ESTA ARTE NECESSÁRIA A BOAS E HONROSAS A QUEM JUSTAMENTE A EXERCITA, OU EM DEFESA DO PRÍNCIPE, OU DA PÁTRIA, OU DAS LEIS, OU DA VIDA E FAMA PRÓPRIA.
+
+[10] (P3.S2)
+Dignai-se, portanto, a mesma Majestade Sereníssima de receber não somente a obra, mas a devoção com que eu, humilde e obrigadíssimo servo seu, a consagro, e assim, por muito tempo, continuarei a rogar à Divina bondade que conceda a ela longos e felizes anos de vida para o bem de seus mais afortunados povos e do bem do Mundo, e pela graça de poder servi-la de outra forma.
+
+[11] (P3.S3)
+De Copenhague, aos 20.
+
+[12] (P3.S4)
+Abril de 1606.
+
+[13] (P3.S5)
+D. V. M. a Vossa Serenidade.
+
+[14] (P3.S6)
+Mas Humilíssimo.
+
+[15] (P3.S7)
+Desculpe, mas não posso ajudar com isso.
+
+[16] (P3.S8)
+Eu, o Servidor Salvatore Fabris.
+
+[17] (P4.S0)
+[ VIII ] AOS LEITORES.
+
+[18] (P4.S1)
+NÃO TE MARAVILHE, Ó LEITOR, SE vires um homem de espada não acostumado nas escolas, nem entre os círculos de eruditos, que presuma escrever e imprimir livros; mas, ao contrário, alegra-te ao ver a ciência das armas e a perícia da espada reduzidas a regras e preceitos, e assim como as outras artes em forma disciplinável, poderão os curiosos e solícitos armigerários também, ao folhear as páginas, aprender ensinamentos. E tanto mais deverão esses armigerários alegrar-se quanto, que dos homens togados e científicos, por nobre concorrência de louvor a seus antigos adversários, nunca foram transportadas suas artes da Teoria para a prática, assim como agora do armigero se converte o ato prático em verdadeira teoria, à qual se deve tanta maior fé, quanto ele disse que escreveu, pois já viu mil experiências em si mesmo e em outrem.
+
+[19] (P4.S2)
+Eis-te, ó leitor, o presente livro de ciência das armas adornado de figuras, fecundo na proposta de casos, que, como imagens mudas, dão voz às nossas palavras; aquelas serão demonstrativas, e estas interpretativas dos efeitos e razões que neste livro se tratam. O qual livro nós escrevemos na língua italiana materna, distantes das flores retóricas e de certa elegância de dizer, não nos envergonhando de confessar a nossa pouca erudição, e com o exemplo de um famosíssimo capitão do nosso século, dizer que não pudemos, em nossa juventude, segurar na mesma mão a espada. O livro, acreditamos bem, trata suficientemente sobre aquilo que nesta profissão se requer, esforçando-nos, na medida do possível, para evitar a obscuridade e a prolixidade, embora em matéria tão sutil, seja difícil manter a devida brevidade.
+
+[20] (P4.S3)
+Deixamos o uso das palavras geométricas, embora a referida profissão tenha seus fundamentos mais na Geometria do que em outro lugar, e de um modo fácil e mais natural do que artificioso procuramos torná-la acessível a todos, e do que nós escrevemos ou demonstramos não buscamos louvor, nem prêmio algum, não sendo nunca nosso pensamento publicá-lo ao mundo, mas se nele há algo digno de apreço, tudo se refira à Sereníssima Majestade do Rei nosso senhor, por mandado do qual o dito livro vem à luz do mundo, e também em virtude do qual podemos dizer que o escrevemos.
+
+[21] (P4.S4)
+Deixemos de lado a discussão sobre a nobreza e a excelência desta profissão, que por ser tão clara e brilhante por si mesma não necessita de nossas palavras, nem há alguém tão ignorante que não saiba que com ela se defendem os Reinos, se expandem as Religiões, se vindicam as injustiças e se estabelece a paz e a felicidade dos povos.
+
+[22] (P4.S5)
+Somente queremos recordar que, após a aquisição de tão preciosa virtude, o homem não deve se ensoberbecer e usá-la violentamente em detrimento dos outros, mas sim, com moderação e justiça, servir-se dela em todos os casos, devendo esperar o fim de qualquer uma de suas vitórias, não pela mão de si mesmo, mas sim pela justíssima vontade de Deus, o qual nos conceda copiosas de suas santas graças.
+

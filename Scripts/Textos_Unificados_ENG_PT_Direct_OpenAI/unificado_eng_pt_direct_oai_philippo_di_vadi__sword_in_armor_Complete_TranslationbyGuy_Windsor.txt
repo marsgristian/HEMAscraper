@@ -1,0 +1,21 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__sword_in_armor
+FIELD NAME: Complete TranslationbyGuy Windsor
+TOTAL TEXTOS: 5
+================================================================================
+
+[1] (P50.S0)
+Guardiões da espada em armadura [1] Eu sou a guarda da cobra inferior, que se destaca por atacar com estocadas.
+
+[2] (P50.S1)
+Eu sou a guarda do sereno leopardo, Que com a cauda te dará veneno.
+
+[3] (P51.S0)
+Eu sou a primeira maravilha da arte, Para fazer defesa de qualquer lado.
+
+[4] (P52.S0)
+Eu quero que você deixe sua espada cair para sua vergonha, farei algo ainda pior com você, por causa de suas falhas.
+
+[5] (P53.S0)
+Pela minha passagem fora do caminho, eu te lançarei ao chão com a sua espada.
+

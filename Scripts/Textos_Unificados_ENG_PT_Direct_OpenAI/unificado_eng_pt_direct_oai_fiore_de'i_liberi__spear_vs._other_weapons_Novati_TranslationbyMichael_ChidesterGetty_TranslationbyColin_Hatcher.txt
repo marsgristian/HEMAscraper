@@ -1,0 +1,117 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__spear_vs._other_weapons
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 37
+================================================================================
+
+[1] (P370.S0)
+Desta forma, eu espero com a adaga e com o bastão: O bastão fará uma cobertura, a adaga irá te atingir no peito.
+
+[2] (P370.S1)
+E aquilo que eu faço com um bastão, eu poderia também fazer com uma espada, embora eu pudesse encontrar jogadas muito mais fortes com a espada.
+
+[3] (P370.S2)
+Este Mestre aguarda estes dois homens com lanças.
+
+[4] (P370.S3)
+O Mestre, que está à espera com um bastão e uma adaga, vê que o primeiro pretende atacar com um golpe de cima para baixo, enquanto o segundo pretende golpear de baixo para cima.
+
+[5] (P370.S4)
+Em cada caso, antes que qualquer um dos oponentes ataque com sua lança, o Mestre inclina seu bastão para a direita, como na guarda Baixa Porta de Ferro, virando-se sem mover os pés ou levantar o bastão do chão.
+
+[6] (P370.S5)
+E assim o Mestre espera nesta guarda.
+
+[7] (P370.S6)
+À medida que qualquer oponente ataca, o Mestre empurra a lança para o lado esquerdo com seu bastão, utilizando sua adaga também, se necessário.
+
+[8] (P370.S7)
+Após essa cobertura, o Mestre avança e ataca.
+
+[9] (P370.S8)
+Ambos os atacantes com suas lanças descobrirão que ele possui uma boa defesa.
+
+[10] (P371.S0)
+[13] Da maneira que o Mestre anterior disse, eu ataco aquele no peito com a adaga.
+
+[11] (P371.S1)
+Esta é a jogada do Mestre que espera por aqueles dois com lanças.
+
+[12] (P371.S2)
+O Mestre tem na mão direita uma adaga e mantém um bastão reto à sua frente na mão esquerda.
+
+[13] (P371.S3)
+Ele pode realizar a jogada desta maneira.
+
+[14] (P371.S4)
+E eu o faço por ele em seu lugar.
+
+[15] (P371.S5)
+Mas se este jogador soubesse como agir bem, poderia ter evitado a ponta da adaga.
+
+[16] (P371.S6)
+Se ele tivesse levantado as mãos com a lança, e com o restante da lança que permanece na parte traseira, ele teria coberto sob a minha adaga, o que significa cruzar, isso não teria acontecido com ele.
+
+[17] (P371.S7)
+E ele poderia ter me ferido com sua lança, se soubesse como fazer essa defesa contra mim.
+
+[18] (P372.S0)
+Eu espero aqui com dois bastões e uma adaga: eu lançarei um em você e cobrirei com o outro, chegando ao estreito, e rapidamente o atingirei no peito com minha adaga.
+
+[19] (P372.S1)
+Este Mestre defende-se com dois porretes contra uma lança, da seguinte forma: quando o homem da lança se aproxima para atacar, o Mestre golpeia a cabeça de seu oponente com o porrete em sua mão direita.
+
+[20] (P372.S2)
+Então ele rapidamente golpeia com o porrete na mão esquerda para fazer uma cobertura contra a lança, e então ele atinge seu oponente no peito com sua adaga, como é mostrado a seguir.
+
+[21] (P373.S0)
+[15] Aquilo que o Mestre disse, assim eu faço, coloquei a adaga em seu peito sem dificuldade.
+
+[22] (P373.S1)
+Eu mostro a jogada do Mestre diante de mim.
+
+[23] (P373.S2)
+Se ele soubesse o contra, ele teria me obstruído da seguinte forma: teria levantado minhas mãos com sua lança, girando-a sob minha adaga, e assim teria conseguido me obstruir e me destruir.
+
+[24] (P373.S3)
+Então leve isto, já que você não sabe nada.
+
+[25] (P374.S0)
+Aqui estão três oponentes que desejam matar este Mestre.
+
+[26] (P374.S1)
+O primeiro pretende golpear por baixo, e ele segura sua lança no ponto médio.
+
+[27] (P374.S2)
+O segundo carrega sua lança apoiada e totalmente estendida.
+
+[28] (P374.S3)
+O terceiro pretende lançar sua lança.
+
+[29] (P374.S4)
+Eles concordaram que ninguém fará mais de um golpe cada.
+
+[30] (P374.S5)
+Além disso, eles se revezarão.
+
+[31] (P375.S0)
+Eu te cortei na cabeça com minha lança da guarda do Mestre que é tão rápida.
+
+[32] (P375.S1)
+Esta é a jogada do Mestre que espera com sua ghiavarina na Presa do Javali por um ataque dos três a cavalo.
+
+[33] (P375.S2)
+Para entrar neste jogo, ele sai da linha e desvia a lança de seu oponente.
+
+[34] (P375.S3)
+E embora ele conheça esta jogada, eu irei demonstrar para ele que minha ghiavarina é tão rápida que posso atingir meu oponente com ambos os estocadas ou cortes contra sua cabeça.
+
+[35] (P376.S0)
+[19] Com a empunhadura eu te atingi com minha lança, mas tenho outra ponta que é ainda mais afiada.
+
+[36] (P376.S1)
+Esta é também uma jogada feita pelo Mestre acima, que espera na Presa do Javali.
+
+[37] (P376.S2)
+Em seu lugar, posso fazer esta jogada em vez da outra: se ele desvia minha lança com a dele, eu giro minha lança e o golpeio com a empunhadura, que é revestida com aço bem temperado.
+

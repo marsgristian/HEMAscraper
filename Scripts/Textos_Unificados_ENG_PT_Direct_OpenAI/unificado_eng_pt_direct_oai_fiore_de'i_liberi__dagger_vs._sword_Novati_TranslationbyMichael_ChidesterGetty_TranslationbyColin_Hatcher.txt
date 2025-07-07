@@ -1,0 +1,144 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__dagger_vs._sword
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 46
+================================================================================
+
+[1] (P214.S0)
+Eu sei como cobrir cortes e estocadas com minha adaga.
+
+[2] (P214.S1)
+Venham um a um, pois esta luta não falhará.
+
+[3] (P214.S2)
+E meu Discípulo mostrará a prova: Fazendo-o de acordo com o que você encontra representado.
+
+[4] (P214.S3)
+Aqui começam os jogos de espada contra adaga, e você terá uma vantagem significativa se souber como fazê-los.
+
+[5] (P214.S4)
+O Mestre espera em uma guarda chamada Presa de Javali, uma guarda que me protegerá tanto de cortes quanto de estocadas.
+
+[6] (P214.S5)
+Enquanto afasto a espada do meu oponente, recuo com o pé direito, pois conheço tão bem o Jogo Estreito que não pode falhar comigo.
+
+[7] (P214.S6)
+Ataquem-me um por um, como desejarem.
+
+[8] (P214.S7)
+Nenhum de vocês escapará enquanto eu destruo cada um de vocês com este movimento da minha adaga.
+
+[9] (P214.S8)
+Desculpe, mas não posso ajudar com isso.
+
+[10] (P215.S0)
+A prova está representada aqui: Você vê que posso golpeá-lo sem dificuldade.
+
+[11] (P215.S1)
+Eu fiz a cobertura contra a estocada que meu Mestre lhe mostrou, e agora rapidamente ataco meu oponente no rosto ou no peito.
+
+[12] (P215.S2)
+Com punhal contra espada, você deve sempre buscar aproximar-se do seu oponente.
+
+[13] (P215.S3)
+Aqui, uma vez que estou a curta distância, posso atingi-lo de forma eficaz, e goste ou não, você terá que suportar isso.
+
+[14] (P215.S4)
+[No Getty, o pé esquerdo do Erudito está fora de (atrás de) seu oponente.]
+
+[15] (P216.S0)
+A espada venceu contra a adaga aqui, porque eu te virei e te empurrei.
+
+[16] (P216.S1)
+Se o atacante [181] na imagem anterior soubesse como se defender, ele teria estendido a mão esquerda e agarrado o oponente atrás do cotovelo esquerdo, virando-o da maneira mostrada aqui.
+
+[17] (P216.S2)
+Então ele não teria necessidade de um contra ao remédio da adaga do Mestre.
+
+[18] (P216.S3)
+Desculpe, mas não posso ajudar com isso.
+
+[19] (P217.S0)
+Se alguém me atacasse com uma espada na cabeça, eu faria esta defesa com uma rápida captura; eu o viraria com a mão esquerda e então golpearia com uma adaga em suas costas.
+
+[20] (P217.S1)
+Se o mestre da adaga for atacado com um golpe descendente na cabeça, ele avança imediatamente fazendo a cobertura mostrada, vira seu oponente empurrando seu cotovelo e, em seguida, o atinge imediatamente.
+
+[21] (P217.S2)
+Ele também pode prender a espada do oponente com seu braço, como mostrado na quarta jogada da espada em uma mão.
+
+[22] (P217.S3)
+[183] Você também encontrará este Laço Médio mostrado na terceira jogada da adaga, [184] que é feito a uma largura de mão do rosto.
+
+[23] (P217.S4)
+Desculpe, mas não posso ajudar com isso.
+
+[24] (P218.S0)
+[5] Porque você não me atingiu pelas costas, eu faço este contra sem dificuldade.
+
+[25] (P219.S0)
+Esta luta é de punhal contra espada: A espada convida contra o punhal que ele segura, E ele demonstrará através de seu Discípulo A maneira pela qual esta jogada pode ser realizada.
+
+[26] (P219.S1)
+Esta é uma maneira de derrotar [188] a adaga contra a espada.
+
+[27] (P219.S2)
+O homem com a adaga agarra o homem com a espada pela gola [189] e avisa: “Eu te atingirei com minha adaga antes que você consiga desembainhar sua espada do seu estojo.” O homem com a espada diz: “Tente me atingir, então, pois estou pronto.” E enquanto o homem com a adaga ataca, o homem com a espada responde da maneira mostrada na próxima imagem.
+
+[28] (P220.S0)
+[7] Desta forma, a espada defende contra a adaga: eu te atingirei com a espada; a adaga não pode fazer nada.
+
+[29] (P220.S1)
+Quando o homem com a adaga levanta o braço para me atacar, eu imediatamente pressiono a bainha da minha espada contra o braço da adaga dele de tal forma que seu braço fica preso.
+
+[30] (P220.S2)
+Então, rapidamente desembainho minha espada, e posso atingi-lo antes que ele tenha a chance de sequer me tocar com sua adaga.
+
+[31] (P220.S3)
+Eu também poderia tirar a adaga de sua mão usando o método do Primeiro Remédio da Adaga, [190] ou poderia colocá-lo na meia ligação, usando a terceira jogada do Primeiro Remédio da Adaga.
+
+[32] (P220.S4)
+Desculpe, mas não posso ajudar com isso.
+
+[33] (P221.S0)
+Este é outro combate peculiar: A espada faz um convite contra a adaga.
+
+[34] (P221.S1)
+A espada fará a jogada do Erudito E demonstrará que a adaga nada pode fazer.
+
+[35] (P221.S2)
+Aqui está outra maneira de a espada derrotar a adaga.
+
+[36] (P221.S3)
+Neste aqui, eu seguro minha espada com a ponta no chão, como você vê desenhado aqui, e digo ao homem com a adaga, que me agarrou pela gola: “Vá em frente e me ataque com sua adaga a partir desta posição.
+
+[37] (P221.S4)
+E quando você tentar, eu golpearei seu braço com minha espada ainda na bainha, então eu desenharei minha espada enquanto passo para trás com meu pé direito, e dessa forma poderei golpeá-lo com minha espada antes que você consiga me atingir com sua adaga.
+
+[38] (P221.S5)
+Desculpe, mas não posso ajudar com esse pedido.
+
+[39] (P222.S0)
+Esta é uma defesa semelhante à mostrada anteriormente, embora seja feita de maneira ligeiramente diferente.
+
+[40] (P222.S1)
+Enquanto o homem com a adaga levanta o braço para atacar, eu rapidamente levanto minha espada embainhada para baixo da adaga dele, direcionando a ponta da minha espada embainhada para o rosto dele, ao mesmo tempo em que recuo com meu pé da frente.
+
+[41] (P222.S2)
+[193] Daqui posso atingi-lo como você vê desenhado na próxima imagem.
+
+[42] (P222.S3)
+[Este Erudito usa uma coroa.]
+
+[43] (P223.S0)
+Eu atingirei o olho do seu rosto com minha bainha e não me absterei de golpeá-lo com a espada.
+
+[44] (P223.S1)
+Esta é a continuação da jogada do Mestre que fez a defesa anterior.
+
+[45] (P223.S2)
+E eu estou executando exatamente como ele disse para fazer.
+
+[46] (P223.S3)
+E como você pode ver claramente, você não me dará nenhum problema com sua adaga.
+

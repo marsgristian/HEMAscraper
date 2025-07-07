@@ -1,0 +1,84 @@
+MASTER: Nicoletto Giganti
+SOURCE BOOK: nicoletto giganti__dedication
+FIELD NAME: Draft TranslationbyJeff Vansteenkiste
+TOTAL TEXTOS: 26
+================================================================================
+
+[1] (P0.S0)
+Escola, ou Teatro em que diferentes maneiras e métodos de defender e ferir com a espada única e espada e adaga são representados; Onde cada aluno poderá exercitar-se e tornar-se habilidoso na profissão das armas.
+
+[2] (P1.S0)
+Ao Sereníssimo Dom Cosimo de Médici, Grande Príncipe da Toscana, meu único Senhor Assim como o ferro extraído das minas brutas seria inútil se não recebesse a forma adequada para os exércitos humanos pela arte industriosa, assim também nas mãos do forte soldado pode ser de pouco proveito se, acompanhado de um valor estudioso e sábio, o caminho não for clareado para todo sucesso difícil e triunfante.
+
+[3] (P1.S1)
+Dessa forma, até certo ponto, uma vez que o Bom Pastor acolhe a operação, e porque quase todas as coisas mais nobres que procedem de nossas ações recebem do Suas mãos o material apropriado que, refinado e dignificado pela indústria do espírito, alcançam efeitos miraculosos e poderosos.
+
+[4] (P1.S2)
+Estou atônito em silêncio agora que este temperamento é maravilhosamente exibido na excelência e na ilustre grandeza de Sua Alteza Sereníssima.
+
+[5] (P1.S3)
+Você retém a grandeza natural retornada ao seu auge pelas obras gloriosas e invencíveis de seus ancestrais, não apenas nas histórias antigas e reais, mas refletindo toda a luz do esplendor presente e passado em si mesmo, adornando-as com suas próprias virtudes, de modo que todos admirem esse temperamento divino e, com espanto, digam que tal Senhor Sereníssimo é tão adequado a esse Estado Sereníssimo quanto esse Estado Sereníssimo é a esse Senhor Sereníssimo.
+
+[6] (P1.S4)
+No entanto, direi apenas que assim como esta proposição é demonstrada claramente em todas as artes, assim também é percebida evidentemente no exercício das armas.
+
+[7] (P1.S5)
+Discutindo a força do aço, mesmo que seja empregado por um braço forte e um corpo ágil, se não for conferido com regras observadas e estudo exercitado, mostra-se perigoso e de pouco valor, enquanto se a arte puder ser reconhecida como um sábio capitão e obedecida como um ousado ministro, eles fazem dela uma proeza maravilhosa.
+
+[8] (P1.S6)
+Seu testamento serve como um exemplo claro para nós, no qual o Céu, precisando conceder cada nível de qualidade perfeita, assim como na mais completa iluminação da era presente, uniu na mais nobre proporção de estatura, potência e vigor, agilidade, prontidão e força, a fim de extrair com sua mais alta engenhosidade a finesse da indústria, do conselho, do tempo e da arte que é capaz de fazer de um Capitão Mais Completo e Ilustre um Príncipe Mais Sereno e Singular.
+
+[9] (P2.S0)
+Por isso, eu, reconhecendo e admirando com a mais humilde afeição o esplendor maduro de seus jovens e felizes anos, e lendo no rosto do mundo as seguras esperanças e frutos da futura era, adorando aquela mão da qual a Itália e todo o mundo estão recebendo descanso seguro e gloriosa proteção, a isso ofereço e consagro com humilde dedicação este pequeno, não direi fruto, mas obra, de meus trabalhos, que, portanto, deverá agradar a Você, sendo sobre um assunto que lhe é agradável.
+
+[10] (P2.S1)
+Nesse sentido, será digno curvar o Seu Mais Sereno olhar para que muitos dos Seus mais altos raios passem sobre onde a baixeza da minha engenhosidade com o exercício desta arte, que venho praticando há vinte e sete anos, não chega.
+
+[11] (P2.S2)
+Que esta obra, humilde em si mesma, se apresente feliz à vista do Mundo.
+
+[12] (P2.S3)
+Será realizado com a ação da minha devoção, juntamente com o fruto da sua Sereníssima misericórdia, que, servindo, sendo a plena glória, eu rogo que o Céu me faça um digno, mesmo que o mais humilde, servo.
+
+[13] (P2.S4)
+Em Veneza, 10 de fevereiro de 1606.
+
+[14] (P2.S5)
+De Sua Alteza Sereníssima, Um servo muito humilde e devotado, Nicoletto Giganti, Mestre de Armas
+
+[15] (P105.S0)
+Segundo Livro de Nicoletto Giganti, Mestre de Armas Veneziano dos Mais Ilustres Senhores Cavaleiros da Sagrada Religião de São Estêvão
+
+[16] (P106.S0)
+Mais Ilustre e Muito Reverendíssimo Senhor Comandante, Meu Mais Respeitado Patrono Se, por consenso universal, aqueles que desprezam as leis feitas pelo homem são considerados dignos de desonra e punição, aqueles que transgridem e mostram desprezo pelas leis da Natureza devem ser castigados e abominados ainda mais, estas sendo escritas não pelo conhecimento ou poder humano em papel e tábuas, mas docemente impressas por Ela com louváveis caracteres de amor nos corações de Seus filhos.
+
+[17] (P106.S1)
+Entre os muitos que são dignos de observância inviolável, parece-me que o que se chama a lei da gratidão deve ser resguardado e observado, para não tirar a glória dos benfeitores que, comportando-se bem, merecem adquiri-la.
+
+[18] (P106.S2)
+Isso me fez entender que, dado que sou infinitamente devedor a Vossa Senhoria devido às distintas cortesias e favores que recebo de Vossa parte diariamente, sendo, portanto, incapaz de retribuí-los, eu colocaria isso em risco ao não expressar pelo menos meus agradecimentos a Vossa Senhoria, o que farei em todos os momentos e lugares, apesar da sorte.
+
+[19] (P106.S3)
+Pois, se Ela foi capaz de me tornar escasso de inteligência, no entanto, não será capaz de me privar da virtude que conquistei ao longo de muitos anos e com muito trabalho, e a partir da qual será bastante fácil, por meio da imprensa, eu contar ao mundo o quanto sou grato a Vossa Senhoria.
+
+[20] (P106.S4)
+O presente livro de armas produzirá um testemunho especialmente claro disso, composto na humildade e obscuridade da minha posição, sob o gentil impulso da lei da gratidão, trazido à luz sob o glorioso nome do meu singular benfeitor, Vossa Senhoria.
+
+[21] (P106.S5)
+Portanto, considere isso como algo que lhe é devido.
+
+[22] (P106.S6)
+Assim como ganhei muito ao conseguir servir a Vossa Senhoria, assim, por meio deste livro que não chamarei mais de meu, mas de Vosso, o mundo aprenderá a arte da defesa a partir dele e tomará Vossa Senhoria como exemplo para se elevar à glória com asas de cortesia e nobreza.
+
+[23] (P106.S7)
+Humildemente fazendo reverências, continuo a orar por Sua maior grandeza junto ao Todo-Poderoso.
+
+[24] (P106.S8)
+Em Pisa.
+
+[25] (P106.S9)
+25 de maio de 1608.
+
+[26] (P107.S0)
+De Sua Muito Ilustre Senhoria, Um Servidor Muito Humilde e Devotado, Nicoletto Giganti, Mestre de Armas.
+

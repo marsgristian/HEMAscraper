@@ -1,0 +1,156 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__spear
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 50
+================================================================================
+
+[1] (P361.S0)
+A lança estendida que é usada à mão; quanto mais estendida, menos engana.
+
+[2] (P361.S1)
+Seis Mestres se posicionam em guarda com isso, E com um passo e um golpe, eles atacam repentinamente, Tanto do lado direito quanto do lado esquerdo (certamente): O golpe é feito para o lado e não para cima; E o golpe deve ser de um braço de distância na lança, E quem se opuser a isso cometerá tal falha.
+
+[3] (P362.S0)
+Eu espero nesta guarda com minha lança encurtada: Meu método é bater e trocar estocadas.
+
+[4] (P362.S1)
+Nós somos três mestres que utilizam as guardas de lança que estão intimamente relacionadas às guardas da espada.
+
+[5] (P362.S2)
+Eu sou o primeiro, que é o Portão de Ferro Completo.
+
+[6] (P362.S3)
+Estou posicionado para rapidamente desviar a lança do meu oponente, e para isso, dou um passo transversal fora da linha com meu pé direito, cruzando sua lança e desviando-a para a esquerda.
+
+[7] (P362.S4)
+Quando você avança e desvia ao mesmo tempo, essa combinação é difícil de superar.
+
+[8] (P363.S0)
+Sua lança está estendida e a minha está encurtada: Ataque e não fuja, para que eu possa lhe fazer vilania.
+
+[9] (P363.S1)
+Estou posicionado no Portão de Ferro Médio.
+
+[10] (P363.S2)
+Meu método é desviar e, em seguida, contra-atacar.
+
+[11] (P363.S3)
+Venha contra mim como quiser, com lança curta ou bastão; quando eu desviar sua arma enquanto dou um passo, nunca deixarei de atingi-lo.
+
+[12] (P363.S4)
+Quando você estiver usando uma lança curta ou espada, todas as guardas que são feitas com a ponta fora da linha são suficientes para você esperar ao enfrentar qualquer arma longa de mão.
+
+[13] (P363.S5)
+As guardas que cobrem pela direita são seguidas de um passo e um estocada.
+
+[14] (P363.S6)
+As guardas do lado esquerdo também podem cobrir e desviar, mas estas ferirão com um golpe, pois não conseguem efetivamente realizar uma estocada.
+
+[15] (P364.S0)
+Eu vou bater na sua [lança] com a minha lança enquanto avanço E então rapidamente a cravarei em seu peito.
+
+[16] (P364.S1)
+Eu sou a nobre Janela do Lado Direito, sempre pronta para desviar e contra-atacar, e uma longa lança dificilmente me incomoda.
+
+[17] (P364.S2)
+Além disso, se eu estivesse usando uma espada, esperaria pela lança longa nesta mesma guarda, que desvia e obstrui todos os estocadas.
+
+[18] (P364.S3)
+Eu também posso trocar estocadas ou derrubá-las ao chão sem dificuldade.
+
+[19] (P364.S4)
+Eu terminaria esta peça com a peça mostrada a seguir.
+
+[20] (P365.S0)
+Este é o golpe destes três Mestres anteriores, e desta forma sua lança deve terminar em seu rosto ou peito.
+
+[21] (P365.S1)
+Os três guardas mostrados acima (Portão de Ferro Completo, Portão de Ferro Médio e Janela Lateral Superior Direita) devem todos terminar com este golpe, que é usado para encerrar a ação e demonstrar sua habilidade.
+
+[22] (P365.S2)
+Aqui eu mostro o golpe final para cada um deles.
+
+[23] (P365.S3)
+[No Getty, o Mestre está sem sua coroa.]
+
+[24] (P366.S0)
+[7] Somos três Mestres que jogam do lado esquerdo: Venha um a um quem desejar e nós o eliminaremos.
+
+[25] (P366.S1)
+E para o quarto Mestre que finaliza nossas jogadas na arte, nós lhe concedemos sua justa parte da Coroa.
+
+[26] (P366.S2)
+Esta guarda pode me servir contra qualquer lança, eu me cubro tanto por cima quanto por baixo, batendo e avançando; faço isso com a parte de trás baixa e com a outra extremidade alta, e eu poderia fazer uma cobertura e um golpe sem dificuldade.
+
+[27] (P366.S3)
+Nós somos três guardas do lado esquerdo, e eu sou o primeiro, na Presa do Javali.
+
+[28] (P366.S4)
+Os guardas do lado esquerdo fazem o mesmo que os guardas do lado direito.
+
+[29] (P366.S5)
+Damos um passo para fora, avançando nosso pé da frente, e então atacamos com nossas estocadas do lado esquerdo.
+
+[30] (P366.S6)
+Tanto as guardas do lado direito quanto as do lado esquerdo afastam e, em seguida, golpeiam, pois outros ataques com a lança não são tão eficazes.
+
+[31] (P367.S0)
+Eu sei como defender qualquer lança com esta guarda: Ataque, pois quero te ferir com a minha em seu peito.
+
+[32] (P367.S1)
+Estou te esperando na Guarda da Verdadeira Cruz.
+
+[33] (P367.S2)
+Você se aproximou claramente demais de mim.
+
+[34] (P367.S3)
+Eu passarei para trás com meu pé direito à frente, desviando sua lança para o meu lado direito.
+
+[35] (P367.S4)
+Meu golpe não me falhará.
+
+[36] (P367.S5)
+No entanto, o seu falhará.
+
+[37] (P368.S0)
+Eu te finalizarei sem falta na minha vez, Porque sou o Mestre de todas as trocas.
+
+[38] (P368.S1)
+Estou posicionado na Guarda da Janela Lateral Esquerda.
+
+[39] (P368.S2)
+Se eu não te atingir com um golpe, você terá sorte.
+
+[40] (P368.S3)
+Eu vou dar um passo para o lado esquerdo com meu pé esquerdo, com a ponta alta e os braços baixos.
+
+[41] (P368.S4)
+Então eu vou empurrar em seu rosto e você não terá defesa.
+
+[42] (P368.S5)
+A jogada que se segue é o final utilizado por todos os três Mestres.
+
+[43] (P368.S6)
+Se você tentar uma vez, não desejará tentar novamente.
+
+[44] (P369.S0)
+A arte da lança chega ao seu fim aqui.
+
+[45] (P369.S1)
+armadura e sem ela, esta é sua maior defesa.
+
+[46] (P369.S2)
+Aqui terminamos as jogadas da lança que são feitas do lado esquerdo contra ameaças e ataques.
+
+[47] (P369.S3)
+Essas três guardas mostradas acima são cuidadosamente escolhidas para derrotar facilmente a lança longa ou a curta, uma vez que são eficazes tanto no ataque quanto na defesa.
+
+[48] (P369.S4)
+O contra a este golpe é facilmente executado: quando seu golpe é desviado para fora da linha, você vira a ponta da sua lança e atinge com ela.
+
+[49] (P369.S5)
+E com isso, agora eu lhe mostrei o suficiente das jogadas da lança.
+
+[50] (P369.S6)
+[No Getty, o Mestre está sem sua coroa.]
+

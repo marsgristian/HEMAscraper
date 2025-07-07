@@ -1,0 +1,39 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__baton
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 11
+================================================================================
+
+[1] (P108.S0)
+Com um bastão curto eu prendo seu pescoço, e se eu não conseguir te derrubar, você pode se considerar sortudo.
+
+[2] (P109.S0)
+Se este jogo de bastão curto não te derrubar, então não terei fé na eficácia desta arte.
+
+[3] (P110.S0)
+Eu sou o Estudante do Sexto Mestre do Remédio da Daga, que contra-ataca desta forma com sua adaga.
+
+[4] (P110.S1)
+E é em sua honra que eu faço esta capa com meu bastão curto.
+
+[5] (P110.S2)
+E a partir daqui, eu me levantarei rapidamente e farei as jogadas do meu Mestre.
+
+[6] (P110.S3)
+E esta cobertura que eu fiz com um bastão curto também pode ser feita com uma capuz.
+
+[7] (P110.S4)
+E a contra-movimento a esta ação é o mesmo contra-movimento mostrado por meu Mestre [na seção da adaga].
+
+[8] (P111.S0)
+Eu tomei este remédio do Oitavo Mestre Remédio da Adaga, e posso me defender armado apenas com este bastão curto.
+
+[9] (P111.S1)
+E tendo feito esta cobertura, eu me levanto e posso então executar todos os golpes do meu Mestre.
+
+[10] (P111.S2)
+E eu poderia me defender dessa maneira igualmente bem com um capuz ou um pedaço de corda.
+
+[11] (P111.S3)
+E o contra a este movimento é o mesmo contra mostrado pelo meu Mestre.
+

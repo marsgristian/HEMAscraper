@@ -1,0 +1,75 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__grappling
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 23
+================================================================================
+
+[1] (P87.S0)
+Em nome de Deus e de São Jorge, começamos nosso sistema com o Grappling em pé, buscando obter agarramentos superiores.
+
+[2] (P87.S1)
+As pegadas não são superiores a menos que lhe proporcionem uma vantagem.
+
+[3] (P87.S2)
+Assim, nós quatro Mestres buscamos alcançar posições vantajosas por meio das técnicas que você vê aqui representadas.
+
+[4] (P88.S0)
+[2] [A Guarda Longa] Estou pronto para te mostrar como eu venço com minhas pegadas, E se eu não te deixar perguntando o que aconteceu, você pode se considerar sortudo.
+
+[5] (P89.S0)
+[3] [O Dente do Javali] Busco reverter a luta, E a partir desta posição eu te forçarei ao chão.
+
+[6] (P90.S0)
+[4] [O Portão de Ferro] Se você não conseguir me vencer com sua habilidade, acredito que com meu poder eu o machucarei, ou pior.
+
+[7] (P91.S0)
+[5] [A Guarda da Testa] Eu avanço sobre você com meus braços bem à frente Para colocar as mãos em você de várias maneiras.
+
+[8] (P92.S0)
+Com este movimento, eu vou te forçar ao chão ou então seu braço esquerdo será deslocado.
+
+[9] (P93.S0)
+[7] Ou eu farei você beijar o chão com a boca, ou eu o forçarei a entrar na posição inferior.
+
+[10] (P94.S0)
+E eu te colocarei no chão de costas, e não te deixarei levantar novamente sem ferimentos.
+
+[11] (P95.S0)
+Mesmo que você fosse um mestre em agarrar, eu o forçarei ao chão com esta técnica.
+
+[12] (P96.S0)
+Com as pegadas que tenho em você acima e abaixo, eu quebrar sua cabeça no chão.
+
+[13] (P97.S0)
+Sua mão em meu rosto está bem posicionada, mas agora vou te mostrar alguns outros movimentos.
+
+[14] (P98.S0)
+Ao colocar minha cabeça debaixo do seu braço, eu facilmente te lançarei ao chão.
+
+[15] (P99.S0)
+[13] Por causa do meu polegar pressionando sob sua orelha esquerda, seu controle sobre mim está falhando, como você pode ver representado aqui.
+
+[16] (P100.S0)
+Com grande astúcia você me agarrou por trás, mas este movimento certamente te derrubará ao chão.
+
+[17] (P101.S0)
+[15] Este é um movimento de agarramento que envolve a Gambarola, mas esteja ciente de que este movimento nem sempre funcionará.
+
+[18] (P102.S0)
+[16] Este é um bom agarre para praticar, pois posso te segurar sem que você consiga me prejudicar.
+
+[19] (P103.S0)
+[17] Eu te atingirei tão forte na virilha Que toda a sua força será retirada.
+
+[20] (P104.S0)
+[18] Eu te causarei tanta dor e sofrimento no seu nariz Que eu imediatamente farei você me soltar.
+
+[21] (P105.S0)
+Sem dúvida, com este movimento eu me libertarei E com este contra-ataque você será lançado ao chão.
+
+[22] (P106.S0)
+Eu vou te ferir sob o queixo de tal maneira Que você rapidamente se verá jogado de costas.
+
+[23] (P107.S0)
+[21] Com suas mãos em meu rosto, você pode me causar problemas, mas com este golpe direcionado aos seus olhos, eu lhe causarei ainda mais problemas.
+

@@ -1,0 +1,36 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__miscellaneous_plays
+FIELD NAME: Complete TranslationbyGuy Windsor
+TOTAL TEXTOS: 10
+================================================================================
+
+[1] (P74.S0)
+Eu me defendo tanto quanto posso, À medida que você ataca, eu irei avançar contra você.
+
+[2] (P75.S0)
+Estou em guarda com um bom mandritto, À medida que você atira em mim, entenderá o texto.
+
+[3] (P76.S0)
+Técnica de adaga.
+
+[4] (P77.S0)
+Técnica de adaga.
+
+[5] (P78.S0)
+Técnica de adaga.
+
+[6] (P79.S0)
+Técnica de adaga.
+
+[7] (P80.S0)
+Técnica de adaga.
+
+[8] (P81.S0)
+Técnica de adaga.
+
+[9] (P82.S0)
+Técnica de adaga.
+
+[10] (P83.S0)
+Técnica de adaga.
+

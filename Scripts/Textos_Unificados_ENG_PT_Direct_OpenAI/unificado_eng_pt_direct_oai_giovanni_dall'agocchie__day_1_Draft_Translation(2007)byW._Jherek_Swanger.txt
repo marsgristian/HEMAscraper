@@ -1,0 +1,699 @@
+MASTER: Giovanni dall'Agocchie
+SOURCE BOOK: giovanni dall'agocchie__day_1
+FIELD NAME: Draft Translation(2007)byW. Jherek Swanger
+TOTAL TEXTOS: 231
+================================================================================
+
+[1] (P2.S0)
+O Primeiro Livro de Diálogos do Senhor Giovanni dall’Agocchie, Bolognês: que trata da arte da Esgrima; dividido em cinco dias.
+
+[2] (P3.S0)
+Interlocutores: Sr. Lepido Ranieri e Sr. Giovanni dall’Agocchie.
+
+[3] (P4.S0)
+Lep: Senhor Giovanni, uma vez que este grande calor está nos incomodando e nos impedirá de realizar qualquer coisa por várias horas, parece uma boa ideia discutir a arte da esgrima para que não caiamos no sono, e assim eu possa obter algum ensinamento de suas palavras.
+
+[4] (P5.S0)
+Gio: Certamente, meu Senhor Lepido.
+
+[5] (P5.S1)
+Uma vez que vejo que sua inteligência está despertada para a virtude, eu gostaria de satisfazê-lo plenamente naquilo que me pede.
+
+[6] (P5.S2)
+E assim, para que eu possa, não hesite em me perguntar livremente, e eu me esforçarei para agradá-lo com tudo o que sei e valorizo, para que eu possa satisfazê-lo na medida do possível.
+
+[7] (P6.S0)
+Lep: Eu realmente tinha a mesma fé em você e sou eternamente muito grato a você pela sua.
+
+[8] (P6.S1)
+E uma vez que você me concede isso, com sua permissão falarei sobre minhas ideias a fim de chegar com confiança à verdade.
+
+[9] (P6.S2)
+Meu desejo seria que você me fizesse entender tudo o que sabe sobre este exercício e esclarecesse todas as dúvidas que possam surgir em minha mente, uma vez que sei que você sabe como fazê-lo e pode fazê-lo prontamente.
+
+[10] (P7.S0)
+Gio: Meu Senhor Lepido, você me honra muito mais do que eu mereço, e não sei se serei capaz de satisfazer todas as suas expectativas uma vez colocado à prova.
+
+[11] (P7.S1)
+No entanto, para que você possa entender quanto amor eu tenho por você e o que desejo fazer por você, comece a explicar sua intenção para mim, e eu prontamente atenderei a cada uma de suas demandas.
+
+[12] (P8.S0)
+Lep: Esforcei-me com todas as minhas forças e empreguei toda a diligência para entender as discussões dos homens de armas sobre a esgrima.
+
+[13] (P8.S1)
+Mas ouvi tantas opiniões, e sempre tão divergentes sobre o assunto, que não consegui alcançar meu intento, embora tenha fixado minha mente nele, grandemente turvada e inflamada com o desejo de compreendê-lo.
+
+[14] (P8.S2)
+Nunca antes me foi apresentada uma ocasião para poder fazer isso como agora, da qual espero, por meio de vós, estar plenamente satisfeito.
+
+[15] (P8.S3)
+Portanto, desejo saber se na arte da esgrima pode ser estabelecida uma regra fixa que possa direcionar um homem para sua verdadeira compreensão.
+
+[16] (P9.S0)
+Gio: Para dizer a verdade, desde a minha infância sob a disciplina dos melhores Mestres até este momento, sempre busquei conhecê-la.
+
+[17] (P9.S1)
+Mas devido às diferenças (como você diz) que vejo ali, e por causa da baixa estima em que é considerado, discuto isso relutantemente.
+
+[18] (P9.S2)
+No entanto, como fui procurado por você, a quem desejo muito satisfazer, e devo, darei minha opinião em parte.
+
+[19] (P10.S0)
+Lep: Peço que você o forneça na íntegra, uma vez que a abundância de tempo permite.
+
+[20] (P10.S1)
+E, primeiro, como surgiu que uma arte tão digna fosse considerada de tão baixa estima?
+
+[21] (P11.S0)
+Por que a arte da esgrima é tão pouco valorizada.
+
+[22] (P11.S1)
+Gio: A respeito desta questão, como várias pessoas falam de maneiras diversas sobre ela, estou entre aqueles que sustentam a opinião de que isso surge por nenhuma outra razão senão a de que muitos, inconscientes de que esta arte da esgrima é a origem e o fundamento da arte militar (e derivando este nome de “futilidade”, como é comumente considerado) não se importam em aprendê-la e a desprezam como irrelevante para sua profissão.
+
+[23] (P12.S0)
+Lep: Explique-me, peço-lhe, a razão pela qual é a base da arte militar.
+
+[24] (P13.S0)
+Por que a esgrima é a base da arte militar.
+
+[25] (P13.S1)
+Gio: Pode-se interpretar este nome de uma maneira geral ou de uma maneira particular.
+
+[26] (P13.S2)
+Em geral, para qualquer tipo de milícia.
+
+[27] (P13.S3)
+Em particular, para combate um a um.
+
+[28] (P13.S4)
+Mas sempre que não for expresso de outra forma, deve-se entender que se refere ao combate um a um.
+
+[29] (P13.S5)
+Em geral, então, (como eu lhe disse) considera-se que se refere a qualquer tipo de milícia, uma vez que a arte militar não consiste em nada além de defender-se de maneira judiciosa e prudente do inimigo e prejudicá-lo, seja nas cidades, ou nos exércitos, ou em qualquer outro lugar; porque esta palavra “esgrima” não significa nada além de defender-se com um meio de prejudicar o inimigo.
+
+[30] (P13.S6)
+Assim, fica claro que pode ser aplicado de maneira geral a todo tipo de combate.
+
+[31] (P13.S7)
+Mas, considerando especificamente o combate um a um, é evidente que faz parte, ou melhor, é uma escada e um guia para a arte da guerra, pois muitas vezes é necessário empregar essa arte em defesa da própria vida, como nos exemplos que se lê em tantas histórias e se vê todos os dias.
+
+[32] (P13.S8)
+Portanto, digo-vos que não se pode estar fundamentado nem ser perfeito na arte da milícia quem não possui esta parte, considerando que nada é chamado de perfeito sempre que se deve ou se pode acrescentar a ele; e se alguém deve acrescentar à arte do combate o conhecimento de como defender a própria pessoa, que é de fato seu princípio fundamental, então ele, ao carecer desta arte, nunca poderá ser chamado de “perfeito.” Este é o princípio que vos devo, o qual provarei por meio de sua nobreza, que deve ser preferida acima de tudo.
+
+[33] (P13.S9)
+E eu digo (deixando de lado as questões espirituais por enquanto) que assim como o corpo humano é mais nobre do que todas as outras coisas, assim deve-se aprender racionalmente a defendê-lo diante da cidade e dos exércitos, pois estes foram ordenados para a defesa humana.
+
+[34] (P13.S10)
+E, ao precisar se colocar entre qualquer tipo de milícia, necessariamente terá que se preparar para qualquer ocasião.
+
+[35] (P13.S11)
+Nem deves acreditar que esta minha afirmação conflita com aquele grande filósofo Solon, que desejava que se colocasse a defesa de sua própria pátria antes de sua própria vida, pois ele não se referia com isso ao país material, construído de pedra, mas sim àquela assembleia de homens para quem a cidade material foi edificada.
+
+[36] (P13.S12)
+Agora, aqueles que se defendem contra seus inimigos, afastando simultaneamente sua insolência com arte e maestria, são propriamente ditos como aqueles que se protegem quando conseguem salvar-se completamente e à república.
+
+[37] (P13.S13)
+E nesta ação, a prudência ocupa o lugar principal.
+
+[38] (P13.S14)
+Enquanto, ao contrário, quem enfrenta a fúria de seu inimigo sem arte ou maestria, acabando sempre por ser superado imprudentemente, se encontra não defendido, mas sim ridicularizado por isso.
+
+[39] (P13.S15)
+Portanto, se você não conceder à prudência um lugar de honra, considerando-a de pouco valor, então esta arte, que é fundada e baseada na prudência, geralmente será vista como tendo pouco valor para você.
+
+[40] (P14.S0)
+Lep: Sua resposta me agrada imensamente.
+
+[41] (P14.S1)
+No entanto, isso não me isenta de todos os problemas do meu espírito, pois às vezes vimos pessoas inexperientes, sem experiência ou qualquer entendimento de esgrima, superarem e derrotarem aqueles que a possuem.
+
+[42] (P14.S2)
+Se os seus argumentos fossem verdadeiros, seguir-se-ia que aquele que é habilidoso nesta arte sempre sairia superior ao inexperiente.
+
+[43] (P15.S0)
+Gio: A esta dificuldade, Sr. Lepido, pode-se responder de mais de uma maneira.
+
+[44] (P15.S1)
+Um é que um incidente particular não torna inválida uma regra universal.
+
+[45] (P15.S2)
+A outra é que a derrota sofrida por aqueles que você diz serem professores deste exercício não foi causada por eles como espadachins, uma vez que é impossível que, como tal, tenham sido derrotados.
+
+[46] (P15.S3)
+Mas pode de fato acontecer com eles, como pessoas preguiçosas, injustas ou mesquinhas, e então deixam de ser esgrimistas, e logo são feridos.
+
+[47] (P16.S0)
+Componentes que se busca no bom esgrimista.
+
+[48] (P16.S1)
+Porque muitos componentes são procurados em um bom esgrimista, e ainda mais em aquele que se conduz ao combate, tais como: razão, audácia, força, destreza, conhecimento, julgamento e experiência.
+
+[49] (P16.S2)
+E além destes e de outros semelhantes, o juízo divino intervém sobre todos, secreto e oculto de nós.
+
+[50] (P17.S0)
+Lep: Parece-me que a confusão em seu argumento decorre desta sua conclusão.
+
+[51] (P17.S1)
+Porque toda vez que um combatente é ágil e corajoso e se empenha em resolver uma justa empreitada, ele será o vitorioso, e se o contrário, o perdedor.
+
+[52] (P17.S2)
+Daí se segue que a arte é, portanto, desnecessária.
+
+[53] (P18.S0)
+Gio: Acalme-se, Sr. Lepido, pois os termos em que minha resposta se desenvolverá farão você entender que a arte é de fato necessária.
+
+[54] (P18.S1)
+Deixando de lado, como um caso especial, que às vezes Deus permite o oposto, digo-vos como uma regra infalível que todos podem recusar a ajuda que lhes é oferecida, e que Deus nos deu o senso para distinguir o bom do mau.
+
+[55] (P18.S2)
+Sendo assim, também ficará claro que se alguém não quiser se defender ou tomar uma atitude, então ele sairá perdendo por isso, embora possa ter estado certo.
+
+[56] (P18.S3)
+E isso se deve ao fato de que ele recusou sua própria ajuda, pela qual só pode culpar a si mesmo.
+
+[57] (P18.S4)
+Nem você pode me negar a necessidade da provisão que deriva da arte da esgrima, como agora lhe direi.
+
+[58] (P18.S5)
+Acredito que quando alguém está certo, e possui o espírito e a força para defendê-lo, aliado a esta arte, então ele será na maioria das vezes o vencedor, e nisso, seu argumento se sustenta.
+
+[59] (P18.S6)
+Mas quando ele renuncia à sua própria ajuda ao não querer aprender a se defender, o oposto acontece, pelo qual ele mesmo deve ser culpado.
+
+[60] (P18.S7)
+Portanto, para concluir, aquele que é parcialmente carente de ousadia e força necessita da arte como o reparador necessário dessas deficiências.
+
+[61] (P18.S8)
+Porque com isso, aumenta seu ânimo e se acostuma ao trabalho, tornando-se tão judicioso e perspicaz na vantagem das armas quanto nas demais coisas.
+
+[62] (P19.S0)
+Lep: Da sua distinção, Senhor Giovanni, surge outra dúvida, a saber, que é a natureza que está em ação, e não a arte, pois é da natureza que provêm o espírito, a força, a disposição corporal e o estar no correto.
+
+[63] (P19.S1)
+Nada mais sendo necessário, a arte é de pouca ou nenhuma utilidade para nós.
+
+[64] (P20.S0)
+Gio: A esse respeito, você deve considerar que a natureza pode tornar um corpo bastante adequado e disposto a este exercício, e dotado de espírito e força úteis.
+
+[65] (P20.S1)
+Mas nunca me negue que é sempre necessário fornecer cautelosamente essas qualidades, por meio de todos os meios favoráveis a tal empreendimento, a alguns que não sabem com certeza que as possuem (como a maioria descobre sobre si mesma).
+
+[66] (P20.S2)
+Além disso, assim como a natureza produz coisas tanto boas quanto más, embora alguém possa possuir os atributos mencionados, se não os compreender, não conseguirá utilizá-los se lhe faltar o discernimento, que é adquirido por meio da arte.
+
+[67] (P20.S3)
+E embora ele saiba como executar mandritti, roversi e estocadas, ainda assim ele poderia usá-los a seu favor, assim como a seu detrimento.
+
+[68] (P20.S4)
+Qual arte, imitadora da natureza, tem em mente, buscando torná-lo consciente e inteligente por meio de provas e práticas.
+
+[69] (P20.S5)
+E pode ser, por exemplo, que a natureza conceda palavras aos homens, e que eles falem por natureza; no entanto, se não forem auxiliados pela arte da elocução, nunca saberão como formar seu raciocínio de acordo com as ocasiões e os tempos que se apresentam a eles.
+
+[70] (P20.S6)
+Da mesma forma, por natureza, os homens têm vozes e cantam.
+
+[71] (P20.S7)
+No entanto, eles nunca cantarão com razão a menos que a música lhes seja fornecida.
+
+[72] (P20.S8)
+E o cavalo é forte por natureza e adequado para a batalha, no entanto, o cavaleiro nunca poderá aproveitar seu uso a menos que tenha sido previamente domado com razão, acostumado ao manejo e obediente a todos os seus desejos.
+
+[73] (P20.S9)
+Assim é a experiência que se observa principalmente quando todo homem, por mais corajoso que seja, ao ser desafiado por alguém, encontra um homem capaz que o instrui e o faz praticar antes de chegar o dia do duelo.
+
+[74] (P20.S10)
+E isso não é por outra razão senão porque, quando ele vê que precisa disso, evidentemente reconhece quão necessário é.
+
+[75] (P20.S11)
+E se aqueles que consideram o oposto como verdadeiro algum dia viessem a combater, perceberiam quão profundamente se enganaram.
+
+[76] (P20.S12)
+Acredito que o que disse sobre este tópico será suficiente por agora.
+
+[77] (P21.S0)
+Lep: Você resolveu essas dúvidas de tal maneira e com tal raciocínio eficaz que não duvido mais da dignidade desta arte.
+
+[78] (P21.S1)
+E uma vez que você já discutiu suficientemente sobre a necessidade que qualquer um pode ter disso, espero que não se incomode em me contar o método e o princípio que se deve seguir para aprendê-lo.
+
+[79] (P22.S0)
+Teoria e prática, fundamentos das artes.
+
+[80] (P22.S1)
+Gio: Agora que estamos tão avançados, não quero me abster de compartilhar todas as minhas opiniões sobre isso.
+
+[81] (P22.S2)
+Você sabe, então, que todas as artes liberais são compostas de teoria e prática.
+
+[82] (P22.S3)
+Da mesma forma, é assim para este, e tanto a teoria quanto a prática devem ser consideradas.
+
+[83] (P22.S4)
+A teoria da arte da esgrima ensina com razão os modos de se defender e de ferir o inimigo.
+
+[84] (P22.S5)
+A prática, então, é aquilo que se adquire pela familiaridade com sua operação, ou seja, pelo longo uso e prática contínua.
+
+[85] (P22.S6)
+Mas alguns Mestres desta arte a direcionam para fins ruins, pois, não percebendo que teoria e prática são diferentes, assim que possuem um pouco de teoria, se dispõem a ensinar; o que ocorre apenas porque o antigo costume da criação de Mestres caiu em esquecimento.
+
+[86] (P22.S7)
+E saiba que, não há muito tempo, assim como quando alguém precisava alcançar o excelente grau de doutorado, e que primeiro uma diligente avaliação de seu conhecimento era realizada, e então, se fosse julgada suficiente, o privilégio lhe seria concedido; assim também era observado pelos Mestres de esgrima.
+
+[87] (P22.S8)
+Primeiro, eles examinariam aquele que desejasse ensinar os outros, para determinar se ele conhecia a teoria da esgrima e todas as outras coisas necessárias a ela.
+
+[88] (P22.S9)
+E então colocaram um estudioso de frente para ele, fazendo-o desferir golpes de forma inadequada e posicionar-se em guarda de maneira deficiente, e isso foi feito para aprender se ele reconhecia no que o estudioso era deficiente.
+
+[89] (P22.S10)
+Depois disso, ele foi colocado à prova com vários bons estudiosos, e, se tivesse sucesso suficiente, recebia privilégios dos outros Mestres, e com suas patentes conseguia abrir uma escola.
+
+[90] (P22.S11)
+E estes eram mestres autênticos, algo verdadeiramente digno de tal arte, pois não se deve permitir que alguém ensine aquilo em que não foi suficientemente instruído.
+
+[91] (P23.S0)
+Lep: Cometem um grande mal aqueles que, à sua culpa, carecem de bons costumes.
+
+[92] (P24.S0)
+Gio: Este é um defeito nascido do tempo, que eventualmente corrompe tudo, e dos Mestres também, que permitem que a validade de seus privilégios seja anulada.
+
+[93] (P24.S1)
+Mas para continuar a discussão que começamos, digo que agora é totalmente o oposto, pois muitos são vistos que trabalham como Mestres e ensinam o que quer que seja seu aprendizado na arte.
+
+[94] (P24.S2)
+Portanto, aqueles para quem as coisas acabam mal só têm a si mesmos a culpar, uma vez que permitiram que a disciplina fosse arruinada por tais atos.
+
+[95] (P24.S3)
+Porque (como eu disse) é uma coisa saber, e outra ensinar.
+
+[96] (P24.S4)
+A diferença é clara; porque aquele que apenas tem prática é bom para trabalhar para si mesmo; mas aquele que tem teoria é bom para os outros; e aquele que possui tanto teoria quanto prática é bom para si e para os outros.
+
+[97] (P24.S5)
+E assim eram aqueles que foram autenticamente feitos Mestres.
+
+[98] (P25.S0)
+Lep: Agora que ouvi sobre a excelência desta arte e vejo que a parte principal dela está fundamentada na teoria, ficaria feliz em conhecer sua natureza e a maneira de aprendê-la.
+
+[99] (P26.S0)
+A arte da esgrima possui seis tópicos.
+
+[100] (P26.S1)
+Gio: Isto é baseado e dividido em seis principais tópicos.
+
+[101] (P26.S2)
+E o primeiro é saber qual lâmina é a verdadeira e qual é a falsa quando você precisa empregar a espada.
+
+[102] (P26.S3)
+Em segundo lugar, de quantas maneiras pode ferir.
+
+[103] (P26.S4)
+Terceiro, a natureza das guardas, e especialmente das mais importantes.
+
+[104] (P26.S5)
+Quarto, a maneira de entrar neles.
+
+[105] (P26.S6)
+Quinto, quando você estiver em qualquer uma das guardas mencionadas, como pode se defender de todos os golpes do seu inimigo e prejudicá-lo.
+
+[106] (P26.S7)
+Sexto e último, tendo uma compreensão das dificuldades da meia espada, e do tempo que a acompanha.
+
+[107] (P27.S0)
+Lep: Agora reconheço quão diferente este caminho é dos outros e quão mais fácil é obter resultados a partir dele.
+
+[108] (P27.S1)
+Agora continue e me conte tudo em detalhes, título por título, para que nossa discussão não seja infrutífera.
+
+[109] (P28.S0)
+A verdadeira lâmina.
+
+[110] (P28.S1)
+Gio: Quanto ao primeiro, no que diz respeito ao fio verdadeiro, toda vez que você empunhar sua espada, seja com a mão direita ou esquerda, o fio que fica voltado para o nó do meio da sua mão será o fio verdadeiro, e, inversamente, o outro será o fio falso.
+
+[111] (P28.S2)
+Assim termina o primeiro título.
+
+[112] (P28.S3)
+Em segundo lugar, a espada pode ferir de três maneiras, a saber, pelo mandritto, pelo roverso e pela estocada.
+
+[113] (P28.S4)
+No entanto, o mandritto é dividido em cinco tipos, o roverso em outros cinco semelhantes, e o estocada em três.
+
+[114] (P29.S0)
+Lep: Não se abstenha de me dizer como esses tipos concordam entre si, nem o que eles são.
+
+[115] (P30.S0)
+Os golpes são de múltiplos tipos.
+
+[116] (P30.S1)
+Gio: Todos os golpes devem ser ou mandritti, roversi ou estocadas.
+
+[117] (P30.S2)
+Mas cada um deles possui naturezas adicionais a estas, de acordo com as variedades de como são executados.
+
+[118] (P30.S3)
+Porque o mandritto será ou fendente, sgualimbro, tondo, ridoppio ou tramazzone; e o riverso também terá as mesmas qualidades mencionadas acima.
+
+[119] (P30.S4)
+O golpe de estocada, então, é dividido em três tipos, a saber, imbroccata, stoccata e punta riversa.
+
+[120] (P31.S0)
+Lep: Antes de prosseguir, diga-me por que você dá esses nomes aos golpes e o que eles são.
+
+[121] (P32.S0)
+Mandritto.
+
+[122] (P32.S1)
+Gio: O mandritto é chamado assim porque se origina do lado direito; e é chamado de “fendente” porque corta da cabeça aos pés em linha reta.
+
+[123] (P33.S0)
+Sgualimbro.
+
+[124] (P33.S1)
+Mas um chama aquele mandritto de “sgualimbro” que vai na diagonal, isto é, do ombro esquerdo do adversário até o seu joelho direito.
+
+[125] (P34.S0)
+Tondo.
+
+[126] (P34.S1)
+O tondo, ou traverso, é o nome daquele que se vira de lado.
+
+[127] (P35.S0)
+Ridoppio.
+
+[128] (P35.S1)
+Ridoppio é aquele que parte de baixo com a verdadeira lâmina da espada e termina na ponta do ombro direito do inimigo.
+
+[129] (P36.S0)
+Tramazzone.
+
+[130] (P36.S1)
+Tramazzone é aquilo que se faz com o pulso à maneira de uma pequena roda.
+
+[131] (P37.S0)
+Riverso.
+
+[132] (P37.S1)
+Mas os riversi são assim chamados porque são o oposto dos dritti, começando do lado esquerdo e terminando do lado direito.
+
+[133] (P37.S2)
+E eles são semelhantes aos mandritti, isto é, do mesmo tipo.
+
+[134] (P38.S0)
+Estocadas, imbroccata, stoccata, punta riversa.
+
+[135] (P38.S1)
+Mas, ao chegar às estocadas, aquela que é feita por cima é chamada de imbroccata, e aquela que é feita por baixo, stoccata; e aquela que sai do lado esquerdo, punta riversa.
+
+[136] (P38.S2)
+E isso servirá para o segundo título.
+
+[137] (P39.S0)
+Lep: Não se pode ferir com a aresta falsa da espada?
+
+[138] (P40.S0)
+Gio: Sim, mas raramente, porque a aresta falsa é usada mais para desviar do que para ferir.
+
+[139] (P40.S1)
+É verdade que isso também pode ser dividido em múltiplos tipos, no entanto, dois são os mais necessários, a saber, o falso dritto e o falso manco.
+
+[140] (P41.S0)
+Falso direito e manco.
+
+[141] (P41.S1)
+O falso dritto procederá do seu lado direito, subindo de baixo para cima ao longo da linha do mandritto.
+
+[142] (P41.S2)
+O ridoppio falso manco procederá do seu lado esquerdo, subindo de baixo para cima ao longo da linha do riverso ridoppio.
+
+[143] (P41.S3)
+E isso servirá para o falso.
+
+[144] (P42.S0)
+Lep: Eu segui completamente esses dois títulos.
+
+[145] (P42.S1)
+Seguindo sua ordem, agora resta a você mencionar as guardas.
+
+[146] (P43.S0)
+Existem oito guardas que são as mais importantes.
+
+[147] (P43.S1)
+Gio: Chegando às guardas agora, direi que há muitas delas, tanto baixas quanto altas, mas há oito que são as mais importantes, quatro altas e quatro baixas.
+
+[148] (P43.S2)
+Dos golpes baixos, dois são executados com o pé direito à frente e dois com o pé esquerdo.
+
+[149] (P43.S3)
+E eles têm dois nomes, a saber, coda lunga e porta di ferro.
+
+[150] (P43.S4)
+Coda longa será quando a espada estiver segurada do lado de fora do seu lado direito, e ela é dividida em duas guardas diferentes, uma das quais é chamada de coda longa estreita, e a outra alta.
+
+[151] (P43.S5)
+Coda longa.
+
+[152] (P43.S6)
+Coda longa estreita é aquela que é feita com o pé direito à frente, e coda longa alta com o pé esquerdo, sempre segurando a espada do lado de fora do lado direito com o braço estendido e próximo ao joelho por fora, e com a ponta direcionada ao inimigo.
+
+[153] (P43.S7)
+Isso é nomeado assim devido à sua semelhança com grandes homens, que são perpetuamente acompanhados por muitas pessoas, e por isso se ouve o provérbio comum: “cuidado com aqueles que têm a longa cauda”, ou seja, que têm um séquito.
+
+[154] (P43.S8)
+E da mesma forma, é preciso ter cuidado com esta guarda, pois ela possui a longa cauda.
+
+[155] (P44.S0)
+Porta de ferro.
+
+[156] (P44.S1)
+A segunda é chamada porta di ferro, devido à sua semelhança com um portão de ferro, que requer muito esforço e habilidade para ser derrubado.
+
+[157] (P44.S2)
+Assim, ferir alguém posicionado nesta guarda requer habilidade e astúcia.
+
+[158] (P44.S3)
+Isso é igualmente dividido em dois tipos, um chamado porta di ferro e o outro cinghiale.
+
+[159] (P44.S4)
+A primeira porta di ferro é quando você tem o pé direito à frente e a espada, com o punho, apontada para o inimigo.
+
+[160] (P44.S5)
+Mas cinghiale porta di ferro é quando você tem o pé esquerdo à frente e na diagonal, ou seja, em direção ao seu lado esquerdo, e a mão da espada próxima ao joelho esquerdo por dentro; e o ombro direito voltado para o inimigo.
+
+[161] (P44.S6)
+É chamado assim por comparação com o javali, ou porco selvagem como dizemos, que, quando é atacado, se aproxima com suas presas na diagonal para ferir.
+
+[162] (P44.S7)
+E estas são as guardas baixas.
+
+[163] (P45.S0)
+Lep: Eu ficaria grato em saber, uma vez que você chamou um dos guardas de “coda lunga stretta”, se poderia aplicar de maneira semelhante “porta di ferro stretta” a um dos outros.
+
+[164] (P46.S0)
+Gio: Elas são chamadas de stretta, lunga e alta, porque esta guarda pode ser formada de três maneiras, da mesma forma que com coda lunga.
+
+[165] (P46.S1)
+Mas, para ser breve, eu não pretendia mencionar os outros, e me contentei por agora em que você tivesse entendido porta di ferro e coda lunga, com o pé direito assim como o pé esquerdo à frente, não havendo muita diferença entre os dois.
+
+[166] (P46.S2)
+Mas já que você parece tão curioso para saber de tudo, eu lhe direi.
+
+[167] (P47.S0)
+Porta de ferro estreita e larga.
+
+[168] (P47.S1)
+Toda vez que você tiver o pé direito à frente em um passo, que não será nem grande nem pequeno, mas proporcional, com a mão da espada do lado de dentro, perto do joelho direito, e a ponta dela apontada para o inimigo, isso será chamado de porta di ferro stretta; e foi nomeado “stretta” por ser uma guarda muito segura.
+
+[169] (P47.S2)
+Mas se você afastar sua mão um pouco do seu joelho, em direção ao seu lado esquerdo, abaixando a ponta em direção ao chão um pouco, será chamada de porta di ferro larga, porque deixa o corpo bastante descoberto.
+
+[170] (P47.S3)
+E estando na porta di ferro larga, se você levantar a mão da espada um pouco, isso será porta di ferro alta, por estar mais alta do que as outras duas.
+
+[171] (P47.S4)
+E isso, que eu disse sobre a porta di ferro, pode ser igualmente dito sobre a guarda cinghiale porta di ferro.
+
+[172] (P47.S5)
+Agora, eu disse acima que a guarda de coda lunga também é dividida em três tipos.
+
+[173] (P48.S0)
+Coda longa de três tipos.
+
+[174] (P48.S1)
+O primeiro é feito com o pé direito à frente em direção ao seu lado direito, e a mão da espada do lado de fora, próxima ao joelho direito, com a ponta e o corpo voltados para o inimigo; e é chamado de coda lunga stretta, também por ser uma guarda estreita e muito segura.
+
+[175] (P48.S2)
+A segunda, quando, estando em coda lunga stretta, você recua um pouco a mão e a espada, mantendo a ponta baixa, será chamada coda lunga larga, e é assim nomeada porque a espada está mais distante do inimigo.
+
+[176] (P48.S3)
+A terceira, estando em coda lunga larga, virando a ponta da espada para trás, é chamada de coda lunga distesa, e também recebeu esse nome de coda lunga porque a espada está estendida para trás.
+
+[177] (P48.S4)
+Três guardas podem ser formadas com o pé esquerdo à frente, a saber, coda lunga alta, coda lunga larga e coda lunga distesa, e são nomeadas assim pelas razões acima mencionadas.
+
+[178] (P49.S0)
+Lep: Senhor Giovanni, ainda não me arrependo da minha curiosidade, pois ela me levou a aprender com você mais do que eu havia planejado, graças à sua bondade.
+
+[179] (P49.S1)
+Portanto, continue com sua discussão.
+
+[180] (P50.S0)
+Guarda e seus tipos.
+
+[181] (P50.S1)
+Gio: Quanto às guardas altas, a primeira é chamada 'guardia d’alicorno', e é reconhecida quando o punho está totalmente voltado para baixo, e o braço bem estendido, com a ponta um pouco baixa, que é direcionada ao rosto ou ao peito do inimigo, de maneira semelhante ao unicórnio, que, quando atacado, luta dessa forma com seu chifre.
+
+[182] (P50.S2)
+A segunda é chamada de guardia di testa, que é quando se mantém o braço bem estendido em direção ao rosto do inimigo, e a espada na diagonal, ou seja, de modo que sua ponta aponte para o seu lado esquerdo e um pouco em direção ao chão, e é chamada assim porque protege as partes superiores.
+
+[183] (P50.S3)
+A terceira é chamada de guardia di faccia, e é vista quando o braço está bem estendido com a palma da mão voltada para cima, e a verdadeira lâmina da espada voltada para dentro, isto é, em direção ao lado esquerdo, e a ponta, juntamente com o flanco direito, deve estar voltada para o rosto do inimigo.
+
+[184] (P50.S4)
+Isto é chamado assim, porque protege o rosto de forma excelente.
+
+[185] (P50.S5)
+A quarta será chamada de guardia d’entrare, que é feita de forma oposta à anterior, ou seja, uma mantém o braço e a espada estendidos, ainda voltados para o rosto do inimigo, mas a palma voltada para baixo e o fio verdadeiro da espada deve estar voltado para fora, isto é, em direção ao lado direito, e o corpo deve ter seu lado direito voltado um pouco para o inimigo.
+
+[186] (P50.S6)
+É assim chamado porque é uma guarda muito forte para entrar.
+
+[187] (P50.S7)
+Essas quatro guardas podem ser executadas de duas maneiras, ou seja, com o pé direito ou o pé esquerdo à frente.
+
+[188] (P50.S8)
+E assim termina a terceira seção.
+
+[189] (P51.S0)
+Lep: Agora eu gostaria de saber se existem outras guardas altas em uso além dessas.
+
+[190] (P51.S1)
+Você poderia mencionar algum?
+
+[191] (P52.S0)
+Gio: Restam três deles que achei desejável discutir com você, para que você tenha informações sobre todos.
+
+[192] (P52.S1)
+A primeira é chamada de guardia alta e é vista quando a empunhadura da espada está voltada para cima, com o braço bem estendido, e a ponta está voltada para trás, e isso é nomeado por ser a mais alta que pode ser formada.
+
+[193] (P52.S2)
+O segundo é feito com a espada sobre o braço esquerdo.
+
+[194] (P52.S3)
+E o terceiro, por baixo, fazendo a ponta voltar-se para a parte de trás, e eles mantêm o mesmo nome.
+
+[195] (P52.S4)
+Mas, tendo já tratado das guardas de forma suficiente, nesta quarta parte discutiremos como entrar nelas.
+
+[196] (P53.S0)
+Lep: Serei grato por isso.
+
+[197] (P53.S1)
+Mas primeiro eu quero saber, a respeito dessas guardas que você já discutiu, que você nomeou de várias maneiras, se você poderia designá-las de outra forma, e por qual razão elas são chamadas assim.
+
+[198] (P53.S2)
+Por que ouvi opiniões diferentes sobre isso tantas vezes?
+
+[199] (P54.S0)
+Gio: Você deve saber que tais nomes foram aplicados às guardas pelos antigos, e depois confirmados pelos modernos através de seu uso.
+
+[200] (P54.S1)
+E são compreendidos por tais e aceitos, se não por todos, ao menos pela maior parte daqueles cujos olhos estão abertos para a arte.
+
+[201] (P54.S2)
+Não é que não pudessem ser nomeados de outra forma, mas introduzir novos nomes a ouvidos acostumados aos anteriores não seria nada além de um incômodo sem lucro, e uma mudança desprovida de benefício.
+
+[202] (P54.S3)
+É verdade que qualquer um pode formá-los à sua maneira, desde que seja compreendido.
+
+[203] (P54.S4)
+Mas seguindo a regra aceita e a prática da maioria, deixaremos como as encontramos.
+
+[204] (P55.S0)
+Lep: Uma vez que você me satisfez em relação aos nomes dados às guardas e as razões para eles, seguindo a ordem estabelecida, espero que você me forneça compreensão sobre a maneira de entrar nelas.
+
+[205] (P56.S0)
+Entrando nas guardas: como é feito.
+
+[206] (P56.S1)
+Gio: Um avança com razão e arte, e vai em todas as guardas para encontrar o adversário.
+
+[207] (P56.S2)
+Isso pode ser feito começando com qualquer pé, na diagonal ou fazendo com que um pé empurre o outro para frente, de acordo com o tempo e a necessidade.
+
+[208] (P56.S3)
+No entanto, dar um passo que não seja nem grande nem pequeno é de maior utilidade, pois assim você pode tanto avançar para frente quanto recuar sem desconforto corporal, sempre acompanhando a mão com o pé.
+
+[209] (P56.S4)
+Mas você deve ser avisado de que a perna da frente deve estar um pouco dobrada no joelho, e seu pé deve apontar diretamente para o inimigo; e a perna de trás estará um pouco curvada e com seu pé um tanto na diagonal, de tal maneira que cada movimento será pleno de graça.
+
+[210] (P56.S5)
+E assim termina o quarto tópico.
+
+[211] (P57.S0)
+Lep: Eu apreciaria muito se você pudesse me apresentar melhor o caminho que se deve seguir ao entrar nas referidas guardas com a espada em mãos, do qual não ouvi o suficiente.
+
+[212] (P58.S0)
+Gio: Suponha que você tenha sua espada ao seu lado esquerdo, prestes a colocar a mão sobre ela, e o calcanhar do seu pé direito próximo ao seu pé esquerdo.
+
+[213] (P58.S1)
+Ambos os seus joelhos estarão retos e não curvados, organizando-se com o máximo de graça possível.
+
+[214] (P58.S2)
+Tendo feito isso, você colocará o pé direito à frente em direção ao seu lado direito, e nesse tempo você estenderá o braço e fará um falso, e um riverso sgualimbro; ou fará dois riversi, o primeiro tondo e o segundo igualmente sgualimbro; assim, indo com sua espada para coda lunga stretta.
+
+[215] (P58.S3)
+E a partir daqui você dará um passo à frente com o seu pé esquerdo em direção ao seu lado esquerdo, fazendo um falso e um mandritto sgualimbro nesse instante, e a espada cairá em cinghiale porta di ferro.
+
+[216] (P58.S4)
+E então você avançará um passo com o pé direito, e nesse tempo você executará um dritto tramazzone, que terminará em porta di ferro stretta.
+
+[217] (P58.S5)
+Então você avançará com o pé esquerdo, fazendo um falso e um riverso sgualimbro, e a espada irá para coda lunga alta.
+
+[218] (P58.S6)
+Então você dará um passo à frente com o pé direito e, no mesmo tempo, lançará um riverso ridoppio, parando a espada em 'guardia d’alicorno.
+
+[219] (P58.S7)
+E estando fixo na dita guarda, você executará uma imbroccata sem dar nenhum passo, e a espada parará em porta di ferro stretta.
+
+[220] (P58.S8)
+Daqui você retirará o seu pé direito um passo, e em um só tempo você executará um falso e um riverso sgualimbro, e a espada retornará à coda lunga alta.
+
+[221] (P58.S9)
+Então você puxará seu pé esquerdo para trás e, em seguida, fará um mandritto tramazzone, que terminará em porta di ferro stretta.
+
+[222] (P58.S10)
+Então você retornará seu pé direito para trás um passo, executando um dritto tramazzone nesse tempo, com o qual você cairá em cinghiale porta di ferro.
+
+[223] (P58.S11)
+E a partir daqui, você puxará o pé esquerdo para trás, fazendo um falso e um riverso sgualimbro nesse instante, e a espada retornará à coda lunga stretta, e assim você voltará ao mesmo lugar com as mesmas guardas.
+
+[224] (P59.S0)
+Lep: Por que você quer que eu avance e depois volte para trás?
+
+[225] (P60.S0)
+Gio: Porque você pratica bem a mudança de guardas tanto para frente quanto para trás, o que é necessário na arte e de grande utilidade; e para que você entenda, esse passo é uma das principais coisas que você deve praticar se quiser ter graça com as armas em mãos.
+
+[226] (P61.S0)
+Lep: Parece-me que fui bem informado sobre todos os golpes que podem ser desferidos com a espada, e sobre as guardas com seus nomes, e sobre a maneira que se deve observar ao assumi-las e ao entrar nelas.
+
+[227] (P61.S1)
+Agora restam os quinto e sexto títulos.
+
+[228] (P61.S2)
+Como são mais importantes, não quero sobrecarregá-lo discutindo-os com a mesma extensão que você pode, em particular em relação à espada descomposta, e depois, se houver tempo, com outras armas.
+
+[229] (P62.S0)
+Gio: Nada disso me incomoda, e espero poder agradá-lo nisso.
+
+[230] (P62.S1)
+Mas parece-me que a hora é tardia, e a discussão não será breve, portanto, acredito que seria apropriado adiá-la até amanhã.
+
+[231] (P63.S0)
+Lep: Façamos como você desejar.
+

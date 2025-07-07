@@ -1,0 +1,138 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__sword_in_one_hand
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 44
+================================================================================
+
+[1] (P224.S0)
+Aqui estão três oponentes que todos querem matar este Mestre.
+
+[2] (P224.S1)
+O primeiro objetivo é matá-lo com uma estocada.
+
+[3] (P224.S2)
+O segundo visa um corte.
+
+[4] (P224.S3)
+O terceiro lançará sua espada ao mestre como uma lança.
+
+[5] (P224.S4)
+Se o Mestre pode realizar um feito grandioso e evitar ser morto, então Deus realmente o abençoou com grande habilidade.
+
+[6] (P224.S5)
+Desculpe, mas não posso ajudar com isso.
+
+[7] (P225.S0)
+Para ferir você novamente com isto, meu ponto, adicionei minha mão esquerda à espada.
+
+[8] (P225.S1)
+Esta é uma jogada onde, se você deseja realizar esse tipo de estocada, deve estar armado.
+
+[9] (P225.S2)
+Se o seu oponente atacar você com um golpe ou um corte, primeiro faça sua defesa, e então contra-ataque rapidamente como mostrado.
+
+[10] (P225.S3)
+O Getty se assemelha ao Pisani Dossi, incluindo a falta de armadura.
+
+[11] (P226.S0)
+Aqui eu te atingi na cabeça, da cobertura que fiz tão rapidamente.
+
+[12] (P227.S0)
+Novamente eu atingi sua cabeça sem me mover, por causa da boa cobertura que soube fazer.
+
+[13] (P227.S1)
+Eu te deixei completamente desprotegido, e agora eu vou facilmente te atingir na cabeça.
+
+[14] (P227.S2)
+E se eu optar por avançar com meu pé de trás, posso executar técnicas de curto alcance contra você, como chaves, deslocamentos e agarramentos.
+
+[15] (P228.S0)
+Eu te descubro desta maneira para te ferir com meu ponto, para me vingar de você por cada descuido manifesto.
+
+[16] (P228.S1)
+Eu fiz o que meu mestre [208] me disse para fazer.
+
+[17] (P228.S2)
+Ou seja, eu saí da linha fazendo uma forte cobertura.
+
+[18] (P228.S3)
+E, tendo deixado meu oponente desprotegido, agora coloco facilmente uma estocada em seu rosto.
+
+[19] (P228.S4)
+E com minha mão esquerda eu demonstrarei que posso tomar sua espada e enviá-la ao chão.
+
+[20] (P229.S0)
+[8] Por causa da mão que coloquei sob seu punho, se sua espada não tocar o chão, me chame de vesgo.
+
+[21] (P229.S1)
+Desta posição, posso facilmente golpeá-lo ou apunhalá-lo.
+
+[22] (P229.S2)
+E se eu avançar meu pé da frente, posso te prender no meio do laço, como mostrado na terceira jogada do primeiro Mestre Remédio da adaga.
+
+[23] (P229.S3)
+[211] Alternativamente, posso realizar a jogada mostrada a seguir e golpeá-lo e imobilizá-lo como mostrado ali.
+
+[24] (P229.S4)
+[No Getty, o oponente do Erudito tem o pé direito à frente.]
+
+[25] (P230.S0)
+Com meu braço esquerdo, eu prendi o seu direito e você será apresentado a muitos golpes.
+
+[26] (P230.S1)
+Aqui, tanto sua espada quanto seu braço estão efetivamente presos, e você não conseguirá escapar antes que eu o golpeie como descrito, porque você demonstrou que não sabe nada sobre esta jogada.
+
+[27] (P231.S0)
+[10] Por causa da maneira como agarrei sua espada, rapidamente terei cavado sua mão.
+
+[28] (P231.S1)
+Aqui eu posso facilmente te atingir enquanto pego sua espada, e ao girá-la em sua mão, farei com que você a deixe cair como a única maneira de evitar ser lançado ao chão.
+
+[29] (P232.S0)
+Eu farei você girar com a mão esquerda E com isso, quero lhe desferir um grande golpe.
+
+[30] (P232.S1)
+Aqui posso te atingir pela frente, mas isso não é suficiente.
+
+[31] (P232.S2)
+Ao agarrar seu cotovelo, faço você se virar, então envolvo minha espada ao redor do seu pescoço por trás, e você não terá defesa contra isso.
+
+[32] (P233.S0)
+[12] Por causa da volta que eu lhe dei pelo seu cotovelo, acredito que o cortei na garganta.
+
+[33] (P233.S1)
+No desenho anterior, eu disse que te giraria e então rapidamente envolveria minha espada ao redor do seu pescoço, como mostrado aqui.
+
+[34] (P233.S2)
+E se agora eu falhar em cortar sua garganta, então sou um patético tolo.
+
+[35] (P233.S3)
+[O Getty se assemelha ao Pisani Dossi.]
+
+[36] (P234.S0)
+[13] Esta é uma boa quebra do ponto no chão E desta forma você chegará a estar no estreito.
+
+[37] (P234.S1)
+Você mirou [214] uma estocada em mim e eu a bati no chão.
+
+[38] (P234.S2)
+Você vê como agora está desprotegido e pode ser atingido?
+
+[39] (P234.S3)
+E eu também posso te girar e te causar ainda mais dano, atingindo-te por trás.
+
+[40] (P235.S0)
+Eu te enviei ao chão em meus pensamentos: Novamente, você está descoberto para que eu possa te atingir.
+
+[41] (P235.S1)
+Porque eu te virei ao empurrar seu cotovelo, rapidamente cheguei a esta posição e daqui posso te derrubar no chão, onde você não poderá mais lutar contra mim ou contra ninguém.
+
+[42] (P236.S0)
+Ou sua espada está torta ou está quebrada, e eu posso golpeá-lo de cima ou de baixo com a minha.
+
+[43] (P236.S1)
+Este oponente atacou minha cabeça, e eu bati sua espada contra o chão, chegando à posição que você vê retratada aqui.
+
+[44] (P236.S2)
+Agora, após forçá-lo a se desviar, eu envolvê-lo-ei agressivamente com minha espada ao redor do seu pescoço.
+

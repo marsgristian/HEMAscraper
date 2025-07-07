@@ -1,0 +1,246 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__1st_master
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 80
+================================================================================
+
+[1] (P124.S0)
+Eu sou o Primeiro Mestre da Adaga, cheio de astúcia, E com minha mão esquerda eu enroscarei a adaga ao redor do seu braço, E a verdade é que posso fazer muitas outras jogadas, E meus alunos as executarão com habilidade.
+
+[2] (P124.S1)
+Eu sou o primeiro mestre e sou chamado de Remédio, porque sei como remediar tão bem que você não pode me prejudicar, enquanto eu, ao contrário, posso te atingir e te ferir.
+
+[3] (P124.S2)
+E eu não posso fazer uma jogada melhor contra você do que fazer sua adaga ir ao chão, virando minha mão para a esquerda.
+
+[4] (P125.S0)
+Se eu fizer uma volta ao redor do seu braço com minha adaga, eu o atingirei no peito, e isso não será tirado de mim.
+
+[5] (P125.S1)
+Eu girarei minha adaga ao redor do seu braço.
+
+[6] (P125.S2)
+E por causa deste contra, você não poderá me tirar a adaga.
+
+[7] (P125.S3)
+E também com esta volta eu posso cravá-lo em seu peito sem dúvida.
+
+[8] (P126.S0)
+Com seu braço direito preso sob o meu esquerdo, posso lhe causar muito dano enquanto o mantenho preso.
+
+[9] (P126.S1)
+Eu vou prender seu braço na amarra do meio, e farei isso de tal maneira que você não poderá me causar nenhum problema.
+
+[10] (P126.S2)
+E se eu desejar te derrubar, eu o farei com pouco esforço, e você não terá chance de escapar.
+
+[11] (P126.S3)
+[No Getty, o Erudito avança com o pé esquerdo à frente do pé direito de seu oponente, e não atrás.]
+
+[12] (P127.S0)
+Se você se enrolar ao meu redor e tentar travar meu braço dessa maneira, eu o colocarei na amarra inferior e essa posição tornará as coisas difíceis para você.
+
+[13] (P127.S1)
+Eu faço a contra ao jogo que veio antes de mim.
+
+[14] (P127.S2)
+Você pode ver o tipo de posição em que eu o coloquei.
+
+[15] (P127.S3)
+Eu quebrar-lhe-ei o braço ou rapidamente o lançarei ao chão.
+
+[16] (P128.S0)
+Se eu puder girar este seu braço, farei você sofrer com uma amarra média.
+
+[17] (P128.S1)
+Esta é uma boa cobertura da qual posso tirar a adaga da sua mão, e com esta empunhadura poderei te amarrar bem.
+
+[18] (P128.S2)
+E esta arte é tão eficaz que, se eu colocar minha mão direita sob seu joelho direito, então eu o colocarei no chão.
+
+[19] (P129.S0)
+Você não me fará sofrer no meio do laço Quando eu te encontrar com este contra-ataque e te fizer soltar.
+
+[20] (P129.S1)
+Eu faço a contra ao jogo que veio antes de mim, para que você não possa me derrubar, nem tirar a adaga de mim, nem me amarrar também.
+
+[21] (P129.S2)
+Você terá que soltar, ou então será rapidamente esfaqueado pela minha adaga.
+
+[22] (P130.S0)
+[23] Esta é uma jogada sem contra, e é inevitável que o jogador vá ao chão e perca sua adaga se o estudante executar esta técnica como ilustrado.
+
+[23] (P130.S1)
+E quando o jogador é lançado ao chão, o estudante pode finalizá-lo de várias maneiras.
+
+[24] (P131.S0)
+[24] Esta técnica é raramente utilizada na arte da adaga, no entanto, é uma defesa adicional a se conhecer.
+
+[25] (P131.S1)
+Pois, após desviar o ataque dessa maneira, o discípulo pode então desferir um golpe de contra-ataque nas costelas ou no estômago.
+
+[26] (P132.S0)
+[25] Este laço é fácil para mim de fazer E a partir dele poderei te atingir nas costas.
+
+[27] (P132.S1)
+Eu sou um contra do Primeiro Mestre do Remédio da Adaga.
+
+[28] (P132.S2)
+Ai daquele que se socorre de técnicas que permitem que sua mão esquerda seja apreendida.
+
+[29] (P132.S3)
+E a partir dessa posição, poderei cravar a adaga em suas costas.
+
+[30] (P132.S4)
+[Essas duas ilustrações parecem mostrar o início e o fim da técnica.]
+
+[31] (P133.S0)
+[26] Eu faço o contra-contra ao Primeiro Mestre, pois o contra-contra é um excelente mestre.
+
+[32] (P134.S0)
+[27] Eu faço o contra-contrataque contra o Primeiro Mestre, e serei o primeiro a retirar a adaga todas as vezes.
+
+[33] (P135.S0)
+[28] Eu contra-ataco o Primeiro Mestre da Adaga e eu atingirei seu braço de cima.
+
+[34] (P135.S1)
+[No Pisani Dossi, o Mestre está sem sua coroa.]
+
+[35] (P136.S0)
+[29] Eu faço a contra ao Primeiro Mestre. Com esta cobertura, eu o ferirei e pior.
+
+[36] (P136.S1)
+Eu sou também o contra do Primeiro Remédio de Adaga do Mestre, e quando seu aluno me agarra assim [10], eu o atingirei e o farei soltar.
+
+[37] (P136.S2)
+E se ele tentar fazer outras jogadas contra mim, eu o contrariei sem hesitação.
+
+[38] (P137.S0)
+No contra anterior, eu lhe disse que você poderia machucá-lo e pior; Aqui eu lhe mostro como isso pode ser feito.
+
+[39] (P137.S1)
+Isso decorre do contra mencionado na jogada anterior.
+
+[40] (P137.S2)
+Também decorre do contra mencionado duas jogadas atrás [10], onde o Mestre do Contra Remédio prendeu a mão de seu oponente com sua adaga, e onde ele lhe disse que pode cravar a adaga nas costas de seu oponente.
+
+[41] (P137.S3)
+Meu jogo vem daquele jogo, mas onde ele diz que você crava a adaga nas costas do seu oponente, eu a cravo em seu peito.
+
+[42] (P137.S4)
+Mas isso ainda flui da jogada anterior, mesmo que eu escolha terminá-la de maneira diferente.
+
+[43] (P137.S5)
+[No Getty, o pé direito do Mestre está fora (à frente) do pé esquerdo de seu oponente.]
+
+[44] (P138.S0)
+Estou bem posicionado e colocado para te forçar ao chão; Se você não souber o contra, eu te derrubarei imediatamente.
+
+[45] (P138.S1)
+Eu sou o aluno do primeiro Mestre dos Remédios [de Adaga].
+
+[46] (P138.S2)
+E com esta empunhadura busco tomar sua adaga e amarrar seu braço, e como não acredito que você saiba como me contrabalançar, farei isso com você sem demora.
+
+[47] (P138.S3)
+O Getty se assemelha ao de Paris.
+
+[48] (P138.S4)
+Essas duas ilustrações podem mostrar estágios progressivos da técnica.
+
+[49] (P139.S0)
+[32] Eu faço o contra assim, e sei bem como te atingir daqui.
+
+[50] (P139.S1)
+Eu te contrarresto assim, para que você não tome minha adaga nem prenda meu braço, e minha adaga e eu permaneceremos livres.
+
+[51] (P139.S2)
+E então eu poderei te atingir quando você me soltar de tal forma que você não terá defesa.
+
+[52] (P140.S0)
+Para fazer uma cobertura muito mais forte, cruzo meus braços desta maneira; E a partir daqui posso realizar todos os remédios anteriores.
+
+[53] (P140.S1)
+Esta cobertura é conhecida por ser muito mais forte e eu a faço para poder obstruí-lo com várias jogadas.
+
+[54] (P140.S2)
+E você não pode superar uma cobertura tão forte, porque dois braços podem facilmente se opor a um braço.
+
+[55] (P141.S0)
+[34] Com este contra, a cobertura anterior encontrará o fracasso; Depois que eu te fizer girar, eu te atingirei com minha adaga.
+
+[56] (P141.S1)
+Este é o contra da cobertura que veio antes, que eu te disse que era muito mais forte.
+
+[57] (P141.S2)
+E eu o virarei com minha mão esquerda.
+
+[58] (P141.S3)
+Tendo-o virado, não deixarei de golpeá-lo.
+
+[59] (P142.S0)
+[35] Como a técnica do meu Mestre não me falhará, eu quebrar sua arm sobre meu ombro.
+
+[60] (P142.S1)
+Com esta excelente presa que eu fiz contra você, não deixarei de quebrar seu braço sobre meu ombro esquerdo.
+
+[61] (P142.S2)
+E depois posso te ferir com sua própria adaga, pois esta jogada não me falhará.
+
+[62] (P143.S0)
+Você não quebrará meu braço sobre seu ombro, pois com meu contra-atque eu te lançarei ao chão.
+
+[63] (P143.S1)
+Eu faço este contra para você que na jogada anterior pretendia quebrar meu braço sobre seu ombro.
+
+[64] (P143.S2)
+Eu te lançarei ao chão com grande força até a morte, e você não me causará mais ferimentos.
+
+[65] (P144.S0)
+Sua adaga será rapidamente retirada de você, quando eu a torcer para cima, perto do seu cotovelo.
+
+[66] (P144.S1)
+Estou em uma boa posição para tirar a adaga da sua mão, e para isso empurro a ponta para cima, perto do seu cotovelo.
+
+[67] (P144.S2)
+E você o perderá, e eu rapidamente o golpearei com isso.
+
+[68] (P144.S3)
+Eu peguei a adaga desta forma porque não consegui dobrar seu braço.
+
+[69] (P145.S0)
+[38] Minha adaga não será retirada por sua manobra, e eu o atingirei com ela sem falta.
+
+[70] (P145.S1)
+Eu faço o contra da jogada que veio antes, para que você não consiga pegar minha adaga dessa maneira.
+
+[71] (P145.S2)
+Eu pressionarei minha adaga em sua mão, para fazê-lo soltar, e com a cruel ponta eu o atingirei por sua ousadia.
+
+[72] (P146.S0)
+Eu não terei problema algum em fazer você cair ao chão, mas você terá um grande problema ao tentar se levantar.
+
+[73] (P146.S1)
+Dessa forma, você será empurrado para o chão, e não poderá fazer nenhuma defesa ou contra-ataque.
+
+[74] (P146.S2)
+E eu rapidamente farei com que a adaga que você segura em sua mão se afaste de você, devido ao meu conhecimento hábil desta arte.
+
+[75] (P146.S3)
+[No Pisani Dossi, o Erudito entra na perna direita de seu oponente.]
+
+[76] (P147.S0)
+[40] Não quero cair ao chão com a jogada anterior, portanto, com esta pegada, vou retirar toda a sua força.
+
+[77] (P147.S1)
+O que você planeja fazer nem sempre pode ser realizado.
+
+[78] (P147.S2)
+Eu sou o contra do erudito que veio antes, e este contra fará com que ele pareça muito tolo, porque assim eu o farei soltar minha perna.
+
+[79] (P147.S3)
+E eu cravarei a adaga em seu rosto para demonstrar que ele é de fato um grande tolo.
+
+[80] (P147.S4)
+[No Pisani Dossi, o Mestre está sem sua coroa.]
+

@@ -1,0 +1,162 @@
+MASTER: Giacomo di Grassi
+SOURCE BOOK: giacomo di grassi__preface
+FIELD NAME: English Translation (1594)[edit]Transcribed byEarly English Books Online
+TOTAL TEXTOS: 52
+================================================================================
+
+[1] (P0.S0)
+[Ttl] A verdadeira Arte de Defesa de Giacomo Di Grassi, ensinando de maneira clara por meio de demonstrações infalíveis, figuras apropriadas e regras perfeitas a maneira e a forma como um homem, sem outro professor ou mestre, pode manejar com segurança todos os tipos de armas, tanto ofensivas quanto defensivas: Com um Tratado sobre Engano ou Falsificação: E com um caminho ou meio por meio de indústria privada para obter Força, Julgamento e Agilidade.
+
+[2] (P1.S0)
+[i] Ao Right Honorable meu Senhor Borrow, Lorde Governador do Breil, e Cavaleiro da mais honrosa ordem da Jarreteira, T. C. deseja contínuo Honra, dignidade de espírito, e conhecimento erudito, com aumento de fama mundana e felicidade celestial.
+
+[3] (P1.S1)
+Tendo um desejo inquieto nos exercícios diários da pena para apresentar alguma obra aceitável a Vossa Senhoria e não encontrando nada tão adequado ao meu propósito e à sua honrosa disposição quanto o conhecimento de Armas e Armas, que defende a vida, o país e a honra, presumi preferir um livro à impressão (traduzido da língua italiana) de um cavalheiro que não é tão ávido de glória como muitos escritores gloriosos que ansiosamente tentariam arrancar a Fama da boca de outros, por um pouco de trabalho próprio. Mas, ao contrário, mantém seu nome desconhecido para o mundo (sob uma vergonha silenciosa), sabendo que a virtude brilha melhor e recebe os maiores louvores onde faz menos alarde: pois a bondade da mente não busca recompensa gloriosa, mas espera colher o prêmio do bem fazer entre os mais sábios em julgamento e os mais dignos de consideração sólida, como um homem que dá seus bens aos pobres e faz seu tesouro no céu. E mais a ser notado, quem pode esperar até que a semente semeada na terra esteja quase podre ou morta, terá certeza de, em uma bela colheita, colher uma boa safra de grãos. E é melhor aguardar uma temporada feliz para ver como as coisas se provarão do que buscar repentinamente lucro onde a comodidade ou qualquer benefício surgirá lentamente.
+
+[4] (P1.S2)
+Alguns dizem que bons escritores só recebem pouco reconhecimento até que estejam mortos, (Difícil é essa opinião.)
+
+[5] (P1.S3)
+e então sua Fama florescerá e trará o fruto que há muito estava escondido na terra.
+
+[6] (P1.S4)
+Este cavalheiro, porventura, em consideração semelhante, sufoca seu crédito e permanece descuidado em relação ao relato do mundo: mas não consigo vê-lo tão esquecido, pois seu esforço neste trabalho não é pequeno, e seu mérito deve ser grande, pois publicou em nossa língua inglesa um volume tão necessário em termos tão apropriados e em um livro tão extenso (além das descrições vívidas e modelos do mesmo) que demonstra grande conhecimento e habilidade, grande arte na arma e grande segurança do homem que pode usá-la sabiamente e executá-la com bravura.
+
+[7] (P1.S5)
+Todos os tipos de homens permitem o conhecimento: então, onde o conhecimento e a coragem se encontram em uma única pessoa, há desvantagem nesse confronto, seja o que for que a masculinidade e a ignorância possam dizer em sua própria defesa.
+
+[8] (P1.S6)
+O livro de equitação fez muitos bons cavaleiros: e este livro de Esgrima salvará muitas vidas de homens, ou extinguirá disputas comuns, pois o perigo é a morte se pessoas ignorantes provocarem um combate.
+
+[9] (P1.S7)
+Aqui não há nada registrado ou discurso utilizado, senão para a preservação da vida e da honra do homem: regras mais ordenadas e nobres observações, entrelaçadas com sábios conselhos e excelentes palavras, escritas de uma fonte de conhecimento e fluente inteligência, onde as razões correm tão livremente quanto a água clara jorra de uma fonte ou conduto.
+
+[10] (P1.S8)
+Vossa Senhoria pode julgar tanto a arma quanto as palavras, por isso não há necessidade de mais louvores ao livro: que ele se mostre, solicitando algum apoio de seu honroso juízo; e, ao encontrar favor e aceitação entre os sábios, não há dúvida de que todos os homens de bem o apreciarão, e os de má índole se envergonharão de argumentar contra ele, como sabe nosso Senhor vivo, que aumente a Vossa Senhoria em honra e desejada credibilidade.
+
+[11] (P1.S9)
+Seu L. em toda humildade à disposição.
+
+[12] (P1.S10)
+Thomas Churchyard.
+
+[13] (P2.S0)
+[ iii ] A Epístola do Autor a diversos Nobres e Cavalheiros.
+
+[14] (P3.S0)
+Portanto, humildemente imploro a vossas honras que, com a mesma mente generosa com a qual me aceitaram, vossas senhorias também recebam estes meus esforços e se dignem a protegê-los, assim como eu sempre defendi e defenderei vossas honras de maneira mais pura e indelével.
+
+[15] (P3.S1)
+Onde, se eu perceber que este meu primeiro trabalho (como eu apenas o publiquei com a intenção de ajudar e ensinar os outros) for de satisfação geral de todos, esforçarei-me tanto em outra obra que em breve mostrará o caminho tanto de como manejar todas aquelas armas a cavalo que aqui são ensinadas a pé, como também todas as outras armas que houver.
+
+[16] (P3.S2)
+Seu mais afeiçoado servo.
+
+[17] (P3.S3)
+Giacomo di Grassi de Módena.
+
+[18] (P4.S0)
+[ iv ] O Autor, ao Leitor.
+
+[19] (P4.S1)
+E assim, como de nossas faixas nos carregamos (como que) um desejo desenfreado de conhecimento: Assim, depois de termos alcançado a perfeição disso, cresce em nós uma certa afeição louvável e fervorosa de ensinar os outros: O que, se não fosse assim, o mundo felizmente não estaria tão repleto de Artes e Ciências.
+
+[20] (P5.S0)
+Pois se os homens, em geral, não fossem aptos à contemplação e à busca das coisas: ou se Deus não tivesse concedido a cada homem a graça de poder elevar sua mente da terra e, por meio da pesquisa, descobrir as causas disso, e transmiti-las àqueles que são menos dispostos a se esforçar nisso: aconteceria que uma parte dos homens, como senhores e mestres, governaria, e a outra parte, como vil escravos, envolvida em perpétua escuridão, sofreria e levaria uma vida indigna da condição humana.
+
+[21] (P5.S1)
+Por isso, na minha opinião, é de grande razão que um homem participe com os outros daquilo que ele pesquisou e descobriu por meio de seu grande estudo e trabalho.
+
+[22] (P5.S2)
+E, portanto, eu, desde a minha infância, muito encantado com o manejo de armas: após ter passado muito tempo no exercício delas, desejava ver e contemplar os mestres mais excelentes e experientes desta Arte, que, de maneira geral, observei, ensinando de diversas maneiras, muito diferentes entre si, como se este mistério estivesse desprovido de ordem e regra, ou dependesse apenas da imaginação, ou da invenção daquele que o professa: ou como se fosse uma questão impossível encontrar, neste honroso exercício (assim como em todas as outras Artes e Ciências), um único caminho bom e verdadeiro, pelo qual um homem possa alcançar o conhecimento completo de tudo o que pode ser praticado com a arma, não dependendo totalmente de sua própria cabeça, ou aprendendo um golpe hoje de um mestre, e no dia seguinte de outro, ocupando-se assim com particularidades, cujo conhecimento é infinito, tornando-se, portanto, impossível.
+
+[23] (P5.S3)
+Sendo assim forçado, por um certo desejo honesto que tenho de ajudar os outros, entreguei-me completamente à contemplação disso: esperando que, ao final, eu encontrasse os verdadeiros princípios e fundamentos desta Arte, e reduzisse o confuso e infinito número de golpes a uma soma concisa e certa ordem: os quais princípios, sendo poucos, e portanto fáceis de serem conhecidos e compreendidos, sem dúvida em pouco tempo e com pouco esforço, abrirão uma entrada muito ampla para a compreensão de tudo o que está contido nesta Arte.
+
+[24] (P5.S4)
+Nem eu fiquei frustrado em relação a todas as minhas expectativas: Pois, em conclusão, após muita deliberação, descobri esta Arte, da qual depende unicamente o conhecimento de tudo o que um homem pode realizar com uma arma em sua mão, e não apenas com aquelas armas que são encontradas em nossos dias, mas também com aquelas que serão inventadas no futuro: Considerando que esta Arte está fundamentada na Ofensiva e na Defesa, ambas praticadas em linhas retas e circulares, pois um homem não pode, de outra forma, nem atacar nem defender.
+
+[25] (P6.S0)
+E porque me proponho a ensinar como manejar a Arma, da forma mais ordenada e clara possível: primeiro de tudo, estabeleci os princípios ou fundamentos de toda a Arte, chamando-os de Advertências, os quais, por sua própria natureza, são muito bem conhecidos por todos aqueles que estão em seu juízo perfeito: não fiz outra coisa senão declará-los de forma simples, sem apresentar qualquer razão adicional, sendo isso algo supérfluo.
+
+[26] (P7.S0)
+Esses princípios sendo declarados, eu tratei em seguida daquelas coisas que são, e são, por si mesmas, Simples; então (subindo para aquelas que são Compostas) eu mostro aquilo que pode ser feito de maneira geral no manejo de todas as Armas.
+
+[27] (P7.S1)
+E porque, no ensino das Artes e Ciências, as Coisas são mais a serem estimadas do que as Palavras, portanto eu não escolheria, ao tratar deste assunto, um tipo de discurso copioso e sonoro, mas sim aquele que é mais breve e familiar.
+
+[28] (P7.S2)
+De que maneira de falar, como em um pequeno feixe, contém diversas coisas pesadas, assim requer um leitor lento e discreto, que irá penetrar suavemente e com cuidado na própria essência disso.
+
+[29] (P8.S0)
+Por esta razão, imploro ao gentil Leitor que se mostre como tal ao ler esta minha obra presente, assegurando-se de que, ao fazê-lo, colherá grande proveito e honra.
+
+[30] (P8.S1)
+E não duvidando que ele (que está suficientemente dotado com este conhecimento e tem seu corpo proporcionalmente exercitado para isso) superará de longe qualquer outro, embora este possua força e rapidez iguais.
+
+[31] (P9.S0)
+Além disso, porque esta arte é um membro principal da profissão militar, que, juntamente com o aprendizado, é o ornamento de todo o mundo, portanto, não deve ser exercida em brigas e rixas, como os homens comumente praticam em cada condado, mas, como cavaleiros honoráveis, devem se reservar e exercitá-la para a vantagem de seu país, a honra das mulheres e a conquista de hostes e exércitos.
+
+[32] (P10.S0)
+[vii] Um Aviso ao leitor cortês.
+
+[33] (P10.S1)
+Bom Leitor, antes que entres no discurso do conhecimento oculto deste honroso exercício da arma agora exposto e manifestado pelo Autor desta obra, e em tal perfeição traduzido da língua italiana, que todos ou a maioria dos nobres senhores de espírito marcial da Inglaterra não podem deixar de louvar, e nenhuma pessoa de juízo indiferente pode se ofender com justiça, visto que o que quer que aqui seja discutido, tende a nenhum outro uso, senão à defesa da vida e da reputação do homem: achei por bem advertir-te que em alguns lugares deste livro, devido à equívoco de certas palavras italianas, as armas podem ser interpretadas de forma duvidosa em inglês.
+
+[34] (P10.S2)
+Portanto, às vezes, encontrando esta palavra Espada geralmente utilizada, considero que teria sido melhor traduzida se, em seu lugar, tivesse sido inserido o Rapière: uma arma mais usual para o uso dos Gentis-homens e mais adequada para causas de ofensa e defesa. Além disso, na Itália, onde o Rapière e a Adaga são comumente usados, a Espada (se não for uma Espada de armamento) não é mencionada.
+
+[35] (P10.S3)
+No entanto, não gostaria que o sentido fosse interpretado de forma tão rigorosa, a ponto de que o uso de uma arma tão honrosa seja totalmente rejeitado, mas que seja lido de tal maneira que, pelo entendimento correto e perfeito de uma, teu julgamento possa ser um pouco ampliado na administração da outra: Sabendo muito bem que, assim como a prática e o uso da primeira são louváveis entre eles, a segunda não pode ser tão condenada a ponto de que seu uso não possa bem recomendar um homem de valor e reputação entre nós.
+
+[36] (P10.S4)
+A luta com espada e escudo foi por muito tempo permitida na Inglaterra (e, no entanto, a prática em todos os tipos de armas é digna de louvor), mas agora, sendo deixada de lado, a espada, exceto entre os servos, não é muito valorizada, e a luta com rapieira é geralmente aceita como uma arma, pois é a mais perigosa, portanto, a mais temida, e, por isso, as disputas privadas e as brigas comuns são evitadas com mais rapidez.
+
+[37] (P11.S0)
+Mas esta obra, gentil Leitor, está tão galantemente apresentada em cada ponto e detalhe, os segredos mais obscuros do manejo da arma tão claramente desvendados, e a perfeita conduta do corpo em todas as ocasiões súbitas tão eruditamente discutida, que alegrará o entendimento de quem a ler, e ressoará para a glória de todos os bons Mestres de Defesa, pois sua Arte aqui é tão honrada, e seu conhecimento (que alguns consideram infinito) em uma ciência tão singular, trazido a tais Fundamentos e Princípios, que nenhum homem sábio de um julgamento imparcial, e de qualquer profissão que seja, deixará de confessar-se cortêsmente muito endividado tanto ao Autor quanto ao Tradutor deste tratado tão necessário, pelo qual ele pode aprender não apenas através da leitura e memorização a equipar sua mente com instruções resolutas, mas também pela prática e exercício galantemente realizar qualquer empreendimento concebido com uma conduta discreta e ordenada de seu corpo, em todas as ocasiões que forem.
+
+[38] (P12.S0)
+Caro Leitor, que outros enganos ou falhas poderão vir à sua vista, seja por amizade, rogo-te que os suporte, ou com cortesia, com tua pena, para teu próprio uso, os corrijas.
+
+[39] (P12.S1)
+Adeus.
+
+[40] (P13.S0)
+As Sortes das Armas tratadas neste Tratado.
+
+[41] (P13.S1)
+A única Rapieira, ou espada única.
+
+[42] (P13.S2)
+A espada e a adaga, etc. A espada e a capa, etc. A espada e o escudo.
+
+[43] (P13.S3)
+A Espada e o alvo quadrado.
+
+[44] (P13.S4)
+A espada e o escudo redondo.
+
+[45] (P13.S5)
+O Caso das Rapiers.
+
+[46] (P13.S6)
+A espada de duas mãos.
+
+[47] (P13.S7)
+As armas do Bastão, como o Bil, a Partesã, o Halberd e o Iauelin.
+
+[48] (P13.S8)
+Falsificação de Golpes e Estocadas.
+
+[49] (P13.S9)
+À espada única, etc. À espada e adaga, etc. Ao manto e espada.
+
+[50] (P13.S10)
+Na espada e no escudo, alvo quadrado e alvo redondo.
+
+[51] (P13.S11)
+Nas duas espadas rapiers Nas duas espadas de duas mãos No Bill, Partesão, Iauelim e Holberd.
+
+[52] (P13.S12)
+Na Lança.
+

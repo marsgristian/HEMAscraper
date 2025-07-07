@@ -1,0 +1,1476 @@
+MASTER: Angelo Viggiani dal Montone
+SOURCE BOOK: angelo viggiani dal montone__third_part
+FIELD NAME: Draft Translation (from the 1575)(2002)byW. Jherek Swanger
+TOTAL TEXTOS: 490
+================================================================================
+
+[1] (P13.S0)
+Terceira Parte Pessoas introduzidas nesta discussão: O mais ilustre Senhor Aluigi Gonzaga, chamado 'Rodomonte'.
+
+[2] (P13.S1)
+O mais ilustre Senhor Conde d’Agomonte.
+
+[3] (P13.S2)
+O mais excelente Messer Lodovico Bocadiferro, filósofo.
+
+[4] (P14.S0)
+Objeção de que a cólera impede o soldado de perturbar o inimigo.
+
+[5] (P14.S1)
+CON: Como não é melhor encontrar-se sem cólera?
+
+[6] (P14.S2)
+Porque assim como o espírito que está tranquilo fala melhor e tem mais sucesso nas letras, assim também é no manejo das armas: o espírito mais sereno permite ao cavaleiro executar melhor os golpes pensados e aprendidos, enquanto a cólera, ao contrário, prejudica a razão, retirando-a do homem, fazendo-o agir sem saber o porquê e o como.
+
+[7] (P15.S0)
+Resposta à objeção, a saber, que a cólera intemperante impede, e a temperada é útil.
+
+[8] (P15.S1)
+VARA: Se você me propõe uma cólera furiosa, que priva alguém do intelecto e da fala, eu não diferenciaria entre um colérico, um furioso e um animal irracional, e então diria que isso seria prejudicial, e que não se adequaria à nossa proposta.
+
+[9] (P15.S2)
+Mas se fosse uma cólera temperada que obscurecesse completamente a razão, digo-vos que seria muito útil; porque a cólera é um fogo do sangue ao redor do coração, que, sendo temperada, acende temperadamente o coração, e em consequência os humores inflamados são elevadas temperadamente, de modo que conferem agilidade e força superiores ao espírito motor, e atuam mais rapidamente na função de cada sentido, e, por fim, na fala; e, portanto, devo dizer que um pouco de cólera é útil para o soldado, assim como para quem quer praticar nas armas.
+
+[10] (P16.S0)
+Dificuldade de realizar dois mandritti tondi sem pausa, de modo que um não ultrapasse a altura do outro.
+
+[11] (P16.S1)
+CON: Esta é certamente a razão pela qual um dia, enquanto treinava com o conde di Mega, bastante movido pela fúria da cólera, executei dois mandritti tondi, um após o outro sem qualquer pausa, de modo que não elevei um acima do outro (e de fato você sabe, Rodomonte, quão difícil seria fazê-lo), o que deixou o conde maravilhado, dizendo que nunca havia conseguido fazê-lo, embora tivesse estudado todos os golpes da espada.
+
+[12] (P17.S0)
+CON: E ainda digo a vocês que desejo fazê-lo novamente; nunca soube como encontrar o caminho para fazê-lo mais uma vez; no entanto, muito me cansei, muito pensei sobre isso, de modo que de fato descobri o modo de fazê-lo duas vezes consecutivas, mas agora o corte não está plano.
+
+[13] (P18.S0)
+ROD: Eu faria cem deles, não dois, dessa maneira; a dificuldade é fazê-los de lado; mas agora é hora de começarmos a praticar, antes que a hora fique mais tarde: pegue sua espada, conte.
+
+[14] (P21.S0)
+Com armas de prática, não é possível adquirir valor nem aprender um schermo perfeito.
+
+[15] (P21.S1)
+CON: Como assim, minha espada?
+
+[16] (P21.S2)
+Não é melhor pegar um destinado à prática?
+
+[17] (P24.S0)
+ROD: Não agora, porque com essas armas de prática não é possível adquirir valor ou destreza do coração, nem jamais aprender um schermo perfeito.
+
+[18] (P25.S0)
+CON: Eu acredito no primeiro, mas no segundo eu duvido.
+
+[19] (P25.S1)
+Qual é a razão, Rodomonte, de que não é possível aprender (como você diz) um schermo perfeito com esse tipo de arma?
+
+[20] (P25.S2)
+Você não consegue desferir os mesmos golpes com isso, como com uma que tem fio?
+
+[21] (P26.S0)
+Por que não se pode aprender um golpe perfeito com armas de prática, mas apenas com aquelas que têm fio.
+
+[22] (P26.S1)
+ROD: Eu não diria agora que você não pode fazer todas aquelas maneiras de golpear, de defender e de guarda, com aquelas armas, e igualmente com estas, mas você as fará de forma imperfeita com aquelas, e de forma mais perfeita com estas de lâmina, porque se (por exemplo) você defende uma estocada que lhe é dirigida pelo inimigo, afastando sua espada com um mandritto, de modo que essa estocada não atinja seu peito, enquanto joga com a spade da marra, [4] bastará você apenas desviar um pouco, de fato, para que aprenda o schermo; mas se fossem spade da filo, você precisaria empurrar aquele mandritto com toda a sua força para desviar bem a estocada do inimigo.
+
+[23] (P26.S2)
+Eis que este seria um golpe perfeito, realizado com sabedoria e com prontidão, desferido com mais extensão e lançado com mais força do que teria sido com aquelas outras armas.
+
+[24] (P26.S3)
+Como você se sairá, conte, se pegar armas perfeitas em sua mão, e não se posicionar com todo o seu espírito, e com todo o seu julgamento intencional?
+
+[25] (P27.S0)
+É necessário que o guerreiro permaneça atento à ponta da arma de seu inimigo.
+
+[26] (P27.S1)
+CON: Sim, mas é um grande perigo treinar com armas que perfuram; se eu cometesse o menor erro, poderia causar um dano enorme.
+
+[27] (P27.S2)
+No entanto, faremos de fato o que mais lhe agrada, pois você estará em guarda para não me ferir, e eu estarei certo de desviar, e prestarei constante atenção à sua ponta para saber qual golpe pode sair de sua mão, o que é necessário em um bom guerreiro.
+
+[28] (P29.S0)
+Proposição de um schermo que é de um único golpe, e uma única defesa, de uma única guarda, e em um único tempo.
+
+[29] (P29.S1)
+VARA: Bem, agora, quero ensinar a vocês hoje um schermo que nunca vi ser feito por outros, e do qual fui simultaneamente meu próprio tutor e aluno, o qual não deve ser feito de outra maneira senão com boas espadas, e um único golpe, e uma única defesa, e uma única guarda; e cada uma dessas três coisas juntas em um único tempo; com a qual defesa você será capaz de repelir todo tipo de golpe e ofensa; e este golpe é superior a todo outro tipo de golpe, e a partir desta guarda procede toda outra guarda.
+
+[30] (P30.S0)
+CON: Se assim é, isso me parece o fundamento e a base de toda esta arte; de fato, a espada possui entre todas as armas os mais grandiosos privilégios.
+
+[31] (P32.S0)
+Prerrogativas e louvores da espada.
+
+[32] (P32.S1)
+VARA: Das suas prerrogativas deixo que você julgue, conte.
+
+[33] (P32.S2)
+Qual é essa arma que pode suportar os golpes da espada?
+
+[34] (P32.S3)
+Quais coisas você seria capaz de fazer com qualquer outro braço que pudesse fazer com a espada; ao contrário, muitas defesas, proteções e tipos de golpes você descobrirá nela, que não pode facilmente encontrar em outros; a partir do que se reconhece que toda a arte consiste perfeitamente na espada;
+
+[35] (P33.S0)
+Por que os Imperadores tinham a espada desembainhada levada à sua frente.
+
+[36] (P33.S1)
+de onde surge a prática de que os Imperadores carregavam diante de si uma espada desembainhada, como um emblema da justiça, pela qual administravam, como que dizendo que não há outro meio ou instrumento mais adequado pelo qual a justiça possa punir os ímpios e defender os justos, do que pela espada, verdadeiramente abundante em toda defesa e em toda ofensa, fina, apropriada e um ornamento para o homem.
+
+[37] (P33.S2)
+O Rei e Profeta Davi diz em seus Salmos: “Cinge a tua espada sobre a coxa, ó Barão, e isso será o teu ornamento e o teu esplendor.” [5] Deus não tinha em Sua mão uma espada com a qual punir os reis, como se lê em muitos lugares nas Sagradas Escrituras?
+
+[38] (P33.S3)
+Não apareceu o Anjo do Senhor com a espada desembainhada na mão a Josué em Jericó?
+
+[39] (P33.S4)
+Eu diria que, em suma, a espada é a arma mais perfeita, a mais ágil, a mais digna que se pode encontrar, e de maior honra e ornamento para o cavaleiro, e creio que se pode dizer que é o começo e o fim de todas as armas, tanto ofensivas quanto defensivas.
+
+[40] (P34.S0)
+A espada foi a primeira entre as armas a ser descoberta.
+
+[41] (P34.S1)
+CON: Você acredita que foi o primeiro descoberto?
+
+[42] (P35.S0)
+Inventor da espada.
+
+[43] (P35.S1)
+VARA: Certamente foi a primeira, e nunca mais abandonada pelo homem; acredito que teve sua origem no primeiro ferreiro, Tubal-Caim, filho de Lameque com sua esposa Zila; você não notará quantas vezes a espada é mencionada nas Sagradas Escrituras?
+
+[44] (P35.S2)
+A espada é a mais antiga, conta, e a mais moderna.
+
+[45] (P36.S0)
+Julgamento da antiga espada de lâmina única.
+
+[46] (P36.S1)
+CON: Eu gostava bem daquela espada antiga, à qual foi dada uma lâmina cega [6] de um lado, de modo que era mais forte e segura: você poderia empurrar a espada de lâmina única com a mão esquerda também, para desferir o golpe com mais firmeza, e se o inimigo a rebater em direção ao seu rosto, a fim de ofendê-lo, pelo menos não cortaria seu rosto; se dissermos, Rodomonte, que serve tanto para ofender quanto para defender, então pode realizar essas duas tarefas melhor se tiver essa forma.
+
+[47] (P37.S0)
+ROD: Você não sabe, conte, quão importante é a lâmina da espada, e se o inimigo então rebate sua espada em direção ao seu rosto, não é um defeito da espada, mas seu, por não conhecer a arte, ou por ter força demais em você; era de fato mais seguro, mas também menos capaz de ofender.
+
+[48] (P38.S0)
+Julgamento das antigas espadas com uma lâmina cega de um lado da metade adjacente ao punho.
+
+[49] (P38.S1)
+CON: Era possível fazer isso na forma de muitas espadas que eu vi, nas quais a lâmina cega se estende por todo o forte da espada, que é a metade adjacente ao punho, enquanto o debole dela, que é a metade adjacente à ponta, possui uma aresta falsa e uma verdadeira.
+
+[50] (P39.S0)
+Antiguidade da espada de duas lâminas, da empunhadura à ponta.
+
+[51] (P39.S1)
+VARA: Certamente era possível fazê-lo, mas o uso moderno redescobriu a maneira mais ofensiva de ter toda a extensão de ambos os lados com bordas afiadas; porque quando se chega à meia espada em combate, a falsa borda do forte da espada é bastante oportuna; pense nisso, conte: é muito moderno ter duas arestas da empunhadura até a ponta; eu diria que na época de Davi eram dessa forma.
+
+[52] (P39.S2)
+Ele diz nos Salmos estas palavras: “A altivez de Deus em suas bocas, e uma espada de dois gumes em suas mãos, para infligir vingança sobre as nações”; [7] e discuti com um amigo hebreu meu em Mântua, que elas são entendidas na língua hebraica como estão escritas, assim como eu disse.
+
+[53] (P40.S0)
+CON: Eu realmente vi que as espadas tiveram lâminas cegas por apenas poucos dias.
+
+[54] (P41.S0)
+VARA: Não faz muito tempo que aqueles daquele estilo estavam sendo usados na maior parte; além disso, a redescoberta desse tipo nestes tempos foi apenas recente; é da maneira que em nossos dias pouco conseguimos perceber da lâmina sem corte.
+
+[55] (P42.S0)
+CON: Será que os antigos usavam, talvez, empunhaduras com pegadas como as que usamos?
+
+[56] (P43.S0)
+Estilos antigos e modernos de uso das empunhaduras.
+
+[57] (P43.S1)
+VARA: Certamente os usaram, exceto que a isso se juntaram todos os adornos que você vê do pomo à cruz, e que oferecem uma defesa maravilhosa para a mão; algumas melhorias são constantemente descobertas pelos homens modernos.
+
+[58] (P44.S0)
+CON: Por que a espada é carregada do lado esquerdo?
+
+[59] (P45.S0)
+Por que a espada é carregada do lado esquerdo.
+
+[60] (P45.S1)
+VARA: Não sei em que outro lugar você poderia carregá-la de onde pudesse desembainhá-la com menos dificuldade, e em que estaria mais preparado caso precisasse.
+
+[61] (P45.S2)
+Não impede as mãos; nesse lugar você pode prontamente colocar sua mão direita para retirá-la; e, por fim, não encontro nenhum local mais conveniente, e cômodo, que o deixe livre e solto de todo o corpo, do que o lado esquerdo.
+
+[62] (P46.S0)
+CON: Eu entendi alguns dizerem que se carrega desse lado por respeito, pois o lado esquerdo, onde está o coração, é mais digno e tem maior necessidade de defesa.
+
+[63] (P47.S0)
+Posição do coração no corpo humano.
+
+[64] (P47.S1)
+ROD: Este não é um bom motivo, conte, na minha opinião.
+
+[65] (P47.S2)
+Primeiramente, eu vi na anatomia que o coração não repousa mais do lado esquerdo do que do lado direito, mas sim no centro do peito; é verdade que a ponta inclina-se um pouco para o lado esquerdo; mas se essa fosse a verdadeira razão, então as pessoas canhotas também o colocariam desse lado; mas essa defesa do lado esquerdo é a razão para carregá-lo desse lado?
+
+[66] (P47.S3)
+A verdadeira razão, acredito, é aquela que eu disse, conte, e as pessoas canhotas são uma indicação disso, que, para se acomodarem a puxá-lo de seu lado direito, elas o cingem à sua direita.
+
+[67] (P48.S0)
+CON: Eu realmente acredito que esta seja a verdadeira razão.
+
+[68] (P49.S0)
+VARA: Você estaria bem resolvido, meu conde, em passar este pequeno tempo em discussões de algum pequeno uso para nós.
+
+[69] (P50.S0)
+CON: Você fala a verdade; é melhor voltar às ações, pois mesmo que essas discussões sejam de fato úteis, elas podem ser realizadas em outros momentos; agora, empunhe sua espada de maneira elegante um pouco, por favor, Rodomonte.
+
+[70] (P51.S0)
+ROD: Aqui está; eu faço isso com muito prazer.
+
+[71] (P52.S0)
+Sobre o manejo elegante da espada.
+
+[72] (P52.S1)
+CON: Adorável!
+
+[73] (P52.S2)
+Mas como você consegue estabilizar a espada em sua mão após tanto tempo e tantas floreios?
+
+[74] (P53.S0)
+ROD: Não posso descrevê-lo para você, conte, mas abra bem os olhos e preste atenção diligente ao meu pulso, e, acima de tudo, à destreza da maneira de reposicioná-lo.
+
+[75] (P53.S1)
+Você vê como eu faço isso?
+
+[76] (P53.S2)
+Ações semelhantes devem ser demonstradas e aprendidas, mais e melhor na prova, e com o sentido da visão, do que com palavras; e quem quisesse expressá-las em palavras precisaria do que eu conheço bem -- todos os músculos da mão e dos dedos; e eu lhe direi que você precisa fazer tal e tal movimento, com este e aquele músculo, e relaxar a mão assim, e segurá-la assim; e ele serviria no papel de um bom médico e um professor de anatomia; porque outro não entenderia; faça um pouco desses seus dois mandritti tondi sucessivos, conte.
+
+[77] (P54.S0)
+CON: Aqui estão eles.
+
+[78] (P55.S0)
+Com o sentido da audição, pode-se reconhecer que um golpe é plano, embora de outra forma não seja possível reconhecê-lo.
+
+[79] (P55.S1)
+VARA: Pelo assobio da espada, ouço que elas foram aplanadas; se não forem boas, o ouvido é ágil em discernir pela velocidade do golpe; você não ouve a grande percussão e a grande reverberação que você faz no ar, levando uma grande abundância dele com a lâmina da espada?
+
+[80] (P55.S2)
+Você ouve um assobio um pouco menos alto, mas mais agudo, quando o faz com a verdadeira lâmina.
+
+[81] (P56.S0)
+CON: Você tem um grande julgamento, Rodomonte.
+
+[82] (P57.S0)
+VARA: É de alguma utilidade ter um pouco de letras junto com este nosso exercício.
+
+[83] (P58.S0)
+CON: Quantos golpes você faz?
+
+[84] (P59.S0)
+Três tipos de golpes: mandritto, rovescio e punta.
+
+[85] (P59.S1)
+ROD: Eu faço três deles: mandritto, rovescio e punta.
+
+[86] (P60.S0)
+CON: Não há um falso?
+
+[87] (P61.S0)
+ROD: Existe, e é chamado de “falso” apenas por ser de pouca importância.
+
+[88] (P62.S0)
+CON: Um pouco de todos os três, por favor, Rodomonte.
+
+[89] (P63.S0)
+VARA: Observe: este é um mandritto, este outro é um rovescio, e este é uma punta.
+
+[90] (P64.S0)
+CON: Onde você deixa os fendenti dritti e rovesci, o montante, o mandritto e rovescio sgualembrato, o falso manco e dritto?
+
+[91] (P64.S1)
+Onde você deixa a estocada e a imbrocatta?
+
+[92] (P64.S2)
+Você também não fez o mandritto tondo e o rovescio tondo.
+
+[93] (P65.S0)
+Qual é a verdadeira e a falsa lâmina.
+
+[94] (P65.S1)
+RODA: Você sabe bem o que é o fio verdadeiro e o fio falso, que tendo a espada de lâmina dupla ao seu lado, aquele fio que está mais voltado para o chão é chamado de fio verdadeiro, e aquele que está voltado para o seu corpo, em direção ao céu, é chamado de fio falso;
+
+[95] (P66.S0)
+Por que são chamados de fio verdadeiro e fio falso.
+
+[96] (P66.S1)
+e a razão é esta: que ao desferir um mandritto, ou um rovescio, a espada sempre cai naturalmente com aquele fio.
+
+[97] (P66.S2)
+Digo, portanto, que não há outros tipos de golpes além desses três mencionados, que não possam ser classificados como um deles; porque todos aqueles golpes que se iniciam do lado direito do corpo,
+
+[98] (P67.S0)
+Que são chamados de mandritti.
+
+[99] (P67.S1)
+tanto com a mão direita avançando quanto com a esquerda, todos devem ser chamados de mandritti, tendo sua origem do lado direito, seja de cima para baixo, ou de baixo para cima; e esses golpes têm seus finais do lado esquerdo.
+
+[100] (P67.S2)
+Veja, conte, que o tondo mandritto, assim como o sgualembrato, juntamente com o falso dritto, devem ser incluídos sob o nome de “dritto”;
+
+[101] (P68.S0)
+Que são rovesci.
+
+[102] (P68.S1)
+e todos aqueles golpes que se originam do lado esquerdo do corpo e terminam do lado direito, tanto de cima para baixo quanto de baixo para cima, devem ser chamados de “rovesci”.
+
+[103] (P68.S2)
+Sob o rovescio, portanto, são classificados o rovescio tondo, o sgualembrato e o falso manco; e é chamado de “rovescio” porque surge do canto oposto ao dritto.
+
+[104] (P69.S0)
+Parece que o fendente e o montante devem diferir do rovescio.
+
+[105] (P69.S1)
+CON: Onde você coloca os fendenti dritti e rovesci, e o montante?
+
+[106] (P70.S0)
+ROD: Eu não os diferencio de mandritti e rovesci.
+
+[107] (P71.S0)
+CON: Como não?
+
+[108] (P71.S1)
+Diga-me: os mandritti não começam do lado direito, e os rovesci do lado esquerdo?
+
+[109] (P71.S2)
+E o fendenti de cima para baixo com a verdadeira lâmina, ou alternativamente de baixo para cima?
+
+[110] (P72.S0)
+Três tipos de golpes derivam de três dimensões de quantidade contínua.
+
+[111] (P72.S1)
+ROD: Você afirma que eu não conheço esse argumento óbvio, conte, pois embora os fendenti desçam ou subam através de uma linha reta, parece possível denominá-los como sendo mais do lado direito do que do lado esquerdo; e além disso, há este argumento mais contundente: que existem três dimensões: altura, largura e profundidade; parece que os mandritti e rovesci terminam em largura; o golpe da ponta, e sua retirada, terminam em profundidade; é, portanto, justo que os fendenti, e aqueles que você chama de montanti, terminem em altura; e que, à medida que essas diferenças de posição variam, assim também esses golpes variam;
+
+[112] (P73.S0)
+Quanto à natureza, podem haver quatro tipos de golpes.
+
+[113] (P73.S1)
+Daí, meu conto, em relação à natureza, podem haver quatro tipos de golpes: mandritto, rovescio, fendente e punta; mas não estamos considerando golpes que não sejam os da espada usada na cintura; descobrimos, assim, apenas esses três.
+
+[114] (P74.S0)
+CON: Como?
+
+[115] (P75.S0)
+Existem apenas três tipos de golpes, considerando aqueles realizados com a espada na cintura.
+
+[116] (P75.S1)
+ROD: Eu vou explicar: se você encontrar sua espada na cintura, colocar a mão na espada ensina o mandritto, movendo sua mão da direita, localizada no punho da espada, em direção ao seu lado esquerdo; desembainhar a espada ensina o rovescio, puxando-a do lado esquerdo para o lado direito.
+
+[117] (P75.S2)
+Vendo que você tem fúria, faça com que a ponta de sua espada esteja direcionada ao peito ou ao rosto de seu inimigo; a partir disso, ao colocar a mão em sua espada, desembainhá-la e se posicionar contra seu inimigo, você obtém esses três golpes naturais; a partir daqui, você não pode, conte, derivar o fendente de cima para baixo, ou de baixo para cima.
+
+[118] (P76.S0)
+CON: Eu prefiro esse seu argumento, segundo o qual os fendenti formam naturalmente outro tipo maior e distinto.
+
+[119] (P77.S0)
+Quem quer que derive os tipos de golpes a partir das dimensões e extremidades destes, estabelece que há três ou seis em número.
+
+[120] (P77.S1)
+ROD: Retornando a esse argumento, haveria três tipos ou seis; porque se você considerar apenas as três dimensões, haveria três: dritto, fendente e punta; mas se você considerar os seis extremos das três dimensões do espaço, haveria seis: mandritto e rovescio, fendente descendente e fendente ascendente, e a estocada da punta e seu recuo.
+
+[121] (P78.S0)
+CON: Não, não, sigamos o caminho comum: você sabe o que eu quero de você, Rodomonte: que você me faça algo como uma árvore de todos esses golpes gerais e particulares, e que faça uma divisão ordenada deles.
+
+[122] (P79.S0)
+Divisão da família de golpes em tipos de acordo com suas diferenças.
+
+[123] (P79.S1)
+Estou feliz em fazer esta acolhedora tarefa para você; portanto, digo-lhe que a primeira família será o golpe.
+
+[124] (P79.S2)
+O golpe pode ser de dois tipos, seja o corte ou a estocada.
+
+[125] (P79.S3)
+O corte é feito com a verdadeira lâmina da espada ou com a lâmina falsa.
+
+[126] (P80.S0)
+Objeção quanto à possibilidade de haver apenas dois golpes principais: corte e estocada.
+
+[127] (P80.S1)
+CON: De acordo com esta profunda distinção sua, parece-me que esta primeira divisão dos três tipos, a saber, mandritto, rovescio e punta, não é conveniente; porque o mandritto e o rovescio são dois tipos primários derivados da lâmina reta; e o golpe, que você dividiu, contrasta com o corte, de modo que parece que existem apenas dois princípios: golpe e corte.
+
+[128] (P81.S0)
+Refutação da objeção.
+
+[129] (P81.S1)
+ROD: Esta é uma objeção muito bonita, à qual respondo que fiz aqueles três tipos (mandritto, rovescio e punta) os principais, fazendo tais divisões a partir da colocação da mão na espada (como lhe disse), e não de acordo com a natureza dos golpes, ou da espada, ou da localização, ou das dimensões.
+
+[130] (P84.S0)
+CON: Diga-me um pouco, qual desses três tipos de golpes seus ocupa o primeiro lugar?
+
+[131] (P85.S0)
+Classificação da nobreza entre os tipos de golpes.
+
+[132] (P85.S1)
+ROD: Acredito que o primeiro seria a punta, e depois disso o rovescio, e então o mandritto.
+
+[133] (P87.S0)
+CON: E eu sustento exatamente o oposto.
+
+[134] (P87.S1)
+Porque me parece que o mandritto é mais nobre, mais natural e mais apropriado, e depois disso seu oposto, o rovescio, e finalmente a punta; e por qual razão você atribui sua ordem?
+
+[135] (P88.S0)
+Louvor ao golpe da ponta e como ele se sobrepõe aos demais.
+
+[136] (P88.S1)
+VARA: Eu lhe direi; devemos afirmar sem falta que, entre os golpes ofensivos, aqueles que têm mais ofensividade são de maior perfeição, e a eles deve caber o primeiro lugar.
+
+[137] (P88.S2)
+E porque a estocada é a maior ofensa, e mais fatal, causando dano e prejuízo na profundidade do corpo (um lugar mais perigoso e menos apto a ser curado ou tratado), por isso dizemos que a ponta merece o primeiro lugar; sobre isso relata Vegetius que os romanos, ao treinarem seus jovens nas armas, queriam que eles golpeassem mais com a ponta do que com a lâmina, e assim fazendo, foram mais vezes vitoriosos; mas ao atacar com a lâmina, muitas vezes ficaram enganados na vitória; portanto, a ponta oferece ao inimigo um maior terror, uma vez que esse golpe é mais fatal, e também ofende mais facilmente, e requer menos força para ser desferido, do que para desferir um golpe com a lâmina.
+
+[138] (P89.S0)
+CON: Por que então você considera o rovescio mais digno do que o mandritto?
+
+[139] (P90.S0)
+Por que o rovescio é mais digno do que o mandritto.
+
+[140] (P90.S1)
+VARA: Pela mesma razão, por ser de maior ofensa; você vê, este mandritto que eu lhe entrego, ofende você em princípio, mas vai caindo a cada vez, e tomando menos distância do corpo.
+
+[141] (P90.S2)
+Eis que meu braço vai caindo agora; mas, peço a você, observe este rovescio um pouco, como, ao contrário, ele segue por um caminho completamente ascendente; você não vê como o braço e o ombro se alongam agora, elevando-se completamente, aumentando continuamente o golpe e causando um efeito maior?
+
+[142] (P91.S0)
+CON: Eu vejo isso.
+
+[143] (P92.S0)
+VARA: No mandritto, ao estender o braço direito, a espada vai caindo e retornando a você, cobrindo menos espaço para ofender seu adversário; mas o rovescio faz exatamente o oposto.
+
+[144] (P92.S1)
+Veja como ele avança continuamente, tomando maior distância e aumentando, como se prepara para o inimigo; se, portanto, o rovescio cobre maior terreno para ofender o inimigo do que o mandritto, e se o golpe que faz assim deve merecer precedência, então, racionalmente, o rovescio precederá o mandritto.
+
+[145] (P92.S2)
+Mas eu lhe dou outra razão: o rovescio começa do lado direito do inimigo, que é mais nobre; e esse golpe é mais ofensivo, pois atinge as partes mais nobres; portanto, o rovescio seria mais nobre.
+
+[146] (P93.S0)
+CON: Você não me disse que o coração de um homem está no meio e inclina-se para o lado esquerdo?
+
+[147] (P93.S1)
+Como então as feridas no lado esquerdo não são mais fatais do que no direito?
+
+[148] (P94.S0)
+ROD: Eu te disse que a ponta do coração está inclinada um pouco para o lado esquerdo, mas não atribuo agora a razão, dizendo que o lado direito é mais nobre e de maior vivacidade, e que essas ofensas o privam de vivacidade e vigor?
+
+[149] (P95.S0)
+CON: Eu entendo você, mas de fato concedo relutantemente que o rovescio deve ser colocado antes do mandritto, e ter maior valor; parece-me, ao contrário, que o mandritto deve ter precedido o rovescio, porque a natureza parece oferecê-lo.
+
+[150] (P96.S0)
+O mandritto é superior ao rovescio, naturalmente.
+
+[151] (P96.S1)
+ROD: Eu também sei bem que, naturalmente, o mandritto é superior e mais digno do que o sinistro; os filósofos provam isso, colocam o Oriente do Mundo, mais nobre que o Ocidente (sendo a parte direita), onde desejam, uma vez que as influências celestiais orientais têm mais força do que as ocidentais; dos animais também, os lados direitos são sempre mais vivos, vigorosos e nobres; mas no caso das armas, o rovescio (como eu te disse) aumenta mais, vai com maior vigor, oferece mais terror ao inimigo, ofende as partes mais nobres e, finalmente, é mais ofensivo.
+
+[152] (P97.S0)
+CON: Parece também que o mandritto vai primeiro descobrir o lado esquerdo do adversário, que é mais mortal, e o fere; e me parece também que é impulsionado com maior força do que o rovescio, seguindo um caminho mais natural e de acordo com o modo natural do braço, e são por muitas outras razões adicionais, Rodomonte, que não subscrevo assim tão prontamente a esta sua opinião.
+
+[153] (P98.S0)
+Distinção de que o mandritto pode ser mais, e menos nobre do que o rovescio.
+
+[154] (P98.S1)
+VARA: Para que isso lhe seja transmitido, conte, direi a você, fazendo outra distinção, que você pode considerar o golpe de duas maneiras: da perspectiva de quem o desferiu e da perspectiva de quem o recebe.
+
+[155] (P98.S2)
+Se você considerar do ponto de vista do agente, o mandritto procede de forma mais natural do lado direito, e por essa razão será mais nobre; se você considerá-lo do ponto de vista de quem o recebe, para ele ofenderá as partes mais mortais, e assim você pode chamá-lo de seu modo mais digno; mas não lidamos com essa dificuldade, e procedemos de outra forma, eu lhe peço; de fato, também lhe darei esta razão, que eu não havia lembrado anteriormente: o rovescio, mais do que o mandritto ofensivo, ofende o inimigo no lado direito, pelo que ajuda e defende um, e por essa razão: acontece que o mandritto ofende as partes mais mortais e mais fracas; pode-se dizer que é mais ofensivo; diga-me, se com um rovescio você severa o braço direito do seu inimigo, então que defesa seria essa?
+
+[156] (P99.S0)
+CON: Não quero mais discordar de você, Rodomonte; de fato, você molda seu schermo com pleno valor e arte.
+
+[157] (P100.S0)
+VARA: Abra bem os seus ouvidos e observe como eu faço: coloque-se, conte, na guarda que desejar.
+
+[158] (P101.S0)
+CON: Veja, eu me coloco na cinghiara porta de ferro.
+
+[159] (P102.S0)
+Apenas sete guardas são necessários para esta proposição.
+
+[160] (P102.S1)
+ROD: Oh, pela sua fé, conte, não me dê esses nomes bizarros de guardas seus, por favor, abandone chamar-lhes de suas codificações lunghe distese, seus falconi, porte de ferro larghe, o strette, e tais fantasias estranhas, porque assim como fazemos três tipos principais de golpes, assim descobrimos apenas três principais guardas ofensivas, e três defensivas, e uma geral.
+
+[161] (P103.S0)
+CON: E como eles são chamados?
+
+[162] (P104.S0)
+Nomes novos impostos sobre os sete guardas.
+
+[163] (P104.S1)
+ROD: A primeira é chamada de “guarda defensiva, imperfeita”; a segunda, “guarda alta, perfeita, ofensiva”; a terceira, “guarda alta, imperfeita, ofensiva”; a quarta, “guarda larga, imperfeita, defensiva”; a quinta, “guarda estreita, perfeita, defensiva”; a sexta, “guarda larga, imperfeita, ofensiva”; a sétima, “guarda estreita, ofensiva, perfeita”.
+
+[164] (P105.S0)
+CON: Eu não te entendo, parece-me que você usa alguns termos e alguns nomes que são tão estranhos, que não acredito que sejam da arte.
+
+[165] (P106.S0)
+ROD: Isso também eu sabia, conte, mas não lhe disse que, para o combate entre homem e homem, esta, minha nova imaginação, e este, meu schermo, seriam suficientes para ofender o inimigo, assim como para se defender dele?
+
+[166] (P107.S0)
+CON: Você certamente disse isso, mas será necessário, Rodomonte, já que você altera os nomes utilizados por tantos Mestres de Armas, primeiro começar a ensinar o significado dos termos.
+
+[167] (P107.S1)
+O que você quer dizer com "guarda"?
+
+[168] (P107.S2)
+Você quer talvez significar aquilo que é significado por outros?
+
+[169] (P108.S0)
+O que pode ser uma guarda.
+
+[170] (P108.S1)
+ROD: Saiba bem que, permanecendo calmo e estabelecido de alguma forma com armas, seja para ofender ou defender, essa posição, e essa postura, e essa composição do corpo nessa aparência, nessa forma, eu chamo de “guarda”.
+
+[171] (P109.S0)
+CON: Você não pode se posicionar com o pé direito e com o lado direito avançado, mais exposto ao inimigo, e assim com o pé esquerdo e com o lado esquerdo?
+
+[172] (P109.S1)
+E você não pode formar todas aquelas guardas nomeadas por nossos Mestres, e pela escola comum, e “guardia da entrare”, e “guardia di testa”, e “guardia stretta”, e “guardia larga”, e “becca cesa”, e todas as outras?
+
+[173] (P110.S0)
+Pode haver quase uma infinidade de guardas.
+
+[174] (P110.S1)
+VARA: Eu posso; na verdade, há uma infinidade de guardas, conte, assim como pode haver uma infinidade de assentamentos e posições; e é verdade que a cada incremento de espaço que você move a espada de cima para baixo, ou de baixo para cima, da frente para trás, e o contrário, e do lado direito para o lado esquerdo, e o contrário, e a cada pequeno movimento que você faz com o pé de um lugar para outro, e, em suma, cada movimento infinitesimal forma diversas guardas, cujos movimentos são incontáveis e sem fim.
+
+[175] (P110.S2)
+Esses Mestres, na verdade, atribuíram nomes aos mais necessários a fim de ter uma maneira de poder ensinar a seus discípulos com mais facilidade, e tendo tomado tais nomes de alguma semelhança ou efeito, de onde quem bem considerou as semelhanças dos animais talvez tenha podido dizer de forma mais apropriada “guarda do Unicórnio”, “guarda do Leão” e outros semelhantes; mas eu, que não sou um Mestre de uma escola, a você, que agora não é meu discípulo, não pretendo fazer entender hoje todos os nossos exercícios inteiramente para prática, mas selecionarei apenas um schermo (como disse) com o qual, ao entrar em combate com seu inimigo, ou sendo atacado por ele, ou atacando-o, você pode perfeitamente e de forma preparada desferir-lhe feridas mortais e fazer uma defesa mais segura contra as dele;
+
+[176] (P111.S0)
+CON: Pelo menos me diga agora o que é vantagem e o que é tempo.
+
+[177] (P112.S0)
+ROD: Você deve saber, conte, que a vantagem agora pode ser considerada em se estabelecer na guarda, no golpe e no passo.
+
+[178] (P112.S1)
+Assim, pode-se dizer que você se coloca em guarda com vantagem quando a ponta da espada do seu inimigo está fora do seu corpo e não direcionada a você, e quando a ponta da sua espada está apontada para o corpo do seu inimigo a fim de ofendê-lo, de modo que você possa, dessa forma, ofendê-lo facilmente, e será difícil para ele se defender de você; consequentemente, você poderá atingi-lo em pouco tempo, e para se defender, ele precisará de mais tempo; e inversamente, ele encontrará dificuldade em ofendê-lo, e você poderá facilmente se defender dele pela mesma razão, ele precisando de muito, e você de pouco tempo.
+
+[179] (P113.S0)
+CON: Isso (acredito eu) poderia ser feito muito bem, se o inimigo não estivesse determinado a este exercício.
+
+[180] (P113.S1)
+Mas se ele astutamente não me permitisse posicionar-me em guarda com vantagem, o que eu deveria fazer?
+
+[181] (P114.S0)
+Aconselha-se que, caso o inimigo não permita que se coloque em guarda com vantagem.
+
+[182] (P114.S1)
+VARA: Eu gostaria que você avançasse, saltando diagonalmente em sua direção, e o cansando continuamente, ora com um mezo mandritto, ora com um mezo rovescio, e frequentemente com uma variedade de fintas, tendo sempre o cuidado de manter seu corpo afastado da ponta de sua espada, pois ele poderia facilmente lhe dar o tempo e a ocasião de aproveitar a vantagem de se colocar em guarda.
+
+[183] (P115.S0)
+CON: E se ele me cansasse com feints e golpes parciais semelhantes, o que eu teria que fazer?
+
+[184] (P116.S0)
+Aquilo que deve ser feito se o inimigo cansar um com fintas e golpes incompletos.
+
+[185] (P116.S1)
+VARA: Você teria que recuar um ou dois passos; como resultado, ele não poderia atingi-lo, não conseguindo assim alcançá-lo, e você teria que dar um passo de modo que a mente do adversário fosse atraída pela proposta de que ele poderia conseguir atingi-lo, e da maneira como isso fosse determinado; porque em todos os momentos, a variação do seu corpo com o passo também causa uma mudança no pensamento e no plano.
+
+[186] (P116.S2)
+Mas sempre permaneça atento ao pisar para aproveitar a oportunidade de se colocar em guarda com a vantagem da espada.
+
+[187] (P117.S0)
+CON: Qual, então, é a vantagem no golpe?
+
+[188] (P118.S0)
+O que seria vantajoso no golpe a partir de sua perspectiva.
+
+[189] (P118.S1)
+VARA: Tenha em mente que nunca deve tentar golpear a menos que, ao desferir o golpe, você possa alcançar o inimigo com um meio passo, ou no máximo um passo.
+
+[190] (P119.S0)
+CON: E por que isso?
+
+[191] (P119.S1)
+Posso ainda tentar, embora eu possa alcançá-lo em dois passos?
+
+[192] (P119.S2)
+Parece-me que ainda fere, que não deve perder tempo.
+
+[193] (P120.S0)
+Quando se ataca, não se deve considerar o próprio ponto, mas sim o do inimigo.
+
+[194] (P120.S1)
+VARA: Se você sempre deseja tentar desferir golpes quando ainda não consegue alcançar seu inimigo sem dar mais passos, então você gastará muito tempo tentando desferi-los, e dará muito desse tempo ao inimigo para poder evitar seu golpe e, simultaneamente, atingi-lo, porque você se desconcertará excessivamente ao precisar se mover daquela distância entre vocês.
+
+[195] (P120.S2)
+Mas quando você puder se aproximar com um passo, e com meio passo, você não se desorientará, e você atacará rapidamente, sem dar ao inimigo tempo para se proteger.
+
+[196] (P120.S3)
+Então você deve prestar atenção que, ao atacar, não deve olhar para a ponta de sua própria espada, mas sim para a do seu inimigo.
+
+[197] (P121.S0)
+CON: Parece-me que, se eu quero atingir, é necessário que eu olhe para o lugar onde o inimigo está exposto, caso contrário, eu desferiria o golpe sem causar-lhe dano algum, e que, se eu devo olhar para onde devo empurrar a ponta da minha espada, é necessário que eu a considere da mesma forma.
+
+[198] (P122.S0)
+Vantagem no golpe a partir da perspectiva do inimigo.
+
+[199] (P122.S1)
+VARA: É de fato necessário olhar para onde o inimigo está exposto, pois é lá que o golpe deve ser desferido; mas é preciso desferir o golpe sem olhar para a própria espada; e com a rapidez de olhar necessária a um bom guerreiro, pode-se ao mesmo tempo ver o lugar onde o inimigo está exposto e observar a ponta da espada do inimigo.
+
+[200] (P122.S2)
+Saiba bem, então, que um dano maior pode lhe ocorrer por ser ofendido do que o que facilmente pode lhe ocorrer por estar no ataque, e portanto é necessário prestar atenção à espada do seu inimigo para poder se defender, reservando-se para um momento melhor para ofendê-lo.
+
+[201] (P122.S3)
+Portanto, conte, da sua perspectiva você tem a vantagem no golpe quando pode atingir em um passo, ou metade de um; e da perspectiva do seu inimigo, quando ele tentaria algum golpe sem conseguir alcançá-lo, ou conseguindo alcançá-lo em mais passos, porque ele, ao tentar seu golpe de maneira desconcertante, ou na elevação de sua espada, lhe dará tempo para atingi-lo, e de maneira semelhante, quando ele, não tendo considerado a ponta de sua espada, lhe dará ocasião para ofendê-lo.
+
+[202] (P123.S0)
+CON: Isso me parece verdadeiro; porque ele não pode me ferir antes que sua espada se conecte com meu corpo, e que se minha espada atingir seu corpo antes, então ele será ferido antes.
+
+[203] (P123.S1)
+Mas então, dado que você me disse que a vantagem pode estar em se colocar em guarda e em atacar, diga-me também o que pode haver em dar um passo.
+
+[204] (P124.S0)
+Vantagem no passo a partir da perspectiva do inimigo.
+
+[205] (P124.S1)
+VARA: Brevemente digo que quando o inimigo, ao dar um passo, levanta o pé esquerdo para se mover, ele fica um pouco desconfortável, e então você pode atingi-lo com facilidade, e novamente mudar de guarda sem medo, porque ele está concentrado no outro; e isso é da perspectiva do inimigo.
+
+[206] (P125.S0)
+Qual é a maior vantagem: ir ao encontro do inimigo ou esperar por ele?
+
+[207] (P125.S1)
+CON: Diga-me, Rodomonte, dê-me um conselho, como devo proceder quando quero fechar a distância com meu inimigo; qual é a maior vantagem: ir ao seu encontro ou esperar por ele?
+
+[208] (P126.S0)
+A RESPOSTA: Toda a resposta a esta questão se resume a você estar em vantagem e o inimigo em desvantagem, pois se você entrar em tempo, de modo que esteja em desvantagem em relação à espada, e seu inimigo estiver em vantagem de guarda, sua ação seria indubitavelmente pior; mas se fosse o contrário, certamente seria melhor.
+
+[209] (P127.S0)
+CON: Não duvido disso, mas quero aprender quando um e outro eram vantajosos, e qual seria a situação se tudo mais fosse igual.
+
+[210] (P128.S0)
+VARA: Nunca se atinge com segurança se não for durante a desvantagem do inimigo; portanto, parece impossível afirmar que ambos possam ter a vantagem e estar em condições iguais.
+
+[211] (P128.S1)
+De fato, porque você não pergunta sobre desferir um golpe, mas sobre ir ao encontro do inimigo, eu diria que é melhor esperar; porque aquele que avança se desconforta, e o movimento de seu corpo muitas vezes também move o espírito; e quem permanece firme não sofre desconforto, nem pela mudança de corpo nem de espírito; assim, parece que quando ambos poderiam ter vantagem, a menor vantagem sempre seria para aquele que vai ao encontro de seu inimigo; e que quando ambos poderiam estar em desvantagem, a menor desvantagem sempre seria para aquele que espera pelo adversário, e muito mais se aquele que espera sabe se manter em guarda.
+
+[212] (P129.S0)
+Qual é melhor, ser o primeiro a atacar ou esperar que o inimigo ataque?
+
+[213] (P129.S1)
+CON: Se isso é verdade, ao falar de ir ao encontro do inimigo, o que você diz sobre atacar?
+
+[214] (P129.S2)
+É melhor esperar que o inimigo ataque, ou que ele seja o primeiro a desferir um golpe?
+
+[215] (P130.S0)
+ROD: É melhor esperar que o inimigo ataque.
+
+[216] (P131.S0)
+CON: Parece-me que é exatamente o oposto; porque quando eu sou o primeiro a atacar, isso obriga o inimigo a se defender, e enquanto ele se concentra em sua defesa, não pode dedicar atenção a me ofender.
+
+[217] (P132.S0)
+ROD: Esta sua razão seria válida se, enquanto se defendia, não se pudesse ainda ofender; mas tal se revela falso em muitas defesas, que também são capazes de ofensas, entre as quais podemos colocar nosso schermo, que é uma única parry, um único golpe e um único tempo.
+
+[218] (P133.S0)
+CON: Por que você me diz isso, que é melhor esperar, que o inimigo seja o primeiro a atacar?
+
+[219] (P134.S0)
+VARA: Porque aquele que ataca primeiro, se expõe primeiro, e ao se expor, não pode ao mesmo tempo se proteger; portanto, quando seu adversário se expõe, você pode aproveitar a oportunidade para atingi-lo; e se você for astuto, pode também, dando um passo diagonal, atingir o inimigo ao mesmo tempo.
+
+[220] (P134.S1)
+Além disso, se você se expõe muito, é melhor fazê-lo na guarda do que ao desferir um golpe; porque na guarda você pode se recuperar com mais facilidade, mas quando você lança um golpe, está totalmente concentrado em acertar.
+
+[221] (P134.S2)
+E então, se você considerar bem, enquanto o adversário ataca, é claro que ele levanta um pouco ou abaixa um pouco sua espada, momento em que muitas vezes ele afasta sua espada de sua presença e, consequentemente, fica em desvantagem; por essa razão, pode-se dizer que é vantajoso esperar que o inimigo seja o primeiro a desferir um golpe.
+
+[222] (P135.S0)
+CON: Estou muito satisfeito com o que você me disse sobre onde pode estar a vantagem em se colocar em guarda enquanto ataca e avança; agora desejo saber o que é o tempo e o que nos é significado ao dizer um “tempo” e um “meio tempo”.
+
+[223] (P136.S0)
+VARA: É uma grande controvérsia entre os filósofos, ao considerar a natureza do tempo, e é difícil de compreender, sendo melhor indagar sobre isso a Bocadiferro, agora que chegamos a este ponto.
+
+[224] (P137.S0)
+CON: O Dottore, o que você entende por tempo e o que é?
+
+[225] (P138.S0)
+Definição pelos filósofos de “tempo” e sua manifestação.
+
+[226] (P138.S1)
+BOC: Será difícil compreendê-lo, Senhor conde; os filósofos dizem que o tempo é medido em movimento e em repouso, de acordo com o anterior e o posterior; e mais inteligentemente, eu lhe digo que um corpo que se move, move-se de um lugar para viajar a outro; o lugar de onde parte é um extremo dessa jornada, e o movimento é o outro extremo; agora divida essa jornada e esse caminho em duas partes iguais pelo meio; a primeira metade em direção ao extremo de onde parte é chamada de primeira parte; a outra metade é chamada de parte final; essa consideração da primeira e da segunda parte (isto é, anterior e posterior) no discurso de nosso espírito, os filósofos chamam de “tempo”, onde a numeração das partes do movimento sucessivo é tempo.
+
+[227] (P141.S0)
+CON: Por qual razão não é reconhecido durante o sono?
+
+[228] (P144.S0)
+Por que durante o sono o tempo não é reconhecido.
+
+[229] (P144.S1)
+BOC: Porque quando os sentidos externos estão atados (o sono não sendo nada além de uma atadura de todos os sentidos externos) não compreendemos o movimento, e, consequentemente, o tempo não é reconhecido, o que é uma ocasião inseparável do movimento, ou para dizer de maneira melhor, é o mesmo movimento segundo outras considerações; ao alcançar o primeiro instante, o primeiro começo do tempo do sono, até o último instante, o sono termina, não sendo possível entender o tempo mezo.
+
+[230] (P147.S0)
+Declaração cavalheiresca sobre o que é o tempo nos golpes.
+
+[231] (P147.S1)
+ROD: Vejo que o conde não compreende bem; e, portanto, para que ele possa entender, falando cavalheirescamente: veja, conde, os filósofos provaram que antes de um corpo mover-se por si mesmo, ele permanecerá em repouso, e ao cessar seu movimento, novamente permanecerá em repouso; de modo que um movimento (desde que seja único) estará situado entre dois repousos.
+
+[232] (P148.S0)
+BOC: Na Sétima e Oitava Física, Aristóteles provou isso; Rodomonte fala a verdade.
+
+[233] (P151.S0)
+ROD: Ouvi dizer por médicos que o movimento do pulso também reside no meio de dois descansos; não é assim, Dottore?
+
+[234] (P152.S0)
+BOC: Assim prova Galeno, e afirma ter suportado grande trabalho por um longo tempo para discernir pelo toque o movimento do pulso quando ele se eleva e se abaixa, e se divide em sístole e diástole, isto é, em elevação e depressão.
+
+[235] (P153.S0)
+Entre dois golpes há uma guarda, e entre duas guardas, um golpe.
+
+[236] (P153.S1)
+ROD: Muito bem, basta que cada movimento que é único e contínuo esteja entre o repouso anterior e o subsequente; veja, então, conte: antes de desferir um mandritto, um rovescio ou uma punta, você está em alguma guarda; tendo terminado o golpe, você se encontra em outra guarda; esse movimento de desferir o golpe é um tempo, porque esse golpe é um movimento contínuo; assim, o tempo que o acompanha é um único tempo; quando você repousa na guarda, tendo terminado esse movimento, você se encontra mais uma vez em repouso; é, portanto, um tempo, um movimento, que em vez de chamarmos de “movimento”, chamamos de “tempo”, porque um não abandona o outro; e a guarda é o repouso e a tranquilidade em algum lugar e forma.
+
+[237] (P153.S2)
+Em conclusão, é tanto dizer “tempo” e “guarda”, quanto dizer “movimento” e “repouso”.
+
+[238] (P153.S3)
+Portanto, é necessariamente assim que, entre dois movimentos, sempre há um repouso, e entre dois repousos intercede um movimento; aparentemente, entre dois golpes desferidos, ou dois tempos, ou dois movimentos, encontra-se uma guarda.
+
+[239] (P153.S4)
+E entre duas guardas, ou descansos (como você quiser dizer), são interpostos alguns golpes e tempos.
+
+[240] (P155.S0)
+Um golpe dá origem a uma guarda, e uma guarda a um golpe.
+
+[241] (P155.S1)
+CON: Acredito que agora entendo, quando você me diz que entre dois golpes se encontra uma guarda, e entre duas guardas um golpe; de onde talvez derive aquilo que você diz, que cada golpe dá origem a uma guarda, e que cada guarda dá origem a um golpe.
+
+[242] (P156.S0)
+De uma guarda particular é gerado convenientemente um golpe particular, e não outro.
+
+[243] (P156.S1)
+VARA: Assim é, mais ou menos dizendo que após cada golpe se encontra em alguma guarda, e que após a guarda, o golpe a sucede.
+
+[244] (P156.S2)
+E assim como o resto de um movimento particular é diferente do resto de outro movimento variável (uma vez que estas são as disposições naturais que eles desejam), assim uma guarda é apta a gerar um golpe particular de maneira conveniente e não outro; o que farei você ver melhor, começando nosso schermo.
+
+[245] (P160.S0)
+CON: Quando penso sobre o que você me disse agora há pouco, encontro um exemplo claro nos alemães, que, ao se envolverem em uma briga armada, desferem um golpe por homem, e ao desferir o golpe, param em guarda para esperar que seu companheiro desferisse o dele, e retêm o seu, e então redobram; eis aqui as duas paradas com um movimento no meio.
+
+[246] (P164.S0)
+ROD: Este é um exemplo bastante apropriado; mas damos o lugar principal ao meu schermo, começando pela primeira guarda.
+
+[247] (P165.S0)
+BOC: E eu me silenciarei, e te observarei, reservando para mim, no entanto, a liberdade de poder te perguntar, de tempos em tempos, algo que desejo saber.
+
+[248] (P166.S0)
+CON: Isso é bem fundamentado, e também contaremos com você para isso (já que você sabe mais do que nós) quando tais ocasiões ocorrerem.
+
+[249] (P166.S1)
+Mas fale da primeira guarda, Rodomonte.
+
+[250] (P167.S0)
+A primeira guarda, chamada “defensiva imperfeita”, deriva do fato de ter a espada cingida na cintura.
+
+[251] (P167.S1)
+ROD: Supõe-se que o porte da espada na cintura é para defesa, e como uma guarda do homem, e a natureza convida o homem a carregá-la para sua proteção; o porte da espada assim atada ao quadril esquerdo, e repousando firmemente dessa forma e naquele lugar, será a primeira guarda, chamada por nós de “guardia difensiva, imperfetta”.
+
+[252] (P168.S0)
+CON: Você vê se eu também o faço?
+
+[253] (P168.S1)
+Veja, eu desembainho minha espada, e aqui está o rovescio; estou de pé com meu lado direito e com meu pé direito avançado em sua direção.
+
+[254] (P169.S0)
+Como se deve segurar a mão durante o desembainhar da espada, e como o corpo deve ser movido para executar o rovescio ascendente.
+
+[255] (P169.S1)
+ROD: Sim, mas você faz isso mesmo assim, não sei por quê, virando seu pulso ao puxá-lo para fora, o que não me agrada; mantenha seu pulso de tal forma enquanto o puxa para fora que você não faça uma virada; e faça de modo que sua mão suba alta e para trás do seu lado direito, de modo que a ponta da sua espada esteja apontada para o meu peito, e um pouco para baixo em direção ao chão, e pare ali, com a verdadeira lâmina da espada voltada para o céu, e a falsa voltada para o chão, tomando cuidado no mesmo tempo em que o rovescio se move, para que você faça com seu corpo uma pequena virada de tal maneira que seu ombro esquerdo esteja um pouco mais à frente do que o direito, e que seu braço esquerdo siga o direito pelo lado da frente, de modo que fique voltado para o lado direito; e faça também uma leve virada da sua perna esquerda na ponta do pé durante o puxar, e o calcanhar deve estar um pouco levantado do chão; e juntamente com isso, mantenha sua perna direita estendida, com o corpo um pouco ereto: você vê como eu faço?
+
+[256] (P170.S0)
+CON: Estou observando, mas não consigo posicionar bem esta perna direita em relação ao corpo, e se eu levantar o calcanhar do meu pé esquerdo, não consigo me apoiar bem nele, nem manter minha perna direita estendida e um pouco elevada.
+
+[257] (P171.S0)
+ROD: Eu não saberia como fazê-lo de outra forma; parece que a natureza forma tal figura ao te encontrares naquele lugar com o lado direito à frente, e querendo lançar esse rovescio bem alto, tanto quanto for possível, sem pivotar ou girar a mão; mas faça isso várias vezes, prestando atenção a todos os detalhes dos quais te falei.
+
+[258] (P172.S0)
+CON: Olhe.
+
+[259] (P173.S0)
+ROD: Levante um pouco o calcanhar do seu pé esquerdo e estenda a sua perna direita.
+
+[260] (P174.S0)
+CON: Assim?
+
+[261] (P175.S0)
+Segunda guarda, chamada “alta, ofensiva, perfeita”.
+
+[262] (P175.S1)
+ROD: Exatamente; esta é a nossa segunda guarda, chamada “guarda alta, ofensiva, perfeita”.
+
+[263] (P176.S0)
+CON: Eu o fixaria melhor na minha memória, se eu entendesse a base dessas suas guardas “alte”, “strette” e “larghe”.
+
+[264] (P177.S0)
+Por que a segunda guarda é chamada de “ofensiva” e “perfeita”.
+
+[265] (P177.S1)
+ROD: Faremos todos eles em breve, e então você entenderá melhor a regra.
+
+[266] (P177.S2)
+Esta guarda alta é, portanto, ofensiva, com a espada do lado direito.
+
+[267] (P178.S0)
+CON: Por que é chamado de “perfetta”?
+
+[268] (P179.S0)
+ROD: Porque a ponta da espada expõe mais o inimigo e se direciona mais para ele nesta forma do que em alguma outra em que se pode estar; esta guardia alta, ofensiva, perfetta nasce do rovescio, o qual você tem no ato de desembainhar a espada.
+
+[269] (P180.S0)
+BOC: E se naquele momento, Rodomonte, em que você desembainha sua espada, e em que o rovescio vai de baixo para cima, o conte fosse desferir algum golpe para ferir sua cabeça ou parte superior do corpo, o que você faria?
+
+[270] (P181.S0)
+COM A MESMA ROESCIO, eu desviaria o golpe de sua espada em direção ao ar e para o meu lado direito, e então, estabelecendo-me na dita guardia alta, perfetta, et offensiva, eu cravaria a ponta preparada em seu peito.
+
+[271] (P182.S0)
+BOC: Se você fosse rápido, e ele lento.
+
+[272] (P183.S0)
+VARA: Se alguém tem entendimento, então não há necessidade de que já esteja adormecido.
+
+[273] (P184.S0)
+BOC: Faça um pouco, conte.
+
+[274] (P189.S0)
+CON: Olhe.
+
+[275] (P190.S0)
+O que deve ser feito ao entrar em combate com o inimigo, seja à queima-roupa ou à distância.
+
+[276] (P190.S1)
+VARA: E eis a resposta, e quando você se encontrar em combate corpo a corpo com seu inimigo, esta é a defesa e ofensa mais curta que você pode realizar; pois, tendo terminado de desembainhar sua espada, você a direciona para o inimigo, e não de outra forma, a fim de ofendê-lo e se defender.
+
+[277] (P191.S0)
+CON: E se eu estiver a uma distância do meu inimigo, então o que devo fazer?
+
+[278] (P192.S0)
+VARA: O mesmo: novamente, coloque-se nesta alta guardia ofensiva perfetta, e aqui você lhe dará a entender que pretende cravar a ponta de sua espada em seus olhos.
+
+[279] (P193.S0)
+CON: Não é melhor mirá-lo de forma a empurrar a espada em seu peito?
+
+[280] (P194.S0)
+É melhor apresentar a ponta da espada aos olhos do inimigo do que em outro lugar.
+
+[281] (P194.S1)
+VARA: Não, Senhor, porque se você elevar a ponta sopramano de modo que aponte para os olhos dele, na extensão seu braço desce e cai em seu peito; mas se você apontar para o peito dele, ela descerá até sua coxa, e sem pretender atingi-lo nos olhos, com isso você lhe causaria mais terror (os olhos sendo as partes mais nobres do corpo) e o faria perder mais o ânimo.
+
+[282] (P195.S0)
+BOC: Você fala a verdade, Rodomonte; alguns daqueles que estão armados com a armadura completa de justas, quando o oponente abaixa sua lança, olhando para o visor de seu elmo a fim de ofendê-lo, eu vi que eles costumam ter um pequeno capacete pendurado por uma fita, bem à frente do rosto, para evitar o ponto do inimigo por medo de seus olhos.
+
+[283] (P195.S1)
+E há aqueles que fecham os olhos por medo, e estes nunca desferem golpes dignos, exceto por sorte.
+
+[284] (P195.S2)
+Agora, se esses homens armados têm tanto medo da ponta encontrando seus olhos, como então ficará um desarmado, vendo a própria ponta de uma espada direcionada diretamente para seus olhos?
+
+[285] (P196.S0)
+VARA: Um argumento dos mais excelentes, do menor ao maior.
+
+[286] (P197.S0)
+CON: E se, encontrando-me a uma distância do inimigo, eu fizesse um sinal de que desejava ofender sua cabeça com algum golpe de cima para baixo usando a lâmina, e não a ponta?
+
+[287] (P198.S0)
+VARA: Você induziria menos terror assim; porque seu braço esquerdo mantém o cuidado e a proteção da cabeça ao receber o golpe com a mão, ou ao restringir sua força com o braço; assim, a ponta é sempre mais perfeita e ofensiva do que a lâmina.
+
+[288] (P199.S0)
+CON: Assim, utilizamos apenas o golpe da ponta à moda romana, e não da lâmina, tanto em curta distância quanto em longa.
+
+[289] (P200.S0)
+Aviso de que se deve golpear com a ponta nas partes mais nobres.
+
+[290] (P200.S1)
+VARA: E vemos também que a empurramos na profundidade das partes mais nobres, onde as feridas são mais cruéis e mortais.
+
+[291] (P203.S0)
+Louvor ao Mais Ilustre Senhor Duque Hércole IV de Ferrara.
+
+[292] (P203.S1)
+CON: Muito bem, então esta é a sua segunda guarda; eu a compreendi, e se eu a praticar, farei bem antes que muito tempo passe.
+
+[293] (P203.S2)
+Ouvi dizer que esta guarda é muito apreciada pelo Senhor Duque Hércole Quarto de Ferrara, que, além de suas muitas outras virtudes, é extremamente encantado pela arte militar e pela espada descomposta.
+
+[294] (P204.S0)
+VARA: Isso é bastante razoável, pois como esta guarda é a mais rápida para ofender, é adequada a um cavaleiro mais ágil e desejoso de atingir seu inimigo, como se viu que o Senhor Duque estava no torneio e nos combates públicos quando estava em exercício; assim, ele sempre cumpriu bem a manutenção da paz para seu povo.
+
+[295] (P205.S0)
+CON: Sempre o ouvi celebrado como tal, e infinitamente elogiado, e ouço que na escrita ele é grandemente aclamado também.
+
+[296] (P206.S0)
+ROD: Certamente aclamado, e não é de se admirar, pois ele está entre os príncipes mais ideais e sábios que esta era possui.
+
+[297] (P207.S0)
+CON: Agora ensine-me o terceiro.
+
+[298] (P208.S0)
+Terceira guarda, chamada “guarda alta ofensiva imperfeita”.
+
+[299] (P208.S1)
+VARA: Voluntariamente; faça o rovescio de baixo para cima ao desenhar sua espada, de modo que ela suba tanto que a ponta da espada olhe para o céu, e que seu pulso faça uma meia volta, de tal maneira que o fio verdadeiro fique voltado para cima, em direção ao céu, e o fio falso, juntamente com a ponta da sua espada, fique voltado para o lado direito do seu corpo, sobre seu ombro direito, e a empunhadura da sua espada fique voltada para mim, realizando todas essas rotações do corpo, da mão e dos pés, das quais eu lhe ensinei na outra guarda.
+
+[300] (P208.S2)
+Esta será nossa terceira guarda, chamada “guarda alta, ofensiva, imperfeita”.
+
+[301] (P209.S0)
+Por que a terceira guarda é chamada de “imperfeita” e “ofensiva”.
+
+[302] (P209.S1)
+VARA: Porque não dá origem a uma estocada, mas apenas a um corte, e, portanto, é de menor ofensa, e eu a evitarei mais facilmente.
+
+[303] (P210.S0)
+CON: “ofensiva”, porque se origina do lado direito, correto?
+
+[304] (P211.S0)
+ROD: Sim, Senhor, e "imperfeita", pois tal golpe ofende de maneira imperfeita, como já disse, e também porque, ao querer desferir um golpe de cima para baixo, o seu lado direito ficaria descoberto aos meus olhos, e assim você poderia ser atingido no corpo por este estocada; e eu poderia me encontrar com minha espada avançada e poderia facilmente me defender.
+
+[305] (P213.S0)
+BOC: E então, embora aconteça que o golpe caia de alto para baixo com um grande ímpeto, nem sempre mata, pois os ossos do crânio são extremamente fortes e dobrados em alguns lugares; além disso, se você atingir algum outro local, como o ombro, há outros ossos muito duros; e às vezes eles estão armados com boas armaduras de defesa, que abatem a fúria do corte, mas não a da estocada.
+
+[306] (P214.S0)
+ROD: Este é um argumento bom e natural.
+
+[307] (P215.S0)
+CON: Até este ponto temos a terceira guarda, chamada “alta ofensiva, imperfeita”; agora vamos à quarta.
+
+[308] (P216.S0)
+Como se deve reposicionar e mover o corpo para executar a quarta guarda.
+
+[309] (P216.S1)
+VARA: Redefina-se na guarda alta ofensiva, perfeita, e fixe todo o seu peso firmemente no seu pé esquerdo, corpo elevado, de modo que o direito possa ser mais ágil, e igualmente toda a sua perna direita, para que possa avançar e vir em minha direção.
+
+[310] (P222.S0)
+ROD: Excelente; agora fixe-se nessa pose, e dê um grande passo, e faça com que seu ombro direito impulsione seu braço o mais para frente que puder, e com sua mão de espada direcione a ponta em direção ao meu peito sem fazer qualquer movimento da mão, até que ela avance o máximo que puder, e então, vire ali a verdadeira lâmina da espada em direção ao lado esquerdo, e a partir daqui você desce finalmente ao chão, sendo necessário que você faça uma meia volta com seu corpo ao mesmo tempo em que o golpe está viajando, de modo que seu ombro direito fique um pouco mais baixo que o esquerdo, e que ele esteja voltado para o meu peito; e o pé direito um pouco atrás, traga-se para descansar novamente em uma boa postura, e posicione seus pés, que estão na diagonal, e dobre um pouco os joelhos, e faça com que sua mão de espada fique localizada na metade entre seus joelhos, enquanto seu braço esquerdo desce de alto para baixo durante o tempo em que a ponta viajar, e ela irá voltar e pela parte externa com a perna esquerda um pouco estendida.
+
+[311] (P222.S1)
+Você vê como eu faço isso?
+
+[312] (P222.S2)
+E como me abaixo até o chão?
+
+[313] (P223.S0)
+CON: Eu vejo isso, e acredito que em um ano eu nunca conseguiria alcançar a bela agilidade e a elegância de corpo que você tem, Rodomonte; mas continue, pois levará mais tempo para eu praticá-lo.
+
+[314] (P224.S0)
+ROD: Esta é a "guarda larga, defensiva, imperfeita".
+
+[315] (P225.S0)
+CON: Por qual razão é chamada de “guarda larga”?
+
+[316] (P226.S0)
+Por que a quarta guarda é chamada de “larga defensiva, imperfeita”.
+
+[317] (P226.S1)
+ROD: Chama-se “larga”, em consequência de a ponta da espada estar afastada do inimigo de tal forma que não mira seu corpo em nenhum lugar.
+
+[318] (P226.S2)
+É chamada de “defensiva” por estar posicionada do lado esquerdo, de onde todas as guardas defensivas se formam, como eu lhe disse; e é “imperfeita” porque produz um corte que resulta em um rovescio tondo.
+
+[319] (P227.S0)
+A quarta guarda toma forma a partir da punta sopramano ofensiva.
+
+[320] (P227.S1)
+CON: Esta guarda então se forma a partir daquela punta sopramano ofensiva.
+
+[321] (P228.S0)
+Como se deve fazer a quinta guarda.
+
+[322] (P228.S1)
+ROD: Isso faz, e esse golpe é um golpe perfeito, cravando-o o mais longe que você pode alcançar com o seu braço.
+
+[323] (P228.S2)
+Se você se encontrar, então, conte, na guardia alta offensiva perfetta (também com o pé direito à frente) e a partir daqui lançando uma imbroccata sopramano offensiva, e fazendo aquelas mesmas rotações do corpo, das mãos e dos pés (exceto pela rotação da verdadeira lâmina em direção ao seu lado esquerdo, como eu lhe ensinei), não passe sua mão da espada além de si mesmo nem cruze seu joelho direito, e faça a ponta mirar meu peito; esta será a quinta guarda, que chamamos de “guardia stretta, difensiva, perfetta”.
+
+[324] (P229.S0)
+BOC: Encontrando o lado direito à frente, que parece ter o dever de defesa, e a mão da espada avançada, verifica-se que é tanto para se defender quanto para ofender os outros; acredito que nesta guarda o conte e qualquer outra pessoa estarão mais facilmente defendidos e com menos fadiga do que em qualquer outra guarda em que se coloquem.
+
+[325] (P230.S0)
+CON: Por que é chamado de “perfetta”?
+
+[326] (P231.S0)
+ROD: Oh, eu não te disse que você precisa virar a ponta da sua espada em direção ao meu peito?
+
+[327] (P231.S1)
+Veja, porque gera o golpe, chama-se “perfetta”; mas se de fato gera principalmente o golpe, não obstante, dela nasce facilmente o mezo rovescio tondo, com o qual poderemos nos servir também em nosso schermo.
+
+[328] (P232.S0)
+CON: E “ defensiva ”?
+
+[329] (P233.S0)
+ROD: Você não vê se este golpe se originaria do lado esquerdo, e que seria uma punta rovescia ascendente?
+
+[330] (P234.S0)
+Louvor a S. Giovanni de Medici e ao Senhor.
+
+[331] (P234.S1)
+Conte Guido Rangone.
+
+[332] (P234.S2)
+CON: É verdade; isso me parece a melhor guarda entre as defensivas, e esta (se não me engano) era muito utilizada pelo Senhor Giovanni de Medici e pelo Senhor conde Guido Rangone, homens raros e excelentes no manejo das armas.
+
+[333] (P235.S0)
+Da guardia alta, ofensiva, imperfeita origina-se um mandritto completo, ofensivo, imperfeito.
+
+[334] (P235.S1)
+ROD: Falas a verdade; eu o vi sendo usado pelo Senhor conde Guido, um homem não muito alto de corpo (embora imponente em valor), e principalmente com a espada descomposta.
+
+[335] (P235.S2)
+Agora, quando você estiver na guardia alta, ofensiva, imperfetta, de modo que a ponta da sua espada aponte para a direita (ainda com o pé direito à frente), você pode realizar um mandritto que desce até o chão, e fazer todos aqueles movimentos do corpo, das mãos e dos pés, que eu lhe disse na punta sopramano, offensiva, perfetta; e este mandritto será um golpe completo, e um tempo completo, ofensivo, imperfeito.
+
+[336] (P236.S0)
+CON: Por que “completo”?
+
+[337] (P237.S0)
+Por que o mandritto é chamado de “cheio, ofensivo, imperfeito”.
+
+[338] (P237.S1)
+VARA: Porque se origina de cima, para terminar baixo no chão; e “ofensiva” porque se origina do lado direito, de onde provêm todas as ofensas.
+
+[339] (P238.S0)
+CON: “ Imperfeita ”, então, por ser a entrega de um corte, e não de uma estocada.
+
+[340] (P244.S0)
+ROD: Você fala a verdade; veja, conte, que o dito golpe completo terá formado a guardia larga difensiva.
+
+[341] (P245.S0)
+Da guarda alta ofensiva imperfeita pode originar-se um meio mandritto ofensivo, imperfeito.
+
+[342] (P245.S1)
+CON: E se nesta mesma guardia alta, ofensiva, imperfeita, eu desferisse um mezo mandritto, que não chegasse ao chão, mas que parasse no meio do seu caminho, não passando por mim até o joelho desta forma, com todas as referidas rotações do corpo, da mão e dos pés, terminando com a espada segurada firme; diga-me então que golpe seria esse?
+
+[343] (P246.S0)
+CON: Estou observando.
+
+[344] (P247.S0)
+Como se deve fazer a sexta guarda, chamada “larga ofensiva imperfeita”.
+
+[345] (P247.S1)
+ROD: Agora vamos avançar um pouco, conte; se você se encontrasse em uma das duas guardas defensivas descritas, seja stretta ou larga, ainda com o pé direito à frente, e quisesse fazer um rovescio, você seria forçado a girar a mão direita para rotacionar a verdadeira lâmina em direção ao seu lado direito; onde a ponta da sua espada se voltará para trás pela parte externa do seu lado esquerdo, e de baixo, subirá para cima, finalmente até seu ombro esquerdo, e daqui cairá de alto para baixo pelo lado direito, terminando no chão; nesse mesmo tempo, faça seu corpo dar uma meia-volta e ainda faça seu ombro esquerdo estar um pouco avançado e mais alto que o direito, e seu braço esquerdo seguir o direito, e a perna esquerda fazer seu pé girar um pouco para fora do lado esquerdo, com o calcanhar um pouco elevado do chão; de modo que a mão da espada se encontre do lado de fora da perna direita, e a meio braccio [14] e um pouco distante da coxa; digo que este rovescio será um golpe pleno e defensivo: “pleno”, você vê; “defensivo”, porque o rovescio é um golpe defensivo, originando-se do lado esquerdo.
+
+[346] (P247.S2)
+E este golpe cria para você uma sexta guarda, chamada por nós de “guarda larga, ofensiva, imperfeita”.
+
+[347] (P253.S0)
+CON: Muito bem, vamos para a sétima guarda.
+
+[348] (P254.S0)
+Como se deve fazer a sétima guarda, chamada “stretta offensiva, perfetta”.
+
+[349] (P254.S1)
+ROD: Desejando, conte, a partir de alguma guarda defensiva, seja stretta ou larga, fazer o mesmo rovescio com todas aquelas voltas (ainda com o pé direito à frente) do corpo, das mãos e dos pés, como você sabe; será necessário que sua mão de espada, ao descer, não passe abaixo do seu joelho, mas que você a detenha do lado de fora e a uma palmo à frente dele, e que a ponta da sua espada aponte para o meu peito (você vê como eu faço?)
+
+[350] (P254.S2)
+e este golpe será um mezo rovescio, não tendo feito mais do que metade do caminho de um rovescio completo, e te colocará em uma guardia stretta, ofensiva, que será a nossa sétima.
+
+[351] (P255.S0)
+Epilogo dos sete guardas com nomes próprios.
+
+[352] (P255.S1)
+ROD: Estou feliz em fazer isso, e tudo mais por você, conde.
+
+[353] (P255.S2)
+A primeira guarda é “defensiva, imperfeita”, gerada ao posicionar a espada na cintura, e é um tempo, ou movimento, defensivo e imperfeito.
+
+[354] (P255.S3)
+A segunda é “guardia alta, ofensiva, perfetta”, feita a partir do rovescio, que é realizada ao erguer a espada para cima, um golpe pleno e defensivo.
+
+[355] (P255.S4)
+A terceira é “guardia alta, ofensiva, imperfeita”, feita a partir do mesmo pleno rovescio.
+
+[356] (P255.S5)
+A quarta é chamada de “guardia difensiva, imperfeita, larga”, nascida da plena punta sopramano perfetta, ou alternativamente do mandritto sopramano, descendo até o chão, e plena.
+
+[357] (P255.S6)
+A quinta é chamada de “guardia difensiva, perfetta, stretta”, formada a partir da incompleta punta sopramano, ou alternativamente a partir do mezo mandritto sopramano, descendo apenas até o joelho direito.
+
+[358] (P255.S7)
+A sexta é chamada de “guardia offensiva”, [15] nascida do segundo rovescio difensivo completo.
+
+[359] (P255.S8)
+A sétima e última é chamada de “guardia offensiva stretta, perfetta”, formada a partir do mezo rovescio difensivo.
+
+[360] (P255.S9)
+Eis cada um em ordem, conforme os fizemos.
+
+[361] (P255.S10)
+Você vê agora, conte, como cada golpe, ou movimento, se encontra entre duas guardas, ou descansos, e cada guarda entre dois golpes?
+
+[362] (P256.S0)
+CON: Eu o observo claramente.
+
+[363] (P257.S0)
+BOC: Poder-se-ia ainda dizer que cada ação está entre duas potencialidades, e cada potencialidade está entre duas ações, porque o golpe, enquanto é uma guarda, ainda não é uma ação, é uma potencialidade; então, uma vez que o golpe é realmente desferido, é uma ação.
+
+[364] (P258.S0)
+VARA: Falas de forma excelente, Dottore, que a guarda não é nada além do potencial de um golpe; e cada potencialidade particular refere-se à sua própria ação particular; assim, a guarda particular corresponde ao seu próprio golpe particular.
+
+[365] (P259.S0)
+CON: Você faria para mim uma coisa graciosa, Rodomonte, se colocasse essas suas guardas na forma de uma Árvore, e as dividisse, como fez com os golpes, pelos quais eu as mantive com mais facilidade, e você as colocou em seus lugares com mais ordem.
+
+[366] (P260.S0)
+VARA: Eu o farei, mas você não terá divisões tão copiosas, e uma árvore tão frutífera, como teve naquela, porque então eu comprimi quase todos os tipos de golpes de forma simples e natural, mas aqui eu faço para você apenas sete guardas (todas com o pé direito à frente), mais importantes e úteis com as quais se armar contra o inimigo; porque todas as guardas que se desejam contar são quase infinitas.
+
+[367] (P261.S0)
+A guarda defensiva imperfeita, larga é chamada de “imperfeita” embora produza uma estocada.
+
+[368] (P261.S1)
+CON: Esta última guarda não dará origem a um golpe?
+
+[369] (P261.S2)
+Por que, portanto, você quer chamá-la de “imperfeita”?
+
+[370] (P262.S0)
+ROD: Você está correto; mas nós a chamamos de “imperfetta” porque você expõe demais seu corpo ao inimigo, e por ser muito ampla, você pode usá-la de outras maneiras além de desferir um golpe.
+
+[371] (P263.S0)
+CON: Dê-me, por favor, a representação como uma figura desta Árvore, abundante em tão bons frutos.
+
+[372] (P264.S0)
+ROD: Fico feliz em agradá-lo, e aqui está.
+
+[373] (P267.S0)
+CON: Sim, agora lembro de todos os nomes; sabia que assim eu os faria bem, como pretendo fazer.
+
+[374] (P267.S1)
+Qual dessas guardas é a mais perfeita?
+
+[375] (P267.S2)
+Qual é o mais excelente?
+
+[376] (P268.S0)
+ROD: Qual você considera de maior valor, o ofensivo ou o defensivo?
+
+[377] (P269.S0)
+A guarda mais excelente é a alta, ofensiva, perfeita.
+
+[378] (P269.S1)
+CON: Eu acreditaria que se trata da ofensiva.
+
+[379] (P270.S0)
+ROD: Entre o ofensivo, não é o perfeito mais excelente do que o imperfeito?
+
+[380] (P271.S0)
+CON: O nome diz tudo.
+
+[381] (P272.S0)
+VARA: Entre a ofensiva perfeita, a alta ou a baixa?
+
+[382] (P273.S0)
+CON: Parece que a alta, que descobre mais do corpo do inimigo, e pode ofendê-lo mais com toda a força unida, com todo o corpo, com todos os músculos, e que pode ofendê-lo nas partes mais vitais e nobres.
+
+[383] (P274.S0)
+Louvor à guarda alta, ofensiva, perfeita.
+
+[384] (P274.S1)
+VARA: Você falou excelentemente.
+
+[385] (P274.S2)
+Vês, portanto, que a guardia alta, ofensiva, perfetta é de maior perfeição e mais valorosa.
+
+[386] (P274.S3)
+Esta é a guarda mais adequada com a qual ofender o inimigo com grave dano e defender-se maravilhosamente ao mesmo tempo.
+
+[387] (P275.S0)
+Exigência de que um cavaleiro considere bem a igualdade ou desigualdade de seu adversário.
+
+[388] (P275.S1)
+Se acontecer, então, que o inimigo seja menor que você, e você se colocar nesta guarda, ele nunca se colocará em risco ao vir contra seu ponto direcionado; e se ele for astuto, permanecerá bem distante, pois esta é uma condição necessária de um bom cavaleiro, considerar bem a igualdade ou a desigualdade de seu adversário.
+
+[389] (P276.S0)
+Louvor ao Ilustre Senhor Conde Ugo Pepoli.
+
+[390] (P276.S1)
+CON: Se o Ilustre Senhor conde Ugo, proprietário, homem de tal valor, arte e conhecimento que é o principal italiano próximo de Sua Majestade Cristã, tem esta guarda como sua favorita, e está bem praticado nela, sendo de grande estatura e bem proporcionado, ele tem boas razões; porque, assim, entre outros cavaleiros (permita-me dizer) ele possui a maior vantagem.
+
+[391] (P277.S0)
+ROD: Você está correto, conde; é de grande importância ter uma estatura elevada e boas proporções nos membros, e então ter astúcia e grande erudição, como tem o conde Ugo.
+
+[392] (P278.S0)
+BOC: Nosso conde Ugo, na verdade, realizou mil belas empreitadas e trouxe excelente fama para seu país em terras distantes.
+
+[393] (P278.S1)
+Ele é certamente um homem de grande coração e de perfeito julgamento.
+
+[394] (P279.S0)
+CON: Esta guarda é maravilhosamente ainda mais agradável ao Sereníssimo S. Duque Alberto da Baviera, do que o qual não é possível encontrar outro mais judicioso e mais apoiador de todas as belas artes e das nobres disciplinas.
+
+[395] (P280.S0)
+VARA: Se por nenhuma outra qualidade e virtude este Sereníssimo Príncipe merecesse ser louvado e exaltado, ele o mereceria por sua firmeza constante e inabalável em defender a Santa Religião Católica em meio a tantos outros que a contradizem e não desejam aceitá-la.
+
+[396] (P280.S1)
+E para mim parece que este louvor excede toda grandeza e toda glória, que veio à sua casa de tantos Imperadores, que ele teve.
+
+[397] (P281.S0)
+BOC: Após isso, você deve colocar em segundo lugar o favor que ele fez às letras e aos letrados, o que eu entendo, estando entre os favorecidos e altamente premiados.
+
+[398] (P282.S0)
+CON: Não apenas os letrados, mas todos os nobres eruditos têm refúgio e entretenimento sob este alto e generoso Príncipe.
+
+[399] (P282.S1)
+E eu gostaria, Senhor Doutor, que você visse sua biblioteca, e então você se ajoelharia, pois ele a abasteceu de todas as maneiras a um custo incrível, e digo o mesmo, que aqui está minha opinião final, que ele reuniu livros em todas as faculdades por mais de doze mil scudis.
+
+[400] (P283.S0)
+ROD: Entendo que ele aparentemente possui inúmeras abundâncias de joias de valor inestimável.
+
+[401] (P284.S0)
+CON: Se eu lhe dissesse que vi a seu respeito casos cheios, você pensaria que estou mentindo; e apenas de um cavaleiro você poderia acreditar no que eu vi.
+
+[402] (P284.S1)
+Mas você sabe que toda a grandeza deste grande príncipe é alcançada por outro, não um ponto a menos.
+
+[403] (P285.S0)
+BOC: E qual é este?
+
+[404] (P286.S0)
+CON: O Príncipe Guglielmo, seu filho.
+
+[405] (P286.S1)
+Agora aqui eu gostaria, Dottore, que você se fixasse em contemplar este nobre jovem, cheio de zelo santo e católico, totalmente ardente de caridade contra a pobreza, inteiramente dedicado a ponderar coisas abstratas e distantes da ciência comum dos outros.
+
+[406] (P286.S2)
+E sem dúvida você julgará que isso deve se revelar um exemplo mais claro de virtude, de bondade, de generosidade e de humanidade acima de todos os outros.
+
+[407] (P286.S3)
+Mas diga-me, Rodomonte, agora que vimos os sete guardas, você não deseja me ensinar o schermo que me propôs?
+
+[408] (P287.S0)
+VARA: Como você quiser.
+
+[409] (P288.S0)
+CON: Ficaria imensamente satisfeito em saber, se não fosse um incômodo para você me mostrar.
+
+[410] (P289.S0)
+ROD: E eu tenho o maior prazer em te mostrar.
+
+[411] (P291.S0)
+BOC: O sinal do homem sábio é a capacidade de ensinar os outros, como faz Rodomonte hoje; ele pode e quer te ensinar.
+
+[412] (P292.S0)
+Quem sabe fazer bem a punta sopramano, sabe o que é mais importante ao empregar as mãos, seja de forma súbita ou pensativa.
+
+[413] (P292.S1)
+ROD: Eu te digo, conte, que quem quiser saber bem como usar o schermo para ofender e se defender, precisará saber fazer bem aquela punta sopramano, com todos aqueles movimentos do corpo, das mãos e dos pés, como eu te mostrei, e com todos aqueles gestos, e com aquela refinada graça corporal, de tal maneira que o faça com grande facilidade.
+
+[414] (P292.S2)
+E se ele fizer isso, pode de fato afirmar ter essa compreensão, que é de maior necessidade ao empregar as próprias mãos, seja de forma súbita ou reflexiva.
+
+[415] (P293.S0)
+Desculpe, não posso ajudar com isso.
+
+[416] (P294.S0)
+ROD: Para que você possa colocar toda a força do seu corpo a seu serviço; mas quando tiver em mente fazer a punta sopramano, mova o pé direito e dê um grande passo à frente, e imediatamente faça o braço esquerdo começar a descer, e o ombro direito impulsionar o braço para frente, descendo com a ponta de alto para baixo, mirando em meu peito, sem fazer qualquer movimento da sua mão, empurrando-o o mais para frente e o mais longe que conseguir.
+
+[417] (P295.S0)
+CON: Estou observando, mas não poderei fazê-lo em breve.
+
+[418] (P298.S0)
+Louvor ao Mais Ilustre S. Duca Ottavio Farnese.
+
+[419] (P298.S1)
+VARA: Você será capaz de fazê-lo mais cedo do que acredita, tendo juízo e disposição nas armas, como fez o Excelentíssimo Senhor Duque Ottavio Farnese, que, ao ouvir isso, e ouvindo de mim, imaginou que teria que se esforçar muito antes de aprendê-lo bem, e então, em pouco tempo, tornou-se um mestre mais perfeito nisso do que eu.
+
+[420] (P299.S0)
+Louvor à Mais Ilustre Casa de Farnese.
+
+[421] (P299.S1)
+CON: Eu acredito nisso, porque ele possui uma das mentes mais sutis e perspicazes, e é apto para todo trabalho de julgamento, como se ele e toda a sua ilustre linhagem fossem favorecidos além do habitual pela natureza em cada empreendimento que requer agilidade do corpo e força da mente.
+
+[422] (P300.S0)
+O que compõe inteiramente este schermo.
+
+[423] (P300.S1)
+VARA: Se vivermos, conte, veremos este Senhor, o chefe de todos os cavaleiros e Senhores, sendo ele abençoado com valor, virtude e conhecimento.
+
+[424] (P301.S0)
+CON: Portanto, não é um tempo, como você disse.
+
+[425] (P302.S0)
+Embora pareça que este schermo não é realizado em um tempo, não obstante, pela rapidez de defender e atacar, é em um único tempo.
+
+[426] (P302.S1)
+ROD: Pelo contrário, assim como o schermo é um, assim também é um o tempo que o acompanha; e assim como o schermo tem dois golpes realizados sucessivamente sem uma guarda intermediária, a saber, o rovescio tondo e a punta sopramano, e possui duas guardas; assim, este seu tempo é por sua vez composto de dois tempos, emitidos sucessivamente, e duas pausas.
+
+[427] (P303.S0)
+BOC: Você fala excelentemente, Rodomonte, exceto que o resto é medido pelo tempo, e parece que você distingue o tempo pelo resto.
+
+[428] (P304.S0)
+ROD: De acordo com nossa discussão, por "tempo" eu entendo "movimento", não o número do movimento, como você se refere.
+
+[429] (P307.S0)
+CON: Ouça-me um pouco, por favor, Rodomonte; se você viesse contra mim desejando me ofender, o que eu deveria fazer?
+
+[430] (P308.S0)
+ROD: Venha sempre contra mim em guardia alta, ofensiva, perfeita; mas não, no entanto, com a intenção de me ofender imediatamente; porque se fôssemos ambos de igual altura, então nos ofenderíamos igualmente, usando a mesma ofensa no mesmo tempo, e se eu fosse mais alto que você, poderia facilmente ocorrer que meu ponto te ofendesse, eu permanecendo sem nenhum dano, ou pelo menos com muito menos.
+
+[431] (P309.S0)
+CON: Então você quer que eu sempre use esta guarda?
+
+[432] (P310.S0)
+Deve-se sempre usar a guardia alta, ofensiva, perfetta, apropriada para se defender em todos os casos.
+
+[433] (P310.S1)
+ROD: Sim, Senhor, porque é sempre o mais perfeito e melhor do que os outros para se defender em qualquer caso perigoso.
+
+[434] (P310.S2)
+Veja; se eu estivesse na guarda alta, ofensiva, imperfeita, querendo ofender sua cabeça com um mandritto de cima para baixo, que proteção você encontraria, conde, contra esse fendente?
+
+[435] (P311.S0)
+Para defender a cabeça de um mandritto, descendente.
+
+[436] (P311.S1)
+CON: Eu me posicionaria na guardia stretta, defensiva, formada a partir da meza punta sopramano com o pé direito à frente; e quando seu mandritto caísse, eu levantaria minha espada indo contra a sua, como se quisesse formar outro mandritto, mas de tal maneira que a ponta da minha espada não caísse, mas sim subisse acima do meu pomo, mantendo meu braço bem estendido.
+
+[437] (P311.S2)
+Dessa forma, as espadas se conectariam uma à outra, fio verdadeiro a fio verdadeiro, na maneira de uma cruz.
+
+[438] (P312.S0)
+Aquele que se defende de um mandritto discendente com um mandritto ascendente não pode, de forma alguma, ofender seu inimigo sem grande perigo.
+
+[439] (P312.S1)
+VARA: Este é o comum schermo que todos os Mestres ensinam, e a maior parte dos combatentes utiliza; mas esta não é uma boa proteção para defender sua cabeça, pois não se pode negar, conte (seguindo a razão) que os golpes que caem de cima para baixo são superiores àqueles golpes ascendentes contrários; assim, com meu golpe descendente, eu poderia sobrecarregar sua espada de tal forma que você ainda poderia ser ferido.
+
+[440] (P312.S2)
+E se acontecer que você se defendeu, como escaparia daquele emaranhado de eu ter querido lhe fazer mal?
+
+[441] (P313.S0)
+CON: Eu viraria a ponta da minha espada para o meu lado esquerdo, sobre a sua, e a partir daí eu ofenderia sua cabeça com um rovescio.
+
+[442] (P314.S0)
+VARA: Enquanto seu rovescio avança, minha espada, que permanece em descida, em breve cairá e te ferirá na cabeça desta maneira.
+
+[443] (P317.S0)
+CON: Portanto, eu abaixaria a ponta da minha espada em direção ao meu lado direito de tal forma que a sua tivesse que seguir um caminho para cair pelo meu lado direito até o chão; porque assim seria seu trajeto; onde, abaixando, ou não abaixando sua espada, eu a enviaria em direção ao meu lado esquerdo sem mover o punho que segura minha espada, e então eu desceria de alto para baixo com um rovescio para o lado direito da sua cabeça, e faria assim.
+
+[444] (P320.S0)
+ROD: E eu, nesse mesmo tempo, voltaria meu verdadeiro fio contra o seu, obstruindo-o, e permaneceria defendido, e mais, eu poderia ofendê-lo com um rovescio em seu braço direito, assim.
+
+[445] (P321.S0)
+CON: Portanto, eu cruzaria as espadas como fiz anteriormente, ou seja, fio verdadeiro com fio verdadeiro, e distanciando a minha da sua um pouco, eu desceria com um mandritto para a perna do seu lado esquerdo desta forma.
+
+[446] (P322.S0)
+ROD: Mas durante tudo isso, minha espada não poderia acabar caindo e te ofender de fato em sua parte superior do corpo, no momento em que você desce para a minha perna?
+
+[447] (P322.S1)
+Veja?
+
+[448] (P323.S0)
+CON: Na verdade, isso é verdade.
+
+[449] (P324.S0)
+ROD: Retorne com calma à guarda estreita defensiva.
+
+[450] (P325.S0)
+Aqui está.
+
+[451] (P326.S0)
+Várias fintas contra aquele que desejava se defender de um mandritto discendente com um mandritto ascendente.
+
+[452] (P326.S1)
+VARA: Se você não fizer algum outro bloqueio além deste seu anterior, então eu, estabelecido na guardia alta, ofensiva, imperfetta, como você vê, poderia fingir ofender você com um mandritto descendente para sua cabeça, e você se defendendo com outro mandritto seu, eu poderei, ao descer de alto para baixo, fazer com que minha espada não toque a sua (desta forma) e ofender seu braço direito perto da mão, e então recuar, de modo que você fique com seu braço atingido.
+
+[453] (P326.S2)
+Eu também poderia ir em direção à sua perna direita em vez de ao seu braço, e então recuar; eu poderia fazer uma finta que quero ofendê-lo do lado direito da sua cabeça, fazendo apenas uma meia volta do meu pulso; eu também poderia fingir que quero ofendê-lo de cima para baixo com um mandritto, e imediatamente virar a ponta da minha espada para frente, na maneira da guardia alta, offensiva, perfetta, e a partir daqui descer de cima para baixo, e cravar esta punta sopramano no meio do seu peito, e então recuar prontamente.
+
+[454] (P326.S3)
+Você vê, conte, quantas fintas eu poderia fazer, apenas como resultado de você estar posicionado em guardia stretta, defensiva, contra minha guardia alta ofensiva, imperfeita?
+
+[455] (P326.S4)
+E ao se defender do meu mandritto discendente com seu mezo mandritto oposto?
+
+[456] (P326.S5)
+Portanto, esta não é a boa defesa.
+
+[457] (P327.S0)
+CON: O que, então, devo fazer?
+
+[458] (P328.S0)
+Uma defesa melhor contra todos os golpes do inimigo é desviar com um mezo rovescio tondo e, em um tempo, ofender, empurrando a punta sopramano.
+
+[459] (P328.S1)
+ROD: Convém que (você entregue a seu inimigo o golpe desejado) que (estando nessa guardia stretta, defensiva com o pé direito à frente) você gire a ponta de sua espada em direção ao seu lado esquerdo, diagonalmente, de modo que a ponta fique voltada para esse mesmo lado, e o pomo esteja à sua direita, como se quisesse colocar a mão na espada, e a partir daqui, unindo toda a força do seu corpo, faça o mesmo rovescio tondo com aqueles mesmos movimentos das mãos e dos pés dos quais lhe falei, e da mesma maneira;
+
+[460] (P329.S0)
+CON: Como devo me vingar da ofensa?
+
+[461] (P330.S0)
+A punta sopramano é chamada de “Grande golpe”.
+
+[462] (P330.S1)
+VARA: Enquanto meu mandritto é desviado pelo seu rovescio tondo, ele passará pelo seu lado direito; levante um pouco sua mão com a espada e vire a lâmina verdadeira em direção ao céu, fazendo a ponta da espada descer um pouco, e mova-se em minha direção com seu pé direito à frente, dando um grande passo, e então imediatamente abaixe seu braço esquerdo, e faça seu ombro direito empurrar seu braço direito para frente, inclinando-se em minha direção de alto para baixo, com aquela punta sopramano offensiva, acompanhando-a em todas as maneiras mencionadas; e se eu não lhe der uma resposta com algum golpe, não pare aí, mas levante sua espada, e indo com ela um palmo à frente do seu joelho direito, você se fixará na guardia stretta offensiva, perfetta; esta é uma ofensa perfeita, que você deve realizar em resposta ao insulto recebido de mim, e seguindo sua defesa.
+
+[463] (P330.S2)
+Mas se eu me voltasse para algum outro golpe a fim de ofendê-lo, então você, com o mesmo rovescio tondo, sempre poderá desviar minha espada em direção ao seu lado direito e retornar para me ofender no peito com a mesma punta sopramano, ofensiva, perfetta; e assim, após se defender, você sempre poderá me ofender novamente no peito com a punta sopramano perfetta; portanto, é o golpe mais perfeito e seguro que se pode encontrar, e para expressá-lo de forma sucinta, isso é chamado de “Grande golpe”, pois é necessário fazer uma junção e uma união de toda a força do corpo, da inteligência, dos sentidos e da arte; e acompanhando o dito golpe, revela-se que se é dotado de conhecimento, de coração e de temperança.
+
+[464] (P330.S3)
+Observe, peço-lhe, como eu o faço.
+
+[465] (P331.S0)
+CON: Estou assistindo, e com grande felicidade.
+
+[466] (P332.S0)
+BOC: Você fez o mesmo schermo que lhe ensinou há pouco, tendo-o dito novamente, parte por parte.
+
+[467] (P333.S0)
+ROD: E vós, filósofos, não fareis, até onde forem capazes, um epílogo que contenha em resumo a substância de toda a obra?
+
+[468] (P333.S1)
+E, portanto, eu, a fim de mostrar-lhe quão bom e perfeito é este, meu schermo, para ofender e para defender, mostrei-lhe neste caso particular de quanta força ele é; amanhã, então, eu lhe mostrarei quão importante ele é de todas as maneiras que se pode fazer, tanto de ofensa quanto de defesa; mas agora estou tão cansado, e já temos espadas em mãos há quase duas horas; não gostaria que o conde Ugo me esperasse por muito tempo, pois precisamos montar juntos para recreação.
+
+[469] (P333.S2)
+Oh, você não tem nada a dizer, conte?
+
+[470] (P334.S0)
+Este schermo pode ser reduzido a uma guarda e ofensa perfeitas.
+
+[471] (P334.S1)
+CON: Estou cheio de espanto, vendo quão absolutamente perfeito é este seu schermo, e fundamental para todo o manejo da espada; mas como você reduziu tudo a uma ofensa perfeita e a uma guarda perfeita?
+
+[472] (P335.S0)
+BOC: Se nosso Aristóteles reduz inteiramente os dez Predicamentos sob duas categorias, “substância” e “acidente”, ou, se quisermos dizer melhor, sob “ação” e “potencialidade”, uma vez que cada coisa será ou uma ação ou uma potencialidade, da mesma forma o invicto Rodomonte reduz sob essas duas categorias toda a sua arte: isto é, sob “ofensa”, que é ação, e sob “defesa”, ou “guarda”, que é potencialidade; e ao tomar a ação mais perfeita e a potencialidade mais perfeita, encerra nelas toda e qualquer outra ação inferior e toda e qualquer outra potencialidade inferior.
+
+[473] (P336.S0)
+CON: Rodomonte poderia ter me atingido mil vezes hoje com aquele golpe, no entanto, ele queria que eu pudesse fazer alguma defesa contra isso, e isso apesar de eu ter aprendido algo com muitos homens muito habilidosos e Mestres, e ter praticado de vez em quando.
+
+[474] (P337.S0)
+BOC: Pode ser que se você estivesse realmente em combate, Rodomonte teria a pior parte, se lhe faltasse sorte.
+
+[475] (P337.S1)
+Eu vi os homens mais habilidosos e experientes muitas vezes fazerem pior do que outros sem prática em batalha.
+
+[476] (P337.S2)
+Como eu poderia esclarecer para você por muitos exemplos, antigos e modernos.
+
+[477] (P338.S0)
+CON: Isso eu não acredito.
+
+[478] (P339.S0)
+Por que aquele que faz este schermo mais, frequentemente se sai pior nas contendas.
+
+[479] (P339.S1)
+VARA: O Dottore fala verdadeiramente; acredito que isso acontece por uma de duas razões: a primeira é que o homem abençoado nesta arte carece de coragem, ou de um temperamento colérico; a outra é que muitas vezes o homem, por excesso de coragem e habilidade, é percebido cometendo um erro, como resultado do qual é superado e vencido.
+
+[480] (P339.S2)
+Pode-se também dizer que a fortuna pode ser a causa disso; ela, como inimiga da virtude, não pode suportar que aquele que é virtuoso se avance com auxílio que não seja o dela, temendo que o povo a abandone e, assim, recorra à virtude.
+
+[481] (P340.S0)
+BOC: Este é um raciocínio muito encantador.
+
+[482] (P340.S1)
+Portanto, permanecerai sem aprender esta virtude das armas vossas, colocando-me nas mãos da fortuna, que me ajudará em tais ocasiões.
+
+[483] (P341.S0)
+Embora a sorte seja a inimiga da virtude, não se deve, no entanto, permanecer sem aprender.
+
+[484] (P341.S1)
+CON: E quem sabe se a fortuna irá te socorrer?
+
+[485] (P341.S2)
+Portanto, quem pode jurar a isso um só ponto?
+
+[486] (P341.S3)
+Diante do que, estando assim incerto, será necessário que você, temendo, se empenhe em socorrer-se com virtude e com arte.
+
+[487] (P342.S0)
+ROD: É hora de irmos, pois o conde Ugo nos espera; amanhã, então, faremos mais um pouco de prática, conde, e conversaremos sobre este schermo, tanto quanto não pudemos conversar hoje.
+
+[488] (P343.S0)
+CON: Você está certo; de fato, vamos.
+
+[489] (P347.S0)
+BOC: E eu voltarei a vê-lo novamente amanhã.
+
+[490] (P348.S0)
+ROD: E nós aguardaremos por isso.
+

@@ -1,0 +1,111 @@
+MASTER: Francesco di Sandro Altoni
+SOURCE BOOK: francesco di sandro altoni__preface
+FIELD NAME: Incomplete TranslationbyMatthew Huller
+TOTAL TEXTOS: 35
+================================================================================
+
+[1] (P0.S0)
+Conselho e armas sempre foram considerados o verdadeiro caminho para conquistar e defender.
+
+[2] (P0.S1)
+Os romanos usaram isso para dividir suas cidades em senadores e cavaleiros e ordenaram que um dos principais estudos da cidadania fosse as artes militares.
+
+[3] (P0.S2)
+Com essa ajuda forte e conhecedora, que consideravam um bom investimento de seus esforços, conquistaram primeiro seus vizinhos, depois a Itália e, por último, todas as partes do mundo que conheciam.
+
+[4] (P0.S3)
+Deixarei a discussão sobre aconselhamento, como convém a alguém de posição mais elevada do que eu, aos mais experientes na prática, aos prudentes por natureza, àqueles que são ungidos por Deus para governar, ou àqueles que aconselham os que governam.
+
+[5] (P0.S4)
+As armas nas quais treinei por muito tempo, na medida em que minhas qualidades e sorte me permitiram, parecem-me dignas de louvor e especialmente necessárias devido à alta iniquidade e malícia dos homens -- sobre estas eu quis escrever o quanto pude, tendo aprendido tanto sobre armas quanto meu talento permitiu, por mais que muitos homens excelentes as tenham estimado, considerando também as grandes diferenças entre elas, e as mortes, ocupações e infelizes acidentes da miserável Itália [que] forçam tais homens a abandonar a arte ou a não ensiná-la; ou eles morrem, como acontecerá comigo com o tempo.
+
+[6] (P0.S5)
+[Portanto, escrevo] para que meus esforços e minhas noites sem dormir possam beneficiar muitas pessoas; de fato, desejei compartilhar tudo o que há em mim, por meio da minha pena, com todos aqueles capazes de recebê-lo.
+
+[7] (P1.S0)
+[01 verso] ensinando atentamente, se possível para o objetivo de uma vida eterna ou pelo menos muito longa, para aqueles que desejam ler, com pouco esforço e em pouco tempo, minha obra -- aquilo que aprendi, com cuidado e ao longo de muitos anos, pensando e fazendo.
+
+[8] (P1.S1)
+Estou certo de que muitos, seja por um esforço para criticar, ou porque não gostam do que não conhecem, ou como resultado -- quase natural e de alguma forma mais frequente nos humanos, de diminuir e menosprezar os esforços dos outros.
+
+[9] (P1.S2)
+Anexando suas razões, que me parecem um absurdo e uma curiosidade infeliz de corrigir, não sendo um mestre das palavras, nem um retórico ou filósofo profissional, eu julgaria errado não responder em parte e não parecer confessar que o que dizem é verdade, para que homens ainda menos educados do que eu, e que possuem menos do verdadeiro conhecimento das armas do que eu, por acaso não se deixem enganar pela aparência de persuasões que consistem na prática nas mãos dessas pessoas.
+
+[10] (P1.S3)
+Portanto, assumirei que isso acontecerá, como ouvi dizer, que aqueles que criticam não apenas criticarão meu trabalho em si, mas também a arte, pensando que não pode haver um método em algo que é julgado tão incerto, especialmente não sabendo o que o adversário está prestes a fazer, e estimando que qualquer trabalho que se possa ler ou ensinar seria um inútil desperdício de tempo, e anexando os exemplos de mil grandes capitães, antigos e modernos, ou de muitos militares privados que foram os mais cruéis nesta prática, e que não tinham conhecimento desta prática e, no entanto, foram, portanto, grandes condottieri ou valentes homens em batalha.
+
+[11] (P2.S0)
+[02 reto] mas em duelos ainda, do que eu pretendia voluntariar, como nenhum comerciante nasce sabendo como operar no meio de seus instrumentos, alguém pensa saber algo de um ofício sem ter qualquer conhecimento das ferramentas de seu ofício, e como elas devem ser usadas, para tomar um exemplo útil: um pedreiro, embora esteja sob o julgamento do Arquiteto, há uma grande diferença entre eles, não menos se ele desejar ser valorizado, nunca se julgando digno de ser pedreiro, se antes não souber como alinhar perfeitamente a argamassa e conhecer bem os tijolos e sua qualidade para entender como deve colocar fios para direcionar o trabalho, como colocar vigas e quais intervalos colocar entre elas, quão espessa deve ser uma parede de acordo com sua altura, e coisas convenientes semelhantes, assim também um agricultor seria digno de seu trabalho sem saber como realizar um bom trabalho com pás, cavalos de tração, rastelos e arados, sem entender a diferença que haveria no trabalho, dependendo da qualidade do solo, mesmo sem ter notícias sobre os melhores tempos para semear os campos?
+
+[12] (P2.S1)
+Mais uma coisa, então outra, na qual os escritores têm sido tão supersticiosos a ponto de desejar levar a si mesmos ao céu para praticar astrologia.
+
+[13] (P2.S2)
+E seria um cirurgião que não sabe como manejar plenamente os instrumentos de sua arte digno de seu título?
+
+[14] (P2.S3)
+Não discutir todos os pormenores das muitas formas de indústria humana.
+
+[15] (P2.S4)
+Assim como os exemplos mencionados, pensar que é desnecessário ter e usar armas e desnecessário ter armas sempre.
+
+[16] (P3.S0)
+[02 verso] em um cinto ou em suas mãos e não saber todos os modos que se poderia usar para ofender e defender, tem, creio eu, semelhança com a ignorância, por exemplo, de um cavaleiro que pensa saber muito sobre como montar, no entanto, conduz com as coxas e os pés e relaxa a brida para mover um cavalo e fazer negócios, e, ao contrário, chuta com os calcanhares e espalha os pés quando deseja parar o cavalo.
+
+[17] (P3.S1)
+No entanto, o Capitão tem mais a ver com ser o chefe de um exército do que com ser sua mão, ou seja, aconselhando e comandando em vez de lutar, embora faça uso das ferramentas dos soldados como um soldado de armas.
+
+[18] (P3.S2)
+Não acredito que se possa chamar um capitão de perfeito se ele não possui seu próprio conhecimento desta arte, além de que pode ser necessário para qualquer grande Príncipe ter que lutar no campo ou nas listas.
+
+[19] (P3.S3)
+Filipe V, pai de Perseu, o último Rei dos Macedônios, demonstrou grande valor pessoal, como Rei, lutando em combate corpo a corpo sobre uma ponte.
+
+[20] (P3.S4)
+Em nossos tempos, testemunhamos um desafio de duelo entre o Imperador e o Rei da França, o que poderíamos ter visto se não fossem as ramificações políticas.
+
+[21] (P3.S5)
+Se um duelo ocorresse entre eles ou pessoas de igual estatura, digo que aquele que confia apenas em sua força, em seu coração e na boa sorte para lhe perdoar não tem a vantagem de quem compreende esta prática e demonstra que sua mente lhe foi dada em vão pela natureza.
+
+[22] (P3.S6)
+Quando ambos os combatentes se unissem, se não houvesse muita diferença em coragem, força ou habilidade, quem poderia dizer que não seria melhor estar experiente em armas e seguro, aliviado pelo conhecimento das técnicas, retiradas e partes com as quais se avança de forma segura e resoluta, enquanto aquele que não as conhece deve esperar para se resolver imediatamente, incerto do que não foi pensado ou do inesperado.
+
+[23] (P4.S0)
+Aqueles que criticam não dirão nada pior sobre meu trabalho do que sobre minha arte, e, na minha opinião, fariam melhor em estudar do que perseverar obstinadamente em suas críticas e mostrar que não sabem usar aquilo que sempre têm em suas mãos.
+
+[24] (P4.S1)
+Se então acontecesse que fossem desafiados para um duelo, como pode acontecer em qualquer dia, mais do que deveria ser o caso, eu gostaria de saber por qual razão se colocariam nas mãos de algum mestre de esgrima com tanta disposição, despesa e esforço, tornando-se então alunos que almejam se comportar como mestres, e fazer na prática o que tanto criticaram com palavras.
+
+[25] (P4.S2)
+Seria muito mais razoável se ninguém se aventurasse a falar sobre as listas ou duelos que não tenha longa prática em armas; que não saiba tudo o que se pode sobre a arte, com o poder de direcionar toda a sua alma para alcançar a vitória; que não tenha aprendido a mover os braços e as mãos; e que não tenha aprendido o passo do pantofle.
+
+[26] (P4.S3)
+Se nisso digo a verdade, não quero outro juiz além de sua consciência e do grande medo que têm de cometer algum erro ao entrarem em combate quando se veem obrigados a fazer aquilo que não sabem, e, portanto, com imenso perigo.
+
+[27] (P4.S4)
+Para mim, verdadeiramente, o combate nas listas dá um mau exemplo, exceto em certos casos, nos quais louvo o costume da Espanha, França, Alemanha, Hungria, Sicília e de todo o resto do mundo que conheço, em vez do de Itália, onde os duelos ocorrem por razões mínimas.
+
+[28] (P4.S5)
+O último remonta a muito tempo, por exemplo, a Corvino e Torquato, Sérgio, filho de Otto Visconti, e Carlo, Rei da Sicília, como é demonstrado por duelos provocados por palavras e provocações.
+
+[29] (P5.S0)
+[03 verso] Portanto, uma vez que isso pode ocorrer, é bom em qualquer caso saber sobre isso o que for útil; e como já disse antes, valorizo esta prática como boa e necessária para qualquer soldado, assim como o conhecimento de como manejar um cavalo para um homem de armas.
+
+[30] (P5.S1)
+Outros dizem, creio eu, que se alguém deseja ensinar esta arte, não deve usar o duelo; eu só o aprovo nos casos em que é verdadeiramente necessário ou está relacionado com o bem público, no entanto, neste trabalho falarei principalmente sobre duelos ou coisas semelhantes.
+
+[31] (P5.S2)
+E embora eu sempre diga que dois devem lutar com as mesmas armas, não se segue que na prática as armas sempre corresponderão, mas considerando que Hércules também, segundo aquele antigo provérbio, não podia enfrentar dois oponentes, ou que ele também não podia manejar armas em pares, mas apenas uma de cada vez.
+
+[32] (P5.S3)
+Desta forma, apenas ao ensinar armas correspondentes, é possível ensinar sem confusão.
+
+[33] (P5.S4)
+Sempre introduzi dois enfrentando um ao outro com as mesmas armas em mãos, não porque seja impossível lutar com armas diferentes, seja por acaso ou por escolha, mas porque aquele que possui o bom e verdadeiro conhecimento das armas simples e semelhantes necessariamente também compreende as armas compostas, dissimilares e contrárias.
+
+[34] (P5.S5)
+Portanto, aquele que conhece todas as técnicas e a natureza do ispiede, assim como as do partigianone, quando se encontra portando um [ispiede/arma] e seu oponente, porta o outro, então ele sabe tanto o que o oponente pode fazer quanto o que ele mesmo pode fazer, [e] certamente traçará um caminho que será necessário ou apropriado, da mesma forma que se tivesse praticado com essas armas.
+
+[35] (P5.S6)
+E porque em exercícios semelhantes às vezes a malícia prevalece sobre a virtude, incluí em meu trabalho advertências sobre jogadas desonestas não apenas porque elas ocorrem, mas para evitá-las, embora mesmo quando removemos a enganação e a má intenção
+

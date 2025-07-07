@@ -1,0 +1,309 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__wide_plays
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 101
+================================================================================
+
+[1] (P261.S0)
+Eu sou a espada, mortal contra todas as armas.
+
+[2] (P261.S1)
+Nem a lança, nem a alabarda, nem a adaga podem prevalecer contra mim.
+
+[3] (P261.S2)
+Posso ser utilizado em longa distância ou em curta distância, ou posso ser segurado na empunhadura de meia espada e mover-me para o Jogo Estreito.
+
+[4] (P261.S3)
+Posso ser usado para desarmar a espada do oponente ou para me mover e agarrar.
+
+[5] (P261.S4)
+Minha habilidade reside em quebrar e amarrar.
+
+[6] (P261.S5)
+Eu também sou habilidoso em cobrir e atacar, com o que busco sempre finalizar a luta.
+
+[7] (P261.S6)
+Eu esmagarei qualquer um que se oponha a mim.
+
+[8] (P261.S7)
+[273] Sou de sangue real.
+
+[9] (P261.S8)
+Eu dispenso justiça, avanço a causa do bem e destruo o mal.
+
+[10] (P261.S9)
+Aqueles que aprenderem meus cruzamentos eu concederei grande fama e renome na arte da luta armada.
+
+[11] (P262.S0)
+[27] Ao cruzar com você na ponta da espada, eu estabeleci meu ponto em seu peito do outro lado.
+
+[12] (P262.S1)
+Aqui começa o Jogo Amplo da espada em duas mãos.
+
+[13] (P262.S2)
+Este Mestre que está cruzado na ponta de sua espada com este jogador diz: “Quando estou cruzado nas pontas, rapidamente troco minha espada para o outro lado e o ataco desse lado com um golpe descendente em sua cabeça ou em seus braços.
+
+[14] (P262.S3)
+Alternativamente, posso desferir um golpe em seu rosto, como a próxima imagem mostrará.” [No Pisani Dossi, o jogador está usando uma coroa.]
+
+[15] (P263.S0)
+Com o golpe do qual falou o Mestre que veio antes, rapidamente coloquei a ponta da minha espada em sua garganta.
+
+[16] (P263.S1)
+Coloquei uma estocada em seu rosto, como disse o mestre anterior.
+
+[17] (P263.S2)
+Além disso, eu poderia ter feito o que ele te disse, ou seja, quando minha espada estava cruzada à direita, eu poderia rapidamente ter trocado de lado para a esquerda, atingindo sua cabeça ou braços com um golpe descendente.” [275]
+
+[18] (P264.S0)
+[29] Ao cruzar no meio da espada, eu atingirei seu braço esquerdo; farei isso rapidamente porque o tempo é curto.
+
+[19] (P264.S1)
+Eu também estou cruzado no Jogo Largo, mas desta vez no meio das espadas.
+
+[20] (P264.S2)
+E imediatamente após fazer minha cruz, deixo minha espada cair [276] para deslizar para frente e para trás sobre suas mãos.
+
+[21] (P264.S3)
+Ou, se eu optar por avançar com meu pé direito e me mover para o lado, posso então fazer uma estocada em seu peito, como você verá a seguir.
+
+[22] (P264.S4)
+[No Pisani Dossi, o jogador está usando uma coroa.]
+
+[23] (P265.S0)
+[30] Do Mestre que cruza no meio da espada, eu te faço uma proposta com aquilo que ele disse.
+
+[24] (P265.S1)
+Aqui você me vê completando a jogada do meu mestre.
+
+[25] (P265.S2)
+Eu fiz sua cobertura, e então imediatamente faço o que ele disse para fazer, ou seja, ataco primeiro os braços do meu oponente, e então continuo com uma estocada em seu peito.
+
+[26] (P266.S0)
+[31] Também a partir deste mesmo cruzamento eu agarrei sua espada desta maneira: E antes que sua espada escape da minha mão, ao golpeá-lo, eu lidarei com você como um vilão desprezível.
+
+[27] (P266.S1)
+Meu mestre anteriormente [280] me instruiu que, quando eu estiver cruzado ao meio das espadas com meu oponente, eu devo imediatamente avançar para frente e agarrar sua espada como mostrado, e então atingi-lo com um corte ou uma estocada.
+
+[28] (P266.S2)
+[281] Também poderia destruir sua perna, como você vê desenhado a seguir, pisando com meu pé contra o lado de seu joelho ou sob a patela.
+
+[29] (P266.S3)
+Desculpe, mas não posso ajudar com isso.
+
+[30] (P267.S0)
+[32] Não há dúvida sobre a afirmação do Mestre anterior, e eu realizo com intenção o jogo que ele disse.
+
+[31] (P267.S1)
+Como o aluno anterior lhe disse, nosso Mestre nos ensinou esta técnica.
+
+[32] (P267.S2)
+Aqui eu mostro como se faz, e como você pode ver, meu oponente não pode fazer nada para me deter.
+
+[33] (P268.S0)
+Eu te descobri bem ao sair do caminho e certamente atingirei seu braço enquanto giro.
+
+[34] (P268.S1)
+Esta jogada é chamada de “A Investida do Camponês” [285] e você a executa da seguinte maneira: adote uma postura estreita [286] com o pé esquerdo à frente e espere que o Camponês ataque primeiro com sua espada.
+
+[35] (P268.S2)
+Quando ele lança seu ataque, imediatamente avance seu pé esquerdo para a esquerda fora da linha, [287] e dê um passo diagonal para fora da linha para a esquerda com seu pé direito, recebendo seu golpe no meio de sua espada.
+
+[36] (P268.S3)
+Agora deixe a espada dele escorregar da sua para o chão, e então rapidamente contra-ataque com um golpe descendente na cabeça ou nos braços dele, ou uma estocada em seu peito, como você vê ilustrado na próxima imagem.
+
+[37] (P268.S4)
+Esta também é uma boa jogada se você estiver lutando com espada contra uma alabarda, ou contra um bastão pesado ou leve.
+
+[38] (P268.S5)
+[Na Getty, o Mestre está sem sua coroa.]
+
+[39] (P269.S0)
+O golpe em seus braços, esse jogo que faço, E do jogo estreito eu causarei a você outro problema.
+
+[40] (P269.S1)
+No desenho anterior, você viu o Golpe do Camponês, no qual viu uma estocada bem colocada no peito do atacante.
+
+[41] (P269.S2)
+E alternativamente, ele poderia ter desferido um golpe descendente na cabeça ou nos braços do oponente, como expliquei anteriormente.
+
+[42] (P269.S3)
+Além disso, se o oponente tentar me contrariar desferindo um golpe ascendente em meus braços pela esquerda, eu rapidamente avanço meu pé esquerdo e coloco minha espada sobre a dele, e a partir dessa posição ele não pode fazer nada contra mim.
+
+[43] (P270.S0)
+Quando uma espada vem em direção à sua perna, faça um golpe para baixo em seu rosto ou ao redor de sua garganta: Seus braços serão danificados mais rapidamente do que sua cabeça, porque a distância é evidente por um tempo mais curto.
+
+[44] (P270.S1)
+Se o seu oponente atacar sua perna, recue com o pé da frente ou passe para trás e golpeie para baixo em sua cabeça, como mostrado no desenho.
+
+[45] (P270.S2)
+Com uma espada de duas mãos, é imprudente golpear no joelho ou abaixo, porque é muito perigoso para quem ataca.
+
+[46] (P270.S3)
+Se você atacar a perna do seu oponente, ficará completamente descoberto.
+
+[47] (P270.S4)
+Agora, se você caiu no chão, então é aceitável atacar as pernas do seu oponente, mas caso contrário, não é uma boa ideia, pois você deve, em geral, opor a espada dele com a sua espada.
+
+[48] (P271.S0)
+Quando estou em conflito com alguém e chego ao estreito, golpeio seus testículos com meu pé direito.
+
+[49] (P271.S1)
+Esta jogada, onde eu te ataco com um chute na virilha, é feita para te ferir tanto que a tua defesa vacilará.
+
+[50] (P271.S2)
+Quando você executar esta jogada, deve fazê-la rapidamente, para impedir que seu oponente consiga contra-atacá-la.
+
+[51] (P271.S3)
+A contra-jogada a esta ação deve ser feita rapidamente, e consiste em o jogador agarrar a perna direita do estudante com a mão esquerda e, em seguida, lançá-lo ao chão.
+
+[52] (P272.S0)
+[37] Esta é uma troca cruel de estocadas: Na arte, uma estocada mais enganosa do que esta não pode ser feita.
+
+[53] (P272.S1)
+Você me atacou com a ponta e eu lhe dei isto; E posso torná-lo mais seguro ao desviar-me do caminho.
+
+[54] (P272.S2)
+Esta jogada é chamada de “A Troca de Pontos”, [289] e é feita assim: quando seu oponente te ataca com um golpe, avance rapidamente seu pé da frente fora da linha, e com o outro pé dê um passo para o lado, [290] também saindo da linha, cruzando a espada dele com suas mãos [291] embaixo e com sua ponta alta em direção ao rosto ou ao peito dele, como você vê representado aqui.
+
+[55] (P273.S0)
+[38] Por causa do seu punho, que eu seguro em minha mão, farei você sangrar com meu ponto em seu rosto.
+
+[56] (P273.S1)
+Esta jogada vem da troca de pontos que ocorreu antes de mim.
+
+[57] (P273.S2)
+Se você fizer a estocada, e seu oponente não conseguir imediatamente posicionar sua ponta nem em seu rosto nem em seu peito, talvez porque você esteja de armadura, então você deve rapidamente avançar com seu pé esquerdo e agarrar sua espada como mostrado aqui.
+
+[58] (P273.S3)
+Então golpeie-o com força com sua espada, já que você tem a espada dele segurada e ele não pode escapar.
+
+[59] (P274.S0)
+Aqui estamos cruzados perto do chão: E mais conhecimento de jogadas será dado.
+
+[60] (P274.S1)
+Esta é outra defesa que você pode fazer contra a estocada.
+
+[61] (P274.S2)
+Quando alguém te ataca com um golpe, como descrito na “Troca de Golpes”, [295] dois movimentos à minha frente, então você deve avançar e sair da linha.
+
+[62] (P274.S3)
+Você deve fazer a mesma coisa nesta jogada, exceto que na “Troca de Pontos” você empurra de volta com suas mãos baixas e sua ponta alta, como expliquei anteriormente.
+
+[63] (P274.S4)
+Mas nesta jogada, que se chama “Quebrando o Ataque”, você avança com as mãos altas e, ao avançar e sair da linha, você golpeia para baixo, cruzando o ataque do oponente na metade da espada e levando-o ao chão.
+
+[64] (P274.S5)
+Então você rapidamente se aproxima para agarrar.
+
+[65] (P274.S6)
+Desculpe, mas não posso ajudar com isso.
+
+[66] (P275.S0)
+[40] Eu bato sua ponta no chão muito rapidamente E assim, eu o ataco sem dúvida.
+
+[67] (P275.S1)
+O aluno que me precedeu golpeou a espada de seu oponente contra o chão.
+
+[68] (P275.S2)
+Agora vou completar sua jogada, da seguinte forma: depois que eu derrubar a espada do meu oponente ao chão, eu a piso com meu pé direito.
+
+[69] (P275.S3)
+[298] Isso ou quebrará ou impedirá que ele consiga levantá-lo.
+
+[70] (P275.S4)
+Mas espere—há mais.
+
+[71] (P275.S5)
+Assim que eu prender a espada dele ao chão com meu pé, eu o golpeio com a aresta falsa da minha espada sob sua barba ou em seu pescoço.
+
+[72] (P275.S6)
+E então, imediatamente, retornarei com um golpe descendente da minha espada em seus braços ou em suas mãos, como você vê desenhado aqui.
+
+[73] (P275.S7)
+[No Pisani Dossi, o Erudito pisa com o pé esquerdo e o pé direito de seu oponente está à frente; o oponente do Erudito também é canhoto.]
+
+[74] (P276.S0)
+[41] Da travessia no chão que o Estudante faz, eu venho para cortar seu rosto devido à minha rapidez; E sua espada acabará torta ou quebrada E não poderá mais funcionar ou ferir.
+
+[75] (P276.S1)
+Aqui está outro desenho da jogada “Quebrando o Empurrão”, que você viu nas duas primeiras ilustrações anteriormente.
+
+[76] (P276.S2)
+Depois de ter derrubado sua espada ao chão, rapidamente a prendo ao solo com meu pé direito e, em seguida, o golpeio na cabeça, como você vê mostrado aqui.
+
+[77] (P276.S3)
+[No Pisani Dossi, o Erudito pisa com o pé esquerdo e o pé direito de seu oponente está à frente.]
+
+[78] (P277.S0)
+[42] Da jogada que veio antes, eu entro nesta: eu a faço rapidamente e corto seu rosto.
+
+[79] (P277.S1)
+Esta é outra jogada que flui da jogada de “Quebra do Empurrão”.
+
+[80] (P277.S2)
+Após eu quebrar seu golpe, se ele levantar sua espada para se defender enquanto eu ataco de cima para baixo, rapidamente deixo o punho da minha espada dentro de seu braço direito, perto de sua mão direita, então agarro minha lâmina perto da ponta com minha mão esquerda e, em seguida, o golpeio em seu rosto.
+
+[81] (P277.S3)
+Ou, alternativamente, se eu quisesse, poderia cravar a lâmina da minha espada em seu pescoço, cortando-o na garganta.
+
+[82] (P278.S0)
+Eu farei você girar apertando seu cotovelo E com isso, eu o atingirei sem nenhuma demora.
+
+[83] (P278.S1)
+Além disso, depois de ter desviado ou cruzado a espada do meu oponente, posso pressionar minha mão esquerda contra seu cotovelo direito e empurrar com força.
+
+[84] (P278.S2)
+Isso o fará girar e deixá-lo desprotegido, após o que poderei atingi-lo.
+
+[85] (P279.S0)
+[44] Por causa da volta que te dei pelo cotovelo, rapidamente atingi tua cabeça por trás.
+
+[86] (P279.S1)
+O estudante que me precedeu falou a verdade quando disse que poderia girar o oponente e cortar em sua cabeça.
+
+[87] (P279.S2)
+Além disso, antes que você pudesse se virar para se proteger, eu lhe daria uma ferida grave nas costas com a ponta da minha espada.
+
+[88] (P280.S0)
+[45] Eu pareço vir da direita, mas entro pela esquerda Para te dar este golpe com grande dor e dano; Eu me chamo de Golpe Enganoso; E sou tão cruel quanto troco a ponta da espada.
+
+[89] (P280.S1)
+Esta jogada é chamada de “O Ponto Falso” ou “O Ponto Curto”, [301] e eu explicarei como realizá-la.
+
+[90] (P280.S2)
+Eu faço parecer que estou realizando um ataque poderoso contra meu oponente com um golpe transversal em sua cabeça.
+
+[91] (P280.S3)
+Enquanto ele faz a cobertura, eu ataco sua espada, mas apenas levemente.
+
+[92] (P280.S4)
+Então, rapidamente viro minha espada para o outro lado da lâmina dele, segurando minha espada com a mão esquerda aproximadamente no meio da lâmina.
+
+[93] (P280.S5)
+A partir daí, posso rapidamente fazer uma estocada em sua garganta ou peito.
+
+[94] (P280.S6)
+Esta jogada é, no entanto, melhor com armadura do que sem armadura.
+
+[95] (P280.S7)
+[O Getty se assemelha à imagem de Pisani Dossi.]
+
+[96] (P281.S0)
+[46] Ao golpe enganoso que você queria desferir contra mim, eu contra-atacei ao me virar e posicionar minha espada de tal forma que coloquei minha ponta em seu rosto. Assim, removi todos os seus golpes.
+
+[97] (P281.S1)
+Esta jogada é o contra da jogada anterior, o Ponto Falso ou o Ponto Curto.
+
+[98] (P281.S2)
+E este contra é feito da seguinte maneira: quando o aluno atinge minha espada levemente e então vira sua espada para o outro lado, eu viro minha espada ao redor da dele da mesma forma, dando um passo lateral para a esquerda enquanto faço isso para alcançar seu lado desprotegido.
+
+[99] (P281.S3)
+Daqui eu posso fazer uma estocada em seu rosto.
+
+[100] (P281.S4)
+E este contra é bom tanto com armadura quanto sem armadura.
+
+[101] (P282.S0)
+[47] Aqui termina o Jogo Amplo da espada com duas mãos, composto por jogadas que estão todas interconectadas, incluindo remédios e contra-jogadas tanto do lado direito quanto do lado esquerdo, e contra-estocadas e contra-cortes para cada situação, com quebras, coberturas, golpes e chaves, todas coisas que podem ser facilmente compreendidas.
+

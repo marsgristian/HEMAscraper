@@ -1,0 +1,36 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__9th_master
+FIELD NAME: Paris TranslationbyKendra BrownandRebecca GarberMorgan TranslationbyMichael Chidester
+TOTAL TEXTOS: 10
+================================================================================
+
+[1] (P205.S0)
+O estudante talvez consiga executar esta jogada daquele mestre [seu], e teria arrancado o poderoso punhal.
+
+[2] (P205.S1)
+[Em Paris, o Erudito usa a coroa de Mestre.]
+
+[3] (P206.S0)
+Posso realmente deslocar seu ombro da mesma maneira; Além disso, posso levar ao uso da chave inferior.
+
+[4] (P206.S1)
+[Em Paris, o Erudito usa uma coroa.]
+
+[5] (P207.S0)
+Eu me preparo para tirar sua vida usando a Ligação Inferior, se por acaso eu conseguir torcer seu ombro.
+
+[6] (P207.S1)
+[Em Paris, o Erudito usa uma coroa.]
+
+[7] (P208.S0)
+Eis!
+
+[8] (P208.S1)
+Cruzei por baixo do ombro durante o jogo, e além disso, deixei para trás a captura.
+
+[9] (P208.S2)
+Mas eu irei sobrecarregar as costas.
+
+[10] (P209.S0)
+É concedido que esta jogada dificilmente poderia ser aprendida por esta arte, no entanto, esta consegue honestamente por meio do homem praticante.
+

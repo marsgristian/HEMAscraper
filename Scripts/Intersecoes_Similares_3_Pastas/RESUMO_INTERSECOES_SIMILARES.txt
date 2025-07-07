@@ -1,0 +1,124 @@
+RELATÓRIO DE INTERSECÇÕES SIMILARES - 3 PASTAS
+============================================================
+
+Total de grupos organizados: 23
+Total de arquivos copiados: 173
+
+GRUPOS ORGANIZADOS:
+----------------------------------------
+
+ 1. carlo giuseppe colombani - l'arte maestra complete translationbypiermarco terminiello
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 2. nicoletto giganti - rapier and dagger german translation 1619 byjan schäfer
+    ENG_PT_Direct: 7 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 3. fiore de'i liberi - close plays paris translationbykendra brownandrebecca garbermorgan translationbymichael chidester
+    ENG_PT_Direct: 21 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 4. paride del pozzo - book 4 the selection of armament english translation 1580 bydavid kite
+    ENG_PT_Direct: 4 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 5. fiore de'i liberi - 5th master draft translation from the paris bykendra brownandrebecca garber
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 19 arquivo(s)
+    PT: 19 arquivo(s)
+
+ 6. nicoletto giganti - clearance and copyright draft translationbyjeff vansteenkiste
+    ENG_PT_Direct: 6 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 7. salvator fabris - preface and dedication german translation 1677 bymichael chidester
+    ENG_PT_Direct: 3 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 8. antonio manciolino - title and dedication incomplete translation
+    ENG_PT_Direct: 2 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+ 9. antonio manciolino - fifth book sword and cape, sword and dagger incomplete translationpietro bravi
+    ENG_PT_Direct: 3 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+10. marc'antonio pagano - two handed sword draft translationbyniccolò menozzi
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+11. antonio manciolino - sixth book polearms incomplete translationauthor unknown
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+12. francesco fernando alfieri - la picca "the pike" draft translationbypiermarco terminiello
+    ENG_PT_Direct: 3 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+13. salvator fabris - second part on proceeding with resolution with sword and dagger draft translation from the archetype ca. 1900 bya. f. johnson bymichael chidester
+    ENG_PT_Direct: 7 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+14. giovanni filoteo achillini - sword and buckler no translation
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+15. philippo di vadi - chapter 15 theory of the sword against the rising blow complete translationbyguy windsor
+    ENG_PT_Direct: 2 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+16. francesco fernando alfieri - lo spadone "the greatsword" draft translationbyjames clark
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+17. antonio manciolino - second book sword and buckler complete translationbyw. jherek swanger
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 3 arquivo(s)
+    PT: 3 arquivo(s)
+
+18. alfonso falloppia - sword and dagger draft translationbypiermarco terminiello
+    ENG_PT_Direct: 3 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+19. fiore de'i liberi - latin preface draft translation from the pisani dossi bymichael chidester
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 8 arquivo(s)
+    PT: 8 arquivo(s)
+
+20. achille marozzo - fourth book pole weapons draft translationbyjon pellett
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+21. salvator fabris - first part on proceeding with resolution french translation 1644
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+22. antonio manciolino - fourth book sword and shield, double swords, single sword incomplete translationbygindi wauchope
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+
+23. salvator fabris - first part on the basics of the sword alone german translation 1677 byalex kiermayer
+    ENG_PT_Direct: 1 arquivo(s)
+    ENG_PT: 1 arquivo(s)
+    PT: 1 arquivo(s)
+

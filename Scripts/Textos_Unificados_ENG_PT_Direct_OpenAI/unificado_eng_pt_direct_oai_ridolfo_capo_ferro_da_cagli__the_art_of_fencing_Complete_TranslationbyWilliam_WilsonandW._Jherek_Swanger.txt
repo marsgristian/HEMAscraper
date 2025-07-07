@@ -1,0 +1,519 @@
+MASTER: Ridolfo Capo Ferro da Cagli
+SOURCE BOOK: ridolfo capo ferro da cagli__the_art_of_fencing
+FIELD NAME: Complete TranslationbyWilliam WilsonandW. Jherek Swanger
+TOTAL TEXTOS: 171
+================================================================================
+
+[1] (P4.S0)
+Capítulo 1: Da Esgrima em Geral.
+
+[2] (P4.S1)
+Não há nada no mundo que a Natureza, sábia mestra e benigna mãe do universo, com maior engenho e mais diligente atenção, proporciona ao Homem para a conservação de si mesmo (do qual, mais do que qualquer outra criatura nobre, ele demonstra ser muito querido por sua segurança), do que o singular privilégio da mão, com a qual não só vai buscando todas as coisas necessárias para a manutenção de sua vida, mas armando-se ainda com a espada, o mais nobre dos instrumentos, protege e defende a si mesmo contra qualquer ataque de força inimiga; seguindo, no entanto, a rigorosa regra do verdadeiro valor e da arte da esgrima.
+
+[3] (P5.S0)
+Daí se pode discernir claramente quão necessária é para o homem, quão útil e honrosa pode ser a referida disciplina, e como ela pode ser necessária e boa para todos, sendo especialmente requisitada por aqueles armados de singular valor que se inclinam à nobre profissão militar, à qual esta ciência é subordinada na forma de uma disciplina alternativa ou servil, assim como a parte se relaciona com o todo, e o fim do meio está sujeito ao fim final.
+
+[4] (P6.S0)
+O objetivo da esgrima é a defesa de si mesmo, de onde deriva seu nome; porque "esgrimar" não significa outra coisa senão defender-se, daí resulta que "proteção" e "defesa" são palavras de mesmo significado; por isso se reconhece que o valor e a excelência desta disciplina são tais que todos deveriam dedicar a ela tanto cuidado quanto amam sua própria vida e a segurança de sua terra natal, sendo obrigados a gastar isso de forma amorosa e valorosa em seu serviço.
+
+[5] (P7.S0)
+Daí se vê também que a defesa é a ação principal na esgrima, e que ninguém deve passar ao ataque, se não por meio de defesa legítima.
+
+[6] (P8.S0)
+As causas eficientes desta disciplina são quatro: razão, natureza, arte e prática.
+
+[7] (P8.S1)
+[5] Razão, como diretora da natureza.
+
+[8] (P8.S2)
+Natureza, como uma virtude poderosa.
+
+[9] (P8.S3)
+A arte, como reguladora e moderadora da natureza.
+
+[10] (P8.S4)
+Prática, como ministra da arte.
+
+[11] (P9.S0)
+A razão dirige a natureza, e o corpo humano na esgrima é sua defesa; dentro da razão se considera o juízo e a vontade.
+
+[12] (P9.S1)
+O julgamento discerne e compreende o que deve ser feito para sua defesa.
+
+[13] (P9.S2)
+A vontade inclina e estimula à sua própria preservação.
+
+[14] (P10.S0)
+No corpo, que no papel de servo executa os mandamentos da razão, será considerado no quadro, tamanho apropriado; nos olhos, vitalidade; e nas pernas, no tronco e nos braços, agilidade, vigor e rapidez.
+
+[15] (P11.S0)
+A natureza dirige e prepara a matéria, o esboço e a disposição, em certa medida, para receber a forma final e a perfeição da arte.
+
+[16] (P12.S0)
+A arte regula a natureza e, com um acompanhamento mais seguro, nos guia de acordo com a verdade infalível, e pela ordenação de seus preceitos à verdadeira ciência de nossa defesa.
+
+[17] (P13.S0)
+A prática conserva, aumenta e estabiliza a força da arte e da natureza, e mais do que o conhecimento, nos incute a sábia compreensão de muitos detalhes particulares.
+
+[18] (P14.S0)
+A arte considera a natureza e vê que, devido à pequena capacidade da matéria, não pode realizar tudo o que pretende, e ainda assim observa em muitos detalhes suas perfeições e imperfeições; e no papel de arquiteto, dela se apodera e cria um belo modelo, e assim refina e aguça as coisas rústicas da natureza, tornando-as pouco a pouco à altura de sua perfeição.
+
+[19] (P15.S0)
+Da natureza, a arte assumiu na defesa pessoal o passo ordinário; a guarda de terza para descansar na defesa, e as de seconda e quarta para o ataque; o tempo, ou a medida; assim como a postura do corpo, com o torso agora colocado sobre a perna esquerda para a autodefesa, agora lançado para frente e apoiado na perna direita para ofender.
+
+[20] (P16.S0)
+[13] Pois sem dúvida as primeiras ofensas foram aquelas dos punhos, na execução delas se vê o passo ordinário.
+
+[21] (P16.S1)
+Também se observa que muitos executam a terza, a seconda e a quarta, golpeando muito em tempo e medida.
+
+[22] (P17.S0)
+Contra essa ofensa do punho, é claro que se encontrou a arte do bastão, e essa defesa, ainda que insuficiente, levou ao uso do ferro, e acredito que desse material foram feitas, pouco a pouco, muitas armas diversas, mas sempre uma mais perfeita que todas as outras, devido à multiplicidade de suas ofensas, a saber, que a espada foi descoberta como a arma perfeita, e proporcionada à distância adequada na qual os mortais podem naturalmente se defender.
+
+[23] (P18.S0)
+As armas que têm comprimento superior à distância de defesa e ataque natural são inadequadas e abomináveis para uso em conversas cívicas, e as excessivamente curtas são insidiosas e perigosas para a vida; devido a isso, nas repúblicas fundadas na justiça de boas leis e boas costumes, sempre foi, e é, proibido portar armas que possam gerar homicídios traiçoeiros e imprudentes.
+
+[24] (P18.S1)
+Pelo contrário, na antiga república romana, o verdadeiro ideal de um bom governo, o uso de armas era totalmente proibido, e a ninguém, por mais nobre e grande que fosse, era lícito portar uma espada ou outra arma, exceto em tempos de guerra; e aqueles que, em tempos de paz, eram encontrados armados, eram processados como assassinos.
+
+[25] (P19.S0)
+E os soldados romanos, imediatamente ao chegarem em casa, depuseram suas armas juntamente com seus uniformes curtos e a vida militar, e novamente vestiram suas longas túnicas civis, dedicando-se aos estudos e às artes da paz, pois nenhum romano exercitava o corpo (como diz Salústio) sem a mente, cada um dedicando-se, além dos estudos de guerra, a cada ofício da paz, e por esse anseio suportavam os fardos da guerra, e portanto, imediatamente após o fim da guerra, não se ouvia mais falar de capitão, nem de soldado, nem de salários militares.
+
+[26] (P20.S0)
+[17] Nestes tempos, os soldados são um maior fardo para os Príncipes e para os Senhores, e mais ainda para a população em tempos de paz do que em guerra, e como não são treinados em outros estudos além dos da guerra, eles odeiam a paz, e muitas vezes são os autores da turbulência e de conselhos miseráveis.
+
+[27] (P21.S0)
+Mas voltando ao nosso assunto, digo que a espada é a arma mais útil e justa, porque está proporcionada à distância na qual o ataque é naturalmente realizado, e todas as armas, na medida em que diferem dessa distância de defesa e ataque natural, são, até certo ponto, mais bestiais e adversas à natureza, e, portanto, inúteis para a conversa cívica; uma é o caminho da virtude e da verdadeira razão, e a outra é pesada e grosseira, da qual a natureza nunca se afasta, acompanhando o pecado e a ignorância, e deslizando por muitos caminhos; uma é a linha reta, que ninguém além do hábil sabe como fazer; as linhas oblíquas são infinitas, e qualquer um pode realizá-las.
+
+[28] (P21.S1)
+De onde, em nossos tempos, vemos ofensas e defesas multiplicarem-se e a arte até a infinitude, o esforço humano imitando a natureza a partir de princípios; e enquanto segue os rastros desta, é útil e vantajoso para a vida humana, mas assim que se afasta das pegadas da natureza, começa a degenerar da nobreza de sua origem, e se lança nas armadilhas da fantasia prejudicial, mergulhando a humanidade no abismo da ignorância, levando-a da era de ouro à imundície do lodo.
+
+[29] (P22.S0)
+[19] Das forças da natureza, da arte e da prática, como causas que afetam a defesa da qual tratamos até este ponto, surgem todas as vantagens e desvantagens das armas, mas elas derivam principalmente da altura adequada do corpo e do comprimento da espada; porque um homem, de grande estatura, e que carrega uma espada proporcional ao seu corpo, sem dúvida chegará à medida primeiro.
+
+[30] (P22.S1)
+Em consideração a isso, a fim de compensar as imperfeições naturais daqueles que se mostram de tamanho inferior, acredito que é proibido em certas terras fazer a lâmina de uma espada mais longa do que a de outra, pois parece injusto que aquele que é superior por natureza se aproveite da arte, sendo necessário que o privilégio da natureza lhe baste, sem a manifesta indignidade (querendo igualá-lo àqueles menores, sendo incapaz de prejudicá-lo de maneira geral), de conceder a ele uma espada de menor comprimento do que àqueles que são pequenos, que porventura poderiam ter outras vantagens de arte e prática, que superam as da natureza, em cujos casos o julgamento humano é insuficiente para prover tais particularidades.
+
+[31] (P23.S0)
+A arte da esgrima é das mais antigas e foi descoberta nos tempos de Nino, Rei dos Assírios, que, através do uso da vantagem das armas, foi feito monarca e patrono do mundo; dos assírios a monarquia passou para os persas; o louvor a essa prática, através da valentia de Ciro, dos persas chegou aos macedônios, destes aos gregos, e dos gregos foi fixado nos romanos, que (como atesta Vegetius) trouxeram para o campo mestres de esgrima, a quem chamaram “Campi ductores, vel doctores”, que significa guias ou mestres do campo, e estes ensinaram aos soldados os golpes do estocada e do corte contra um poste.
+
+[32] (P23.S1)
+Hoje em dia, nós, italianos, igualmente nos orgulhamos da arte da esgrima, embora mais nas escolas do que no campo, ou no uso da milícia, considerando que nestes tempos a guerra é feita mais com artilharia e com a arcabuz, do que com a espada, que, além disso, quase não serve exceto para realizar a vitória.
+
+[33] (P24.S0)
+[21] Esta disciplina é arte, e não ciência, tomando, no entanto, a palavra “ciência” em seu sentido mais estrito, pois não lida com coisas eternas e divinas, que superam os poderes do juízo humano, mas sim é arte, não forjada, nem manual, mas sim ativa, e serve muito de perto à ciência civil; porque seus efeitos passam juntamente com sua operação, à maneira da virtude, e, tendo passado, não deixam para trás nenhum tipo de trabalho ou de manufatura, como é comum na execução das artes plebeias e mecânicas, todas as quais, embora algumas delas sejam celebradas com o nome de nobreza, superam e excedem em grande medida.
+
+[34] (P25.S0)
+Os materiais da esgrima são os preceitos de se defender bem com a espada; sua forma e sua ordem são a verdade de suas regras, sempre verdadeiras e infalíveis.
+
+[35] (P26.S0)
+Mas é finalmente hora de, reunindo tudo o que dissemos até este ponto em palavras breves, chegarmos a lançar as bases desta disciplina, que é sua verdadeira e adequada definição, seguindo a regra a partir da qual guiaremos e direcionaremos o restante de todos os seus preceitos.
+
+[36] (P27.S0)
+Capítulo 2: A Definição da Esgrima e Sua Explicação.
+
+[37] (P27.S1)
+A esgrima é uma arte de se defender bem com uma espada.
+
+[38] (P28.S0)
+Uma arte, porque é uma reunião de preceitos perpetuamente verdadeiros e bem ordenados, vantajosos para a conversa civil.
+
+[39] (P29.S0)
+A verdade é um arranjo dos preceitos da esgrima; não deve ser medida pela ignorância de alguns, que ensinam e escrevem com base em seu longo uso das armas e não com base no conhecimento; ao contrário, muitas vezes fazem substância a partir da sombra e razão a partir do acaso, misturando cabaças com lanternas e mudando rapidamente de um assunto para outro; mas deve ser estimada em si mesma e restrita à verdade de sua natureza.
+
+[40] (P30.S0)
+[27] Sua utilidade é manifesta, pois ensinam o modo de defesa que é muito naturalmente justo e honesto, e que não pode ser duvidado de ser de grande utilidade para a vida humana, pois seus efeitos são claramente discernidos diariamente.
+
+[41] (P30.S1)
+Pois, assim como a espada é uma arma bem adequada para se defender na justa distância em que um e outro podem naturalmente ofender, vemos que os combatentes, quase sempre repousando na defesa, raramente partem para a ofensa, que é o último recurso para salvar suas vidas, as quais não possuiriam se suas armas fossem desproporcionais, ou seja, maiores ou menores do que a defesa natural exige.
+
+[42] (P31.S0)
+O objetivo que separa a esgrima de todas as outras ciências é defender-se bem com, no entanto, a espada.
+
+[43] (P32.S0)
+Capítulo 3: A Divisão da Esgrima que se Apresenta no Conhecimento da Espada.
+
+[44] (P32.S1)
+Existem duas partes na esgrima, o entendimento da espada e seu manejo.
+
+[45] (P32.S2)
+A compreensão da espada é a primeira parte da esgrima, que ensina a entender a espada com o propósito de manuseá-la bem.
+
+[46] (P33.S0)
+A espada, então, é um braço pontiagudo de ferro, apto para se defender à distância em que um e outro podem naturalmente, e com perigo corporal, ofender.
+
+[47] (P34.S0)
+O material da espada é o material de ferro de defesa; sem dúvida, verifica-se que ele contrabalança o de madeira, que pouco serve para desviar e evitar a lesão que é comumente infligida de um a outro diariamente.
+
+[48] (P35.S0)
+Sua forma exterior é a de ser pontuda; porque se fosse romba, não serviria para manter o adversário à distância do ataque natural.
+
+[49] (P36.S0)
+Seu propósito é a defesa, que significa principalmente manter o adversário tão distante que ele não possa me ofender, sendo esse tipo de defesa e limites naturais que permitem que ela seja colocada em ação, sem que eu sofra danos por parte daquele que está próximo a mim.
+
+[50] (P36.S1)
+E na língua latina, como já foi dito com certeza escolástica, “defender” não significa outra coisa senão “evitar”, ou distanciar-se de uma coisa que pode causar dano, se alguém se aproximar demais dela.
+
+[51] (P37.S0)
+[34] Daí as palavras "defender" significam "ofender", e atacar, que é o remédio final e subsidiário da defesa, caso o inimigo ultrapasse o limite da primeira defesa e se aproxime a tal ponto que eu corra o risco de me ferir por sua causa, se eu não me precaver; devido ao fato de que o inimigo ultrapassa os limites da defesa, entrando nos da ofensa, não sou mais obrigado a ter qualquer respeito pela conservação de sua vida, uma vez que ele se aproxima de mim com qualquer arma adequada para me prejudicar, naturalmente, como digo, na distância em que ele possa me alcançar também.
+
+[52] (P38.S0)
+[35] Do propósito da espada, que é defender-se na referida distância, deve-se medir seu comprimento.
+
+[53] (P39.S0)
+Portanto, a espada deve ter o dobro do comprimento do braço, e tanto quanto o meu extraordinário passo, cujo comprimento corresponde igualmente à medida que vai da minha axila até a sola do meu pé.
+
+[54] (P40.S0)
+[37] A espada possui duas partes: o forte e o debole.
+
+[55] (P40.S1)
+O forte começa na empunhadura, estendendo-se até a metade da lâmina; e o restante é chamado de debole.
+
+[56] (P40.S2)
+O forte é para defender, e o debole para atacar.
+
+[57] (P41.S0)
+A lâmina é falsa, e verdadeira.
+
+[58] (P41.S1)
+O verdadeiro é aquele que fica voltado para baixo quando a mão repousa em sua posição natural, que, ao se virar para fora, ou de dentro para fora, a partir de sua orientação natural, forma a aresta falsa.
+
+[59] (P41.S2)
+A primeira orientação, isto é, do verdadeiro fio, deve ser reconhecida na terza, que é a posição da espada em guarda, e a outra, isto é, do falso fio, aparecerá manifestada nas posições de terza e seconda, que são orientações da espada, não em guarda, mas em ataque.
+
+[60] (P42.S0)
+Eu divido apenas o debole em bordas verdadeiras e falsas, e não o forte, porque essa consideração não se aplica ao forte, que não serve a outro propósito senão o de desviar, e não seria de todo inadequado que fosse sem fio, e cego em vez de afiado no forte e no punho, não apenas para segurar a espada, mas também para se proteger, e principalmente a cabeça, enquanto ataca.
+
+[61] (P43.S0)
+Capítulo 4: Sobre a Medida.
+
+[62] (P43.S1)
+Até agora, discutimos a primeira parte da esgrima, que consiste na compreensão da espada; agora começamos a tratar da segunda parte, que é a de seu manejo.
+
+[63] (P44.S0)
+O manejo da espada é a segunda parte da esgrima, que mostra a maneira de manejar a espada, e é distribuído entre a preparação da defesa e a defesa propriamente dita; a preparação, e a primeira parte do manejo da espada, coloca os combatentes a uma distância justa e em uma postura conveniente do corpo para se defenderem em tempo, e possui duas partes; na primeira discute-se medida e tempo.
+
+[64] (P45.S0)
+No segundo, trata-se da disposição dos membros do corpo.
+
+[65] (P46.S0)
+[43] A medida é tomada para uma certa distância de uma extremidade à outra, como por exemplo na arte da esgrima, onde se considera a distância que vai da ponta da minha espada até o corpo do adversário, que pode ser ampla ou estreita.
+
+[66] (P46.S1)
+Assim, toma-se um objeto adequado para medir a referida distância, que no uso da esgrima é o braccio natural, [8] que mede todas as distâncias, e que no exercício desta arte possui todas as qualidades e condições que se esperam de uma medida completa.
+
+[67] (P47.S0)
+A medida é uma distância justa da ponta da minha espada ao corpo do meu adversário na qual posso atingi-lo, segundo a qual todas as ações da minha espada e defesa são direcionadas.
+
+[68] (P48.S0)
+A medida estreita é do pé, ou do braço direito; a medida do pé é do pé fixo, ou do pé aumentado.
+
+[69] (P49.S0)
+A medida ampla é, quando com o avanço do pé direito, posso atingir o adversário, e esta medida é a primeira estreita.
+
+[70] (P49.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[71] (P50.S0)
+A medida estreita do pé fixo é aquela em que, apenas empurrando meu corpo e pernas para frente, posso atingir o adversário.
+
+[72] (P51.S0)
+A medida mais estreita é quando o adversário ataca em medida larga, e eu posso golpeá-lo em seu braço avançado e descoberto, seja o do punhal ou o da espada, com meu pé esquerdo para trás, seguido do direito enquanto golpeio.
+
+[73] (P51.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[74] (P52.S0)
+A primeira medida, ampla, é de um tempo e meio; a segunda é de um tempo inteiro; e a terceira é de meio tempo, em relação às três distâncias, que, de acordo com seu tamanho, requerem mais ou menos velocidade de tempo; e isso é o suficiente para se ter dito sobre a medida.
+
+[75] (P52.S1)
+Agora segue a doutrina do tempo.
+
+[76] (P53.S0)
+Capítulo 5: Do tempo.
+
+[77] (P53.S1)
+A palavra "tempo" na esgrima passa a significar três coisas diferentes; principalmente, significa uma justa extensão de movimento ou de imobilidade que eu preciso para alcançar um fim definido para algum plano meu, sem considerar a extensão ou a brevidade desse tempo, apenas que eu finalmente chegue a esse fim.
+
+[78] (P53.S2)
+Assim como na arte da esgrima, para chegar à medida, eu preciso de um tempo certo e justo de movimento e de imobilidade; não importa se chego lá cedo ou tarde, desde que alcance o lugar desejado.
+
+[79] (P53.S3)
+Nós propomos o exemplo de que eu me movo para buscar a medida, e que vou muito devagar para encontrá-la, e que meu adversário está tão fixo de corpo, de modo que eu a encontre; embora eu tenha chegado um pouco tarde, no entanto, isso de forma alguma pode comprometer meu plano, pois cheguei em tempo, considerando que, quanto mais tempo eu estou em movimento, exatamente tanto meu adversário se fixou; assim, meu movimento iguala o tempo da imobilidade do meu adversário, e sua imobilidade mede meu movimento precisamente; e porque, ao permanecer na guarda e buscar a medida, somente a correspondência do tempo que os combatentes mutuamente consomem ao se mover e ao se fixar deve ser considerada, para que cheguem a um certo ponto de medida, à luz disso, nas referidas ações, a velocidade do movimento e a brevidade da imobilidade não entram em consideração, mas sim, ao tomar a medida justa, é mais útil que eles vão, como se costuma dizer, com uma sandália de chumbo, com o corpo contrabalançado, e colocado sobre a perna esquerda em passo ordinário, uma postura de corpo mais adequada para vir com consideração e respeito a apreender a devida medida.
+
+[80] (P54.S0)
+[51] Em seguida, esta palavra “tempo” é entendida no sentido de rapidez, em relação à extensão ou brevidade do movimento ou da imobilidade.
+
+[81] (P54.S1)
+Assim, na arte da esgrima, existem três distâncias e diferentes medidas de golpe, e através disso, novamente, encontram-se três tempos distintos; e aqui não se deseja considerar apenas que se chega a um certo fim, mas que se chega também com certa rapidez e velocidade, porque a medida ampla, ou seja, a do pé aumentado, requer um tempo, ou seja, uma perseverança de imobilidade ou de movimento, das espadas ou dos corpos dos combatentes, relativamente breve, mas não tão breve quanto a medida estreita do pé fixo; e a medida mais estreita requer o tempo mais rápido, porque cada pequeno movimento que faço com a ponta da minha espada, e cada pequeno movimento que meu adversário fixa, na distância da medida mais estreita, é suficiente para realizar meu plano; como este tempo é o mais breve, portanto chamaremos de meio tempo, e consequentemente o tempo gasto em golpear da medida menos estreita do pé fixo compreenderá um tempo inteiro, e o último tempo, que é empregado em golpear da medida ampla, que é do pé aumentado, será um tempo e meio.
+
+[82] (P55.S0)
+No primeiro tempo, que é o de buscar a medida ampla, a rapidez do movimento e da imobilidade não são consideradas, e, portanto, não é necessário medi-lo pela metade de um tempo inteiro, cujas maneiras de tempo devem ser observadas apenas ao golpear.
+
+[83] (P55.S1)
+Assim, a postura do corpo ao atacar é completamente contrária àquela que se observa ao buscar a medida estreita, pois a primeira postura é confortável para ir pouco a pouco em busca da medida estreita, enquanto a outra é audaciosa e, com rapidez, se lança para o golpe.
+
+[84] (P56.S0)
+O tempo não é outra coisa senão a medida da imobilidade e do movimento; a imobilidade da ponta da minha espada mede o movimento do corpo do meu adversário, e o movimento do meu adversário com seu corpo mede a imobilidade da ponta da minha espada.
+
+[85] (P56.S1)
+Agora, para que este tempo possa ser justo, é necessário que, pelo mesmo tempo que o corpo do meu adversário estiver fixo, assim também o ponto da minha espada deve ser movido; e, consequentemente, apresento este exemplo: encontro-me em medida larga, com a intenção de passar para a medida estreita; agora movo o ponto da minha espada para chegar ao referido término; enquanto isso, à medida que me movimento, é necessário que meu adversário fixe seu corpo, e assim a imobilidade do corpo do meu adversário é a medida do movimento do ponto da minha espada; e, no entanto, se eu me movesse para atacar antes que meu adversário terminasse de se fixar, porque o tempo seria desigual, eu me moveria em vão, ou não sem grande perigo para mim.
+
+[86] (P56.S2)
+Propomos o caso em que ambos nos movemos para buscar a medida, e um e outro se dispõem a ter encontrado essa medida; ambos se empenham de tal forma que nenhum dos dois conseguirá atingir, pois o tempo em que se movem para atacar não será adequado, em relação à distância que devem primeiro alcançar; neste exemplo, vê-se que o movimento do meu ponto mede o movimento do corpo do meu adversário, e o movimento do ponto do meu adversário mede o movimento do meu corpo.
+
+[87] (P56.S3)
+No entanto, nos tempos vindouros, muitos se golpeiam em contra tempo, tendo chegado ao mesmo tempo à medida estreita.
+
+[88] (P57.S0)
+O tempo que deve ser considerado na medida ampla requer paciência, e o da medida estreita, rapidez ao atacar e ao sair.
+
+[89] (P58.S0)
+O tempo da medida estreita se perde, seja por deficiência da natureza, seja por defeito da arte e da prática.
+
+[90] (P59.S0)
+[56] Através da deficiência da natureza, pela lentidão excessiva das pernas, do braço e do corpo, que decorre ou da fraqueza ou do excesso de peso corporal, como vemos ocorrer em homens que são ou muito gordos ou muito magros.
+
+[91] (P60.S0)
+[57] Através do defeito da arte, quando alguém não aprende a encontrar a medida estreita como é necessário, com o corpo apoiado na perna esquerda, com o passo ordinário e com o braço direito estendido, pois as coisas devem mover-se em conjunto para produzir um único efeito, ainda assim devem mover-se a uma distância justa; mas se a ponta da espada está muito avançada e a perna para trás, ou se a perna está avançada e o braço para trás, então a espada nunca será conduzida com a prontidão, justeza e velocidade que são requeridas; por isso, aqueles que se aproximam para buscar a medida estreita com membros desproporcionalmente distanciados, embora cheguem lá, não podem estar no tempo de golpe, porque lhes faltaria o melhor tempo da medida estreita, que é o da pronta justeza, ou rapidez.
+
+[92] (P61.S0)
+[58] Por falta de prática, o tempo é perdido pelo motivo de que o corpo ainda não está bem ágil em seus membros, ou quando os alunos adquirem algum hábito miserável, voltando-se para as vaidades das fintas, dos desengajamentos, dos contra-desengajamentos e coisas semelhantes feitas dessa forma.
+
+[93] (P62.S0)
+A partir do que dissemos até agora, todos poderão facilmente entender que é a mais falsa das afirmações que muitos fazem, de que o tempo é determinado unicamente pelo movimento que meu adversário faz com seu corpo e espada; mas é necessário ter igual consideração pelo meu próprio movimento, e não apenas pelo meu movimento e o de meu adversário, mas também por nossas imobilidades; porque o tempo não é apenas uma medida de movimento, mas de movimento e imobilidade.
+
+[94] (P63.S0)
+E concluindo este assunto de tempo, digo que cada movimento e cada imobilidade meus e do meu adversário juntos formam um tempo, a tal ponto que um mede o outro.
+
+[95] (P64.S0)
+Capítulo 6: Do Corpo, e Principalmente da Cabeça.
+
+[96] (P64.S1)
+A cabeça, de fato, é a principal coisa nesta prática; ela se encontra, de fato, em seu devido lugar, porque é aquilo que reconhece medidas e tempos, portanto, é necessário que ela seja posicionada naquele lugar onde pode servir como sentinela e revelar a terra de todos os lados.
+
+[97] (P65.S0)
+A colocação da cabeça, ao estar em guarda e ao buscar a medida, é então justa e conveniente quando forma uma linha reta junto com a espada; porque dessa maneira os olhos verão todas as imobilidades e movimentos da espada e do corpo do adversário, e reconhecerão imediatamente as partes que devem ser ofendidas e defendidas; a cabeça, estando posicionada sobre as referidas partes, é, portanto, capaz de lançar todos os raios visuais em linha reta, o que não poderia acontecer se a cabeça estivesse mais alta ou mais baixa, de modo que os raios não pudessem irradiar de todos os lados, e assim não seriam rápidos para apreender ou fugir do tempo.
+
+[98] (P66.S0)
+Ao estar em guarda e ao buscar a medida, a cabeça repousa sobre o ombro esquerdo, e ao golpear, inclina-se sobre o ombro direito.
+
+[99] (P67.S0)
+[64] Ao estar em guarda e ao buscar a medida, a cabeça deve ser recuada o máximo possível, e ao golpear deseja-se projetá-la para frente o quanto se puder.
+
+[100] (P68.S0)
+[65] Ao golpear, deve-se ter cuidado para que a cabeça fique um pouco mais de um lado do que do outro, conforme se golpeie para o interior ou para o exterior, de modo que fique protegida pelo punho e pelo braço da espada.
+
+[101] (P69.S0)
+Outras colocações e movimentos da cabeça que são feitos ao passar, ao fugir e ao mover o corpo para fora do caminho em diversos tipos de guardas, e em infinitas maneiras de atacar, não podem ser aceitos como bons, porque se desviam da linha reta, que eu chamo de aquela que divide meu corpo através do flanco junto com o do adversário, enquanto que, ao contrário, a linha oblíqua eu nomeio como aquela que corre fora do meu corpo ou do de meu adversário, de uma parte como da outra, seguindo a regra pela qual todo o jogo da esgrima deve ser o de medir.
+
+[102] (P70.S0)
+Capítulo 7: Do Corpo.
+
+[103] (P70.S1)
+Ao descansar na guarda e ao buscar a medida, o corpo precisa estar curvado e inclinado para trás, de modo que o ângulo que forma com a coxa direita é mal visível, e com a coxa esquerda forma um ângulo obtuso, de modo que o ombro esquerdo se alinha com a linha do pé esquerdo, e o ombro direito divide uniformemente a distância da guarda ao meio.
+
+[104] (P71.S0)
+Ao golpear, o corpo é impulsionado para frente, de modo que a coxa direita forma um ângulo obtuso com o corpo, e a ponta do ombro se alinha com a ponta do pé direito, enquanto a coxa e a panturrilha esquerdas são levadas para frente por uma linha oblíqua, estendendo-se a tal ponto que o ombro esquerdo divide o passo que é dado pelo meio.
+
+[105] (P72.S0)
+E quando alguém vai atacar, o corpo precisa ser empurrado para frente em linha reta, de modo que, através da diversidade de golpes, por fora e por dentro, inclinando-se um pouco mais para um lado do que para o outro, ele se desvie o menos possível da linha reta.
+
+[106] (P73.S0)
+O objetivo de por que o corpo deve ser assim angulado, e isso é de suma importância, é porque dessa forma as partes que podem ser ofendidas estão mais distantes, mais cobertas, melhor guardadas e defendidas; pois quanto mais distante um alvo está, mais difícil é atingi-lo; assim, os golpes são desferidos de forma mais longa, rápida e vigorosa, pois quanto mais longe as ofensas se originam, tanto mais seguras e melhores elas são.
+
+[107] (P74.S0)
+Além da flexão do corpo e de sua forma que assume ao se colocar em guarda, ao buscar a medida e ao atacar, deve-se considerar também seu ângulo, que diminui sua largura, assim como a flexão diminui e contrai sua altura.
+
+[108] (P75.S0)
+A inclinação do corpo deve ser tal que não se mostre mais do que o meio do peito, não apenas ao se fixar na guarda e ao buscar a medida, mas também ao atacar, pois quanto menos do peito é mostrado, mais se avança e se ataca em linha reta, e quanto mais se descobre, tanto mais se perde em medida e em tempo.
+
+[109] (P76.S0)
+Aqueles que gostam das guardas, e das contra-guardas, e dos movimentos aqui, ali, acima e abaixo, das fintas, e das contra-fintas, dos passos diagonais, dos vazios das pernas, e das cruzadas, necessariamente formam e movem seus corpos de muitas maneiras estranhas; as quais, sendo coisas feitas por acaso e que não se fundamentam em razões que sejam sólidas e verdadeiras, deixaremos para seus autores.
+
+[110] (P77.S0)
+Capítulo 8: Das Armas.
+
+[111] (P77.S1)
+[74] Ao descansar na guarda e ao buscar a medida, o braço direito deve repousar um pouco dobrado, de modo que o braço superior se estenda em uma linha oblíqua, tão baixo que o cotovelo encontre a curva do corpo e esteja alinhado com o joelho direito; e o antebraço, um pouco recolhido, forma uma linha reta junto com a espada.
+
+[112] (P78.S0)
+[75] Ao descansar na guarda e ao buscar a medida, o braço esquerdo, juntamente com a coxa e a panturrilha esquerdas, deve servir como contrapeso do corpo e da coxa e panturrilha direitas; e o braço superior precisa estar estendido, de modo que fique alinhado com o joelho esquerdo e encontre a curva do flanco esquerdo; e seu antebraço deve estar um pouco recolhido em direção a si, para que, por seu movimento, ajude a impulsionar o corpo para frente ao atacar, o que não ocorreria se fosse negligenciado.
+
+[113] (P79.S0)
+[76] Ao golpear, o braço direito deve ser estendido em linha reta, girando a mão e o antebraço para cima, às vezes para dentro, às vezes para fora, dependendo do lado de onde se ataca.
+
+[114] (P80.S0)
+[77] Ao golpear, o braço esquerdo deve estar tão estendido que forme uma linha reta com o braço direito, girando-o conforme se golpeia por fora ou por dentro; porque cada iota que se leva o braço para frente, ou que se fixa em uma linha oblíqua, diminuiria significativamente a medida e a rapidez do tempo.
+
+[115] (P81.S0)
+A espada é considerada inteiramente como um membro do braço, e deve formar uma linha reta com o antebraço, que está devidamente alinhado com a dobra do flanco direito, e deve dividir a altura e a largura do corpo em duas partes iguais, pois ao descansar na guarda e buscar a medida, a razão pela qual ela deve retornar corretamente à dobra do flanco é esta: que toda vez que estiver nesta localização, será mais rápido vir em auxílio de todas as partes que podem ser ofendidas, sendo que as partes superiores, ou seja, aquelas do topo da cabeça até a dobra do flanco, estão em medida com as partes inferiores, da dobra do flanco até o joelho; e não ocorre que se deva considerar a panturrilha, que não pode ser ofendida na distância natural da ofensa dos pés aumentados sem levar excessivamente o corpo para frente em perigo manifesto.
+
+[116] (P82.S0)
+A localização e a postura da espada ao golpear estão inteiramente unidas à do seu braço, girando a aresta falsa ao golpear, conforme atinge o lado de fora ou o lado de dentro.
+
+[117] (P83.S0)
+Preste atenção diligentemente para que a ponta de sua espada esteja sempre apontada para as partes descobertas do inimigo, que são aquelas do flanco direito e da coxa direita, e não permita que ninguém o desvie dessa intenção ao descobrir seu lado esquerdo, o que é uma medida e um tempo falaciosos, pois pode ser retirado em um instante, o que não ocorre com as partes do lado direito, que necessariamente se tornam alvos.
+
+[118] (P84.S0)
+Não é bom descansar na guarda com o braço recolhido, pois não cobre bem a medida em que me encontro; igualmente, não é bom para buscar a medida, porque a ponta da espada está muito longe do corpo do adversário.
+
+[119] (P84.S1)
+De onde não se pode tomar a medida adequada, faltando assim a capacidade de golpear em tempo; além disso, o braço assim recuado não impede o adversário da justa distância em que ele pode me atingir, e assim não cumpre seu dever.
+
+[120] (P84.S2)
+Da mesma forma, a espada se revela principalmente inútil para golpear, pois não conseguirá atingir na medida do pé aumentado, já que, repousando com sua ponta tão distante do adversário, não pode tomar adequadamente a referida medida, que é tanto mais excelente do que as medidas mais estreitas, quanto é golpear o inimigo de longe do que de perto.
+
+[121] (P84.S3)
+Além disso, não é bom para lançar o golpe, que junto com o braço é descarregado pela pressão que faz o corpo avançar, e não é verdade que a extensão do braço aumenta a medida, mas sim pela extensão do corpo e do passo à frente, porque a perna da frente e o corpo, ao estender o braço com a espada, estão apoiados sobre a perna esquerda, na qual se sustenta todo o corpo e a perna direita; [15] a qual perna esquerda, durante o lançamento, projeta o corpo e a coxa para frente sobre a perna direita, que, em troca, forma um pilar e um suporte, sustentando todo o peso do corpo, empurrado para frente para lançar o golpe.
+
+[122] (P84.S4)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[123] (P85.S0)
+Não posso aprovar o fato de ter o braço totalmente estendido na guarda e buscar a medida, porque isso força a espada a sair de seu lugar, que é apropriado e bem adequado para defender a própria vida e ofender a do adversário; e ao golpear, não ajuda o corpo a lançar o golpe, e o realiza com menos vigor; outros locais e movimentos do braço não são desejados na execução do golpe em linha reta.
+
+[124] (P86.S0)
+Capítulo 9: Das Coxas, das Panturrilhas, dos Pés e do Passo.
+
+[125] (P86.S1)
+[83] Ao descansar na guarda e ao buscar a medida estreita, a panturrilha direita com a coxa e seu pé apontam diretamente para frente, e inclinam-se para trás em uma linha oblíqua, na maneira de uma inclinação; e a panturrilha esquerda com a coxa e seu pé apontam diretamente para o seu lado esquerdo, com o joelho dobrado o máximo possível, de modo que o lado interno do calcanhar alinhe-se diretamente com a ponta do calcanhar direito.
+
+[126] (P87.S0)
+No golpe, o joelho da perna direita é dobrado o máximo que pode, de modo que a panturrilha e a coxa formem o ângulo mais agudo; e, ao contrário, a panturrilha esquerda com sua coxa é estendida para frente em uma linha oblíqua, de maneira semelhante a uma inclinação.
+
+[127] (P88.S0)
+O passo é uma distância justa entre as pernas, tanto ao se fixar quanto ao se mover, bem adequado para se colocar em guarda para buscar a medida e para atacar; em relação à distância, o passo pode ser totalmente estreito, ou meio passo, ou um passo justo, ou extraordinário.
+
+[128] (P89.S0)
+[86] No uso da esgrima, não conheço outro passo tão bom quanto o ordinário, no qual o corpo descansa confortavelmente e é bem sustentado na guarda, para buscar a medida estreita com um pequeno aumento de passo; ao querer buscá-la com passos menores, a base seria excessivamente estreita e fraca; não suportaria o peso do corpo, e a pessoa ficaria desconcertada, se, não passo a passo, mas sim com passos e meio passos, buscasse a medida, e ao perder o tempo, não descarregaria o golpe com tanta rapidez; e se de fato são os ditos bons passos, servirão fora da medida para caminhar, e para se colocar na guarda, e para retornar a ela.
+
+[129] (P90.S0)
+O ritmo da esgrima, nós o chamaremos, para melhor compreensão, de “militar” ou “soldadesco”, dividindo-o em ordinário e extraordinário.
+
+[130] (P90.S1)
+O ordinário é aquele em que se descansa na guarda e se busca a medida estreita.
+
+[131] (P90.S2)
+E o extraordinário é aquilo em que se avança, alongando o passo para atacar.
+
+[132] (P91.S0)
+[88] O passo, em relação à sua posição, pode ser considerado de várias maneiras: para frente, para trás, lateralmente e diagonalmente, e isso com as pernas cruzadas ou não, igualmente se um único pé é movido ou ambos, e se as pernas são movidas para dar um passo completo, seja para diminuí-lo ou para mudar sua posição a fim de permitir que o corpo recue ou se evada.
+
+[133] (P92.S0)
+Parece-me que existem apenas duas maneiras principais de se fixar e mover em relação às pernas.
+
+[134] (P92.S1)
+A primeira maneira é aquela em que se aparece em guarda, buscando a medida estreita, ou evitando-a; a outra serve para golpear.
+
+[135] (P93.S0)
+[90] Não sei se o passo lateral serve para algo além de fazer uma boa exibição, [17] demonstrar animosidade e explorar a força do adversário; quando alguém se coloca em guarda dessa forma de passo, você poderá aproveitar todos os passos estreitos e justos, embora, em minha opinião, o passo ordinário ainda tenha sua vantagem.
+
+[136] (P94.S0)
+[91] No entanto, há aqueles que se aproveitam desse movimento para o lado quando o adversário está posicionado em uma linha oblíqua com a espada, a fim de feri-lo por fora, mas para mim parece que um caminho mais expedito seria buscar a medida estreita imediatamente pela linha reta, em vez de seguir um jogo fora da regra.
+
+[137] (P94.S1)
+Além disso, há aqueles que se utilizam disso recuando o corpo, enquanto seu adversário vem para atacá-los, encontrando-o em quarta ou em seconda, seja por fora ou por dentro, conforme a ocasião, mas eles seriam igualmente capazes de encontrá-lo, tendo em consideração o tempo e a medida de quarta e de seconda na linha reta, sem atravessar as pernas.
+
+[138] (P95.S0)
+A travessia do pé esquerdo em direção ao lado direito ao realizar uma inquartata é inútil; pode, por si só, tornar-se uma deficiência, pois impede o corpo e encurta o movimento do braço direito ao atacar, com perda de tempo; o vazio da perna direita em direção ao lado esquerdo do adversário para executar uma inquartata é igualmente algo feito por acaso, e serve mais para um ataque amistoso do que para o teste ou disputa.
+
+[139] (P96.S0)
+As passatas não são boas, porque perdem medida e tempo, pois enquanto se move a perna esquerda, ao mesmo tempo o torso, a perna direita e o braço da espada não podem se mover para golpear com a devida velocidade, nem sem o perigo de uma resposta.
+
+[140] (P97.S0)
+[94] Os recuos são necessários principalmente ao atacar, porque no ato de atacar eu necessariamente descubro meu corpo, e ainda que se eu me fixar demais, poderia facilmente ocorrer que meu adversário pudesse me responder.
+
+[141] (P98.S0)
+Capítulo 10: Da Defesa, da Guarda.
+
+[142] (P98.S1)
+Até agora, tratamos da primeira parte do manejo da espada, que nos ensinou a distância adequada e a verdadeira posição de todos os membros do corpo, que são necessários para a defesa; agora falaremos dessa mesma defesa.
+
+[143] (P99.S0)
+A defesa é a segunda parte do manejo da espada, que nos treina a empregar a espada para nossa defesa, e possui duas partes, das quais a primeira é a defensiva, ou guarda, como desejamos chamar, e a outra é a ofensiva.
+
+[144] (P100.S0)
+A guarda é uma posição do braço e da espada estendida em linha reta no meio das partes vulneráveis, com o corpo bem acomodado em seu passo ordinário, a fim de manter o inimigo à distância, de qualquer ofensa, e para ofendê-lo caso ele se aproxime para te colocar em perigo.
+
+[145] (P101.S0)
+A terceira, então, é exclusivamente uma guarda, não de fato posicionada com o punho do lado de fora do joelho, mas de modo que divida adequadamente o corpo pelo meio, nem alta nem baixa, mas corretamente no meio das partes que não podem ser cobertas, a fim de estar igualmente pronta e próxima a todas as suas ofensas e defesas.
+
+[146] (P102.S0)
+[99] Prima e seconda não são guardas, porque não são bem adequadas para buscar a medida, e descobrem demais do corpo, e não estão igualmente próximas a todas as partes do corpo que podem ser ofendidas e defendidas; quarta igualmente mostra demais do corpo; é uma maneira de atacar, e não de se defender.
+
+[147] (P103.S0)
+Há três razões que dificultam atingir o alvo, a saber: a distância até o alvo; porque ele está oculto, de modo que se tem dificuldade em ver através do impedimento das coisas que o velam; e mesmo que esteja descoberto, à medida que o perigo do golpe se aproxima, em um instante pode ser coberto.
+
+[148] (P104.S0)
+[101] Todas essas virtudes estão contidas em nossa guarda; pois ela distancia grandemente o alvo e remove tanto quanto possível dele, por meio da dobra e do ângulo do corpo; além disso, cobre excelentemente as partes que não podem ser afastadas, e se algumas ainda permanecerem descobertas, é rápido socorrê-las se necessário, estando a uma distância igual; e assim caminha-se com segurança para tomar bem o tempo e a medida, o que é a perfeição suprema da guarda.
+
+[149] (P105.S0)
+Para mim, não é legítimo falar em mudar de guarda para guarda, não se fazendo uma boa guarda, se não for uma única.
+
+[150] (P106.S0)
+A ofensa é uma defesa na qual busco medir e atingir meu adversário.
+
+[151] (P107.S0)
+Capítulo 11: Sobre o Caminho de Buscar a Medida.
+
+[152] (P107.S1)
+[104] Há duas partes no ataque: buscar a medida e golpear.
+
+[153] (P108.S0)
+[105] Buscar medida é uma ofensa na qual, na referida guarda, eu busco a medida estreita a fim de golpear.
+
+[154] (P109.S0)
+[106] Existem três maneiras de buscar a medida; porque eu a busco ou enquanto me movimento e o adversário se fixa, ou quando me fixo e o adversário se movimenta, ou quando me movimento e o adversário se movimenta.
+
+[155] (P110.S0)
+O tempo dessas ações precisa ser justo e igual aos limites externos da ampla medida, sobre a qual o tempo de buscar a medida se esgota e dá origem ao tempo de outra ação, que é a de golpear.
+
+[156] (P111.S0)
+[108] Para que este tempo seja justo, é necessário que você tenha paciência até chegar à distância mencionada, e não se mova antes para atacar.
+
+[157] (P112.S0)
+Por exemplo: Eu me posiciono na guarda para buscar a medida, meu adversário já estando dentro dos limites da ofensa; enquanto isso, à medida que ele avança com sua espada, seja buscando a medida ou fingindo me atacar, é necessário que eu me fixe tanto com a ponta da minha espada, de modo que ele chegue à borda da ampla medida, e eu não me mova para atacar antes.
+
+[158] (P112.S1)
+Porque nesta ação seu movimento deve medir minha imobilidade, e minha imobilidade seu movimento, e se eu tivesse me movido de minha imobilidade antes que ele chegasse à borda da ampla medida, o tempo não seria justo, e portanto eu não teria buscado bem a medida; e em conclusão, este movimento e imobilidade são iguais; pois leva um tempo para chegar ao início da medida estreita, e não importa quão rápido possa ser, apenas que seja igual e equivalente ao limite externo da ampla medida, e assim o fim do tempo da ampla medida é buscar a medida estreita, e o início do tempo de golpe.
+
+[159] (P113.S0)
+[110] Muitos, ao buscar a medida estreita, se desengajam e contra-desengajam, realizam fintas e contra-fintas, esticam um palmo [18] e mais da espada, e se movem de todos os lados, torcendo e esticando seus corpos, e recuando de maneiras muitas vezes caprichosas, que são coisas feitas fora da verdadeira razão, e que enganam os tolos, tornando o jogo difícil; no entanto, ao esticar a espada, quando não posso fazer de outra forma, buscando medida na minha guarda, é apenas necessário que eu estique o debole da espada do meu inimigo em linha reta, com o forte da minha, e isso estrangulando-a sem tocar, [19] mas apenas ao golpear para atingir o debole da espada do inimigo com meu forte, por dentro ou por fora, de acordo com as circunstâncias do golpe.
+
+[160] (P114.S0)
+Desengajar, se for para ser bom, é bom na situação em que o adversário me tem estrangulado e removido da linha reta; seria lícito, então, de fato necessário, recuar, desengajando com um pequeno ceder do meu corpo ou pés, reposicionando-me imediatamente na linha reta para buscar a medida; porque desengajar é feito contra o estrangulamento, e assim como o estrangulamento é feito enquanto se move a espada para frente, assim deve o desengajamento ser feito enquanto se retira.
+
+[161] (P115.S0)
+Capítulo 12: Do Golpe.
+
+[162] (P115.S1)
+[112] O golpe é a ação ofensiva final da esgrima, na qual, tendo chegado à medida estreita, eu me movo, com meu corpo, com minhas pernas e com meus braços, lançando-me para frente em um só tempo para estar melhor preparado para atingir meu adversário, e isso é feito com os pés fixos ou com o aumento do passo, de acordo com a magnitude da medida estreita, conforme se torna mais adequado para mim adotar mais uma do que a outra medida; porque se, por minha lentidão, ou pela fúria do meu adversário, a primeira medida desaparece, então poderei aproveitar a segunda, golpeando com os pés fixos, assim, neste caso, não acontece que eu apresse muito o passo, pois apenas dobrando meu joelho direito, não me convém buscar uma medida mais estreita, da qual eu teria que aumentar o passo.
+
+[163] (P116.S0)
+[113] O golpe é realizado de três maneiras; porque posso atingir meu adversário enquanto estou fixo e ele se move para buscar a medida ou para me golpear; ou enquanto ele está fixo e eu me movo para buscar a medida; ou porque ambos nos movemos para buscar a medida e golpear; apenas esta é a diferença: que quando ele se move para me golpear, eu o atingo com os pés fixos, porque quando ele se move para realizar o dito efeito, eu posso mal tomar a medida justa para golpeá-lo com o aumento do passo; ao contrário, é necessário que eu me agarre à medida mais estreita; e quando ele se move para buscar a medida, eu o golpeio com o aumento do passo.
+
+[164] (P117.S0)
+[114] Em consideração às partes do corpo em relação à espada, eu golpeio tanto de dentro quanto de fora; de dentro, a partir da quarta, e de fora, a partir da segunda, alto ou baixo, de acordo com as partes expostas do corpo do adversário, que me fornecem medida, em relação à ponta da minha espada.
+
+[165] (P118.S0)
+[115] Enquanto eu golpeio, necessariamente paro ao mesmo tempo, na medida em que golpeio em linha reta, e com meu corpo na devida disposição, pois quando golpeio dessa maneira, em tempo, e à medida, o adversário nunca me atingirá, nem com estocada nem com corte, porque o forte da minha espada vai em linha reta e vem a cobrir todo o meu corpo.
+
+[166] (P119.S0)
+A lâmina tem pouca importância, pois não consigo golpear com a lâmina na referida distância da medida estreita sem me expor completamente e dar a medida e o tempo ao meu adversário para me atingir, devido ao alcance do braço e da espada que faço, e embora alguma utilidade seja encontrada no corte, ainda assim, na mesma medida e no mesmo tempo, mais pode ser demonstrado na estocada.
+
+[167] (P120.S0)
+[117] Mas sem sombra de dúvida, a cavalo é melhor golpear com o corte do que com a estocada, porque minhas pernas são levadas por outro, e assim não estou bem apto a buscar a medida e o tempo, que são adequados para impulsionar o corpo e o braço para frente, mas é verdade que posso girar meu braço à minha satisfação, o que é um movimento apropriado para golpear com a lâmina.
+
+[168] (P121.S0)
+Capítulo 13: Da Adaga.
+
+[169] (P121.S1)
+[118] Do punhal, bastará neste breve capítulo registrar apenas que se tem encontrado melhor para salvar-se, caso, enquanto eu desferir um golpe sem atentar para a defesa, meu adversário me ataque onde lhe parecer mais adequado, do que ser incapaz de empregar o punhal para evitar a resposta.
+
+[170] (P121.S2)
+E assim como todas as vantagens trazem e acarretam algumas desvantagens, assim aconteceu na luta com a adaga, que não se pode empregar sem expor um pouco mais do corpo e encurtar a linha um pouco ao atacar.
+
+[171] (P121.S3)
+Este é o fim da adaga, mas a arte foi desviada, a partir daí, de seu principal objetivo que lhe foi dado, assim como aconteceu com a espada em várias técnicas que seriam melhor executadas com a espada desacompanhada, sem seguir tais extensões.
+

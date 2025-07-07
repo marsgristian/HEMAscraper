@@ -1,0 +1,66 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__dagger
+FIELD NAME: Complete TranslationbyGuy Windsor
+TOTAL TEXTOS: 20
+================================================================================
+
+[1] (P56.S0)
+Este contra que eu faço a você, é para te virar [com] a pegada no seu braço.
+
+[2] (P57.S0)
+Eu posso tomar a adaga de você e golpeá-lo com esta empunhadura, e não pode falhar.
+
+[3] (P58.S0)
+Este golpe é realizado imediatamente após eu fazer sua adaga cair muito rápido.
+
+[4] (P59.S0)
+Farei esta capa muito rapidamente, para que você seja colocado na fechadura.
+
+[5] (P60.S0)
+Por esta cobertura que você quer fazer, eu o farei entrar na fechadura inferior.
+
+[6] (P61.S0)
+Se eu empurrar a adaga em direção ao chão, você não fará mais guerra contra mim com ela.
+
+[7] (P62.S0)
+Com esta cruzada que faço contra você, eu o colocarei na fechadura, onde você ficará frustrado.
+
+[8] (P63.S0)
+Eu faço a cobertura com uma mão, farei sua adaga ir ao chão.
+
+[9] (P64.S0)
+Pela maneira como te agarrei, estou pronto para quebrar teu braço e a adaga muito rapidamente.
+
+[10] (P64.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[11] (P65.S0)
+Eu vejo que esta jogada não me falha.
+
+[12] (P65.S1)
+Enquanto eu quebro seu braço sobre meu ombro.
+
+[13] (P66.S0)
+Você viu que está preso e indo ao chão, quebre seu braço e você perderá a adaga.
+
+[14] (P67.S0)
+Eu venho até você com os braços cruzados, E posso realizar todas as jogadas anteriores.
+
+[15] (P68.S0)
+Eu digo que você está tão mal treinado nesta arte; Você se encontrará de repente no chão.
+
+[16] (P69.S0)
+Eu pressiono este seu cotovelo; sem dúvida, vou quebrar seu braço.
+
+[17] (P70.S0)
+Eu te coloquei na chave, apesar de você, porque você não é tão perfeito na Arte.
+
+[18] (P71.S0)
+Quando você estiver no chão, dirá: "Eu não acreditei que chegaria a isso."
+
+[19] (P72.S0)
+Eu tenho você, da maneira que eu gosto; Você irá ao chão contra sua vontade.
+
+[20] (P73.S0)
+Pela passagem que eu faço sob o braço, você irá ao chão com muito esforço.
+

@@ -1,0 +1,144 @@
+MASTER: Ridolfo Capo Ferro da Cagli
+SOURCE BOOK: ridolfo capo ferro da cagli__preface
+FIELD NAME: Complete TranslationbyWilliam WilsonandW. Jherek Swanger
+TOTAL TEXTOS: 46
+================================================================================
+
+[1] (P0.S0)
+Grande Representação da Arte e Uso da Esgrima por Ridolfo Capo Ferro de Cagli, Mestre da Mais Alta Nação Alemã, na Famosa Cidade de Siena.
+
+[2] (P0.S1)
+Dedicado ao Sereníssimo Senhor Don Federigo Feltrio della Rovere, Príncipe do Estado de Urbino.
+
+[3] (P0.S2)
+Em Siena, sob o alpendre dos Pontani.
+
+[4] (P0.S3)
+Imprimido por Salvestro Marchetti e Camillo Turi.
+
+[5] (P0.S4)
+Com licença dos Superiores, e com Privilégios.
+
+[6] (P0.S5)
+1610.
+
+[7] (P1.S0)
+Ao Sereníssimo Senhor Don Francesco Maria Feltrio della Rovere, sexto Duque de Urbino.
+
+[8] (P1.S1)
+Todo pai (Sereníssimo Senhor Duque), para que seus filhos adquiram reputação, procura para eles algum lugar em alguma corte nobre, e de alguma proteção, para proporcionar-lhes o melhor que pode.
+
+[9] (P1.S2)
+Assim eu faço, que, encontrando o presente livro sobre a instrução da esgrima nascido da melhor parte de mim, tento colocá-lo em sua corte, e porque mais querido para mim do que qualquer outro é a prole do meu intelecto, imploro a Vossa Alteza que lhes conceda algum lugar em sua corte, que, sendo um perfeito compêndio do mundo, considerado perfeito, mostrado em si mesmo de tanta beleza e bondade como se encontra no mundo, o mesmo é dedicado ao Sereníssimo Don Federigo, seu filho, recomendando-o à sua proteção, embora um rapaz em vestes infantis, e em brincadeiras, e danças alegres, parece, no entanto, que em suas mãos estão envoltos triunfos e despojos, e como o jovem Hércules com mão infantil, ainda não igual ao propósito, ameaça a Hidra, mata as serpentes, então no generoso brilho de seu aspecto se vê a grandeza de seus ancestrais, a magnanimidade, o valor e as inúmeras outras virtudes, que exauriram os maiores e mais famosos historiadores, e que o tornarão acima de todo Príncipe, e nomeado e ilustre; se não seriam suficientes para conferir tal eminência, na verdade apenas as virtudes de Vossa Excelência sendo em número e qualidade tão grandes, que poderia ser chamado com razão de um diligente imitador da perfeição de DEUS?
+
+[10] (P1.S3)
+Não é de se admirar, portanto, que eu anseie por introduzir em sua Sereníssima Casa, e colocar sob a proteção do Sereníssimo Príncipe, seu filho, este meu livro; mas considerando a singular graça, muito característica de Vossa Alteza e de seu Sereníssimo Sangue, não posso deixar de esperar fortemente que Vossas Altezas, sem considerar a baixeza do assunto, o favoreçam plenamente com seu mais poderoso favor.
+
+[11] (P1.S4)
+Mas, embora de fato possa não ser apropriado para Suas Altezas receber tal baixeza com tanta graça, consentam ao menos (como humildemente lhes imploro) que possa permanecer sozinho no salão público de seu Palácio Real, e nos outros lugares públicos de seu amplo Domínio, pois tanta glória, além disso, surgirá apenas da autoridade de ter um lugar entre aqueles que estão humildemente dedicados a servir e reverenciar Suas Altezas, por quem eu rezo ao Senhor Deus por completa e perpétua felicidade.
+
+[12] (P2.S0)
+Ao Gracioso Leitor Ridolfo Capo Ferro da Cagli.
+
+[13] (P2.S1)
+Não é minha intenção mantê-lo à distância com palavras pomposas e esplêndidas, ao recomendar-lhe a profissão das armas que pratico.
+
+[14] (P2.S2)
+É exaltado na devida ordem de seu mérito, pelo qual é grandemente estimado e honrado, e sempre elogiado, e a grandeza e o valor são louvados daqueles que dignamente levam a espada ao seu lado; entre os quais hoje brilha gloriosamente o Mais Ilustre Senhor Silvio Piccolomini, Grande Prior da Religião dos Cavaleiros de Santo Estêvão em Pisa, e General da Artilharia e Mestre de Câmara de S.A.S.
+
+[15] (P2.S3)
+porque não apenas ele é dotado de plena e maravilhosa vantagem no que diz respeito à espada, mas também em toda e qualquer outra arte cavalheiresca, como suas ações heroicas por meio dela, para a admiração de todos, claramente demonstram.
+
+[16] (P2.S4)
+Mas voltando à espada, digo que é a arma mais nobre de todas, cujo manejo emprega a maior parte da indústria da arte da esgrima de forma honrosa; portanto, segundo meu julgamento, o portar armas não constitui por si só todo o trabalho, e isso não é o que faz a diferença essencial entre um homem completamente valoroso e um vil e covarde, mas também a profissão que alguém exerce para saber como empregá-las valorosamente na legítima defesa de si mesmo e de sua pátria, o que ninguém pode realmente fazer com honra, se não se humilhar primeiro e se colocar sob a lei e as regras da disciplina da esgrima.
+
+[17] (P2.S5)
+Que, à maneira de uma sílex afiada, e aprimorando o valor, o reduz ao ápice de sua verdadeira perfeição.
+
+[18] (P2.S6)
+A razão é que esta ciência é louvável e tão excessivamente preciosa, que seria um trabalho sem esperança querer empreender a tarefa de relatar toda a sua excelência; não creio que qualquer reprovação deva recair sobre mim, pois me propus a condensá-la em termos indubitavelmente breves, infalíveis e bem ordenados, evitando tanto quanto possível as confusões cegas e obscuras, as incertezas enganosas e falaciosas, e a verbosidade pesada e ambiciosa.
+
+[19] (P2.S7)
+Agora, assim como, ao reconhecer minhas fracas faculdades, não me atrevo a ter a alegria do sucesso na plena resposta ao fervor do meu desejo mais ardente, assim estou assegurado de que meu trabalho sincero e cordial não se revelou em vão, comparando-o àqueles que lidaram com o mesmo tema antes de mim.
+
+[20] (P2.S8)
+Considerando que tal coisa dependia da virtude daquele por cuja graça todas as bênçãos descem sobre nós, espero fervorosamente que estas minhas instruções mais fiéis possam ser tão úteis e agradáveis a você quanto as mais ostentosas, por uma pequena partícula daquela doce exibição da verdadeira glória, que agrada aos espíritos graciosos sempre oferecer cortêsmente àquele que, com sinceridade de coração, se dedica perpetuamente a seus honrados serviços.
+
+[21] (P3.S0)
+Tabela Geral da Arte da Esgrima 1.
+
+[22] (P3.S1)
+Primeiro capítulo, da esgrima em geral.
+
+[23] (P3.S2)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[24] (P3.S3)
+No segundo capítulo está contida a definição de esgrima e sua explicação.
+
+[25] (P3.S4)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[26] (P3.S5)
+Na terceira parte é abordada a divisão da esgrima, e trata-se de sua primeira parte, que se fundamenta no conhecimento da espada.
+
+[27] (P3.S6)
+Desculpe, mas não há texto para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[28] (P3.S7)
+Na quarta parte, trata-se da segunda parte da esgrima e da medida.
+
+[29] (P3.S8)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[30] (P3.S9)
+No quinto, discute-se o tempo.
+
+[31] (P3.S10)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[32] (P3.S11)
+No sexto, trata-se da postura do corpo, e principalmente da cabeça.
+
+[33] (P3.S12)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[34] (P3.S13)
+No sétimo, trata-se do corpo.
+
+[35] (P3.S14)
+Desculpe, mas não há texto para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[36] (P3.S15)
+No oitavo, das armas.
+
+[37] (P3.S16)
+Desculpe, mas não há texto para traduzir. Poderia fornecer o texto que você gostaria que eu traduzisse?
+
+[38] (P3.S17)
+No nono, trata-se das coxas, pernas, pés e do passo.
+
+[39] (P3.S18)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[40] (P3.S19)
+No décimo, discute-se a defesa e a guarda.
+
+[41] (P3.S20)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[42] (P3.S21)
+No décimo primeiro, trata-se de buscar a medida estreita.
+
+[43] (P3.S22)
+Desculpe, mas não há texto fornecido para traduzir. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[44] (P3.S23)
+No décimo segundo, trata-se de golpear.
+
+[45] (P3.S24)
+Desculpe, mas parece que você não forneceu o texto que deseja que eu traduza. Por favor, envie o texto em inglês para que eu possa ajudá-lo com a tradução.
+
+[46] (P3.S25)
+No décimo terceiro, da adaga.
+

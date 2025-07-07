@@ -1,0 +1,93 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__preface
+FIELD NAME: Complete TranslationbyGuy Windsor
+TOTAL TEXTOS: 29
+================================================================================
+
+[1] (P1.S0)
+Dessas coisas, através da orientação do Deus todo-poderoso, adquiri uma boa quantidade de conhecimento e isso por meio da experiência prática e da instrução de muitos mestres de diversos países, todos mestres e completamente proficientes e conhecedores nesta arte.
+
+[2] (P2.S0)
+E não para diminuir, mas sim para aumentar esta doutrina, para que ela não pereça por minha negligência, pois dela vem não pequena ajuda em batalhas, guerras, tumultos e outros tumultos bélicos: ao contrário, ela oferece a todos os homens treinados e instruídos neste material ajuda imediata e única: foi sugerido e solicitado que eu compilasse um livreto a respeito dessas coisas por pessoas que eu superei na arte e sou mais prolixo do que elas: acrescentando a isso várias figuras e colocando diversos exemplos para que qualquer homem versado neste material possa utilizá-lo em combates e possa se defender de forma inteligente, além de ser informado sobre todos os tipos e estilos.
+
+[3] (P3.S0)
+Portanto, qualquer um com um espírito generoso verá esta minha pequena obra como uma joia e um tesouro e a guardará na memória bem fundo em seu coração, para que esta arte e disciplina nunca caiam nas mãos de camponeses e homens de baixa estirpe.
+
+[4] (P4.S0)
+Porque o Céu não fez esses homens rústicos, ignorantes e além de toda astúcia e diligência, completamente desprovidos de agilidade corporal, mas ao contrário, foram feitos como animais sem razão, apenas para carregar pesadas cargas e realizar trabalhos baixos e rústicos; e porque eu os declaro, em todos os aspectos, alheios a esta ciência; todos aqueles de inteligência perspicaz e membros ágeis, como os cortesãos, eruditos, barões, príncipes, duques e reis, devem, ao contrário, ser bem-vindos a esta nobre ciência de acordo com o princípio dos Instituta que afirma: não apenas a Majestade Imperial deve ser honrada com Armas, mas também deve estar armada com leis sagradas.
+
+[5] (P5.S0)
+Ninguém deve pensar que há algo falso ou qualquer tipo de erro em meu livro, pois omiti e eliminei tudo que era incerto, e incluí apenas coisas que eu vi e testei.
+
+[6] (P5.S1)
+Comecemos, então, a explicar nossa intenção, com a ajuda e a graça do Deus onipotente, bendito seja Seu nome.
+
+[7] (P6.S0)
+Alguns animais, desprovidos de razão, exercem suas habilidades naturalmente, sem qualquer conhecimento.
+
+[8] (P6.S1)
+O homem, ao contrário, naturalmente carece de habilidades e seu corpo carece de armas.
+
+[9] (P6.S2)
+A natureza compensa essa deficiência de armas dando ao homem suas mãos, e pela falta de habilidades naturais, oferecendo-lhe as virtudes da inteligência e do pensamento.
+
+[10] (P6.S3)
+Mesmo que um homem nascesse com algum nível de habilidade, ele não conseguiria adquirir o restante de forma natural, ou seja, aprender a usar todas as armas e conhecer cada técnica.
+
+[11] (P6.S4)
+Portanto, ele não foi dotado pela natureza nem de habilidade nem de arma.
+
+[12] (P6.S5)
+Consequentemente, entre todos os animais, o homem necessita de inteligência e razão, através das quais a arte e a engenhosidade florescem e nas quais ele ultrapassa e supera todos os outros animais.
+
+[13] (P6.S6)
+Assim, todo homem treinado e inteligente, de boa inteligência, supera e ultrapassa qualquer outro que seja mais robusto e forte do que ele.
+
+[14] (P7.S0)
+Como diz o famoso ditado: a astúcia supera a força.
+
+[15] (P7.S1)
+E o que é ainda maior e quase incrível: o sábio governa as estrelas.
+
+[16] (P7.S2)
+Uma arte que conquista tudo e domina qualquer um que ouse lutar contra você ou se opor a você, nasce da mencionada astúcia e de outro pensamento penetrante.
+
+[17] (P7.S3)
+E não apenas um homem pode prevalecer contra outro, mas também existe um modo e uma possibilidade para que um homem supere muitos.
+
+[18] (P7.S4)
+Não apenas mostramos o caminho e a teoria de combater o adversário, bem como de se defender contra ele, mas também ensinamos métodos de como tomar a arma de sua mão.
+
+[19] (P8.S0)
+Frequentemente, nestes textos, uma pessoa pequena e de pouca força supera, prostra e derruba um homem grande, forte e corajoso no chão; assim, você verá como o humilde pode superar o orgulhoso, e o desarmado, o armado.
+
+[20] (P8.S1)
+E muitas vezes acontece que alguém a pé derrota e conquista alguém a cavalo.
+
+[21] (P9.S0)
+Mas porque seria muito inconveniente se esta nobre doutrina murchasse e morresse por negligência, eu, Philippo di Vadi de Pisa, tendo estudado esta arte desde meus primeiros anos de florescimento, tendo viajado e praticado em muitos países, terras, castelos e cidades diferentes para coletar os ensinamentos e exemplos de muitos mestres perfeitos da arte, tendo adquirido e obtido (pela Graça de Deus) uma porção suficiente da arte, decidi compor esta pequena obra, na qual organizei e mostrei pelo menos os principais pontos de quatro tipos de armas: a lança, a espada, a adaga e o machado.
+
+[22] (P10.S0)
+E neste livro, descreverei as regras, os métodos e as ações desta arte, com exemplos ilustrados por várias figuras, para que qualquer um que seja novo na arte possa entender e aprender como lutar, e por qual truque e artimanha ele pode desviar e repelir os ataques e contra-ataques do oponente.
+
+[23] (P10.S1)
+Eu incluí apenas no referido livro a boa e verdadeira doutrina, que recebi dos mestres mais perfeitos, com grandes esforços, empenhos e noites sem dormir.
+
+[24] (P10.S2)
+E eu também incluí coisas que descobri e frequentemente testei.
+
+[25] (P11.S0)
+Deixe-me lembrar e admoestar a todos para não serem imprudentemente presunçosos, nem tão ousados a ponto de interferir nesta arte e disciplina, a menos que sejam nobres de espírito e cheios de galhardia.
+
+[26] (P11.S1)
+Isso se deve ao fato de que quem é de mente espessa, pusilânime e covarde deve ser banido de tal nobreza e refinamento.
+
+[27] (P11.S2)
+A esta doutrina devem ser convidados apenas homens como soldados, homens de armas, estudiosos, barões, senhores, duques, príncipes e reis da terra, e qualquer um daqueles cuja tarefa é governar o estado, e a qualquer um destes que defenda viúvas e órfãos (ambas as quais são obras piedosas e divinas).
+
+[28] (P12.S0)
+E se esta minha pequena obra encontrar seu caminho nas mãos de alguém versado na arte, e parecer-lhe ter algo redundante ou errado, que lhe agrade cortar, retirar ou adicionar o que desejar.
+
+[29] (P12.S1)
+Porque no final eu me coloco sob sua correção e julgamento.
+

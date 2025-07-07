@@ -1,0 +1,378 @@
+MASTER: Nicoletto Giganti
+SOURCE BOOK: nicoletto giganti__introduction
+FIELD NAME: Draft TranslationbyJeff Vansteenkiste
+TOTAL TEXTOS: 124
+================================================================================
+
+[1] (P3.S0)
+Ao Senhor Leitores, Almoro Lombardo, Filho do Mais Renomado Senhor Marco.
+
+[2] (P3.S1)
+Desejando escrever sobre o assunto das armas, embora o autor não mencione que se trata de uma ciência, para mim parece uma coisa necessária, Senhores Leitores, tratar sobre qual parte lhe cabe, e com qual nome deve ser adornada, para que todos conheçam sua grandeza, dignidade e privilégio.
+
+[3] (P3.S2)
+Assim, antes que qualquer erudito desta mais nobre ciência leia e discuta as mais sábias e fáceis observações do valoroso e conhecedor especialista, Nicoletto Giganti, a fim de observar a regra e o preceito geral de uma pessoa que deseja abordar qualquer coisa, eu chegarei à definição e, em seguida, à divisão geral desta palavra “ciência”.
+
+[4] (P3.S3)
+Dessas duas coisas, finalmente será reconhecido por todos que esta bela profissão nos mostra que é uma ciência.
+
+[5] (P3.S4)
+A ciência, portanto, é um conhecimento certo e manifesto das coisas que o intelecto adquire.
+
+[6] (P3.S5)
+É de duas sortes—isto é, especulativa e prática.
+
+[7] (P3.S6)
+Especulativo é uma operação simples do intelecto em torno de seu objeto apropriado.
+
+[8] (P3.S7)
+O prático consiste apenas nas operações reais do intelecto.
+
+[9] (P3.S8)
+Especulativa é dividida em duas partes—isto é, em especulativa real e especulativa racional.
+
+[10] (P3.S9)
+O real visa a realidade de seu objeto, que revela sua essência em seu exterior.
+
+[11] (P3.S10)
+O racional consiste naquelas coisas que apenas o intelecto administra e não se estende a outros objetivos.
+
+[12] (P4.S0)
+A física é uma verdadeira ciência especulativa que visa apenas as coisas em movimento e naturais, como os elementos.
+
+[13] (P4.S1)
+A matemática é uma verdadeira ciência especulativa que se estende apenas até o contínuo e o discreto—contínuo como linhas, círculos, superfícies—cujas medidas a aritmética trata.
+
+[14] (P4.S2)
+Gramática, retórica, poesia e lógica são ciências especulativas racionais.
+
+[15] (P5.S0)
+A ciência prática é ainda dividida em duas: ativa e produtiva.
+
+[16] (P5.S1)
+Ética, política e economia são atividades.
+
+[17] (P5.S2)
+Produtivo pode ser separado em sete outros, chamados mecânicos, que são a arte da lã, a agricultura, a soldadesca, a navegação, a medicina, a caça e a metalurgia.
+
+[18] (P6.S0)
+Agora, para chegar ao que prometi acima sobre esta nobre ciência, revisarei suas qualidades e natureza, discutindo se é uma ciência especulativa ou prática.
+
+[19] (P6.S1)
+Eu digo que, na minha opinião, é especulativo, e provarei isso com diversas razões.
+
+[20] (P6.S2)
+Não há dúvida de que é ciência, pois não se adquire senão através da operação do intelecto, do qual ela brota.
+
+[21] (P6.S3)
+Que é especulativo é certo, pois não consiste em mais do que o simples conhecimento de seu objeto, como demonstrarei adiante.
+
+[22] (P6.S4)
+O objetivo desta ciência não é nada mais do que desviar e ferir.
+
+[23] (P6.S5)
+O conhecimento dessas duas coisas é uma obra do intelecto, e os especialistas dessa ciência não a estendem com inteligência além do conhecimento delas.
+
+[24] (P6.S6)
+Eles não podem ser compreendidos de forma alguma a menos que se tenha primeiro conhecimento de tempos e medidas, nem das fintas, desengajamentos ou resoluções sem o conhecimento de tempos e medidas.
+
+[25] (P6.S7)
+Estas são todas operações do intelecto.
+
+[26] (P6.S8)
+Além disso, o intelecto não vai além desse entendimento porque, como já disse, o objetivo desta profissão é compreender a defesa e o ferimento.
+
+[27] (P6.S9)
+Veremos se é uma verdadeira ciência especulativa ou uma ciência especulativa racional, entretanto.
+
+[28] (P6.S10)
+Pensando nisso, não pode ser racional, e a razão é esta: Embora seja uma operação do intelecto, ela se estende ainda mais, pelo que a considero uma verdadeira ciência especulativa.
+
+[29] (P6.S11)
+Real, porque o conhecimento de seu objetivo nos é mostrado externamente pelo intelecto, uma vez que a compreensão de ferir e defender, juntamente com tempos, medidas, enganos, desengajamentos e resoluções, apesar de serem operações do intelecto, não podem ser compreendidas se não forem externas.
+
+[30] (P6.S12)
+Essa expressão externa consiste na postura do corpo e da espada nas guardas e contraguardas, que todas consistem em círculos, ângulos, linhas, superfícies, medidas e números.
+
+[31] (P6.S13)
+Essas coisas, que devem ser observadas, podem ser lidas em Camillo Agrippa e em muitos outros especialistas desta ciência.
+
+[32] (P6.S14)
+Observe que, assim como aquelas operações do intelecto sem uma operação exterior não podem ser demonstradas, essas operações exteriores não podem ser compreendidas sem as operações prévias do intelecto, de modo que esta ciência, que deriva do intelecto, não pode ser entendida se não de forma exterior.
+
+[33] (P6.S15)
+Nem pode ser compreendido externamente sem as operações do intelecto.
+
+[34] (P6.S16)
+Essas operações buscam compreender a grandeza, a excelência e a perfeição desta profissão, e sempre serão vistas unidas.
+
+[35] (P6.S17)
+Assim como nunca haverá sol sem dia, nem dia sem sol, nunca haverá aqueles sem estes, nem estes sem aqueles.
+
+[36] (P6.S18)
+No final, vemos que é uma verdadeira ciência especulativa.
+
+[37] (P6.S19)
+Esta ciência da espada, ou das armas, é uma verdadeira ciência matemática especulativa—de geometria e aritmética.
+
+[38] (P6.S20)
+Da geometria porque consiste em linhas, círculos, ângulos, superfícies e medidas, e da aritmética porque consiste em números.
+
+[39] (P6.S21)
+Não há movimento do corpo que não produza um ângulo ou uma restrição, nenhum movimento da espada que não percorra uma linha, nenhuma guarda ou contra-guarda que não proceda por número.
+
+[40] (P6.S22)
+As observações dessas coisas dependem do conhecimento de tempos e medidas, de onde concluo que esta ciência tão nobre é especulativa, realmente matemática—de geometria e aritmética—como disse um pouco acima.
+
+[41] (P7.S0)
+Talvez alguma pessoa curiosa que discuta sobre isso possa dizer que a ciência das armas é uma ciência prática por esta razão: A ciência prática é uma ciência que se estende não apenas ao conhecimento de seu próprio objeto, mas à sua operação, e a ciência da espada sendo uma ciência que se aplica não apenas ao conhecimento dela, mas à sua operação, esta ciência é, portanto, prática e não especulativa.
+
+[42] (P7.S1)
+A esta objeção eu respondo: Todas as coisas têm alguma operação da natureza.
+
+[43] (P7.S2)
+Nossas operações são de três tipos: Algumas são internas, e estas existem no intelecto puro e simples e derivam de uma ciência especulativa racional.
+
+[44] (P7.S3)
+Alguns são internos e externos, e estes têm uma comunhão dentro e fora do intelecto e surgem de uma verdadeira ciência especulativa.
+
+[45] (P7.S4)
+Alguns são completamente externos, e estes existem inteiramente fora do intelecto e dependem de uma ciência prática.
+
+[46] (P7.S5)
+Eles são ativos ou produtivos.
+
+[47] (P7.S6)
+A ciência especulativa produtiva real não é diferente da ciência prática, exceto por isto: A verdadeira ciência especulativa, embora opere externamente em seu objeto, ainda assim fornece a compreensão disso no intelecto.
+
+[48] (P7.S7)
+A ciência prática não só não pode operar sobre seu objeto se não for externamente, mas também não pode sequer chegar a compreendê-lo se não for externamente.
+
+[49] (P7.S8)
+A ciência das armas obtém o conhecimento de seu objeto no intelecto e, embora opere externamente, não pode ser considerada uma ciência prática.
+
+[50] (P7.S9)
+Na verdade, é uma ciência real especulativa.
+
+[51] (P8.S0)
+Portanto, vimos que é uma ciência e que é matemática—de geometria e aritmética—uma vez que consiste em números, linhas e medidas.
+
+[52] (P8.S1)
+O autor não faz menção a isso em suas observações, para que pessoas eruditas e aquelas sem estudo possam obter algum proveito dele.
+
+[53] (P8.S2)
+A partir dessas figuras e de suas renomadas lições, portanto, sem aprender a entender a multiplicidade de linhas, círculos, ângulos e superfícies que, ao contrário, confundiriam a mente do leitor que não compreende esses estudos, não lhe dando instrução, todos, sem dúvida ou esforço, aprenderão a entender tempos, medidas, resoluções, fintas, desengajamentos e o método de defender e ferir.
+
+[54] (P9.S0)
+Quanto ao aprendizado de círculos, linhas e outras coisas mencionadas acima, toda pessoa estudiosa chegará a compreendê-las com a prática.
+
+[55] (P9.S1)
+Sempre aconselharei a todos a dedicar-se ao estudo das letras antes desta profissão, pois alguém que estudou para compreender as coisas necessárias em torno desta ciência aproveitará melhor e se tornará mais excelente e perfeito, reduzindo consideravelmente o tempo para adquirir o entendimento das coisas mencionadas: guardas e contraguardas, sutis e óbvias.
+
+[56] (P9.S2)
+Aquele que não estudou não alcançará tão facilmente e, mesmo que possa aprender, não adquirirá o entendimento desta ciência sem um longo tempo e exercício contínuo.
+
+[57] (P10.S0)
+Quão grande é a dignidade e a estima desta profissão?
+
+[58] (P10.S1)
+Que decoro busca?
+
+[59] (P10.S2)
+Que reputação, e quanta honra é devida?
+
+[60] (P10.S3)
+Sob qual obrigação está alguém que empunha a espada e faz dela uma profissão?
+
+[61] (P10.S4)
+Digo que sua dignidade e consideração derivam inteiramente de suas qualidades, pelas quais podem ser compreendidas.
+
+[62] (P10.S5)
+Esta ciência da espada é separada em três partes, e a primeira é dividida em duas: natural e artificial.
+
+[63] (P10.S6)
+Natural é um discurso demonstrativo que o homem utiliza naturalmente ao desviar e ferir, uma vez que avança com esses objetivos, extraindo o que a mãe natureza lhe proporciona para suas necessidades com sua própria engenhosidade.
+
+[64] (P10.S7)
+Isto é o que muitos homens de coragem e espírito demonstraram em grande medida em suas contendas com homens de grande arte e conhecimento.
+
+[65] (P11.S0)
+O artificial é aquilo que, com engenho e longo uso e prática, encontra diferentes maneiras de defender e ferir utilizando as coisas acima mencionadas, abrangido por regras curtas e métodos extraordinários.
+
+[66] (P11.S1)
+Assim, ao chegar a uma certa ocasião, um homem extrai os termos adequados de segurança disso.
+
+[67] (P11.S2)
+Em suas lições, o autor demonstra grande compreensão dessas duas qualidades e o leitor ficará plenamente satisfeito com elas.
+
+[68] (P12.S0)
+A segunda parte é esta: A ciência artificial da espada está dividida em duas: demonstrativa e praticada.
+
+[69] (P12.S1)
+Demonstrativo é aquilo que mostra o método e o termo adequados de parry e ferir, firme como na passada, quando se deve amarrar o inimigo, e quando se deve recuar por meio das linhas, círculos ou circunstâncias que você se lembra de cima, através das quais o intelecto governa e transmite as várias e múltiplas posturas e contraposturas do corpo.
+
+[70] (P12.S2)
+Praticado é o mesmo demonstrativo que, agora que o adquirimos, aplicamos à compreensão de mil advertências.
+
+[71] (P12.S3)
+Não há diferença entre eles, exceto que o demonstrativo é autocontido e o praticado serve à compreensão de várias coisas.
+
+[72] (P13.S0)
+A terceira parte é esta: A ciência demonstrativa da espada divide-se em duas: a primeira demonstrativa consiste em termos não complexos—isto é, termos simples—ou compostos, que combinam múltiplos termos demonstrativos de várias circunstâncias, como estar fora de medida, com os braços abertos, as armas altas ou baixas.
+
+[73] (P13.S1)
+Esses são chamados de termos não complexos—isto é, termos não compreendidos pelo inimigo.
+
+[74] (P13.S2)
+Eles são chamados de simples porque são naturais.
+
+[75] (P13.S3)
+Eles são chamados de compostos porque contêm muitas considerações.
+
+[76] (P13.S4)
+Estes são divididos em primeiros e segundos conceitos.
+
+[77] (P13.S5)
+Os primeiros conceitos são coisas reais que são primeiramente compreendidas pelo intelecto, como a defesa e o ferimento, e estas funcionam na primeira intenção.
+
+[78] (P13.S6)
+Os segundos conceitos são formados pelo intelecto e produzem nossa segunda intenção, o conhecimento, a fim de sermos capazes de ferir e defender.
+
+[79] (P13.S7)
+Estes são produzidos por meio do primeiro, pois assim que nosso intelecto aprendeu este objetivo de ferir e defender, imediatamente raciocina sobre como pode ser feito de diferentes maneiras e com diferentes métodos.
+
+[80] (P13.S8)
+A segunda demonstração consiste em termos complexos—isto é, termos que combinam múltiplos termos demonstrativos—e esses termos, seja unidos à medida ou separados à distância, demonstram seu propósito, assim como estar em guarda com as armas fechadas demonstra, seja à distância ou à medida da postura do corpo (ou contraposição, que é o ponto disso), quantas coisas podem ser feitas com isso.
+
+[81] (P13.S9)
+Por essa razão, vê-se quão valorizada é esta bela ciência por suas qualidades e pelos termos que contém.
+
+[82] (P14.S0)
+E assim, isso é de grande dignidade porque é uma verdadeira matemática especulativa—de geometria e aritmética—e pelas muitas qualidades que se encontra conter.
+
+[83] (P14.S1)
+Assim, digo que requer decoro e reputação que correspondam ao seu próprio.
+
+[84] (P14.S2)
+Deve-se também considerar, ó Leitores, que esta ciência é predominantemente encontrada nas cortes reais e com cada príncipe, estudada nas cidades mais famosas por barões, condes, cavaleiros e pessoas de grande qualidade.
+
+[85] (P14.S3)
+Isto se deve a nenhuma outra razão senão porque, assim como é nobre, excita e inflama nossos espíritos para grandes feitos, para ações heroicas que estejam à altura da virtude do espírito, da bravura do corpo, do vigor, da força e da habilidade da pessoa.
+
+[86] (P14.S4)
+Sempre requer uma correspondência igual e não permite impugnação delas.
+
+[87] (P14.S5)
+Quer ser compreendido e aprendido, mas não professado, não adotado para toda tolice.
+
+[88] (P14.S6)
+Evita as disputas de pessoas vilãs.
+
+[89] (P14.S7)
+Não faz tudo o que pode, mas se mostra no tempo e no lugar.
+
+[90] (P14.S8)
+Ele evita as práticas do excesso e é de poucas palavras.
+
+[91] (P14.S9)
+Deseja um comportamento sério, um olhar atento, uma vestimenta honrada e uma prática nobre.
+
+[92] (P14.S10)
+Isto é suficiente sobre seu decoro e reputação.
+
+[93] (P15.S0)
+Em relação à honra que lhe é devida, deve-se notar que a observância de todas essas coisas é uma honra para esta profissão.
+
+[94] (P15.S1)
+Resta apenas dizer qual é a obrigação de alguém que porta a espada.
+
+[95] (P15.S2)
+Passaremos sobre os termos desses “duelistas” que, além de terem mal compreendido tal profissão, digo que com muitas de suas proposições também a degradam e a reduziram a um estado tão infeliz que não apenas despreza a vida virtuosa, o discurso humano e toda razão que tal ciência exige, mas, esquecendo-se do grande Deus e de si mesmos como consequência, seus objetivos injustos a possuem apenas para a condenação de seus espíritos, abandonando a divina igreja por seus pensamentos diabólicos.
+
+[96] (P16.S0)
+Esta profissão, ó Leitores, impõe a quem a pratica a obrigação de compreender que ela deseja ser utilizada em quatro ocasiões: A primeira pela fé, depois pela pátria, pela defesa da própria vida e, finalmente, pela honra.
+
+[97] (P16.S1)
+Ele sempre deseja ser um campeão da razão, nunca sendo utilizado para fazer o mal, e quem o faz prejudica esta profissão.
+
+[98] (P16.S2)
+Nem um homem de honra jamais se apegará a um erro para lutar, mas o fará apenas pelas coisas mencionadas.
+
+[99] (P16.S3)
+É necessário ter uma ocasião, pois lutar sem uma é coisa de tolos e bêbados.
+
+[100] (P17.S0)
+Alguns, assim que adquiriram um começo disso, costumam colocar a espada ao seu lado e, utilizando mil insolências, detêm, ferem ou, às vezes, matam algum infeliz, acreditando ter conquistado honra e fama.
+
+[101] (P17.S1)
+Eles fazem o mal porque, mais do que prejudicar a nobreza disso, que não deve ser empregada sem razão, ofendem o justo Deus e a si mesmos.
+
+[102] (P17.S2)
+Para não me tornar tedioso, não continuarei, mas apenas exorto cada pessoa a estudar uma ciência tão nobre e verdadeira, implorando-lhe que preste atenção às observações abaixo assinadas de nosso nobre especialista e as pratique, pois em pouco tempo não se obterá pequeno lucro, observando o quanto isso se adequa à sua própria honra, glória e grandeza.
+
+[103] (P108.S0)
+Prefácio aos Senhores Leitores Sendo o caso que em meu primeiro livro discuti o golpe firme, as fintas, e ensinei a defender contra todos os stoccate, neste, meu segundo, pensei em ser mais universal, pretendendo ensinar-vos tipos adicionais de armas e, mais importante, como todas as sortes de cortes são defendidas e como devem ser desferidos, o método de passar com o pé, e tudo de acordo com o que prometi a vós em meu Primeiro Livro.
+
+[104] (P108.S1)
+É necessário que alguém que deseje se tornar perfeito na profissão das armas não apenas saiba como desferir um golpe com precisão, realizar uma bela finta e passar bem com o pé direito e o pé esquerdo, mas também que conheça o contra a todas essas coisas—isto é, como se defender graciosamente contra elas.
+
+[105] (P108.S2)
+Dito isso, alguém que sabe como desferir um golpe de estocada bem e como realizar um passo, mas que carece de conhecimento sobre como se defender, pode ser considerado como não sabendo nada, pois se ele se confrontar com outro que saiba desferir um golpe de estocada como ele, ambos serão feridos.
+
+[106] (P108.S3)
+Assim, é bom saber como desferir uma estocada e realizar um avanço, mas é muito melhor saber como se defender contra isso, como discutiremos neste livro.
+
+[107] (P108.S4)
+Além disso, alguém que é um homem valente ao desferir um golpe e avançar e que também sabe como se defender contra todos os tipos de investidas e fintas, mas que carece de habilidade em desferir e se defender contra cortes, entende-se que não sabe nada.
+
+[108] (P108.S5)
+Isto se deve ao fato de que, se ele se confrontar com alguém que não sabe esgrimar com a espada, como se encontra na maioria das vezes hoje em dia, ele terá que saber como defender os cortes, uma vez que os instintos daqueles que não têm conhecimento naturalmente desferem muitos cortes.
+
+[109] (P108.S6)
+Mesmo que alguém que sabe desferir um golpe de estocada contenda com alguém que não sabe, ele o atingirá com uma estocada, no mesmo tempo em que a outra pessoa lhe desferir um corte, de onde ambos serão atingidos.
+
+[110] (P108.S7)
+Tantas estocadas quantas a pessoa que sabe desferir uma estocada lhe lança, tantas cortes o outro lançará em sua cabeça ou pernas, treinado assim pela natureza.
+
+[111] (P108.S8)
+Dado que ambos estariam em perigo, e por essa razão saber como desferir uma stoccata não é suficiente.
+
+[112] (P108.S9)
+Saber como defender cortes é muito útil, porém.
+
+[113] (P108.S10)
+Portanto, encorajo a todos que desejam aprender esta virtude da esgrima a aprender a desferir tudo, estocadas e cortes, e, além disso, a aprender a se defender contra estocadas e cortes de todos os tipos de forma adequada.
+
+[114] (P108.S11)
+Três tipos de cortes são desferidos.
+
+[115] (P108.S12)
+Os primeiros são cortes concertados, que são aprendidos com os mestres.
+
+[116] (P108.S13)
+Os segundos são os cortes naturais daqueles homens que nada sabem desta profissão e desferem certos golpes bizarros que não podem ser defendidos senão por aqueles que têm muita prática nesta virtude.
+
+[117] (P108.S14)
+Desejando aprender a se defender contra esses cortes naturais, é necessário, após ter aprendido a executar estocadas e cortes corretamente, que você reconheça o tempo e a medida e que saiba como esgrimar com aqueles que não têm conhecimento deles.
+
+[118] (P108.S15)
+Comece a praticar com aqueles que nada sabem e deixe que eles lhe lancem da sua própria maneira.
+
+[119] (P108.S16)
+Defendendo-se com a espada e a adaga de acordo com o que você vê que ele lhe lança, ataque-o pelo lado que ele descobre.
+
+[120] (P108.S17)
+Esgrimando com vários homens, você aprenderá a defender cortes naturais.
+
+[121] (P108.S18)
+É por essa razão que não é de se admirar que alguns bons esgrimistas, competindo com aqueles que não têm conhecimento, sejam frequentemente atingidos—isto é, porque não estão acostumados a lidar com aqueles que nada sabem, não sabem, portanto, como defender os cortes naturais.
+
+[122] (P108.S19)
+O terceiro tipo de corte é artificial.
+
+[123] (P108.S20)
+Esses são aprendidos de muitas maneiras, como fazer uma demonstração de desferir um golpe em um lugar e depois desferi-lo em outro, ou até mesmo se posicionar em alguma guarda artificial e descoberta para que o inimigo ataque e, em seguida, desferir um estocada ou um golpe.
+
+[124] (P108.S21)
+Discutiremos todos esses tipos neste livro.
+

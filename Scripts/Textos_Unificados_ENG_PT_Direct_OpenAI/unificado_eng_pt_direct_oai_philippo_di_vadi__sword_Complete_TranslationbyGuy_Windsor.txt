@@ -1,0 +1,66 @@
+MASTER: Philippo di Vadi
+SOURCE BOOK: philippo di vadi__sword
+FIELD NAME: Complete TranslationbyGuy Windsor
+TOTAL TEXTOS: 20
+================================================================================
+
+[1] (P31.S0)
+[1] Vós sois guardas com os vossos nomes. Cada um de vós, mostre-se de lado.
+
+[2] (P31.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[3] (P32.S0)
+Eu sou a porta de ferro de chão plano, Que sempre impede cortes e estocadas.
+
+[4] (P32.S1)
+Eu sou a guarda do falcão, excelente e elevada Para fazer defesas de todas as maneiras.
+
+[5] (P33.S0)
+Eu sou a guarda da verdadeira janela. De acordo com a arte, levante sua perna esquerda.
+
+[6] (P33.S1)
+Eu sou a coroa e fui feito mestre, sou considerado hábil em amarras.
+
+[7] (P34.S0)
+Eu sou a guarda frontal, tão confiável, não me importo com cortes e estocadas.
+
+[8] (P34.S1)
+Eu sou a guarda do javali e estou do lado de fora, não me abstenho de golpear.
+
+[9] (P35.S0)
+Por este agarre do seu braço que eu fiz, eu o atingirei com um corte ou golpe de pomo.
+
+[10] (P36.S0)
+Eu te prendi do lado roverso, Serás lançado ao chão por um golpe da espada.
+
+[11] (P37.S0)
+Por este movimento que dei à minha espada, creio que terei cortado a metade da sua garganta.
+
+[12] (P38.S0)
+[21] Não desejo fazer guerra com minha espada, mas com a sua eu te lançarei ao chão.
+
+[13] (P39.S0)
+Com habilidade, eu te coloquei nesta posição, farei você cair ao chão na primeira tentativa.
+
+[14] (P40.S0)
+[25] Por este giro do pomo eu te prendi, Imediatamente, se eu quiser, eu te lançarei ao chão.
+
+[15] (P41.S0)
+[27] Com o giro dado à minha rápida espada, eu atingirei seus braços ou sua cabeça.
+
+[16] (P42.S0)
+Este é um empunhadura que eu faço de baixo, eu a farei cair na primeira tentativa.
+
+[17] (P43.S0)
+Pela volta que meu punho deu, faço você cair ao chão de costas.
+
+[18] (P44.S0)
+[33] Fiz uma finta de desferir um golpe de cima para baixo, cortarei sua mandíbula e dentes juntos.
+
+[19] (P45.S0)
+[35] Este é um empunhadura que faço por dentro, você vai ao chão como eu sinto.
+
+[20] (P46.S0)
+Eu desvio sua espada na metade da lâmina, Você receberá uma boa dose do meu pomo.
+

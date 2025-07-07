@@ -1,0 +1,414 @@
+MASTER: Alfonso Falloppia
+SOURCE BOOK: alfonso falloppia__sword_alone
+FIELD NAME: Draft TranslationbyPiermarco Terminiello
+TOTAL TEXTOS: 136
+================================================================================
+
+[1] (P2.S0)
+Começarei discutindo brevemente a espada sozinha, sendo a mais importante entre todas as outras armas, da maneira que se segue.
+
+[2] (P2.S1)
+Primeiramente, um homem que deseja empregar este tipo de arma deve posicionar seu corpo da seguinte maneira: com o pé direito à frente, em pé de perfil, dobrando um pouco o joelho esquerdo, em uma meia-passo.
+
+[3] (P2.S2)
+Seu braço da espada deve estar estendido, com a mão a um palmo acima da cabeça, e a ponta perpendicular em direção ao peito de seu inimigo.
+
+[4] (P2.S3)
+Ele pode executar estocadas e cortes conforme achar adequado, em tempo, cuidando para desferir os golpes rapidamente e retornar rapidamente à sua postura inicial, garantindo que os golpes sejam longos, esticando seu corpo e estendendo seu passo o máximo que puder.
+
+[5] (P2.S4)
+Tendo adquirido esse hábito com muita prática, ele agirá da mesma forma na raiva, não diferentemente de quando está em seu estado natural.
+
+[6] (P2.S5)
+Desta guarda, ele pode praticar golpes com a mão, evasões do corpo – seja para trás, ou para os lados, conforme o tempo o exigir; e esta primeira forma pode servir em muitas ocasiões no jogo da espada.
+
+[7] (P3.S0)
+Há também uma segunda forma, mais baixa, que exige a linha central, a qual governa, mantendo seu braço estendido em linha com seu ombro, de modo que seu punho esteja voltado para o ombro do seu inimigo, enquanto seu rosto está coberto pelo punho.
+
+[8] (P3.S1)
+Ao inclinar a cabeça em direção ao ombro da espada, enquanto se está nesta posição, se o seu inimigo desferir um corte mandritto em sua cabeça, você pode defendê-lo por dentro, encontrando-o no rosto nesse mesmo tempo.
+
+[9] (P3.S2)
+Se ele te atacar com um roverso na cabeça, você pode defender para fora e encontrá-lo no rosto.
+
+[10] (P3.S3)
+Se ele atacar suas pernas enquanto você está nesta postura mencionada, você pode enfrentá-lo de frente, ou mais abaixo, puxando sua perna de volta em direção à outra.
+
+[11] (P3.S4)
+A razão dita que, com a espada sozinha, se alguém atacar as pernas, eles correrão em direção à ponta da sua espada com o rosto, sem que você precise defender; o que muitos fazem, defendendo-se das pernas com a espada.
+
+[12] (P3.S5)
+Se dois lutam com a espada sozinhos, mantendo a linha central, e um desce para as pernas, ele sempre traz sua cabeça para frente, e se encontrar a espada de seu inimigo (o que é facilmente feito), descobrirá que sua própria espada não alcança.
+
+[13] (P3.S6)
+Embora eu não aprove ataques às pernas enquanto a espada está em presença, pois isso traz grande risco, você pode muito bem ferir a perna apenas com a espada, mas procure o tempo em que a espada do inimigo sai de presença, ou então defenda um corte com cobertura, e rapidamente responda às pernas, pulando rapidamente para trás para evitar o choque, que pode acontecer com a espada em seu rosto, quando você desce para as pernas.
+
+[14] (P4.S0)
+Você pode atacar as pernas com um desvio para os lados, mas observe cuidadosamente a posição da espada do seu inimigo, pois com um desvio do corpo para o lado, se você não for rápido em se defender bem, pode ser atingido na cabeça por um mandritto ou roverscio, dependendo de qual lado você se mover.
+
+[15] (P4.S1)
+No entanto, digo que atacar as pernas apenas com a espada é extremamente perigoso.
+
+[16] (P4.S2)
+Se você não tem um grande tempo, ou uma grande rapidez de corpo, isso não é benéfico.
+
+[17] (P4.S3)
+Se você defende um corte nas pernas com sua espada, corre um grande risco, pois com um movimento do pulso pode ser atingido na cabeça.
+
+[18] (P4.S4)
+Portanto, você não deve defender-se dessa maneira.
+
+[19] (P4.S5)
+É melhor estender sua ponta em linha reta, puxando sua perna um pouco para si, virando seu corpo, assim atingindo seu inimigo com facilidade.
+
+[20] (P4.S6)
+Enquanto dois lutam com a espada sozinhos, você também deve ser aconselhado que, quando um desferir um golpe, você pode encontrá-lo com sua espada e ferir no mesmo tempo, e fazer isso facilmente.
+
+[21] (P4.S7)
+Isto se deve ao fato de que é extremamente vantajoso esperar que o outro ataque.
+
+[22] (P4.S8)
+Porque ao atacar, ele primeiro traz seu debole sobre seu forte.
+
+[23] (P4.S9)
+Enquanto você mantém a linha central, independentemente dos ataques, seja por dentro ou por fora, você pode facilmente enfrentá-lo, virando sua mão para o lado onde seu inimigo se move para atacar.
+
+[24] (P4.S10)
+Se ele atacar por dentro, você pode encontrar com seu forte, virando um pouco a mão, de modo que a espada do inimigo permaneça fora de alcance, enquanto a sua fere primeiro, nesse tempo.
+
+[25] (P4.S11)
+Se ele atacar por fora, em direção ao seu ombro da espada, você pode encontrar o golpe com o forte da sua espada, inclinando levemente o seu corpo para fora, em direção ao rosto dele.
+
+[26] (P4.S12)
+Aconselho que o forte da sua espada se estenda da empunhadura até dentro de um braccio [3] da ponta.
+
+[27] (P4.S13)
+Se o seu inimigo deseja conquistar sua espada, mantenha vigilância, para que, quando ele mover sua espada, antes que tenha vantagem sobre a sua, você não se desengaje com um tempo largo, mas sim libere sua espada e entre em um tempo.
+
+[28] (P4.S14)
+Enquanto ele executa dois tempos, um para ganhar sua espada e outro para atacar, você apenas realiza o movimento de não deixar sua espada ser encontrada e ferir nesse mesmo tempo.
+
+[29] (P4.S15)
+Se acontecer que você não consiga executar isso com diligência e rapidez, e ele ganhar sua espada, não tente forçá-la a se soltar.
+
+[30] (P4.S16)
+Isto não teria efeito algum, você pode, no entanto, libertá-la desta maneira: recuando um pouco, com um vazio do seu corpo, o que libertará sua espada.
+
+[31] (P4.S17)
+Você pode então prosseguir atacando, ou encontrando a espada do seu inimigo, ou aguardando na guarda – para entrar quando o tempo surgir.
+
+[32] (P4.S18)
+Se o seu inimigo desferir um grande golpe, encontre-o com seu forte e entre nesse mesmo tempo, pois você facilmente poderá desviar e ferir em um só tempo.
+
+[33] (P4.S19)
+Se ele desferir um golpe, e você tiver apenas a espada, deve observar a espada dele, para entender onde sua ponta pode atingir e quão perto você está.
+
+[34] (P4.S20)
+Porque se você está perto do inimigo, deve estar ciente de onde a espada dele se move.
+
+[35] (P4.S21)
+Se a ponta chegar baixa, você deve encontrá-la com seu forte, fugindo com um pequeno vazio para o lado, ou seja, desviando da ponta.
+
+[36] (P4.S22)
+Cuide, no entanto, para não anular de tal forma que sua ponta deixe a linha central e a presença do seu inimigo, pois você pode facilmente atacar nesse mesmo tempo, aplicando essa habilidade.
+
+[37] (P4.S23)
+Se o seu inimigo desferir um golpe, e você não estiver muito perto, deve avaliar a distância e recuar seu corpo, sem deslocar sua espada da linha central ou da presença do seu inimigo, pois você pode facilmente encontrar a espada dele com seu forte e contra-atacar.
+
+[38] (P4.S24)
+Porque ao recuar você traz o debole do inimigo para o seu forte, e ele não pode feri-lo sem antes reunir seu passo, tomando um tempo mais longo, como segue.
+
+[39] (P4.S25)
+Após ter desferido o golpe, que não atingiu o alvo, o inimigo pode se recuperar da seguinte maneira: mantendo seu braço na linha central, com um olhar rápido para recuperar sua espada que se encontra em seu forte, ele então reúne seu pé esquerdo em direção ao direito, com um passo longo ou curto, dependendo de como você se moveu.
+
+[40] (P4.S26)
+No entanto, você deve ser ágil com os olhos e as pernas, e ter determinação em seu jogo, e não agir como muitos fazem, que, tendo desferido seu golpe, o qual o inimigo defendeu, permanecem desordenados, sem saber como tomar novas ações, não considerando que o outro tem mãos com as quais pode defender e atacar.
+
+[41] (P4.S27)
+Por essa razão, tenha muito cuidado para não se precipitar nas mãos do inimigo, considere também o que ele pode fazer, você encontrará muitas abordagens diversas: aquele que espera o inimigo atacar primeiro, aquele que circula para encontrar o tempo, aquele que joga curto, aquele que joga longo, no entanto, desejo aconselhá-lo sobre todas essas circunstâncias.
+
+[42] (P4.S28)
+Se o seu inimigo circular ao seu redor, não quero que você ande de maneira semelhante, cercando, como muitos fazem, mas que permaneça firmemente em sua posição.
+
+[43] (P4.S29)
+Ao dar três ou quatro passos para ganhar uma vantagem, para um lado ou para o outro, e ao mover seu corpo, assegure-se de que a ponta de sua espada esteja sempre observando-o.
+
+[44] (P4.S30)
+Quando você souber que seu corpo está, portanto, cercado, e que você não está na presença da ponta da espada dele, dê apenas um passo no círculo, pequeno ou grande, dependendo do tempo que você encontrar, ou seja, se o inimigo o cerca rapidamente ou lentamente.
+
+[45] (P4.S31)
+Quando o inimigo deseja tirar vantagem de você para roubar o tempo, ele dará três ou quatro passos, no entanto, você apenas moverá o pé que estiver à sua frente, da maneira que descrevi acima, portanto, com esta regra ninguém poderá roubar o tempo de você.
+
+[46] (P4.S32)
+Você também tem outra vantagem: enquanto o inimigo deseja cercá-lo, você pode atacá-lo de forma vantajosa nesse tempo, pois ele pensa em roubar o tempo de você, mas naquele instante você pode atacar e roubá-lo dele, e além disso ferir exatamente nesse único tempo, onde você desejar, dependendo da área que estiver descoberta.
+
+[47] (P4.S33)
+Seja rápido em desferir seu ataque e em recuperar seu corpo.
+
+[48] (P4.S34)
+Você deve prestar atenção ao tempo que descrevo abaixo, que é muito vantajoso, governando-se da maneira que segue.
+
+[49] (P4.S35)
+Toda vez que você mantiver a linha central, e seu inimigo desejar iniciar um ataque na forma de um corte, quero que você empurre sua espada diretamente para frente, enquanto ele levanta o braço para atacá-lo.
+
+[50] (P4.S36)
+Antes que seu golpe desça, você poderá feri-lo, com grande vantagem.
+
+[51] (P4.S37)
+Se você considerar cuidadosamente, seus olhos observando a espada dele nesta ação, você descobrirá que quando seu inimigo baixa sua espada, ele a traz para o seu forte.
+
+[52] (P4.S38)
+O mesmo ocorre quando o inimigo começa, desejando desferir certos cortes de pulso em sua cabeça; quero que você o enfrente de frente, e você conseguirá facilmente realizar em um único tempo.
+
+[53] (P4.S39)
+Preste atenção se o seu inimigo ataca por dentro ou por fora, pois você pode encontrá-lo e desviar e ferir tanto por dentro quanto por fora, dependendo de onde ele ataca.
+
+[54] (P4.S40)
+Mas se acontecer que seu inimigo não consiga avançar com suas jogadas de pulso, ele pode facilmente recuar em guarda.
+
+[55] (P4.S41)
+Neste caso, você deve empurrar seu golpe para frente ao longo da linha central e ser rápido, antes que ele tenha tempo de se estabelecer na guarda.
+
+[56] (P4.S42)
+A razão é que, quando seu inimigo está presente e deseja mudar de guarda, você pode atacar nesse tempo e pode atingi-lo facilmente.
+
+[57] (P4.S43)
+Agora suponhamos que ele recua de tal forma que você não pode feri-lo; tenha cuidado para ser ágil com suas pernas avançando, mantendo sempre sua espada à frente contra seu inimigo.
+
+[58] (P4.S44)
+Se ele realizar uma finta para fora ou para dentro, tenha cuidado para não mover sua espada, acreditando que você irá desviar.
+
+[59] (P4.S45)
+Se você o fizer, ele pode facilmente se desengajar para o outro lado e feri-lo nesse tempo.
+
+[60] (P4.S46)
+Observe em vez disso esta regra: toda vez que alguém realizar uma finta contra você, encontre-o nesse primeiro tempo.
+
+[61] (P4.S47)
+Porque seu inimigo emprega dois tempos, um para enganar e o outro para ferir, enquanto você precisa de apenas um tempo para ferir.
+
+[62] (P4.S48)
+Eu louvo as fintas desta maneira: enquanto você estiver na linha central, quero que você faça um movimento de entrada em direção ao rosto, de modo que é provável que seu inimigo se mova para defender.
+
+[63] (P4.S49)
+Você deve observar onde ele move sua espada, que estará próxima à área que você indicou, ou melhor, para a qual você simulou um ataque; sem desengajar sua espada, você encontrará um tempo em que poderá entrar.
+
+[64] (P4.S50)
+Significa que, ao manejar seu forte, você se salvará da espada dele se ele atacar nesse tempo, que será o seguinte.
+
+[65] (P4.S51)
+Ao fazer o movimento, e sua espada começa a se deslocar, claramente seu inimigo moverá sua espada para bloquear e ferir.
+
+[66] (P4.S52)
+Com um olhar atento, você entrará na linha onde seu inimigo se estende para bloquear seu golpe, e poderá entrar com um único tempo, sem certos desengajamentos, como muitos fazem ao realizar fintas.
+
+[67] (P4.S53)
+Estas instruções são chamadas de contra tempi, e são tão sutis que não são consideradas por todos.
+
+[68] (P4.S54)
+Da mesma forma, se você fizer o movimento para entrar, e seu inimigo não se mover em crença, sinta-se à vontade para prosseguir, entrando com o mesmo movimento.
+
+[69] (P4.S55)
+Ao realizar a ação, tenha sempre o cuidado de mirar na área que está mais desprotegida.
+
+[70] (P4.S56)
+Isso força o inimigo a defender, e você o fará levar dois tempos, enquanto você leva apenas um; no entanto, verifique com seus olhos, observando se ele se mantém firme ou se move acreditando em sua finta.
+
+[71] (P5.S0)
+Agora desejo informar-lhe como obter vantagem sobre a espada de seu inimigo e seus benefícios.
+
+[72] (P5.S1)
+Quando você desejar encontrar a espada, claramente seu forte é superior ao debole dele.
+
+[73] (P5.S2)
+No entanto, você deve ter uma boa consciência de como seu inimigo segura seu corpo e sua espada, para saber o tempo em que deve mover seu corpo e começar a dominar o debole dele com seu forte, executando a ação e movendo-se lentamente até alcançar o debole de sua espada.
+
+[74] (P5.S3)
+Porque se você se mover rapidamente, ele pode se desengajar e feri-lo como descrevi acima, e você não conseguirá encontrar sua espada, mas se você for devagar, encontrará facilmente.
+
+[75] (P5.S4)
+Cuide, no entanto, de como você o encontrou: seja por dentro ou por fora, não o deixe recuperar; porque ele será forçado a se desvincular.
+
+[76] (P5.S5)
+Ao se desengajar, você deve encontrá-lo novamente ou atacar nesse único tempo.
+
+[77] (P5.S6)
+Se você aplicar a razão à espada, como a encontrou uma vez, poderá fazê-lo novamente, de modo que ele não consiga mais se recuperar.
+
+[78] (P5.S7)
+Tendo encontrado a espada, com seu inimigo incapaz de se desvencilhar, feri-o no mesmo tempo de encontrar, sempre utilizando seu forte, para que ele não possa se recuperar.
+
+[79] (P6.S0)
+Quando você encontrar a espada dele, pode usar sua luva da mão esquerda para agarrá-la, com um agarrão, ou seja, segurando-a, o que você conseguirá facilmente.
+
+[80] (P6.S1)
+Tenha cuidado para não agir como muitos fazem, que, tendo desferido um golpe, desejam agarrar sua espada com a mão esquerda no mesmo tempo.
+
+[81] (P6.S2)
+Isso é difícil de executar, portanto aqueles que empregam essa abordagem frequentemente erram a espada, ou seja, não conseguem segurá-la, e muitas vezes são atingidos no peito ou no rosto.
+
+[82] (P6.S3)
+A razão é que o esgrimista com a espada sozinha troca, colocando seu lado esquerdo à frente.
+
+[83] (P6.S4)
+Uma vez que você pode variar a espada, pode facilmente ferir aquele que está assim, de várias maneiras.
+
+[84] (P6.S5)
+Eu julgo que um corte ousado naquela direção é o melhor dentre estes, que não pode deixar de atingir e desordená-lo.
+
+[85] (P7.S0)
+Há também uma jogada rápida, que a maioria dos franceses emprega.
+
+[86] (P7.S1)
+Quando confrontado por isso, quero que você sempre mantenha a linha central.
+
+[87] (P7.S2)
+Seu inimigo, portanto, vem correndo para feri-lo, desprotegido, e você o detém ao se posicionar em uma postura forte, de modo que ele colida com sua espada.
+
+[88] (P7.S3)
+Observe a distância, ou seja, quando ele se aproximar para efetuar seu ataque, e ao mesmo tempo mantenha os olhos em sua espada.
+
+[89] (P7.S4)
+Observe que, ao desejar colidir com você, ele levará um longo tempo, momento em que você poderá encontrá-lo com sua espada onde ele está mais exposto, e com um vazio do corpo, evitando sua espada, você certamente o atingirá.
+
+[90] (P7.S5)
+O golpe pode ser desta forma: ele chega com a aresta falsa de sua espada para desordená-lo.
+
+[91] (P7.S6)
+Nesse instante, você pode encontrá-lo, ou seja, quando ele está próximo, e você pode alcançá-lo, pode facilmente soltar sua própria espada para antecipar a dele.
+
+[92] (P7.S7)
+Porque ele chega com ímpeto, convencendo-se de que em um momento pode impedir sua espada, que você mostra à vista, e ou desferir um golpe em sua perna e recuar, ou liberar uma estocada e dar um passo para o lado.
+
+[93] (P7.S8)
+No entanto, observe a regra que descrevi, ferindo-o quando ele chegar para encontrar o tempo, e note que você o atingirá facilmente nesse único tempo, mantendo seu corpo firme e ágil.
+
+[94] (P7.S9)
+Embora você veja alguém se aproximar de você com ímpeto, não deve temer, pois quando está com medo, você faz mil movimentos errados, pelos quais o inimigo pode facilmente realizar o que pretendia.
+
+[95] (P7.S10)
+Se você ficar na forma que descrevi acima, mantendo sua espada em presença, ele ficará desordenado em sua aproximação, sua espada em presença vigiando-o; e se por acaso ele avançar sem consideração, também poderá facilmente encontrá-la, e você o deterá em seu caminho.
+
+[96] (P8.S0)
+Agora, se o seu inimigo não avança, mas se coloca em uma postura baixa, entre na linha central, mas sobre seu debole de tal forma que, ao atacá-lo nesse mesmo tempo, como discuti, ele não possa te ferir.
+
+[97] (P8.S1)
+Seu golpe não terá efeito, pois necessariamente encontrará seu forte, como você já garantiu anteriormente.
+
+[98] (P8.S2)
+Dessa maneira, ele não o antecipará, e assim a razão fortalece aqueles que estão apressados.
+
+[99] (P8.S3)
+Embora muitos digam que a razão não importa com a espada, uma vez que é dominada pela raiva, eu não concordo e me inclino ao julgamento de homens sábios.
+
+[100] (P8.S4)
+É verdade que a razão com armas, isto é, o jogo, não conta para aqueles que se deixam desanimar, que não cumprem seu dever, pois assim perdem para aqueles que sabem e para aqueles que não sabem.
+
+[101] (P8.S5)
+Há também muito mais a dizer sobre esta linha central, que por uma questão de brevidade deixarei ao julgamento do leitor prudente, sendo muito vantajoso.
+
+[102] (P8.S6)
+No entanto, desejo não discutir mais sobre isso; tendo falado de assuntos úteis e necessários, agora falaremos da terceira guarda e de como ela é formada.
+
+[103] (P9.S0)
+A terceira guarda é a seguinte: você deve estender seu braço direito em direção ao seu joelho direito, mantendo sua mão a aproximadamente meio braccio do seu joelho, e sua ponta voltada para o rosto do seu inimigo.
+
+[104] (P9.S1)
+Incline seu corpo levemente, mas não a ponto de cair, ou seja, faça-se um pouco menor, com o calcanhar direito voltado para o meio do seu pé esquerdo, em uma posição de meia passada; ou mais, ou menos, dependendo do que você achar confortável e forte.
+
+[105] (P9.S2)
+Estando nessa postura, se o inimigo atacar seu rosto com a ponta, certifique-se de interceptá-la com o forte da sua espada, seja por dentro ou por fora, dependendo de qual lado ele ataca.
+
+[106] (P9.S3)
+Empurre tudo em um só tempo, levantando suas costas, e você facilmente irá desviar e ferir nesse tempo.
+
+[107] (P9.S4)
+Se ele desferir um corte, seja um dritto ou um roverscio, defenda-se com seu forte e avance em direção ao seu rosto; isto é, se ele mirar em sua cabeça, ou se ele atacar mais baixo, em qualquer um dos casos, responda nessa direção.
+
+[108] (P9.S5)
+Se ele finge atacar seu rosto, ou outra parte do seu corpo, não se mova acreditando que deve defender, em vez disso, empurre sua espada para frente nesse tempo, pegando seu debole com seu forte.
+
+[109] (P9.S6)
+Se ele mira na sua perna, recue um pouco e encontre-o levantando o punho da sua espada e abaixando a ponta.
+
+[110] (P9.S7)
+Seja rápido, e dessa maneira você pode se defender contra tais golpes.
+
+[111] (P9.S8)
+Se você executar o ataque que descrevi, e quando ele atacar suas pernas você retirar seu corpo, ele não poderá prejudicar essa parte de você, se, após ter atacado as pernas, ele desejar então desferir um golpe.
+
+[112] (P9.S9)
+O julgamento também é importante, pois ensina você a tomar decisões conforme necessário, ao observar esta e formas semelhantes, permitindo que você se defenda contra muitos ataques.
+
+[113] (P9.S10)
+Agora desejo discutir os passos de passagem e demonstrar quão perigosos eles são, e quando são úteis.
+
+[114] (P9.S11)
+Você deve entender que os passos de passagem exigem fintas e estar ciente de que representam um grande risco para aqueles que não os empregam com grande tempo, agilidade e rapidez de corpo.
+
+[115] (P9.S12)
+Se você se encontrar na primeira forma da espada sozinho, e alguém desejar passar por você, ao ver sua espada alta, é provável que ele se mova para encontrá-lo, a fim de executá-la.
+
+[116] (P9.S13)
+Observe com atenção que, se o inimigo finge atacar seu rosto para passar, como a razão dita, não quero que você responda à finta, exceto da seguinte maneira.
+
+[117] (P9.S14)
+Incline seu corpo um pouco para evitar, onde você achar adequado para desviar do ponto de sua finta, então, em um mesmo tempo, bata com sua mão e desferir um golpe verticalmente para baixo em direção ao corpo dele.
+
+[118] (P9.S15)
+Você facilmente o encontrará se ele se inclinar bem com o estômago em direção ao chão, e você o deterá, pois ele não conseguirá passar.
+
+[119] (P9.S16)
+A razão é a seguinte: você não se move acreditando no ímpeto de sua finta.
+
+[120] (P9.S17)
+Você tem tempo para bater a ponta da espada dele com a sua mão e empregar os métodos que descrevi acima, quebrando seus planos, porque ele chega com grande velocidade para executar a finta e o passo de passagem nesse tempo.
+
+[121] (P10.S0)
+Se você se encontrar na linha central na segunda forma, e o inimigo vier em sua direção com uma finta para executar um passo de passagem, desvie com seu corpo para o lado, evitando a ponta de sua espada.
+
+[122] (P10.S1)
+Enquanto ele passa, você pode atingi-lo na cabeça, esquivando-se, brincando um pouco com seu corpo; igualmente, você pode golpeá-lo no rosto.
+
+[123] (P10.S2)
+Quando seu inimigo realiza a finta, e em um só tempo deseja passar, evite pelo lado esquerdo.
+
+[124] (P10.S3)
+Ou seja, se ele fizer uma finta para o interior, e você inverter sua ponta em direção ao rosto dele, você o deterá facilmente.
+
+[125] (P10.S4)
+Você também pode encontrá-lo mais baixo no corpo, pois ao manter sua ponta baixa, é difícil para ele passar.
+
+[126] (P10.S5)
+Se ele finge para o lado de fora, avance com o pé esquerdo, abrindo-se com um meio círculo, seu pé direito seguindo o esquerdo para encontrá-lo, e você sairá facilmente da presença, podendo desferir uma estocada ou então um corte reverso.
+
+[127] (P10.S6)
+Se você deseja realizar um passo de passagem, observe o seguinte: quando quiser passar, execute a finta e o movimento de passagem, mas não corra.
+
+[128] (P10.S7)
+É provável que seu inimigo, ao ver o movimento que está levando seu corpo para fora da presença de sua espada, vire a ponta de sua espada para o lado em que você realiza a ação de passar.
+
+[129] (P10.S8)
+Naquele tempo, você pode cobrir seu debole com seu forte e entrar na face sem realizar outra passada.
+
+[130] (P10.S9)
+Se você deseja passar livremente, observe esta regra: primeiro encontre a espada dele, depois entre na face.
+
+[131] (P10.S10)
+Ele será forçado a defender, e assim removerá sua espada, de modo que você possa passar sem perigo; da mesma forma, se ele não defender, você o atingirá no rosto.
+
+[132] (P10.S11)
+Se você estiver na terceira guarda, e alguém fizer uma finta para passar ao corpo com a espada baixa, quero que você evite seu corpo, empurrando seu golpe com a ponta perpendicular, observando de perto a espada do seu inimigo, para que você possa evitar seu corpo para um lado ou para o outro.
+
+[133] (P10.S12)
+No entanto, você deve prestar muita atenção ao corpo do seu inimigo, observar a maneira como ele se move, compreender o tempo e, acima de tudo, estar ciente de sua espada; ou seja, considerar com seu olhar e julgamento onde a espada dele pode atingir.
+
+[134] (P10.S13)
+Isso será suficiente sobre este assunto.
+
+[135] (P10.S14)
+Embora haja muitas outras coisas, estas são muito úteis e muito naturais, de modo que você pode empregá-las.
+
+[136] (P10.S15)
+Além disso, há muitos que sugerem outros tipos de guardas além destes, que de fato não estimo, condensando todos eles aos meus aqui.
+

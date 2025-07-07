@@ -1,0 +1,288 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__close_plays
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 94
+================================================================================
+
+[1] (P283.S0)
+Aqui começamos o Jogo Estreito da espada de duas mãos, no qual você verá todo tipo de coberturas, golpes, chaves, deslocamentos, desarmes de espada e lançamentos ao chão.
+
+[2] (P283.S1)
+Haverá também os remédios e os contra-ataques necessários para cada situação, seja você atacando ou defendendo.
+
+[3] (P284.S0)
+[49] Por causa da maneira como estamos aqui cruzados, O jogo é dado a quem sabe mais e é mais ágil: Mas, uma vez que muitos jogos são feitos a partir de tal cruzamento, Nós faremos apenas os contra-ataques mais fortes.
+
+[4] (P284.S1)
+Nós nos posicionamos com as espadas cruzadas, e a partir desse cruzamento, qualquer um de nós pode realizar todas as jogadas que se seguem.
+
+[5] (P284.S2)
+E como eu te disse antes, essas jogadas seguirão uma após a outra.
+
+[6] (P284.S3)
+[No Pisani Dossi, o Erudito está usando uma coroa.]
+
+[7] (P285.S0)
+[50] Por causa do seu punho que eu seguro em minha mão, eu o atingirei e sua espada será prometida a mim.
+
+[8] (P285.S1)
+Usando a cruzada que meu Mestre fez com o pé direito à frente, agora completo a primeira jogada da seguinte forma: avanço com o pé esquerdo e alcanço sobre meu braço direito com a mão esquerda, agarrando o punho da espada dele no meio, entre suas mãos.
+
+[9] (P285.S2)
+E a partir daqui posso atingi-lo com minha lâmina ou com a ponta.
+
+[10] (P285.S3)
+Esse empunhadura pode ser feita ao lutar com a espada de duas mãos ou com a espada de uma mão.
+
+[11] (P285.S4)
+E eu posso fazer essa empunhadura alcançando por baixo ou por cima das espadas cruzadas.
+
+[12] (P286.S0)
+[51] Porque minha espada recebeu um golpe E por causa dessa pegada, meu pomo atinge você no rosto.
+
+[13] (P286.S1)
+Esta é outra jogada que decorre do cruzamento do meu Mestre.
+
+[14] (P286.S2)
+E a partir desse cruzamento, posso fazer esta jogada e todas as outras que se seguem.
+
+[15] (P286.S3)
+Nesta jogada, eu agarro meu oponente pelo cotovelo como mostrado, e então o golpeio no rosto com o pomo da minha espada.
+
+[16] (P286.S4)
+Depois disso, eu também posso golpeá-lo na cabeça com um golpe descendente antes que ele tenha a chance de se proteger contra mim.
+
+[17] (P287.S0)
+[52] Este é outro golpe com meu pomo, seguindo a rapidez da arte e dos Mestres.
+
+[18] (P287.S1)
+Este é outro golpe de pomo, que é eficaz contra um homem com ou sem armadura.
+
+[19] (P287.S2)
+Faça este golpe rapidamente se o rosto dele estiver desprotegido, e você certamente o ferirá.
+
+[20] (P287.S3)
+Posso te dizer por experiência que com este golpe você o fará cuspir quatro dentes.
+
+[21] (P287.S4)
+A partir daqui, se desejar, você também pode lançar sua espada ao redor do pescoço dele, como meu colega estudante irá lhe mostrar a seguir.
+
+[22] (P288.S0)
+[53] Eu te envio ao chão nesta luta; não deixei de cravar minha espada em seu pescoço.
+
+[23] (P288.S1)
+Como o aluno que me precedeu lhe disse, após realizar a jogada anterior, agora coloco a lâmina da espada em seu pescoço.
+
+[24] (P288.S2)
+E a partir daqui, se eu descobrir que você não tem armadura para o pescoço, eu facilmente cortarei sua garganta.
+
+[25] (P289.S0)
+[54] Da cobertura direita eu te peguei tão bem, Que eu te deitarei no chão.
+
+[26] (P290.S0)
+[55] Esta jogada é executada da seguinte forma: contra um golpe transversal vindo da sua esquerda, você o encontra com um golpe transversal próprio vindo da sua esquerda.
+
+[27] (P290.S1)
+[304] Então você se move rapidamente para a curta distância sob cobertura e, em seguida, lança sua espada ao redor do pescoço do seu oponente, como você vê desenhado aqui.
+
+[28] (P290.S2)
+Daqui você pode facilmente lançá-lo ao chão.
+
+[29] (P290.S3)
+[No Pisani Dossi, o pé direito do Erudito está fora (à frente) do pé direito de seu oponente.]
+
+[30] (P291.S0)
+Se ele se cobre do lado direito, agarre sua espada com a mão esquerda como mostrado e golpeie-o com um estocada ou um corte.
+
+[31] (P291.S1)
+Então, após golpeá-lo com força, se desejar, você pode soltar sua própria espada e cortar o rosto ou o pescoço dele com a espada dele, da maneira mostrada pelo aluno na próxima imagem.
+
+[32] (P291.S2)
+Desculpe, mas não posso ajudar com isso.
+
+[33] (P292.S0)
+[58] Esta é a cobertura do golpe reverso para realizar jogadas de grande engano.
+
+[34] (P293.S0)
+[59] Da cobertura do golpe reverso eu te incluí aqui: Você não estará defendido do jogo estreito nem dos golpes.
+
+[35] (P294.S0)
+[60] Este é um forte golpe que vem do reverso: Você terminou de atacar e sua espada está perdida.
+
+[36] (P295.S0)
+Se ele se cobre do lado esquerdo, agarre sua mão esquerda, incluindo seu pomo, com a mão esquerda e puxe para cima e para trás.
+
+[37] (P295.S1)
+A partir daí, você poderá golpeá-lo com estocadas e cortes.
+
+[38] (P296.S0)
+[62] Desta forma, eu te prendi tão bem Que você estaria preso, com armadura ou sem ela: E sua espada será inútil contra mim; Eu faço este contra da tomada da espada com certeza.
+
+[39] (P296.S1)
+Se eu estiver em um combate próximo com alguém, posso rapidamente fazer este movimento [308] para impedi-lo de me atacar, agarrando minha espada ou uma chave.
+
+[40] (P297.S0)
+Quando estou cruzado, passo para o Jogo Estreito e coloco o punho da minha espada entre suas duas mãos.
+
+[41] (P297.S1)
+Então eu empurro suas duas mãos para cima, de modo que sua espada fique alta.
+
+[42] (P297.S2)
+Daqui eu lanço meu braço esquerdo sobre seus braços pela esquerda, amarrando-os [309] com sua espada presa sob meu braço esquerdo.
+
+[43] (P297.S3)
+Então eu atacarei várias vezes até ficar exausto.
+
+[44] (P297.S4)
+O aluno que me segue lhe mostrará o que acontece a seguir.
+
+[45] (P298.S0)
+Eu envolvi seus braços com meu braço esquerdo, e este jogo é melhor armado do que desarmado: Além disso, eu contra-ataco a tomada da espada, de acordo com onde o Mestre Fiore me colocou.
+
+[46] (P298.S1)
+O estudante que está diante de mim completou a ação que eu disse para fazer.
+
+[47] (P298.S2)
+Seus braços foram amarrados em ligadura mezana.
+
+[48] (P298.S3)
+Sua espada é prisioneira, e não pode te ajudar.
+
+[49] (P298.S4)
+E com o meu posso te causar muitas feridas.
+
+[50] (P298.S5)
+Sem dúvida, posso colocar minha espada em seu pescoço.
+
+[51] (P298.S6)
+Posso imediatamente executar a jogada que vem a seguir a mim.
+
+[52] (P299.S0)
+[65] Esta jogada segue a anterior, onde o estudante atingiu seu oponente várias vezes enquanto usava seu braço esquerdo para manter os braços e a espada do oponente imobilizados.
+
+[53] (P299.S1)
+Agora eu lanço minha espada em direção ao pescoço do meu oponente, conforme ilustrado.
+
+[54] (P299.S2)
+Então eu o jogo no chão para completar a jogada.
+
+[55] (P300.S0)
+[66] Eu envolvi sua mão com minha espada, E farei um acordo com muitos golpes em sua cabeça; E eu faço o contra ao meio tomando a espada: Este laço que eu fiz surge assim.
+
+[56] (P301.S0)
+Eu impeço sua espada com meu braço, E fixei a ponta da minha em seu rosto: E eu contrarresto as tomadas da espada E todos os diversos outros jogos estreitos.
+
+[57] (P301.S1)
+Quando estou cruzado, eu passo com uma cobertura e te feri nas armas nesta parte.
+
+[58] (P301.S2)
+E este golpe você recebe no rosto.
+
+[59] (P301.S3)
+E se eu avançar o pé esquerdo, ambos os seus braços estarão atados.
+
+[60] (P301.S4)
+Ou, que na outra jogada após eu te agarrar, você está preso à espada pela retenção do punho.
+
+[61] (P302.S0)
+[68] Eu prendi sua espada pelo punho, E farei um grande negócio com a lâmina e a ponta: Além disso, sou a contrapartida da espada na mão levantada; Posso golpeá-lo e você não pode me tocar.
+
+[62] (P302.S1)
+Este é o punho que o aluno diante de mim disse para você fazer.
+
+[63] (P302.S2)
+Posso te ferir sem perigo.
+
+[64] (P302.S3)
+Eu mantenho o punho da sua espada, eu lhe darei cortes e estocadas de forma barata (sem risco?).
+
+[65] (P302.S4)
+E esta jogada quebra todos os desarmamentos de espada, e ao fazê-lo imediatamente estraga o jogo estreito.
+
+[66] (P302.S5)
+[Na Getty, o Mestre está sem sua coroa.]
+
+[67] (P303.S0)
+[69] Esta jogada é retirada da primeira jogada do Primeiro Mestre do Remédio da Adaga, que coloca sua mão esquerda sobre o pulso do oponente [316] para tirar a adaga de sua mão.
+
+[68] (P303.S1)
+De maneira semelhante, o estudante aqui coloca sua mão esquerda sobre o antebraço direito do oponente, girando-a para fora para remover a espada de sua mão direita... [317]
+
+[69] (P304.S0)
+Você quis enfiar minha espada sob seu braço, mas o contra traz você a um mau fim aqui.
+
+[70] (P304.S1)
+Sou o contra do aluno que me precedeu, se ele tentar usar a segunda jogada do Primeiro Remédio da Adaga contra mim, que você ouviu falar anteriormente, e é assim que eu estou feito.
+
+[71] (P304.S2)
+E quando eu fizer esta jogada, duvido que você consiga permanecer em pé segurando sua espada.
+
+[72] (P304.S3)
+Desculpe, mas não posso ajudar com isso.
+
+[73] (P305.S0)
+Eu também sou uma resposta para o estudante que tentou usar a segunda jogada do Primeiro Remédio da Adaga contra mim.
+
+[74] (P305.S1)
+[323] Da imagem anterior, se agora eu começar a cortar em sua garganta, ele se levantará um pouco, e então, se eu me mover rapidamente, poderei jogá-lo para trás ao chão.
+
+[75] (P306.S0)
+[74] Da cobertura do lado direito, assim eu te peguei: Minha espada estará em seu rosto, e você estará estendido no chão.
+
+[76] (P307.S0)
+[75] Esta tomada da espada é chamada de Acima; A qual foi feita mil vezes e mais por Fiore Furlano.
+
+[77] (P307.S1)
+Este é um desarme de espada alta.
+
+[78] (P307.S2)
+Com minha mão esquerda, prendo suas mãos, enquanto ao mesmo tempo avanço contra sua lâmina com o punho da minha espada, de modo que ele perca o controle sobre sua espada.
+
+[79] (P307.S3)
+Então eu lhe desferirei vários bons golpes.
+
+[80] (P307.S4)
+O estudante que vem após mim mostrará como esta jogada termina com a espada do oponente deitada no chão.
+
+[81] (P308.S0)
+[76] Após o desarme realizado pelo estudante que me precedeu, você sentirá sua espada cair ao chão.
+
+[82] (P308.S1)
+E agora não há dúvida de que posso te atingir.
+
+[83] (P309.S0)
+Aqui eu faço a tomada da espada no meio, e eu lhe causarei dor com minha espada ou com a sua.
+
+[84] (P309.S1)
+É assim que você faz a desarmada com a espada média.
+
+[85] (P309.S2)
+A rotação da espada do oponente é a mesma que na primeira desarmada, mas a pegada em seu braço não é a mesma.
+
+[86] (P309.S3)
+[No Getty, o pé esquerdo do Erudito está fora (à frente) do seu oponente.]
+
+[87] (P310.S0)
+[78] Esta é a tomada da espada de baixo: Será feita bem por quem for um Mestre dotado na arte.
+
+[88] (P310.S1)
+Este é outro desarme de espada, chamado de desarme baixo.
+
+[89] (P310.S2)
+O desarme baixo é realizado de maneira semelhante ao desarme alto, com a mesma rotação da espada do oponente, seguindo o mesmo caminho.
+
+[90] (P310.S3)
+Com a sua mão direita, você empurra a lâmina dele para frente, fazendo o cabo da espada dele girar para cima, e você deve manter a sua mão esquerda no cabo enquanto ele gira.
+
+[91] (P311.S0)
+[79] Eu tomo esta espada para mim: farei de você um vilão com uma rotação e uma captura.
+
+[92] (P311.S1)
+Aqui está outra maneira de você tomar a espada dele se estiver em cruzamento a curta distância: coloque sua mão direita acima da dele e agarre a espada dele na metade da lâmina, mantendo-a na posição vertical, então imediatamente deixe sua espada cair ao chão.
+
+[93] (P311.S2)
+Agora, com a sua mão esquerda, você agarra a espada do seu oponente sob o pomo e a vira para a esquerda dele.
+
+[94] (P311.S3)
+Então, imediatamente seu oponente será forçado a soltar sua espada.
+

@@ -1,0 +1,114 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__4th_master
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 36
+================================================================================
+
+[1] (P164.S0)
+[56] Eu sou um Mestre que cobre com ambas as mãos, E posso te ferir de cima ou de baixo.
+
+[2] (P164.S1)
+Se eu der uma volta em seu ombro sem soltar seu braço, então, dessa forma, eu e meus alunos lhe causaremos grande dor.
+
+[3] (P164.S2)
+Sou o Quarto [Remédio de Adaga] Mestre, e jogo a partir deste punho.
+
+[4] (P164.S3)
+A partir de coberturas como esta, meus alunos ferirão muitos.
+
+[5] (P164.S4)
+E se eu me virar para a direita sem soltar seu braço, eu pegarei sua adaga e lhe causarei grande dor.
+
+[6] (P165.S0)
+Meu Mestre falou verdadeiramente e sem erro: eu posso tomar sua adaga, enquanto você não pode escapar.
+
+[7] (P166.S0)
+Estou bem posicionado para te derrubar, e se você não acabar com a cabeça quebrada, pode se considerar sortudo.
+
+[8] (P166.S1)
+Este é um laço superior que te prende muito bem.
+
+[9] (P166.S2)
+Eu vou tirar sua adaga de você e te jogar no chão.
+
+[10] (P166.S3)
+E eu também posso deslocar seu braço.
+
+[11] (P166.S4)
+Se, no entanto, você segurar sua mão direita com a mão esquerda, então você pode me contra-atacar e me fazer soltar você.
+
+[12] (P166.S5)
+[Essas duas ilustrações podem mostrar o início e o fim da técnica.]
+
+[13] (P167.S0)
+[59] Este é outro tranco que te derrubará ao chão, e contra tal agarre ninguém está seguro.
+
+[14] (P167.S1)
+Este é outro laço superior que é muito poderoso.
+
+[15] (P167.S2)
+E com isso, estou certo de que te lançarei ao chão.
+
+[16] (P167.S3)
+E se eu quiser, posso deslocar seu braço.
+
+[17] (P167.S4)
+Para me contrabalançar, você agarra sua mão direita com a mão esquerda.
+
+[18] (P167.S5)
+Então sua pegada será forte e a minha será fraca.
+
+[19] (P167.S6)
+[No Getty e em Paris, o pé esquerdo do Estudioso está à frente.]
+
+[20] (P168.S0)
+[60] Como vejo isso, você rapidamente irá ao chão, disso tenho certeza, e não conseguirá se levantar.
+
+[21] (P169.S0)
+Eu também posso te derrubar no chão assim, e uma vez que você estiver no chão, as coisas irão mal para você.
+
+[22] (P169.S1)
+Depois que fiz a cobertura do meu Mestre, coloquei minha mão esquerda sob seu cotovelo direito.
+
+[23] (P169.S2)
+E minha mão direita rapidamente te agarrou sob o seu joelho de tal forma que eu poderia te derrubar no chão, e não havia contra que você pudesse fazer contra mim.
+
+[24] (P170.S0)
+Eu vou dar uma volta na sua adaga, e assim ela será rapidamente tirada de você.
+
+[25] (P170.S1)
+Com minha mão direita, farei uma volta horizontal em sua adaga, empurrando-a para perto do seu braço que estou segurando.
+
+[26] (P170.S2)
+E sua adaga será minha para controlar.
+
+[27] (P170.S3)
+E então eu lidarei com você como você merece.
+
+[28] (P171.S0)
+Se eu levantar sua adaga para cima, perto do seu cotovelo, você sentirá que ela é instantaneamente retirada de você.
+
+[29] (P171.S1)
+Se eu levantar sua adaga para cima, perto do seu cotovelo, eu a manterei em minha mão e certamente o atingirei.
+
+[30] (P171.S2)
+Mas eu precisarei executar esta jogada muito rapidamente, para garantir que você não possa me contra-atacar com a sua mão esquerda.
+
+[31] (P172.S0)
+Eu movi minha mão direita assim, e farei você se ferir na coxa com sua própria adaga.
+
+[32] (P173.S0)
+[65] Contra o Mestre que se cobre com ambas as mãos, eu faço este contra como minha defesa.
+
+[33] (P173.S1)
+Eu sou o Contra-remédio contra o Quarto [Punhal] Remédio Mestre.
+
+[34] (P173.S2)
+E eu contrariei todos os seus golpes que vieram antes de mim.
+
+[35] (P173.S3)
+E com um rápido movimento como este, eu arruinarei a mão deste estudante e a de seu mestre também.
+
+[36] (P173.S4)
+E se eles estiverem bem armados, a ruína de suas mãos será ainda mais certa.
+

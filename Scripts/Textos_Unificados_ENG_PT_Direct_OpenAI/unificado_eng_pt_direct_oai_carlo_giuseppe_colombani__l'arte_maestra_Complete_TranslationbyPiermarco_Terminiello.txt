@@ -1,0 +1,444 @@
+MASTER: Carlo Giuseppe Colombani
+SOURCE BOOK: carlo giuseppe colombani__l'arte_maestra
+FIELD NAME: Complete TranslationbyPiermarco Terminiello
+TOTAL TEXTOS: 146
+================================================================================
+
+[1] (P0.S0)
+A ARTE MESTRA DE GIUSEPPE COLOMBANI CONHECIDA COMO O ESTANDARD LOMBARDO Pela qual todas as pessoas são ensinadas a manejar a espada, a adaga, a capa, a alabarda, a bandeira e o spadone de duas mãos, com facilidade, com as regras que devem ser seguidas por aquele que se encontra com a espada desembainhada, a fim de se defender e proteger.
+
+[2] (P1.S0)
+AO LEITOR.
+
+[3] (P1.S1)
+Eu sei, caro leitor, que estou demasiado ansioso em desejar apresentar este frágil trabalho meu diante de seus olhos.
+
+[4] (P1.S2)
+Se é verdade, no entanto, que grandes homens não desdenham de pequenas ofertas, então por favor, aprecie este modesto esforço, que espero, através do seu coração, você se digne a considerar, ler e achar uma obra necessária para todos aqueles que buscam defender e salvaguardar suas vidas, mostrando o caminho correto para adquirir os verdadeiros golpes e a compreensão da espada.
+
+[5] (P1.S3)
+Posso apenas dizer que trabalhei arduamente durante toda a minha juventude, mas como muitos bons e habilidosos mestres praticaram, não me atrevo a falar exceto para aqueles que estão sob a disciplina de homens talentosos.
+
+[6] (P1.S4)
+Portanto, busco instruir a cada um daqueles que desejam conhecer todas as regras da espada, ou melhor, não todas elas, mas as mais vitais e principais entre elas: com a espada sozinha, com a espada e punhal, espada e targa, e espada e manto; como se comportar em combate à noite, como se portar em uma rixa, o que fazer para derrotar sem dúvida alguém com um grande coração, mas que não possui a verdadeira ciência da espada; o que você deve fazer quando atacado por alguém empunhando um esponton ou alabarda, como se defender com a espada e superá-lo.
+
+[7] (P1.S5)
+Além disso, como manejar uma alabarda contra uma espada, como empunhar um spadone de duas mãos ou uma espada longa no meio de muitas espadas, o verdadeiro método de usar o bastão para as jogadas da bandeira e da lança; o verdadeiro conhecimento de qual é a melhor postura de todas, uma vez que pratiquei com todas elas; como se comportar ao lutar com aqueles de outras nações, o que fazer ao enfrentar um sabre, como lidar com agarramentos e desarmes.
+
+[8] (P1.S6)
+Este trabalho pode realmente trazer-lhe grande benefício, tendo primeiro aprendido, no entanto, princípios sólidos com bons mestres, com figuras das posições e guardas mais importantes.
+
+[9] (P1.S7)
+E viva na felicidade.
+
+[10] (P2.S0)
+Um método simples de aprender a atacar bem e manejar as armas corretamente, através do qual o estudante deve se aplicar e trabalhar diligentemente; não é seu espírito ou mesmo sua habilidade que lhe trará sucesso, mas apenas um pouco de juízo, uma vez que o espírito e a rapidez contam pouco sem a arte.
+
+[11] (P3.S0)
+Porque se um espadachim não treinado, em alguma ocasião, lança alguns ataques, isso ocorre apenas por acaso.
+
+[12] (P3.S1)
+Para dar ao aluno um método simples de realizar bons ataques, primeiro você deve posicioná-lo corretamente sobre as pernas e fazê-lo andar com passos curtos e longos, movendo-se para frente e para trás.
+
+[13] (P3.S2)
+Você deve então mostrar a ele o forte e o debole da espada, e em seguida ensiná-lo o que se entende por quarta, terza e seconda.
+
+[14] (P3.S3)
+Quando ele for capaz de entender o movimento das estocadas, você deve colocá-lo na guarda natural, demonstrando como ele deve manter uma distância de dois pés entre seu pé esquerdo e seu pé direito, com o joelho esquerdo levemente flexionado e a perna direita totalmente estendida, os quadris alinhados e o corpo reto, com a mão esquerda formando um círculo na altura dos olhos.
+
+[15] (P3.S4)
+A partir desta posição, você deve fazê-lo estender um ataque em quarta, fazendo com que ele libere a mão neste tempo.
+
+[16] (P3.S5)
+Você deve então fazê-lo dobrar o joelho direito e esticar o joelho esquerdo, se acontecer que a mão precise da ajuda do pé para alcançar o corpo do inimigo.
+
+[17] (P3.S6)
+Você deve fazê-lo avançar o pé direito para frente meia pé e, quando ele estiver nessa posição, mostre-lhe como desferir este golpe, virando as unhas da mão direita para cima e as da mão esquerda para baixo.
+
+[18] (P3.S7)
+Ambos os braços devem estar estendidos na mesma altura ao longo do mesmo plano, com os pés igualmente alinhados, a cabeça inclinada um pouco para o lado de fora da espada.
+
+[19] (P3.S8)
+Quando você tiver demonstrado essas regras, deve fazê-lo lançar em terza, sempre começando pela mão e não se precipitando, mas como já disse, movendo o pé quando for necessário pela mão.
+
+[20] (P3.S9)
+Você deve demonstrar como as unhas da mão esquerda devem estar voltadas para o chão, e as da mão direita voltadas para o céu.
+
+[21] (P3.S10)
+A cabeça deve ser posicionada ao longo da linha do braço, diretamente sobre o joelho; porque se não estiver sobre o joelho, inevitavelmente ele arrastará seu corpo em direção ao chão, algo que testemunhei muitas vezes na sala.
+
+[22] (P3.S11)
+Em seguida, você deve mostrar-lhes como estocar em seconda, que na verdade é uma quarta invertida lançada abaixo da linha do braço.
+
+[23] (P3.S12)
+Estes são os três principais ataques que o aluno deve aprender bem.
+
+[24] (P3.S13)
+Há outros chamados quinta e prima, que não são tão importantes para o estudante ver até que seus esforços iniciais estejam completos, dos quais falarei quando chegar a hora.
+
+[25] (P3.S14)
+Uma vez que o estudante esteja estável em seus pés, compreenda o movimento dos três primeiros golpes e consiga executá-los muito bem, você deve mostrar-lhe as defesas e os ataques que os acompanham.
+
+[26] (P3.S15)
+Primeiramente, você deve mostrar a ele como desviar o forte da espada para o interior de sua arma, o que é realizado levantando a mão.
+
+[27] (P3.S16)
+O ataque para esta defesa é uma mezza botta realizada em dois tempos, ou então uma quarta rotta, que você demonstrará ao longo de oito dias.
+
+[28] (P3.S17)
+Quando você perceber que ele é hábil nisso, você se defenderá da mezza botta com a parry da ponta da espada, que você deve mostrar a ele juntamente com os ataques que a acompanham.
+
+[29] (P3.S18)
+Estas são uma finta dentro das armas antes de lançar por baixo, ou então uma finta em quarta antes de lançar em terza.
+
+[30] (P3.S19)
+Estas são as defesas da espada a serem executadas, e os ataques que se seguem a esses tipos de defesa, que você deve mostrar ao seu aluno e fazê-lo praticar no espaço de um mês.
+
+[31] (P3.S20)
+Quando ele estiver proficiente com estes, você lhe ensinará as defesas sobre a espada, primeiramente aquelas em que o braço está levantado.
+
+[32] (P3.S21)
+Você deve mostrar a ele esta defesa, para a qual você deve fazer uma finta à cabeça, e então um golpe em seconda.
+
+[33] (P3.S22)
+Quando ele tiver aprendido tudo isso bem, você deve demonstrar como desviar a ponta para o lado de fora das armas.
+
+[34] (P3.S23)
+Você deve fazê-lo simular um ataque para o lado de fora, antes de desferir um golpe para o lado de dentro, ou então realizar uma simulação em terza seguida de um golpe em quarta.
+
+[35] (P3.S24)
+Estas são as principais defesas e ataques que você deve ensinar ao seu aluno no início, para garantir que ele esteja preparado antes de lhe dar lições mais avançadas.
+
+[36] (P3.S25)
+Ele deve defender-se com o calcanhar, ou seja, o forte da espada, e você deve sempre manter os olhos abertos quando souber que ele deseja atacar, para que possa corrigi-lo quando ele errar.
+
+[37] (P3.S26)
+Da mesma forma, você deve colocá-lo em postura diante de seu inimigo e mostrar-lhe como deve desferir o ataque, e uma vez que ele tenha feito isso, faça-o atacar diretamente à sua frente.
+
+[38] (P4.S0)
+Uma vez que o estudante tenha tido aulas por três ou quatro meses, você lhe mostrará o método mais simples de realizar esses ataques com maior habilidade, e como superar aqueles que fogem, avançam e defendem com as mãos.
+
+[39] (P4.S1)
+Antes de demonstrar como derrotar esses tipos de oponentes, no entanto, você deve ensinar ao seu aluno o método e a maneira de atacar com prudência, dizendo-lhe para nunca lançar um ataque sem a devida consideração.
+
+[40] (P4.S2)
+Por exemplo, se ele atacar em quarta ou terza, e acontecer que seu ataque seja defendido, ele não deve pensar em mais nada além de dar sua resposta, observando cuidadosamente como o ataque foi defendido.
+
+[41] (P4.S3)
+Se foi defendido pelo forte de seu oponente, após recuar ele deve dar uma mezza botta; se isso for defendido, ele deve pensar apenas em dar sua resposta.
+
+[42] (P4.S4)
+Se o inimigo se recusar a entrar em sua medida, no entanto, e isso prejudicar seus planos; você deve demonstrar como, à medida que ele avança para a medida e seu oponente se retira, ele deve garantir que pode defender-se dos ataques do inimigo e responder com vigor.
+
+[43] (P4.S5)
+Quando o inimigo vê que seu golpe foi defendido, ele não será mais capaz de atacar com tal fervor, e entregará sua medida com facilidade.
+
+[44] (P4.S6)
+Dessa maneira, o estudante pode executar suas intenções sem dificuldade, dentro ou fora das armas, observando com atenção as defesas e os ataques, que procedem como já notei acima.
+
+[45] (P4.S7)
+Se ele seguir essas advertências com atenção, será capaz de lutar contra qualquer tipo de pessoa e poderá desprezar qualquer postura.
+
+[46] (P4.S8)
+Quando me dizem que as guardas francesas, a guarda alemã e a guarda espanhola são mais difíceis de vencer, isso tudo é uma loucura.
+
+[47] (P4.S9)
+Um francês, um alemão e um espanhol têm corpos semelhantes ao meu.
+
+[48] (P4.S10)
+Se eu sei como defender meu corpo com uma boa postura, não vejo por que preciso adotar suas posturas para me defender de suas guardas extravagantes.
+
+[49] (P4.S11)
+Eu vi muitos desses, e notei que suas posições não têm nem mesmo força alguma.
+
+[50] (P4.S12)
+Em relação a essas guardas, como irei explicar, com o tempo, em seus esforços, o estudante perceberá que o que digo é a absoluta verdade.
+
+[51] (P4.S13)
+Embora eu o pronuncie com minha língua, este conselho segue os passos de muitos mestres honrados desta Sereníssima Dominante e de outros locais.
+
+[52] (P4.S14)
+Antes de chegar aos ataques que utilizei contra esses guardas, no entanto, descreverei o método sugerido pelo meu fraco intelecto, de como vencer aqueles que fogem, avançam e defendem com as mãos.
+
+[53] (P4.S15)
+Para aqueles que fogem, você deve deixar sua espada se estender e dar um pequeno passo para endireitar seu joelho esquerdo, a fim de encontrar a medida e desferir o ataque.
+
+[54] (P4.S16)
+Com este método você terá sucesso, não negligenciando completar o golpe após ter desferido o ataque.
+
+[55] (P4.S17)
+Se o seu oponente atacar, você deve defender e dar sua resposta.
+
+[56] (P4.S18)
+Se ele deixar a ponta cair baixa e desejar levantar o punho, lance um ataque em quarta abaixo da linha do braço dele, opondo-se a ele com a sua mão esquerda.
+
+[57] (P4.S19)
+Este é o ataque conhecido como quinta, ou fianconata.
+
+[58] (P4.S20)
+Se ele mantiver sua ponta alta, no entanto, você deve girar sua mão de quarta para segunda, levantando sua mão ainda mais para o ataque conhecido como prima.
+
+[59] (P4.S21)
+Se o seu oponente permanecer oposto à sua espada, você deve desengajar e realizar seu ataque; se ele defender, você deve executar a finta apropriada à defesa que ele utiliza, seja por dentro ou por fora da espada, ou em seconda.
+
+[60] (P4.S22)
+Fintas duplas são muito eficazes contra esse tipo de oponente, desde que sejam bem executadas.
+
+[61] (P4.S23)
+O método e a técnica para provocar todo tipo de aberturas são os seguintes.
+
+[62] (P4.S24)
+Você começa lançando um ataque a partir de um pé firme, seja em quarta ou terza.
+
+[63] (P4.S25)
+Se o seu inimigo defende, você deve simular uma resposta, considerando a maneira como seu golpe foi defendido e simulando de acordo com a defesa do seu inimigo.
+
+[64] (P4.S26)
+Se novamente sua finta for defendida, você deve sempre pensar em responder.
+
+[65] (P4.S27)
+Você deve observar como sua finta foi defendida e, de acordo com essa defesa, redobrar sua finta, retornando sua ponta para onde seu inimigo se defendeu anteriormente.
+
+[66] (P4.S28)
+Ao completar este ataque, você deve pisar o pé duas vezes.
+
+[67] (P4.S29)
+A primeira estocada é realizada enquanto se está firme, e retornando sua ponta para onde a primeira finta foi defendida.
+
+[68] (P4.S30)
+O segundo golpe é executado ao dar um pequeno passo à frente, endireitando o joelho esquerdo, enquanto leva a ponta para onde o ataque anterior havia sido defendido.
+
+[69] (P4.S31)
+Dessa forma, você nunca atacará com fúria excessiva, embora deva manter seu braço bem estendido, uma vez que há um forte risco de ser atingido no mesmo tempo se você atacar de maneira descuidada.
+
+[70] (P4.S32)
+Por essa razão, você deve sempre realizar algum tipo de parada ao redobrar, para que possa rapidamente defender-se de qualquer coisa que seu inimigo possa tentar nesse tempo.
+
+[71] (P4.S33)
+Quanto àqueles que se precipitam, há um método diferente.
+
+[72] (P4.S34)
+Em vez de avançar, você deve dar um pequeno passo para trás, e quando perceber que eles desejam se precipitar, você deve atacar de forma decidida para onde vê que estão mais desprotegidos.
+
+[73] (P4.S35)
+Dessa maneira, seu golpe nunca falhará se você julgar bem a medida de sua espada.
+
+[74] (P4.S36)
+É muito eficaz contra esse tipo de oponente realizar duas ou três batidas de pé, a primeira enquanto se mantém firme, a segunda dando um bom meio pé à frente com a direita, sem mover a esquerda e com o braço bem estendido para frente.
+
+[75] (P4.S37)
+À medida que você se recupera, inevitavelmente eles avançarão, e você pode atingi-los no tempo em que levantam o pé, no alvo que você vê como mais desprotegido, seja em quarta, terza ou seconda.
+
+[76] (P4.S38)
+Se eles se moverem em quarta para buscar sua espada, você deve atacar em terza, e se eles a encontrarem em quarta, você deve atacar em terza, enquanto se eles se moverem em seconda, você deve atacar em seconda.
+
+[77] (P4.S39)
+Para aqueles que defendem com a mão, você deve realizar uma cavazione.
+
+[78] (P4.S40)
+Eles não podem empregar duas ações ao mesmo tempo, ou seja, defender e atacar; portanto, quando você sabe que um homem defende com a mão e a mantém alta, querendo bloquear qualquer golpe que você tente em seu abdômen, você deve avançar sua mão e apresentar seu ataque no mesmo tempo.
+
+[79] (P4.S41)
+Quando você vê a mão dele se aproximando, deve realizar uma cavazione sobre ela com um movimento circular, e se ele mover a mão novamente pensando em encontrar sua espada, deve realizar uma ricavazione abaixo, com o mesmo movimento.
+
+[80] (P4.S42)
+Se ele tem a mão perto do abdômen e ainda deseja defender-se com ela, você deve apresentar seu ponto bem em seu coração, e ele não deixará de levantar a mão para se defender.
+
+[81] (P4.S43)
+Enquanto faz isso, você deve direcionar sua ponta para o fundo do estômago dele com um movimento circular, e se ele ainda mover a mão para encontrar sua espada embaixo, você deve executar uma ricavazione sobre ela.
+
+[82] (P4.S44)
+Este é o método e a maneira que eu utilizei, e que sempre considerei muito eficaz para vencer esse tipo de pessoa.
+
+[83] (P4.S45)
+Você precisa de grande paciência, no entanto, e muito esforço, pois não deve acreditar que pode se tornar tão habilidoso quanto um mestre em um ou dois anos e ser consumado no manejo das armas.
+
+[84] (P4.S46)
+Eu diria que é muito difícil encontrar um homem altamente habilidoso com armas.
+
+[85] (P4.S47)
+Retornando às guardas italiana, alemã e espanhola, e aos ataques que eu usava para derrotar esses tipos de guarda.
+
+[86] (P4.S48)
+Contra os franceses, eu realizei uma desordenação da espada.
+
+[87] (P4.S49)
+Contra os alemães, eu dei um crollamento, opondo-me ao inimigo com a minha mão esquerda, às vezes com dois golpes, o primeiro em quarta e o segundo cruzando as espadas enquanto avançava com um pequeno passo, além de realizar muitas fintas duplas, uma vez que eles atacam a espada com frequência.
+
+[88] (P4.S50)
+Contra os espanhóis, uma vez que eles sempre seguem com o pé de trás, eu realizava uma cavazione da espada ao contato, às vezes em dois tempos, fechando a medida com um passo curto.
+
+[89] (P4.S51)
+Você deve prestar atenção à sua cabeça ao lidar com um espanhol, pois não há como defender-se desses ataques, uma vez que eles miram apenas no olho, dizendo que são mais capazes ao visar o olho em vez do meio do estômago.
+
+[90] (P4.S52)
+Você também deve ter em mente observar as respostas do seu oponente, assim como seus ataques, ou seja, observar como o inimigo defende seu contra-ataque.
+
+[91] (P4.S53)
+Se ele defende levantando o braço, você deve dar-lhe uma mezza botta; se ele defende a ponta, você deve realizar uma cavazione; e se ele defende a cavazione, você deve simular da maneira que demonstrei acima ao discutir os ataques.
+
+[92] (P4.S54)
+Para executar tudo bem, no entanto, incluindo essas respostas, e lidar com todo tipo de postura e movimento, requer grande esforço.
+
+[93] (P4.S55)
+Nenhum homem pode colocar em prática o que sabe sem ser capaz de treinar e exercitar os movimentos em sua mente.
+
+[94] (P4.S56)
+Se tivéssemos corpos tão sublimes quanto nossos pensamentos, as pessoas seriam perfeitas.
+
+[95] (P4.S57)
+Nossa natureza é uma máquina demasiado pesada, no entanto, e requer grande esforço para ser gerida e movida antes que funcione sem falhas.
+
+[96] (P4.S58)
+No entanto, com julgamento, paciência e esforço, você sempre se tornará mais habilidoso do que muitos outros, se tiver se dedicado.
+
+[97] (P5.S0)
+Um método de defesa com a espada contra um sabre. Primeiramente, se um homem tem bom julgamento, ele deve segurar sua espada com a mão perto do bolso, a um pé e meio do chão, de modo que o sabre não possa vencer sua lâmina.
+
+[98] (P5.S1)
+Isto se deve ao fato de que o sabre não busca nada além da lâmina para deslocá-la, ou se não, a mão.
+
+[99] (P5.S2)
+Por esta razão, o espadachim com a espada deve rapidamente decidir, assim que vê o esgrimista de sabre e é capaz, lançar um ataque, seja na cabeça, seja em outro alvo.
+
+[100] (P5.S3)
+Ele deve fazer fintas para onde sabe que pode entrar mais facilmente, então rapidamente recuar, pois se o espadachim com a espada não for excessivamente habilidoso, corre um grande risco de ser ferido pela fúria do sabre.
+
+[101] (P5.S4)
+Aqueles que mantêm sua guarda em linha reta, no entanto, sempre serão feridos pela sabre, se seu portador tiver um mínimo de experiência.
+
+[102] (P6.S0)
+Para se defender contra uma espada tão longa quanto um homem, com uma espada meia pé mais curta do que a do seu inimigo, o esgrimista com a espada mais curta não deve se deixar intimidar pelas fintas de seu oponente, sejam mezze botte ou provocações.
+
+[103] (P6.S1)
+Em vez disso, assim que o inimigo realizar um ataque, ele deve rapidamente defender e fechar a medida, ou encontrar a espada, observando as cavazioni enquanto fecha a medida.
+
+[104] (P6.S2)
+Se o espadachim com a espada mais curta desferir um ataque contra seu inimigo, ele deve então rapidamente pular para trás, enquanto levanta sua espada, pois seu oponente ainda poderia feri-lo facilmente.
+
+[105] (P6.S3)
+Se o esgrimista com a espada curta, no entanto, devido ao seu grande espírito, deseja desferir seu golpe à distância, ele corre um risco.
+
+[106] (P6.S4)
+Isto se deve ao fato de que seu inimigo pode se manter firme com a significativa vantagem de sua arma, e ao ser atormentado por ataques cuja força ele pode não ser capaz de desviar, ele se vê obrigado a estender o braço e empurrar.
+
+[107] (P7.S0)
+Sobre a luta agarrada, é necessário bom julgamento por parte daqueles que desejam saltar sobre o corpo.
+
+[108] (P7.S1)
+Você deve apenas tentar isso quando seu inimigo se expuser demais ao realizar seu ataque.
+
+[109] (P7.S2)
+Vendo que ele demora a se recuperar, você pode aproveitar o tempo e empregar o agarramento.
+
+[110] (P8.S0)
+Para se defender com uma espada contra uma alabarda, aconselha-se ao esgrimista com a espada que a segure firmemente na mão e que agarre o meio da lâmina com a mão esquerda.
+
+[111] (P8.S1)
+Se o inimigo atacar por dentro, você deve defender com a sua direita e executar uma inquartata com o seu corpo.
+
+[112] (P8.S2)
+Se ele atacar por fora, você deve defender, passando com o pé esquerdo para o lado direito dele a fim de agarrá-lo, o que terá sucesso sem dúvida alguma.
+
+[113] (P9.S0)
+Espada e manto, espada e escudo Uma vez que o aluno tenha uma boa compreensão da espada sozinha, tendo recebido lições de um bom mestre, ele será capaz de aprender rapidamente e com muita facilidade a espada e adaga, espada e capa e espada e targa, observando que todos os três consistem em apenas uma única jogada.
+
+[114] (P9.S1)
+Ele só precisa garantir que todo o seu corpo esteja sobre o pé esquerdo e que a espada esteja posicionada na coxa, o mais baixo possível, mas ainda utilizável.
+
+[115] (P9.S2)
+Quanto à sua mão esquerda, a ponta da adaga deve ser direcionada à garganta do inimigo, buscando desestabilizá-lo, para que ele se deixe expor a uma estocada reta, seja por fora ou por dentro, conforme for mais fácil.
+
+[116] (P9.S3)
+Ele deve praticar a defesa contra ataques de um bom espadachim por pelo menos quinze dias, a fim de aprender a desviar com uma adaga na mão esquerda, e da mesma forma com a capa, a targa e o chapéu.
+
+[117] (P10.S0)
+Método de manejar a alabarda contra uma espada, ou no meio de muitas espadas Se acontecer que você deve pegar uma alabarda de sua casa ou oficina para confrontar uma espada, deve segurar a parte inferior da alabarda com a mão direita, com a mão esquerda no meio.
+
+[118] (P10.S1)
+Seu pé direito deve estar para trás e seu pé esquerdo para frente, com seu braço direito bem recolhido.
+
+[119] (P10.S2)
+Ao liberar um golpe, você deve imediatamente retrair seu ataque, e nunca deve balançar a alabarda quando souber que o espadachim é habilidoso, pois ele será capaz de se aproximar do agarramento com facilidade.
+
+[120] (P10.S3)
+Ao desejar entrar em combate com uma alabarda, você deve segurá-la a um palmo de sua cabeça.
+
+[121] (P10.S4)
+Ao então usar montanti, enquanto se move rapidamente, você pode entrar na luta sem perigo, a alabarda sendo não mais do que um palmo mais alta do que seu portador.
+
+[122] (P11.S0)
+A regra para o spadone de duas mãos contra múltiplas espadas. Isso se aplica tanto ao spadone de duas mãos quanto à espada longa.
+
+[123] (P11.S1)
+Encontrando-se assediado por inimigos, e supondo que há muitos deles, a situação não exige nada além de ataques como os de um homem desesperado, ou seja, você deve entrar liberalmente na luta.
+
+[124] (P11.S2)
+Você nunca deve lançar estocadas com a ponta, exceto contra um oponente que pareça mais fraco, em vez disso, lance roversi, mantendo-se sempre em movimento, pois este é o verdadeiro método de se defender.
+
+[125] (P12.S0)
+Para defender-se contra alguém com grande espírito, mas que possui pouco conhecimento de esgrima. Em todo o mundo onde pratiquei, ouvi de muitos casos de homens sem conhecimento de esgrima que mataram valentes.
+
+[126] (P12.S1)
+Aqui eu irei refletir e dizer que é possível, mas não tão fácil quanto alguns acreditam, pois saber um pouco é melhor do que ter muito.
+
+[127] (P12.S2)
+Se eu tivesse um grande espírito sem a arte, diria que a arte pode alcançar mais do que um grande espírito, pois ao ter um grande espírito sem postura, tempo e medida, eu nunca de maneira alguma seria realizado.
+
+[128] (P12.S3)
+Tendo que desembainhar minha espada de sua bainha, eu sempre rezava para que o céu me enviasse um oponente de grande ânimo, mas sem arte (em vez de um fleumático com mais arte do que eu), pois quando você é acometido por uma desventura como essa, pode superá-la sem perigo.
+
+[129] (P12.S4)
+Você deve, no entanto, tentar primeiro evitar desembainhar sua espada contra aquele que entende pouco da arte.
+
+[130] (P12.S5)
+Se você for ferido, toda a sua reputação estará perdida, mas se você ferir ou matar o adversário, isso não lhe trará honra alguma.
+
+[131] (P12.S6)
+Se você deve desembainhar sua espada, nunca brinque com ele ou faça cortes, pois ao não entender o perigo, ele poderia avançar, ou deixar-se à sua frente, momento em que ele poderia lhe envergonhar.
+
+[132] (P12.S7)
+Eu aconselho, em vez disso, que você se coloque bem em guarda e permaneça coberto.
+
+[133] (P12.S8)
+Se ele atacar desesperadamente, deixe-o lançar, e se ele entrar em medida, você deve recuar, sempre em guarda.
+
+[134] (P12.S9)
+No final, depois que ele tiver desferido dez ou doze estocadas sem efeito, você pode ou feri-lo se desejar, ou tomar sua espada ao vir para o agarramento e deixá-lo para os ignorantes que ele é.
+
+[135] (P12.S10)
+A razão será sua, no entanto, pois a razão é a base da arte da espada, uma vez que se diz que a razão conquista tudo.
+
+[136] (P12.S11)
+Sendo assim, agora darei alguns conselhos importantes, com base em um caso que vi em Nápoles.
+
+[137] (P12.S12)
+Um grande personagem, que havia completado vinte e quatro combates sem nunca ter sido ferido, foi ferido por um jovem de tenra idade, que, para sua grande vergonha, tirou sua vida.
+
+[138] (P12.S13)
+Que este exemplo sirva, portanto, como uma lição a todos aqueles que carregam uma espada ao seu lado, que é sempre melhor ser cauteloso e evitar tais situações.
+
+[139] (P13.S0)
+Quando o combate ocorre à noite, a regra para o combate noturno é a seguinte.
+
+[140] (P13.S1)
+Você nunca deve estocar, exceto com o seu pé, e deve buscar a espada do seu inimigo pelo som e com a sua espada, e uma vez que a encontre, liberar seu estocada sobre sua lâmina.
+
+[141] (P13.S2)
+Uma capa é melhor do que uma targa, para aqueles que sabem como usá-la.
+
+[142] (P14.S0)
+Para aprender a jogada da bandeira, primeiramente sua bandeira deve ter a mesma altura que você e estar bem contrabalançada tanto com chumbo quanto com madeira, de modo que toda a bandeira pese tanto quanto o palmo de chumbo.
+
+[143] (P14.S1)
+Cada passo que você der deve ser acompanhado por um floreio da bandeira, e você deve praticar com a sua esquerda assim como com a sua direita.
+
+[144] (P14.S2)
+Desta forma, você também pode aprender sem dificuldade a lutar com duas bandeiras.
+
+[145] (P15.S0)
+Todo tipo de guarda deve ser bom para aqueles que têm algum conhecimento, mas eu digo que as guardas italianas são as melhores.
+
+[146] (P16.S0)
+O FIM.
+

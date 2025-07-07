@@ -1,0 +1,51 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__2nd_master
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 15
+================================================================================
+
+[1] (P148.S0)
+E eu faço a cobertura com os braços cruzados, E posso realizar todos os remédios anteriores, Nem falharei em cobrir qualquer um dos golpes de costas, Pois posso executá-los todos, um por um.
+
+[2] (P148.S1)
+Eu brinco com os braços cruzados e posso fazer todos os remédios que foram mostrados anteriormente.
+
+[3] (P148.S2)
+E se estivéssemos ambos armados, você não poderia fazer uma melhor cobertura.
+
+[4] (P148.S3)
+Nenhum outro Mestre de Remédio Coroado [Adaga] faz uma cobertura mais forte do que eu, pois posso atuar tanto à direita quanto à esquerda, e posso cruzar tanto de baixo para cima quanto de cima para baixo.
+
+[5] (P149.S0)
+[42] Você não conseguirá realizar as jogadas que vieram antes, nem as jogadas dos golpes de costas [que se seguem], pois com este contra-ataque, sua defesa estará completamente perdida.
+
+[6] (P149.S1)
+Eu contrarresto o [Punhal] Mestre Remédio que fez a cruz diante de mim, para que ele não possa me causar problemas com sua cruz.
+
+[7] (P149.S2)
+Eu vou dar um empurrão em seu cotovelo para fazê-lo girar, e então eu o atingirei rapidamente.
+
+[8] (P150.S0)
+[43] Pegue a adaga, desloque seu braço, amarre você, ou jogue-o ao chão – eu posso fazer todas essas coisas.
+
+[9] (P150.S1)
+Acredito que este agarramento muito forte é fatal para qualquer um, porque posso quebrar seu braço, jogá-lo no chão ou tomar sua adaga.
+
+[10] (P150.S2)
+Eu também posso te manter preso na amarra superior.
+
+[11] (P150.S3)
+E como resultado dessas quatro coisas, você não conseguirá escapar.
+
+[12] (P151.S0)
+Quanto às quatro jogadas que você mencionou, você não conseguirá fazer nenhuma delas em mim, e com este contra-ataque eu te jogarei ao chão.
+
+[13] (P151.S1)
+Eu conheço a contra jogada à anterior.
+
+[14] (P151.S2)
+E com este agarramento eu vou contrabalançar os quatro golpes que ele disse que poderia fazer antes.
+
+[15] (P151.S3)
+E assim que ele me vê, eu o jogarei no chão, pois este agarrão é forte e feroz.
+

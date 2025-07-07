@@ -1,0 +1,216 @@
+MASTER: Antonio Manciolino
+SOURCE BOOK: antonio manciolino__introduction
+FIELD NAME: Complete TranslationbyW. Jherek Swanger
+TOTAL TEXTOS: 70
+================================================================================
+
+[1] (P2.S0)
+Novo trabalho para aprender a combater e esgrimar com todo tipo de arma, composto por Antonio Manciolino de Bolonha.
+
+[2] (P2.S1)
+É costume da maioria dos maestri mais comuns da arte dos golpes racionais da esgrima afixar no canto mais alto e solene de sua escola uma longa série de papéis, nos quais afirmam que seus capítulos estão escritos.
+
+[3] (P2.S2)
+E, na verdade, quem quer que os leia os encontra como capítulos, mas mais aqueles que os vendedores de vinho colocam nos barris, uma coisa mais monstruosa do que humana.
+
+[4] (P2.S3)
+E como pode ele ser humano, se a ganância e a rapacidade do mestre são exibidas abertamente?
+
+[5] (P2.S4)
+Mas quão humano é ajudar os outros e testemunhar por si mesmo que alguns não nascem assim rapaces e de coração duro por instinto?
+
+[6] (P2.S5)
+E, na minha opinião, as coisas são colocadas na escola apenas para seu próprio benefício, e não para o dos outros.
+
+[7] (P2.S6)
+Centenas são seus capítulos, pois neles não se contém nada além da avaliação do valor do jogo magistral desta arte, uma vez que a virtude das armas caiu em tal baixeza que desejam encontrar seus membros sagrados vendidos a preço nas escolas, vangloriando-se, sem considerar que os espíritos obtusos e os sutis não podem suportar igualmente este jugo sobre seus ombros, e que a arte não é uma meretriz para se deixar vender.
+
+[8] (P2.S7)
+E desejo seguir um caminho mais útil, observando que a escola deve se dedicar a oferecer alguma instrução da arte.
+
+[9] (P2.S8)
+É de maior valor para mim ser útil aos meus alunos com este trabalho do que, ao atribuir um preço ao jogo, proporcionar apenas a mim mesmo um grande benefício.
+
+[10] (P2.S9)
+Assim, bastar-me-á ter dos estudiosos três coisas: a saber, reverência, fé e recompensa; reverência como mestre, e igualmente fé, porque convém ao estudante crer, conforme o ditado do filósofo, que os estudiosos são considerados a recompensa adequada de seu mestre; pois sem isso (é o sentimento de Cícero) as artes pereceriam.
+
+[11] (P2.S10)
+Se, portanto, me considero satisfeito com as três coisas acima mencionadas, que perda de tempo em algum outro benefício meu poderia ser útil para esta, minha obra?
+
+[12] (P3.S0)
+Aqui começam algumas regras principais, ou instruções, sobre a valorosa arte da esgrima.
+
+[13] (P3.S1)
+Aquele que deseja lutar deve sempre se apegar ao mais valoroso dos feitos e à sua reputação.
+
+[14] (P3.S2)
+Porque assim como a glória do vencedor depende da valentia do vencido, assim a derrota não é censurável se a reputação do vencedor a embeleza.
+
+[15] (P4.S0)
+O prazer de jogar com jogadores variados e diversos torna um homem astuto, perspicaz e ágil de mãos, pois da variedade de tais mentes praticadas surge a astuta e sábia mãe-experiência das coisas.
+
+[16] (P5.S0)
+Quando um, ao jogar, tem dúvida sobre o outro, nunca deve se fixar em uma única guarda, mas mudar imediatamente de uma para outra.
+
+[17] (P5.S1)
+A razão é que o inimigo não poderá formar alguma opinião.
+
+[18] (P6.S0)
+Contra aqueles jogadores que desferem seus golpes com grande ímpeto, de modo que frequentemente geram medo em seu parceiro, há duas coisas que podem ser feitas: ou deixar seu golpe ir em vão e atacar imediatamente, fingindo astutamente que o está defendendo; ou se lançar para frente para defender antes que o golpe tenha chegado à força.
+
+[19] (P6.S1)
+Também se poderia golpeá-lo na mão, pois isso interferiria em seu lançamento vigoroso.
+
+[20] (P7.S0)
+O ferimento da mão, e não do inimigo, é registrado na contagem de golpes no jogo.
+
+[21] (P7.S1)
+Porque a mão é a principal em se expor, assim, no combate sério, é a ferida mais singular, pois aquele membro do inimigo deve ser ofendido que ofende mais do que os outros, e este é a mão.
+
+[22] (P8.S0)
+O golpe mais gentil é o mandritto, pois aquele é o mais gentil e nobre que é executado com mais dificuldade e perigo; mas golpear com o mandritto é feito com mais perigo do que com o riverso, uma vez que faz com que um homem fique totalmente descoberto nesse tempo; portanto, o mandritto é mais gentil.
+
+[23] (P9.S0)
+Deve-se sempre manter os olhos na mão da espada do inimigo mais do que em seu rosto, pois é ali que se pode ver tudo o que ele deseja fazer.
+
+[24] (P10.S0)
+A elegante defesa de um golpe não é de pouco proveito nem de pequena beleza; ao contrário, é de igual ou talvez maior encanto do que desferir um golpe belo, pois muitos sabem como lançar um golpe bonito, mas poucos têm o conhecimento de defendê-los, de modo que não sejam ofendidos.
+
+[25] (P10.S1)
+E tais guardiões descansam satisfeitos.
+
+[26] (P11.S0)
+[11] É uma coisa necessária conhecer os tempos, sem os quais a jogada é imperfeita; portanto, esteja ciente de que, quando o golpe do inimigo passar pelo seu corpo, há um momento em que é mais conveniente responder a ele com um ataque do que com uma defesa.
+
+[27] (P12.S0)
+Todos os jogadores que parecem baixos também devem empunhar armas curtas, pois sua potência não se estenderia a armas longas.
+
+[28] (P13.S0)
+A quem quer que seja, tanto no combate quanto na prática, a arma curta ou a espada curta é de maior virtude.
+
+[29] (P13.S1)
+Porque isso força os jogadores a se aproximarem, de onde se tornam ideais na defesa e têm um bom olhar.
+
+[30] (P14.S0)
+Em todos os aspectos, é algo ótimo treinar ambas as mãos em cada jogada com cada arma, e saber tanto com uma quanto com a outra como atacar e defender.
+
+[31] (P15.S0)
+Assim, as guardas altas se relacionam com as guardas baixas: que o princípio das guardas altas é o golpe, e naturalmente a defesa em seguida; e das guardas baixas, ao contrário, é a defesa como princípio, e então o golpe em seguida; mas nestas baixas, somente, é que a estocada é o golpe natural.
+
+[32] (P16.S0)
+Os golpes sem defesas não são realizados de forma sensata, portanto, as defesas sem a sequência de um golpe não devem ser feitas, aguardando os tempos, no entanto.
+
+[33] (P16.S1)
+Portanto, se alguém sempre se defende sem responder com um golpe, estaria dando ao seu inimigo um sinal manifesto de sua timidez; a menos que, com tal defesa, consiga empurrar o inimigo para trás, o inimigo avançaria com grande coragem; e, na verdade, a defesa deve ser feita avançando e não recuando, sendo assim mais apta a alcançar o inimigo, bem como a enfraquecer o golpe do inimigo, se ele vier contra você; pois ao golpeá-lo de perto, ele não pode te ferir com aquela parte da espada que vai do meio para trás em direção ao punho; mas seria muito pior da metade para frente.
+
+[34] (P17.S0)
+O bom jogador, quando joga com aquele que foge dele, (o que remove muita graça de seu valor, pois ao ver alguém fugir, ele não pode realizar uma ação perfeita) deve também fingir fugir, porque isso dará ânimo ao primeiro que fugiu para avançar, e assim corrigirá graciosamente o erro de seu jogo.
+
+[35] (P18.S0)
+Os jogadores que desferem muitos golpes sem tempo ou medida, embora estes possam atingir seus inimigos, são, no entanto, censuráveis, e mais cedo são considerados filhos da sorte do que da arte; mas aqueles são chamados de jogadores graves e bem posicionados que buscam atingir seu adversário com tempo e graça.
+
+[36] (P19.S0)
+Se alguém se encontra próximo do inimigo, nunca deve desferir um golpe completo, pois a espada não deve se afastar da presença para a segurança de quem a empunha, e esse desferir de um golpe imperfeito é chamado de “mezzo tempo”.
+
+[37] (P20.S0)
+Dois jogadores que se consideram de igual conhecimento da arte, é a razão pela qual um não saberá como desferir um golpe em seu companheiro com segurança; e, segundo meu conselho, de duas maneiras ele pode se colocar, com sorte, na esperança da vitória: ou seja, ter um olho voltado para desferir no mesmo tempo em que o inimigo atacar; ou pode dar a ele de onde parece melhor para se aproximar, e imediatamente lançar-se sobre ele, abraçando-o, o que, uma vez feito, qualquer um considerará aquele como o vencedor.
+
+[38] (P21.S0)
+Se alguém deseja fazer com que o inimigo desferir um golpe que ele irá defender para alcançá-lo nesse tempo, é conveniente que ele faça tal golpe três ou quatro vezes seguidas, quase na forma de um convite, e como o costume dos jogadores é imitar, o adversário será compelido a fazer uma semelhança, pela qual você o fará desferir o golpe que desejou.
+
+[39] (P22.S0)
+Se você deseja ferir o inimigo em sua parte superior do corpo, será necessário começar a disputa em sua parte inferior; e da mesma forma, se quiser atingi-lo na parte inferior do corpo; para isso, você fará um golpe acima, pois ao se defender nessas áreas com batidas, é necessário que as outras fiquem descobertas.
+
+[40] (P23.S0)
+[23] Como nenhum golpe pode ser desferido contra o qual, de forma discutível, não haja alguma guarda na qual não haja risco, segue-se que na subida e descida das guardas se revela a virtude dos jogadores; no grande campo, a vitória é vista para aquele que ataca seu inimigo desde o início, antes que ele estabilize suas armas em guarda, pois, estando preso em pensamento, ele pode ser atingido mais facilmente.
+
+[41] (P24.S0)
+Ao defender sua pessoa, um homem deve sempre manter suas armas bem estendidas, não apenas para que consiga desviar os golpes do inimigo para fora, longe de seu corpo, mas também para que se torne mais forte e ágil ao atacar.
+
+[42] (P25.S0)
+O emprego de armas pesadas e o prazer em lançar com comprimento e extensão nutrem uma boa energia e uma força ideal, de modo que, ao então entrar em combate com uma arma leve, um homem se torna mais ágil.
+
+[43] (P26.S0)
+Na arte da spada da filo, não se deve afastar das guardas baixas, pois elas são mais seguras do que as altas, e a razão é que, ao estar em guarda alta, você pode ser atingido por uma estocada ou um corte na perna, enquanto nas guardas baixas não há esse perigo.
+
+[44] (P27.S0)
+Aqueles que se deleitarão em se proteger contra os golpes dados com a falsa da espada se revelarão jogadores valentes, pois não há paradas melhores e mais fortes para eles do que estas, uma vez que são capazes de defender e atacar quase em um só tempo.
+
+[45] (P28.S0)
+Nem no combate nem no jogo deve-se permitir vencer por uma abundância excessiva de golpes, nem por presunção, pois assim se privaria completamente do próprio espírito e se o entregaria ao inimigo.
+
+[46] (P29.S0)
+O prazer na espada sem companhia é mais útil do que o de outras armas, na medida em que as outras acompanham menos frequentemente o corpo humano; não se tem sempre uma rotela, nem um escudo sempre, mas pode-se sempre ter a espada sem companhia.
+
+[47] (P30.S0)
+Durante o combate com uma pessoa canhota, avançar continuamente contra sua espada é a proteção ideal; e quando ele lança um riverso, lançando um mandritto em direção à sua mão de espada, ou quando ele lança um mandritto, lançando um riverso em direção à sua mão ou ao seu braço de espada, não há dúvida de que a vitória está assegurada.
+
+[48] (P31.S0)
+[31] É uma coisa inteiramente gentil e proveitosa, ao jogar, dar passos igualmente com um ou outro pé, de acordo com o tempo e a necessidade; no entanto, parece-me que dar passos com os pés em igualdade é de grande utilidade, pois assim pode-se tanto avançar quanto recuar sem inconveniente para o corpo, acrescentando também que um homem joga com mais força dessa forma do que por outros meios.
+
+[49] (P31.S1)
+E quando digo "com os pés em par", quero dizer que os pés não estão mais distantes do que algo além de meio braccio, acompanhando sempre a mão com o pé, e o pé com a mão.
+
+[50] (P32.S0)
+Não se pode ser chamado de perfeito nesta arte, assim como em outras, se não se sabe como ensinar alguém mais.
+
+[51] (P32.S1)
+Porque, como diz o filósofo na Ética: que o sinal do conhecimento é saber ensinar.
+
+[52] (P33.S0)
+[33] Ao manusear a espada de duas mãos no giuoco largo, você sempre deverá manter um olho na metade distal da espada em direção à ponta.
+
+[53] (P33.S1)
+Mas, ao chegar aos estreitos da meia espada, você deve ficar atento à mão esquerda, uma vez que o inimigo não pode executar uma presa senão com aquela.
+
+[54] (P34.S0)
+A arte da meia espada é bastante necessária ao conhecimento de quem deseja ser um bom jogador, na medida em que, se ele soubesse apenas como lutar à distância, e estivesse em combate corpo a corpo, teria que recuar envergonhado e em perigo, e frequentemente colocaria a vitória nas mãos de seu inimigo, ou ao menos revelaria aos observadores sua ignorância sobre tal arte.
+
+[55] (P35.S0)
+Se alguém se encontrar em combate com alguém mais poderoso e forte do que ele, não deve de forma alguma ser reduzido a presa, pois nesse caso o mais fraco seria compelido a cair.
+
+[56] (P36.S0)
+Concedendo a escolha de armas ao mais forte, ele deve armar o fraco de maneira robusta; a razão para isso é que, na pressão, ele será mais vitorioso, pois a razão exige completamente que os menos fortes tenham armaduras leves.
+
+[57] (P37.S0)
+Um de grande estatura combatendo com um de estatura baixa, e a escolha das armas indo para o grande, ele deve, por todos os meios, proteger a parte inferior do corpo, e não a parte superior, pois ele terá que estar mais apto a atingir a parte superior do corpo devido à sua altura.
+
+[58] (P37.S1)
+Mas se a escolha recair sobre o menor, será conveniente que ele arme a parte superior do corpo e deixe a parte inferior desarmada.
+
+[59] (P38.S0)
+[38] Combatentes de igual valor, força e tamanho podem escolher armaduras sem diferença.
+
+[60] (P39.S0)
+Quando as armas são muito curtas, diz-se que são muito mais perigosas, pois aquilo que ofende a uma distância mais próxima é de maior perigo, uma vez que tais golpes, por chegarem imediatamente, não podem ser facilmente evitados; daí decorre que a partidiana traz mais perigo do que a lança, e a adaga ainda mais do que a espada.
+
+[61] (P40.S0)
+Dos dois que jogam juntos, aquele que ataca em resposta é mais digno de louvor do que aquele que desferiu o primeiro golpe, porque ele se revela mais cedo para se enfurecer do que para perder vigor após o golpe recebido.
+
+[62] (P41.S0)
+Não é lícito, após o golpe recebido, fazer mais de uma resposta avançando com um passo cruzado; a razão é que deve-se agir com toda a astúcia, pois com isso pode-se recuperar a honra.
+
+[63] (P42.S0)
+O golpe na cabeça, considerando a excelência daquele membro, conta como três; e o golpe no pé é considerado como dois, tendo em vista a dificuldade de realizá-lo tão baixo.
+
+[64] (P43.S0)
+Um jogador valoroso é aquele que redobra seus golpes.
+
+[65] (P44.S0)
+As armas mais longas se opõem às mais curtas, e, portanto, a lança é escolhida antes do spiedo, segurando-a contra o spiedo não pela base, devido ao perigo de seu comprimento, mas no meio, com tal vantagem.
+
+[66] (P44.S1)
+E da mesma forma, a partisan é utilizada antes da espada de duas mãos.
+
+[67] (P45.S0)
+O inimigo é feito temeroso ao se desferirem golpes contra ele de meio para cima, em vez de de meio para baixo, porque os olhos e, consequentemente, o coração deles não permanecem muito valentes ao vislumbrarem a derrota.
+
+[68] (P46.S0)
+Desculpe, mas não há texto fornecido para tradução. Por favor, forneça o texto que você gostaria que eu traduzisse.
+
+[69] (P47.S0)
+Nunca se deve revelar ao outro nenhuma de suas intenções em relação aos golpes, mas compreender bem as do adversário.
+
+[70] (P47.S1)
+Porque ao discutir com uma mente simples, deve-se cumprir os planos do outro; mas ao entrar em um jogo onde a honra está em jogo, é louvável mostrar o oposto da própria intenção.
+

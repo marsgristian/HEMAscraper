@@ -1,0 +1,645 @@
+MASTER: Giovanni dall'Agocchie
+SOURCE BOOK: giovanni dall'agocchie__day_2_-_single_sword
+FIELD NAME: Draft Translation(2007)byW. Jherek Swanger
+TOTAL TEXTOS: 213
+================================================================================
+
+[1] (P64.S0)
+O Segundo Dia do Primeiro Livro: No qual se discute a esgrima com a espada desacompanha.
+
+[2] (P64.S1)
+Gio: Desde ontem, meu Senhor Lepido, não consegui fazer como desejou, devido à falta de tempo. Tentarei fazê-lo hoje, falando-lhe da espada sem acompanhamento.
+
+[3] (P64.S2)
+E é conveniente para nós tratar deste primeiro e depois das outras armas, uma vez que está razoavelmente colocado antes de todas as outras como a principal, mais necessária e mais importante arma, da qual podemos legitimamente dizer que reina, em virtude de ser a escada e guia, e fundamento de toda a esgrima.
+
+[4] (P65.S0)
+Lep: Aprendi que isso sempre foi considerado de grande estima, o que eu não sabia anteriormente, com tanta preeminência sobre outras armas que chega a retirar o prêmio.
+
+[5] (P65.S1)
+Gostaria de ouvir alguma razão para isso.
+
+[6] (P66.S0)
+Espada sem acompanhante: por que é preferida em relação às outras armas.
+
+[7] (P66.S1)
+Gio: As principais razões pelas quais a espada é preferida a outras armas são que, primeiro, não há nada no mundo mais valorizado do que a honra, que consiste em saber como se conduzir virtuosamente; se alguém se vê colocado em dúvida por oposição ou empreendimentos vilanescos, ou por alguma falha, deve defendê-la com seu próprio valor, e o outro deve legitimar sua afirmação.
+
+[8] (P66.S2)
+E vê-se quão adequada é a espada descompanha para fazer isso.
+
+[9] (P66.S3)
+Porque aqueles que parecem mais corajosos e de maior valor nos duelos mais resolutos aparecem em camisas com a espada descompanhada.
+
+[10] (P66.S4)
+E assim eles mostram a prova mais manifesta, mais confiantes na razão e em sua própria virtude do que em qualquer outra proteção ou na companhia de armas, sejam ofensivas ou defensivas.
+
+[11] (P66.S5)
+E quase todo o entendimento está fundamentado na espada descomposta, e nela se compreende a totalidade da esgrima, e todas as outras armas dependem dela.
+
+[12] (P66.S6)
+E aquele que tem conhecimento disso pode facilmente ter conhecimento de todos os outros, embora não seja assim para o inverso.
+
+[13] (P66.S7)
+Além disso, a espada descomposta é aceita em toda parte, é mais utilizada e pode ser obtida com mais facilidade, mas isso não acontece com as outras.
+
+[14] (P66.S8)
+Daí esta arma é razoavelmente preferida a todas as outras.
+
+[15] (P67.S0)
+Lep: Suas explicações são tão verdadeiras e suficientes que permaneço em silêncio e contente com elas.
+
+[16] (P67.S1)
+Mas antes de prosseguirmos, gostaria de saber sobre o que muitos dizem, a saber, que a esgrima que está em uso agora é muito diferente da da antiguidade, e que isso é algo distinto em relação àquela.
+
+[17] (P68.S0)
+Gio: Acredito que aqueles que dizem isso erram grandemente, pois que novos golpes os modernos descobriram que não derivam de tempos passados?
+
+[18] (P68.S1)
+Eu constato que todas as guardas, os golpes e tudo mais que é utilizado nestes tempos também era empregado na época dos antigos.
+
+[19] (P68.S2)
+Portanto, não sei como considerar de outra forma senão que eles significam que a esgrima de hoje é muito restrita em comparação com o tipo antigo.
+
+[20] (P68.S3)
+Para mostrar o quanto há valor no argumento de que novos usos podem ser reconhecidos por isto: que os antigos mestres o conheciam excelentemente, mas, na verdade, sua fundamentação baseava-se no fechamento para a meia espada.
+
+[21] (P68.S4)
+Mas, uma vez que isso é uma coisa difícil que não pode ser utilizada sem astúcia e grande arte, eles a reservaram para ensinar apenas no final, e não no início, como fazem esses novos mestres, muitos dos quais, creio, enganam a si mesmos.
+
+[22] (P68.S5)
+Porque, como dizem os sábios, você sempre deve ensinar as coisas fáceis no começo e as difíceis no final.
+
+[23] (P68.S6)
+Se, portanto, os antigos estavam utilizando o jogo longo, faziam-no com razão e julgavam de forma excelente, pois com isso torna-se o braço e o corpo mais ágeis juntos, desferem-se golpes longos e com medida, e um homem se torna mais ágil e de boa graça.
+
+[24] (P69.S0)
+Lep: Nestes tempos, raramente vemos estudiosos que estejam bem fundamentados nesta arte e que consigam fazê-la resultar bem.
+
+[25] (P70.S0)
+Gio: Isso se deve ao fato de que atualmente eles não se deleitam, como faziam então, na virtude, e especialmente nesta, porque o vício e a avareza encontram seu caminho em seus corações.
+
+[26] (P70.S1)
+Mas agora deixaremos isso de lado e, seguindo nossa proposta, antes de chegarmos aos quinto e sexto tópicos, darei a você alguns conselhos necessários para a defesa e o ataque, e sobre o movimento dos pés e do corpo, para que você possa entender o restante com maior facilidade.
+
+[27] (P71.S0)
+Desvio com a espada: de quantas maneiras pode ser feito.
+
+[28] (P71.S1)
+Você deve saber que a espada só pode defender de duas maneiras: ou com seu verdadeiro fio, ou com o falso.
+
+[29] (P71.S2)
+O dito falso é dividido em dois tipos, a saber, dritto e manco.
+
+[30] (P71.S3)
+Você pode se valer do falso dritto para atingir a espada do inimigo em direção ao exterior, isto é, em direção ao seu lado direito; e do falso manco, em direção ao seu lado esquerdo.
+
+[31] (P71.S4)
+E sempre que você atingir o golpe com um falso manco, poderá ferir depois com um corte ou uma estocada, mas quando você o atinge com um falso dritto, não poderá ferir exceto com um corte.
+
+[32] (P71.S5)
+Agora quero aconselhá-lo que, quando estiver em movimento para bloquear o golpe do inimigo com um falso dritto e quiser ferir com um mandritto, você deve imediatamente virar seu pulso para baixo e seu corpo para trás do lado direito.
+
+[33] (P71.S6)
+Ao fazer isso, você atingirá a espada do inimigo quase com sua verdadeira lâmina.
+
+[34] (P71.S7)
+E ao mesmo tempo você realizará um dritto tramazzone, de modo que ficará mais seguro, pois afastará a espada do inimigo mais longe de você, e também conseguirá parar e golpear quase em um só tempo.
+
+[35] (P71.S8)
+Além disso, sua espada estará sempre na presença do seu adversário.
+
+[36] (P71.S9)
+Mas você precisa ter um corpo ágil e um pulso muito rápido, pois caso contrário, isso não lhe servirá de nada.
+
+[37] (P72.S0)
+Lep: Por que não?
+
+[38] (P73.S0)
+Gio: Porque alguém que para com um falso dritto e não tem um corpo ágil e um pulso rápido pode facilmente lançar a espada do inimigo em seu próprio rosto.
+
+[39] (P73.S1)
+E por essa razão, há muitos que a amaldiçoam.
+
+[40] (P73.S2)
+Mas, uma vez que tenho uma opinião diferente, exorto você a praticá-lo, pois ao fazê-lo você vai aquecer seu corpo e melhorar seu pulso; além disso, você se tornará bom em defender e ágil em atacar.
+
+[41] (P73.S3)
+Então, sobre a defesa com a verdadeira lâmina da espada, direi que toda vez que você a utiliza para se defender, seja do lado direito ou do lado esquerdo, você poderá responder com um corte ou uma estocada, pois onde se fere com uma estocada, também se pode ferir com um corte.
+
+[42] (P74.S0)
+Lep: Qual você considera ser o melhor ataque, a estocada ou o corte?
+
+[43] (P75.S0)
+Ferir com a estocada é melhor do que com o corte.
+
+[44] (P75.S1)
+Gio: Ambos são bons.
+
+[45] (P75.S2)
+No entanto, considero que ferir com o golpe é melhor, pois o golpe leva menos tempo por estar mais próximo do inimigo, e também é mais fatal, além de nunca se afastar da presença, pela segurança de quem o executa.
+
+[46] (P75.S3)
+Mas, ao contrário, os cortes deixam o homem mais exposto e também levam mais tempo, pois no movimento da mão a espada se afasta mais do inimigo.
+
+[47] (P75.S4)
+E, portanto, considero que golpear com a estocada é melhor e mais seguro.
+
+[48] (P76.S0)
+Lep: Acredito que sim.
+
+[49] (P77.S0)
+Sobre o movimento dos pés e do corpo.
+
+[50] (P77.S1)
+Gio: Agora, ao abordar o movimento dos pés e do corpo juntos, quando você se encontrar em guardas com o pé direito à frente, e acontecer de você executar dois tempos, ou seja, parando e depois atacando, você deve trazer seu pé esquerdo próximo ao direito no tempo em que você para, e então, ao atacar, você dará um passo à frente com o direito.
+
+[51] (P77.S2)
+E assim, seu pé esquerdo acompanha sua defesa, e seu pé direito acompanha seu ataque.
+
+[52] (P77.S3)
+E, ao contrário, quando você defende e ataca em um único tempo, enquanto move sua espada, você também avançará com o pé direito, fazendo com que o esquerdo o siga, e, nesse caso, o pé direito acompanhará ambos.
+
+[53] (P77.S4)
+Mas quando você está em guarda com o pé esquerdo à frente, o pé direito quase sempre acompanhará tanto a defesa quanto o ataque, e a perna esquerda deve seguir a direita.
+
+[54] (P77.S5)
+E independentemente de qual pé você tenha à frente, você girará seu corpo e a perna de trás para o lado oposto ao qual você defende ou atinge o golpe do inimigo, pois ao fazer isso você realizará duas defesas em um tempo, uma com a espada e a outra com o corpo.
+
+[55] (P77.S6)
+Além disso, você se afastará da dita espada e se aproximará significativamente da sua abertura, e será mais fácil e seguro para você atingi-lo.
+
+[56] (P77.S7)
+Eu também quero aconselhá-lo a manter seu braço bem estendido durante sua defesa de ambos os lados, pois assim você afastará os golpes do seu inimigo mais longe do seu corpo, além de ser mais forte e mais rápido ao atacar.
+
+[57] (P77.S8)
+Observando estas regras, você não pode errar.
+
+[58] (P78.S0)
+Lep: Este conselho me agradou muito e, além disso, facilitará minha compreensão da explicação do quinto tópico, sobre o qual aguardo sua discussão.
+
+[59] (P79.S0)
+Maneiras de se defender do inimigo e de prejudicá-lo.
+
+[60] (P79.S1)
+Gio: Nesta quinta parte, quero mostrar a você todas as maneiras de se defender do inimigo e de feri-lo, quando ele deseja feri-lo com um corte ou uma estocada, seja alta ou baixa, quando você está fixo em coda lunga stretta.
+
+[61] (P79.S2)
+Começando a partir desta guarda, direi que quando você estiver fixo nela contra seu inimigo, e ele quiser te atingir na cabeça com um dritto fendente, você pode puxar seu pé esquerdo perto do direito, virando seu corpo como eu disse para o lado direito, e nesse tempo você levantará sua espada para a guardia di testa, defendendo o golpe.
+
+[62] (P79.S3)
+Então você dará um passo à frente com o pé direito, desferindo um mandritto sgualimbro em direção à cabeça dele, seguido de um riverso, com o qual você retornará à guarda mencionada.
+
+[63] (P79.S4)
+Ou, uma vez que você tenha defendido o golpe mencionado na guardia di testa, você poderá feri-lo com dois dritti tramazzoni, ou desferir uma imbroccata em seu peito seguida de um dritto tramazzone.
+
+[64] (P79.S5)
+Você também poderia dar um passo em direção ao lado esquerdo do inimigo com o seu pé direito e desviar o golpe dele com um mezzo mandritto, e imediatamente desferir um riverso em seu rosto, seguido de outro riverso; ou empurrar uma punta riversa em seu peito, juntamente com um riverso tramazzone, o que o levará à guarda mencionada.
+
+[65] (P79.S6)
+Você também pode dar um passo à frente com o pé direito, fazendo com que o esquerdo o siga, e parar o referido fendente em guardia di faccia, empurrando a ponta em seu rosto nesse tempo, e para sua proteção você fará um riverso tramazzone com o qual você irá para a mencionada guarda.
+
+[66] (P79.S7)
+Você também poderia, no mesmo tempo em que ele deseja desferir um golpe em sua cabeça, estocar uma punta riversa em seu peito, ou ferir a mão do inimigo com um mezzo mandritto, e para sua defesa imediatamente ir com sua espada para a guardia di faccia, parando o golpe do inimigo, e, tendo feito isso, você se estabelecerá de volta na mesma guarda.
+
+[67] (P79.S8)
+Mas se ele quiser te atingir na cabeça com um mandritto, seja sgualimbro ou tondo, você poderá seguir a mesma regra dada acima, tanto para defender quanto para atacar; exceto que, ao parry com sua espada em guardia di testa, você deverá abaixar um pouco a ponta em direção ao chão, virando seu corpo para o lado direito, mantendo seu braço estendido, de modo que assim você se tornará mais seguro.
+
+[68] (P79.S9)
+Você também poderia deixar seu golpe ir em vão e imediatamente feri-lo com o que lhe parecer mais conveniente.
+
+[69] (P80.S0)
+Lep: Eu gostaria que você me explicasse isso de forma mais clara.
+
+[70] (P81.S0)
+Gio: Quando você vir o golpe mencionado se aproximando, você evitará o seu corpo, recuando um pouco, e se posicionará completamente sobre o seu pé esquerdo, simulando como se fosse a defender; mas deixando o golpe dele passar, você empurrará uma estocada em seu flanco, ou fará um dritto tramazzone em direção ao braço da espada dele.
+
+[71] (P81.S1)
+Tendo feito isso, você se acomodará na coda lunga stretta; e isso é o suficiente sobre como dar origem a este golpe.
+
+[72] (P82.S0)
+Lep: Agora eu te entendo perfeitamente; portanto, continue.
+
+[73] (P83.S0)
+Gio: Agora, tendo retornado à coda lunga stretta, se o inimigo quiser feri-lo na perna com um mandritto, você pode defendê-lo com a borda falsa da espada, avançando com o pé direito e desferindo dois dritti tramazzoni em sua cabeça nesse tempo, fazendo sua perna esquerda seguir atrás da direita e imediatamente retornando à guarda acima mencionada.
+
+[74] (P83.S1)
+Ou, uma vez que você tenha defendido, pode executar um riverso de baixo para cima, seguido de uma imbroccata.
+
+[75] (P83.S2)
+Você também poderia aproximar seu pé direito do esquerdo e apontar sua lâmina para o rosto dele nesse tempo; então, imediatamente, adote a guarda mencionada.
+
+[76] (P83.S3)
+Mas se ele quiser lhe lançar um mandritto ridoppio, você pode se proteger com um mezzo mandritto sgualimbro e, em resposta, dar-lhe um riverso tondo na cabeça, ou uma punta riversa no peito seguida de um riverso tramazzone, com o qual você se estabelecerá na guarda mencionada.
+
+[77] (P83.S4)
+Mas se por acaso ele quiser te ferir na cabeça com um riverso fendente, você pode ir com sua espada para a guardia di testa e defendê-la ali, então imediatamente dê um passo em direção ao lado direito dele com seu pé direito, girando dois mandritti para a cabeça dele com seu pulso, ou feri-lo com uma imbroccata no peito.
+
+[78] (P83.S5)
+Você também pode desviar dele na guardia d’entrare, avançando em direção ao seu lado direito com o pé direito, e cravar a ponta na sua face nesse tempo, e, tendo feito isso, retornar à mesma guarda.
+
+[79] (P83.S6)
+Mas se, em vez disso, o inimigo desferir um riverso, sgualimbro ou tondo, em sua cabeça, você pode golpeá-lo com a verdadeira lâmina de sua espada e imediatamente virar um riverso para a cabeça dele; ou cravar uma imbroccata em seus flancos.
+
+[80] (P83.S7)
+Você também pode se defender se entrar na guardia d’entrare e empurrar a ponta para o peito dele no mesmo tempo.
+
+[81] (P83.S8)
+Você também pode simular um golpe como se fosse para defender, e deixar o ataque girar em vão, então feri-lo com o que parecer mais oportuno; no entanto, restaure-se imediatamente à guarda mencionada.
+
+[82] (P83.S9)
+Mas quando ele quiser te responder com um riverso na perna, você pode defender isso com um riverso ridoppio, e imediatamente avançar com o pé direito, executando um dritto tramazzone em direção à cabeça dele, ou desferir uma imbroccata em seu peito.
+
+[83] (P83.S10)
+Você também pode puxar sua perna para trás, apontando sua lâmina para o rosto dele, ou virar um riverso em direção ao braço da espada dele, e imediatamente retornar para coda lunga stretta.
+
+[84] (P83.S11)
+Mas se ele desferir um riverso ridoppio, você pode defendê-lo com um riverso e feri-lo com o que parecer mais adequado, e imediatamente retomar a guarda mencionada.
+
+[85] (P83.S12)
+Mas se por acaso ele quiser te ferir com um golpe de cima para baixo, você pode bloquear com a aresta falsa da espada, baixando a ponta em direção ao chão, girando bem o pulso e seu corpo para o lado direito, e, tudo em um único tempo, desferindo dois dritti tramazzoni em sua cabeça, fazendo com que o último caia em porta di ferro.
+
+[86] (P83.S13)
+Pode-se também desviar com um mezzo mandritto, golpeando-o no peito com uma punta riversa, ou cortando-o no rosto com um riverso, seguido de outro riverso com o qual você retornará à guarda mencionada.
+
+[87] (P83.S14)
+Durante o golpe da referida imbroccata, você também poderia puxar seu pé direito próximo ao esquerdo e afastá-lo para cima nesse tempo com um riverso ridoppio, e imediatamente avançar e desferir um golpe de estocada de cima para baixo em seu rosto.
+
+[88] (P83.S15)
+Você também se defenderá da referida imbroccata se recuar seu pé direito um passo, ferindo-o na mão nesse tempo com um mezzo mandritto que descerá em cinghiale porta di ferro.
+
+[89] (P83.S16)
+Então, imediatamente faça um falso e um riverso, retornando seu pé direito para frente, posicionando-se na guarda anteriormente mencionada.
+
+[90] (P83.S17)
+Mas quando o inimigo quiser desferir uma estocada em seu peito, você pode defendê-la com um falso direito, girando bem seu pulso e corpo, como já mencionei, e no mesmo tempo você desferirá dois mandritti em sua cabeça com seu pulso.
+
+[91] (P83.S18)
+Em seguida, você poderia defender-se com um mezzo mandritto e, imediatamente, estender uma estocada em direção ao seu rosto; então, para se proteger, execute um riverso sgualimbro, com o qual você retomará a guarda mencionada.
+
+[92] (P83.S19)
+A esta mesma stoccata você também pode unir seu verdadeiro fio contra a espada do inimigo, estendendo a ponta em seu peito tudo em um só tempo, e você se encontrará com sua espada em guardia di faccia, de onde, para sua proteção, você fará um riverso tramazzone, retornando à guarda mencionada.
+
+[93] (P83.S20)
+Você também se protegerá se lançar um mezzo mandritto na mão do inimigo, recuando seu pé direito um passo nesse tempo, e então imediatamente retornar à guarda da qual discutimos; ou, quando ele lançar a referida stoccata em você, nesse instante, execute um riverso tramazzone em direção ao braço da espada dele, mas seu pé esquerdo deverá seguir seu pé direito.
+
+[94] (P83.S21)
+E estas são as defesas e ataques que podem ser realizados contra mandritti, riversi e estocadas, encontrando-se fixo em coda lunga stretta.
+
+[95] (P84.S0)
+Lep: A regra que você seguiu ao discutir esta guarda foi verdadeiramente de grande satisfação para mim.
+
+[96] (P84.S1)
+Portanto, continue com o restante.
+
+[97] (P85.S0)
+Gio: Será útil para você seguir a mesma regra em relação aos outros, uma vez que este é o melhor e o mais fácil caminho que pode ser utilizado para levá-lo à compreensão desta arte.
+
+[98] (P85.S1)
+E, portanto, eu digo a vocês que, ao se encontrar diante de seu inimigo com sua espada em coda lunga alta, se ele por acaso desferir um mandritto em sua cabeça, você avançará com o pé direito e irá com sua espada para guardia di testa tudo em um tempo para se defender, fazendo com que seu pé esquerdo siga o direito, e imediatamente empurre uma imbroccata em seu peito, ou desvie dois dritti tramazzoni para sua cabeça.
+
+[99] (P85.S2)
+Mas para sua proteção, você retornará seu pé direito um passo para trás junto com um riverso, que parará na referida guarda.
+
+[100] (P85.S3)
+Pode-se também deixar passar o golpe e feri-lo com o que parecer mais oportuno.
+
+[101] (P85.S4)
+Durante seu avanço com o pé direito, você poderia também desviar com um mandritto sgualimbro e imediatamente dar-lhe um mandritto tondo na cabeça, ou cortá-lo no rosto com um riverso; tendo feito isso, você retornará seu pé direito para trás, desferindo um riverso tramazzone nesse tempo, com o qual você voltará à mesma guarda acima.
+
+[102] (P85.S5)
+Da mesma forma, quando seu inimigo desferir o mencionado mandritto, você pode avançar com o pé direito e colocar sua espada na guardia di faccia para se proteger, apontando imediatamente a ponta para o rosto dele.
+
+[103] (P85.S6)
+E, tendo feito isso, você retornará à guarda de mesmo nome.
+
+[104] (P85.S7)
+Além disso, enquanto ele desferir o golpe, pode-se dar-lhe um mezzo mandritto na mão da espada, avançando um pouco em direção ao seu lado esquerdo com o pé direito, e imediatamente colocar-se na guarda mencionada.
+
+[105] (P85.S8)
+Mas quando ele te responder com um mandritto na perna, você o defenderá com um falso dritto, avançando com o pé direito durante essa defesa, e em um só tempo você fará um riverso de baixo para cima em direção ao braço do inimigo, ou executará um dritto tramazzone em sua cabeça.
+
+[106] (P85.S9)
+Você também poderia recuar sua perna e desferir uma estocada em seu rosto, e então imediatamente se colocar de volta em coda lunga alta.
+
+[107] (P85.S10)
+Mas se o inimigo lançar um riverso à sua cabeça, você imediatamente irá para a guardia di testa para se defender, pisando com o pé direito nesse tempo, desferindo dois dritti tramazzoni à sua cabeça, ou empurrando uma imbroccata em seu peito.
+
+[108] (P85.S11)
+Você também poderia defender na guardia d’entrare e empurrar a ponta em seu rosto nesse tempo.
+
+[109] (P85.S12)
+Pode-se igualmente permitir que o golpe vá em vão e imediatamente feri-lo com o que for mais conveniente, e, tendo feito isso, retornar à guarda mencionada.
+
+[110] (P85.S13)
+Mas quando ele te responder com um riverso na perna, você recuará seu pé e apontará a lâmina para o rosto dele nesse tempo, retornando imediatamente à guarda habitual.
+
+[111] (P85.S14)
+Mas quando o inimigo lhe lança um golpe de cima para baixo, você pode dar um passo à frente com o pé direito, defendendo-se com o falso da maneira que lhe disse no conselho acima, ou seja, virando bem o seu corpo para o lado direito, juntamente com dois dritti tramazzoni direcionados à sua cabeça com o pulso, tendo feito isso, você se posicionará na mesma guarda.
+
+[112] (P85.S15)
+Você também pode dar um passo à frente com o pé direito e defender-se com um mezzo mandritto sgualimbro, e imediatamente feri-lo no peito com uma punta riversa, ou cortá-lo no rosto com um riverso tondo seguido de outro riverso, com o qual você retornará à coda lunga alta.
+
+[113] (P85.S16)
+Você pode igualmente recuar um passo com o seu pé esquerdo e ferir a mão do inimigo tudo em um único tempo com um mezzo mandritto, e após isso fazer uma rotação do punho, avançando novamente com o seu pé e posicionando-se na guarda acima mencionada.
+
+[114] (P85.S17)
+Mas se ele lançar uma estocada em seu peito, você pode defendê-la com um falso, girando bem o pulso, juntamente com o corpo, e avançando para frente, tudo em um só tempo, ferindo-o na cabeça com dois dritti feitos com o pulso, fazendo com que o último caia em porta di ferro.
+
+[115] (P85.S18)
+Também será vantajoso para você se você desviar com a verdadeira lâmina de sua espada e imediatamente cravar a ponta em seu rosto, ou cortá-lo com um riverso tondo no rosto.
+
+[116] (P85.S19)
+Em seguida, ao dar um passo com os seus pés, você pode unir o forte da verdadeira lâmina de sua espada ao do seu inimigo, cravando sua ponta em seu peito.
+
+[117] (P85.S20)
+Além disso, você pode voltar o seu pé esquerdo e dar-lhe um mezzo mandritto na mão da espada dele nesse tempo.
+
+[118] (P85.S21)
+Da mesma forma, poderia dar um grande passo em direção ao lado esquerdo do inimigo com o pé direito e, nesse passo, desferir um golpe de estocada por cima em seu flanco.
+
+[119] (P85.S22)
+Além disso, você poderia se defender do referido golpe dando um passo em direção ao lado esquerdo dele com o seu pé direito, executando um riverso tramazzone em seu braço direito tudo em um só tempo.
+
+[120] (P85.S23)
+E esta é a maneira de se defender do inimigo e prejudicá-lo quando ele deseja feri-lo, seja com um corte ou uma estocada, seja alta ou baixa, quando você se encontra na mencionada guarda de coda lunga alta.
+
+[121] (P86.S0)
+Lep: Essas defesas e ataques dos quais você acabou de falar parecem ser semelhantes aos da coda lunga stretta.
+
+[122] (P87.S0)
+Gio: É verdade, porque essas duas guardas são de uma mesma natureza, nem há outra diferença, exceto pelo passo que se dá com o pé direito, o qual não se pode evitar ao desejar parar os golpes do inimigo e prejudicá-lo.
+
+[123] (P87.S1)
+E embora não haja outra diferença entre eles além do que acabei de dizer, ainda assim não quis me abster de discutir isso com você apenas por causa disso, nem de mostrar plenamente tudo o que pode ser feito na referida guarda, para melhor levá-lo a uma compreensão completa.
+
+[124] (P88.S0)
+Lep: Espero que por esta regra eu obtenha de você tanto quanto desejo.
+
+[125] (P89.S0)
+Porta di ferro stretta Gio: Agora, ao abordar a discussão da terceira guarda, que será a porta di ferro stretta, se você estiver fixo nela diante de seu inimigo e ele desferir um mandritto fendente em sua cabeça, você pode bloqueá-lo com um falso manco, fazendo com que seu pé esquerdo empurre o direito para frente, e então imediatamente cortá-lo no rosto com um mandritto, o que o retornará à mesma guarda, ou, tendo defendido o referido golpe, você dará um passo em direção ao lado direito do inimigo com seu pé esquerdo, desferindo um riverso em sua cabeça nesse tempo.
+
+[126] (P89.S1)
+Você também poderia, uma vez que tenha defendido o fendente com o falso, virar seu punho para baixo e imediatamente cravar sua ponta em seu rosto, seguido de um dritto tramazzone que terminará na guarda mencionada.
+
+[127] (P89.S2)
+Da mesma forma, enquanto o inimigo está desferindo o fendente, você poderia defendê-lo na guardia di testa, avançando em direção ao lado esquerdo dele com o seu pé direito, e desferir dois dritti tramazzone em sua cabeça, ou empurrar uma imbroccata em seu peito, que cairá na guarda mencionada acima.
+
+[128] (P89.S3)
+Em seguida, você pode se proteger com um riverso sgualimbro, dando um passo um pouco em direção ao lado direito dele com o seu pé esquerdo, e imediatamente avançar para frente com o direito, desferindo um golpe de estocada por cima em seu flanco ou virando um riverso para sua cabeça, e, tendo feito isso, retorne à guarda empregada.
+
+[129] (P89.S4)
+Você também poderia desviar o referido golpe em guardia di faccia, e empurrar a ponta em seu rosto no mesmo tempo, e imediatamente retornar à guarda mencionada.
+
+[130] (P89.S5)
+Mas se o inimigo lançar um mandritto, sgualimbro ou tondo em seu corpo superior, você se protegerá contra esses, seja na guardia di testa ou na guardia di faccia, o que for mais fácil, dando a ele a resposta que for mais oportuna, pois contra esses você pode fazer quase todas as mesmas defesas que faria contra o mandritto fendente.
+
+[131] (P89.S6)
+Mas voltando à discussão, quando ele lança um mandritto para a sua perna, você pode puxar seu pé direito perto do esquerdo, empurrando a ponta em seu rosto nesse tempo, e, tendo feito isso, retornar à porta de ferro.
+
+[132] (P89.S7)
+Mas se ele desferir um riverso em seu corpo superior, você pode golpeá-lo com a aresta falsa de sua espada e imediatamente desferir um riverso em sua cabeça, ou após ter desferido o golpe, você poderia virar seu punho para baixo e empurrar a ponta em seu rosto, seguido de um dritto tramazzone com o qual você reassumirá a guarda mencionada.
+
+[133] (P89.S8)
+Você também pode defender na guardia di testa e imediatamente feri-lo com um mandritto ou um golpe de cima para baixo.
+
+[134] (P89.S9)
+Além disso, você pode atingir o referido riverso com a verdadeira lâmina da sua espada e imediatamente virar a mão para cima e cortá-lo no rosto com um mandritto, ou, tendo desferido o golpe, você pode cravar uma imbroccata em seu peito.
+
+[135] (P89.S10)
+Também se pode defender na guardia d’entrare e cravar a ponta em seu rosto em um tempo; tendo feito isso, deve-se retornar à guarda utilizada.
+
+[136] (P89.S11)
+Mas se ele lançar um riverso para a sua perna, você se protegerá com um riverso ridoppio e, em um golpe, desferirá um riverso em sua cabeça ou empurrará a ponta para seus flancos, ou recuará um pouco a perna, empurrando a ponta para seu rosto nesse instante.
+
+[137] (P89.S12)
+Mas se por acaso ele te atacar com um riverso ridoppio, você o defenderá com o fio verdadeiro da sua espada e, prontamente, o ferirá com um riverso tondo ou uma punta riversa, seguido de um dritto tramazzone, com o qual você reassumirá a guarda mencionada.
+
+[138] (P89.S13)
+Mas se ele te empurrar uma imbroccata para o peito, você pode desviar isso com a falsa borda da sua espada, avançando nesse tempo em direção ao lado direito dele com o pé direito, girando um riverso para o braço do seu inimigo e, em seguida, retornando imediatamente à porta di ferro.
+
+[139] (P89.S14)
+Você também será um bom defensor contra a dita imbroccata com um riverso sgualimbro, empurrando rapidamente um golpe de cima para baixo em seu flanco.
+
+[140] (P89.S15)
+Você também pode unir seu verdadeiro fio com a espada do seu inimigo, imediatamente empurrando a ponta em seu rosto.
+
+[141] (P89.S16)
+Além disso, você pode defender-se com um dritto tramazzone, puxando seu pé direito para trás do esquerdo nesse tempo, e fazendo sua espada entrar em cinghiale porta di ferro; tendo feito isso, você avançará um passo com o pé direito, acompanhado de um dritto tramazzone, com o qual você retornará à guarda mencionada.
+
+[142] (P89.S17)
+Mas se ele te atacar com um golpe ascendente, você pode defendê-lo com um falso manco, e então cortá-lo no rosto com um mandritto ou virar um riverso para a cabeça dele, fazendo com que um pé empurre o outro para frente.
+
+[143] (P89.S18)
+Além disso, uma vez que você tenha atingido o referido golpe com a borda falsa de sua espada, pode fazer uma meia volta do seu punho e empurrar a ponta em seu rosto, tudo em um só tempo, seguido de um dritto tramazzone com o qual você irá para a guarda mencionada acima.
+
+[144] (P89.S19)
+Da mesma forma, pode-se defender contra isso com um riverso sgualimbro, avançando um pouco com o pé esquerdo em direção ao lado direito do inimigo, em seguida deslizando para frente com o direito e ferindo-o com um riverso na coxa, ou, após ter defendido, você pode desferir uma imbroccata em seu flanco, com a qual você se fixará na guarda mencionada.
+
+[145] (P89.S20)
+Você também pode entrar na guardia d’entrare contra a dita stoccata, colocando o forte de seu verdadeiro fio contra a espada do inimigo, empurrando a ponta em seu peito, ou, quando ele lançar a dita stoccata, você pode recuar um passo com o pé direito, e nesse tempo você girará um dritto tramazzone em direção ao braço da espada dele, que cairá em cinghiale porta di ferro.
+
+[146] (P89.S21)
+Então você avançará imediatamente com o pé direito, juntamente com um mandritto com o seu pulso, com o qual você se estabelecerá na referida guarda.
+
+[147] (P89.S22)
+E estas são as maneiras que você deve seguir para se proteger dos golpes de seu inimigo e para prejudicá-lo, estando fixo na porta de ferro estreita.
+
+[148] (P90.S0)
+Lep: Agora me diga, se eu estivesse na porta de ferro larga ou na porta de ferro alta, poderiam ser realizadas as mesmas defesas?
+
+[149] (P91.S0)
+Gio: Quase todos eles poderiam ser feitos, porque essas três guardas são de uma mesma natureza, então ainda há pouca diferença entre uma e outra.
+
+[150] (P91.S1)
+E assim que você entenda, as guardas largas servem no jogo largo, e as estreitas no jogo estreito.
+
+[151] (P91.S2)
+Mas voltando à discussão sobre eles, quando você se encontrar diante de seu adversário em cinghiale porta di ferro e ele quiser golpeá-lo com um mandritto na cabeça, você pode avançar com o pé direito e parry em guardia di testa, e imediatamente desferir dois dritti tramazzone em seu corpo superior ou empurrar uma imbroccata em seu peito, fazendo sua perna esquerda seguir atrás da direita, e imediatamente retornar seu pé direito um passo para trás junto com um dritto tramazzone com o qual você se fixará na referida guarda.
+
+[152] (P91.S3)
+Você também pode desviar dele na guardia d’entrare, avançando com o pé direito, e empurrar a ponta em seu rosto no mesmo tempo.
+
+[153] (P91.S4)
+Você também se defenderá se desferir o golpe mencionado com um falso manco de baixo para cima, avançando imediatamente com o pé direito e, em seguida, virando um riverso para a cabeça, ou cortando-o com um mandritto no braço.
+
+[154] (P91.S5)
+E, tendo feito isso, você se colocará de volta na guarda acima mencionada.
+
+[155] (P91.S6)
+Também será útil, ao avançar, entrar na guardia di faccia com sua espada para se proteger, e nesse momento, empurrar a ponta em seu peito.
+
+[156] (P91.S7)
+Além disso, uma vez que você tenha defendido na guardia di faccia, pode avançar em direção ao lado direito do inimigo com o seu pé esquerdo e desferir um riverso em sua cabeça, retornando imediatamente à sua guarda.
+
+[157] (P91.S8)
+Mas se ele desferir um riverso em sua cabeça, você pode defendê-lo com a borda falsa de sua espada e golpeá-lo na cabeça com um riverso semelhante, ou, tendo defendido com a borda falsa, você girará seu punho para baixo, empurrando a ponta em seu rosto.
+
+[158] (P91.S9)
+Você também poderia atingi-lo com um riverso sgualimbro, avançando para frente com o pé direito, e cravar uma imbroccata em seu flanco.
+
+[159] (P91.S10)
+Em seguida, você poderia entrar na guardia d’entrare com sua espada e se proteger dele ali, empurrando a ponta em seu rosto no mesmo tempo; tendo feito isso, você retornará à guarda empregada.
+
+[160] (P91.S11)
+Mas se ele quiser te responder com um riverso na sua perna, você pode avançar com o pé direito e defender com um riverso ridoppio, desferindo uma imbroccata em seu peito em resposta, ou, enquanto ele está desferindo o golpe na sua perna, recuar o pé, cravando uma estocada em seu rosto nesse tempo, e, tendo feito isso, reassumir a guarda mencionada.
+
+[161] (P91.S12)
+Mas se por acaso ele lhe desferir um golpe de cima para baixo, você pode defendê-lo com a borda falsa e desferir um riverso em sua cabeça ou cortá-lo no rosto com um mandritto.
+
+[162] (P91.S13)
+Você também pode atingi-lo com a verdadeira lâmina de sua espada, avançando com o pé direito de imediato e cravando a ponta através de seu flanco.
+
+[163] (P91.S14)
+Caso contrário, durante sua investida com a imbroccata, você pode unir seu verdadeiro fio à espada dele e avançar tudo em um só tempo, cravando sua ponta em seu rosto.
+
+[164] (P91.S15)
+Você pode se defender da mesma forma, puxando seu pé esquerdo para trás do direito e girando um dritto tramazzone nesse tempo em direção à mão de espada dele, e então imediatamente retornar para cinghiale porta di ferro.
+
+[165] (P91.S16)
+Mas se o seu inimigo quiser feri-lo com um golpe de baixo para cima, você pode defendê-lo com um falso manco, avançando com o pé direito, e imediatamente desferir um riverso em sua cabeça ou cortá-lo no rosto com um mandritto; ou, tendo defendido com a borda falsa, você pode fazer uma meia volta do seu punho e empurrar a ponta em seu rosto.
+
+[166] (P91.S17)
+Isso também lhe será útil contra a dita stoccata, ao recuar seu pé esquerdo e girar um dritto tramazzone em direção à mão do seu inimigo nesse tempo, ou, enquanto ele investe com a stoccata, você pode encontrá-la com o forte de seu verdadeiro fio, avançando com o pé direito, e cravar sua ponta em seu peito no mesmo tempo.
+
+[167] (P91.S18)
+Em seguida, você pode defender com um riverso sgualimbro, avançando imediatamente e ferindo-o com uma imbroccata no flanco, seguida por um dritto tramazzone que irá para a porta di ferro, e então você retornará imediatamente o pé direito um passo para trás, juntamente com um mandritto do pulso, com o qual você se fixará na referida guarda.
+
+[168] (P91.S19)
+E com isso terminei a explicação dessas quatro guardas mais necessárias, nas quais demonstrei as defesas tanto com a lâmina falsa quanto com a verdadeira da espada, juntamente com os ataques que podem ser desferidos em cada uma delas.
+
+[169] (P92.S0)
+Lep: Qual dessas duas defesas você considera melhor?
+
+[170] (P93.S0)
+Qual é a defesa mais segura.
+
+[171] (P93.S1)
+Gio: Ambos são bons, no entanto, as defesas que são feitas com a verdadeira lâmina da espada são melhores e mais seguras.
+
+[172] (P93.S2)
+Porque quase sempre são feitos com o forte da espada, isto é, da metade para trás, e também (como já lhe disse), pode-se sempre ferir tanto com a estocada quanto com o corte; além disso, a ponta da espada quase nunca se afasta da presença do inimigo.
+
+[173] (P93.S3)
+Mas, ao contrário, as defesas que são feitas com a falsa lâmina são menos fortes e seguras, pois a maioria delas é realizada com o debole da espada, que vai do meio para a frente, e nunca se pode ferir com um golpe de estocada, além de se afastar da presença do inimigo; por essas razões, considero que bloquear com a verdadeira lâmina da espada é melhor e mais seguro.
+
+[174] (P94.S0)
+Lep: Eu mantive que a espada tem maior força de seu meio para frente do que de seu meio para trás.
+
+[175] (P95.S0)
+Gio: Ao golpear, tem maior força, mas não ao defender.
+
+[176] (P96.S0)
+Lep: Uma vez que você esclareceu isso para mim, peço que discorra também sobre a guardia d’alicorno com o pé direito à frente, que anseio por compreender, pois é também valorizada e frequentemente utilizada.
+
+[177] (P97.S0)
+Guarda do unicórnio.
+
+[178] (P97.S1)
+Gio: Falarei disso com prazer.
+
+[179] (P97.S2)
+Assim, direi que se você se encontrasse na referida guarda e seu inimigo quisesse desferir um fendente em sua cabeça, você poderia puxar seu pé esquerdo perto do direito e posicionar sua espada em guardia di testa para se defender, e imediatamente avançar com o pé direito e desferir um mandritto em sua cabeça com o pulso ou um thrust imbroccata em seu peito.
+
+[180] (P97.S3)
+Você também poderia, ao defender na guardia di testa, fingir dar-lhe um dritto tramazzone em seu corpo superior, mas, em um só tempo, virar um riverso em sua coxa junto com um riverso ridoppio, com o qual você retornará à referida guarda.
+
+[181] (P97.S4)
+Mas se, em vez disso, ele quiser te ferir com um mandritto, seja sgualimbro ou tondo, você girará seu lado esquerdo atrás do direito e se defenderá com sua espada em guardia di testa, abaixando um pouco a ponta em direção ao chão, e imediatamente desferirá dois dritti tramazzoni em sua cabeça, ou cravará a ponta em seu peito.
+
+[182] (P97.S5)
+Além disso, você poderia defender na guardia di faccia e empurrar a ponta em seu rosto no mesmo tempo, ou defender com um mezzo mandritto sgualimbro e imediatamente responder a ele com uma punta riversa ou um riverso tondo, e, tendo feito isso, você retornará à sua guarda.
+
+[183] (P97.S6)
+Mas se por acaso ele lançar um mandritto ou riverso para a sua perna, você recuará um pouco o pé direito, empurrando uma imbroccata para o peito dele ou virando um mandritto para o braço direito dele.
+
+[184] (P97.S7)
+Mas se ele desferir um riverso em sua cabeça, você o defenderá com sua espada na mesma guarda e empurrará sua ponta através de seus flancos em um tempo, tendo feito isso, você retornará à guarda mencionada anteriormente com um riverso de baixo para cima.
+
+[185] (P97.S8)
+Mas se ele quiser desferir um golpe vertical contra você, pode passar em direção ao lado esquerdo dele com o seu pé direito, fazendo com que o seu pé esquerdo o siga, e parar com um mandritto sgualimbro, e imediatamente cortá-lo com um riverso na cabeça ou desferir uma ponta riversa em seu peito.
+
+[186] (P97.S9)
+Além disso, seria bom contra a mencionada imbroccata aproximar seu pé direito do pé esquerdo e desviar com um riverso ridoppio, e imediatamente avançar com o pé direito e desferir uma estocada em seu rosto.
+
+[187] (P97.S10)
+Ou você poderia se defender recuando o pé direito um passo e dando a ele um mandritto sgualimbro na mão da espada no mesmo tempo, o que irá levar à cinghiale porta di ferro; tendo feito isso, você retornará prontamente à guarda da qual falamos.
+
+[188] (P97.S11)
+Mas se ele desferir uma estocada para atingi-lo no peito, você dará um passo em direção ao lado esquerdo do seu inimigo com o pé direito, e nesse tempo você o atingirá com um mandritto e imediatamente o ferirá, seja com um corte ou uma estocada, dependendo do que parecer melhor.
+
+[189] (P97.S12)
+Contra o referido golpe, você também poderia passar para o lado direito dele com seu pé esquerdo e desviar o golpe com sua mão esquerda, então dar um riverso em direção à cabeça dele tudo em um só tempo, ou empurrar sua ponta em seu rosto, e tendo feito isso, reassumir a referida guardia d’alicorno.
+
+[190] (P97.S13)
+Com isso, tanto quanto eu expliquei a você até este ponto, será suficiente.
+
+[191] (P98.S0)
+Lep: Assim como os outros, você me satisfez a respeito deste, e com muito mais facilidade do que eu pensava, uma vez que é considerado especialmente difícil de aprender.
+
+[192] (P98.S1)
+Mas a ordem que se vê nele facilitaria a compreensão de qualquer pessoa informada.
+
+[193] (P99.S0)
+Gio: Então você vê o quanto aqueles que dizem que a teoria não é necessária na arte da esgrima se iludem, ao que se pode responder que se não seguirem este caminho nunca ensinarão perfeitamente, pois é isso que revela os princípios, as causas, os efeitos e, finalmente, ensina de forma racional e fácil a regra e o método que se deve seguir para ensiná-la adequadamente.
+
+[194] (P99.S1)
+Mas como sempre discuti uma guarda de cada vez, agora falarei de todas elas juntas, ou seja, quando em uma e quando em outra, de acordo com qual delas você se encontra, pois não se pode permanecer sempre em uma única guarda sem dificuldade.
+
+[195] (P100.S0)
+Lep: Por que não?
+
+[196] (P101.S0)
+Gio: Como resultado das variações no ataque, do qual, razoavelmente, nenhum golpe pode ser desferido que não resulte em alguma guarda, como ocorre com os mandritti, assim como com a imbroccata, que terminam em porta di ferro ou cinghiale porta di ferro.
+
+[197] (P101.S1)
+Os riversi, então, terminam em coda lunga, seja com o pé direito ou o pé esquerdo à frente.
+
+[198] (P101.S2)
+A stoccata e também a punta riversa podem terminar tanto em uma quanto na outra guarda; no entanto, a norma é que a punta riversa termine em coda lunga stretta, e a stoccata em porta di ferro, e é daqui que surge a dificuldade.
+
+[199] (P101.S3)
+Mas ainda posso fazer mais do que isso, para que você se torne bem treinado nelas.
+
+[200] (P102.S0)
+Lep: Agradeço a você, e isso me agrada, pois este é o meu desejo.
+
+[201] (P103.S0)
+Gio: Então poderíamos supor que você estava posicionado com sua espada em coda lunga stretta, e que seu inimigo desferiu um mandritto em sua cabeça.
+
+[202] (P103.S1)
+Você deve proceder para desviar na guardia di faccia, avançando com o pé direito, e empurrar a ponta em seu rosto tudo em um só tempo, então imediatamente retornar seu pé direito para trás um passo, seguido de um riverso sgualimbro, com o qual você se fixará em coda lunga alta.
+
+[203] (P103.S2)
+Agora, se você estiver na guarda mencionada, e ele quiser desferir um golpe de estocada por cima em você, você avançará com o pé direito, fazendo com que o esquerdo o siga, e defenderá com um mandritto sgualimbro, virando um riverso tondo em direção ao rosto dele, tudo em um só tempo, seguido de um riverso com o qual você irá para coda lunga stretta.
+
+[204] (P103.S3)
+Mas se o inimigo responder com um mandritto à sua perna, você se protegerá disso com a aresta falsa de sua espada, e desferirá dois dritti tramazzone em sua cabeça no mesmo tempo, fazendo com que o último caia em porta di ferro stretta.
+
+[205] (P103.S4)
+Mas se você estiver na referida guarda e ele fizer um riverso para o seu corpo superior, você o defenderá com um riverso sgualimbro, passando em direção ao lado direito dele nesse tempo com o seu pé esquerdo, e avançando imediatamente com o direito, você o ferirá com uma imbroccata em seu rosto, seguida de um dritto tramazzone com o qual você entrará em porta di ferro alta.
+
+[206] (P103.S5)
+E se ele lançar uma stoccata em seu rosto, você avançará com o pé direito e, com sua espada, irá para a guardia d’entrare, unindo seu fio verdadeiro à espada do inimigo em um só tempo, cravando a ponta em seu peito.
+
+[207] (P103.S6)
+Tendo feito isso, você recuará seu pé direito um passo, juntamente com um dritto tramazzone, com o qual você se fixará na cinghiale porta di ferro.
+
+[208] (P103.S7)
+Agora, se você se encontrar na referida guarda, e ele lhe responder com um mandritto, um riverso ou uma estocada, contra qualquer um desses golpes você pode acertar sua verdadeira lâmina na espada do inimigo, e então imediatamente avançar com seu pé direito e cravar uma imbroccata em seu peito, seguida de um dritto tramazzone com o qual você se estabelecerá na porta di ferro larga.
+
+[209] (P103.S8)
+Mas se por acaso ele te empurrar uma punta riversa em direção ao seu rosto para te dar um mandritto tondo, você deve bloquear o referido golpe com sua aresta falsa.
+
+[210] (P103.S9)
+E quando ele virar o mandritto, você imediatamente irá para a guardia di faccia com sua espada, apontando a ponta para o rosto dele nesse tempo, e para sua proteção você irá girar seu pé direito para trás um passo junto com um riverso tramazzone com o qual você irá para a coda lunga alta.
+
+[211] (P103.S10)
+E estando na referida guarda, se ele quiser te ferir com um fendente na cabeça, você avançará com o pé direito, levantando sua espada para a guardia di testa, e assim se protegerá disso; mas ao mesmo tempo, você lançará sua mão esquerda sobre a espada dele por baixo da sua, realizando uma pegada nele e imediatamente dando-lhe um mandritto na cabeça ou na perna, como desejar; tendo feito isso, você retornará para a coda lunga stretta.
+
+[212] (P103.S11)
+E esta é a maneira que você deve seguir ao jogar com as guardas, sobre a qual eu poderia dizer muitas outras coisas a você; mas como já discutimos o suficiente, é melhor que fiquemos por aqui e que retornemos amanhã para discutir o quanto você desejar.
+
+[213] (P104.S0)
+Lep: Eu me reportarei a você neste e em todos os outros assuntos.
+

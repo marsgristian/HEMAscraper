@@ -1,0 +1,69 @@
+MASTER: Giovanni dall'Agocchie
+SOURCE BOOK: giovanni dall'agocchie__introduction
+FIELD NAME: Draft Translation(2007)byW. Jherek Swanger
+TOTAL TEXTOS: 21
+================================================================================
+
+[1] (P0.S0)
+Ao Muito Ilustre Senhor, o Senhor Conde Fabio Pepoli, Conde de Castiglione, meu Senhor e sempre muito atento patrono.
+
+[2] (P0.S1)
+O conhecimento de que, desde seus anos tenros, sua ilustre Senhoria tem se deleitado grandemente na virtude que pertence a um cavaleiro honrado, e o espírito que sempre tive para servi-lo e fazer-lhe coisas graciosas, muitas vezes me fez desejar poder fazer algum sinal disso a você.
+
+[3] (P0.S2)
+Assim, tendo agora decidido publicar a presente obra, determinei que ela levará consigo o honrado nome de Vossa Ilustríssima Senhoria.
+
+[4] (P0.S3)
+Eu o apresento a você assim, não para igualar com você por meio deste humilde presente a dívida que lhe devo, a qual está tão além do alcance das minhas fracas habilidades, mas para deixar-lhe algum testemunho da minha adoradora servidão.
+
+[5] (P0.S4)
+De onde eu imploro a Vossa Ilustríssima Senhoria que o aceite com bondade e com a única cortesia que sempre reconheci na singular bondade de sua alma, para que eu possa colocar esta dívida ao lado das infinitas outras que lhe devo.
+
+[6] (P0.S5)
+E com reverentes beijos na mão de sua Ilustre Senhora, rogo ao nosso Senhor Deus que Ele se digne a conceder-lhe a plenitude de todos os seus desejos.
+
+[7] (P0.S6)
+Seu Ilustre Senhor, muito querido servo, Giovanni dall’Agocchie.
+
+[8] (P1.S0)
+Prefácio do Sr. Giovanni dall’Agocchie, bolonhês, para seu livro sobre a arte da esgrima.
+
+[9] (P1.S1)
+Sempre foi considerado louvável ser útil e realizar boas ações para os outros.
+
+[10] (P1.S2)
+Em consideração a isso, resolvi reduzir a um breve tratado tanto do entendimento quanto da prática da arte da esgrima quanto consegui aprender e colocar à prova ao longo de muitos anos.
+
+[11] (P1.S3)
+Nem esta proposta pôde me escapar, visto que muitos homens excelentes escreveram amplamente sobre este tema, uma vez que falharam em mencionar algumas coisas que podem ser das mais importantes a se saber.
+
+[12] (P1.S4)
+E porque esta arte é difícil de descrever de uma maneira que possa ser bem compreendida, pode-se ainda abordar o assunto de novo, à medida que sempre pode ser mais elucidado.
+
+[13] (P1.S5)
+Como a esgrima é a parte principal dos exercícios militares, vê-se que é absolutamente necessária para os homens.
+
+[14] (P1.S6)
+Dado que em tempos de guerra desejamos ter uso dele, o que pode ser mais conveniente para nós?
+
+[15] (P1.S7)
+E entre os exercícios corporais, qual é mais nobre e ilustre do que este?
+
+[16] (P1.S8)
+E uma vez que um homem pode ser constrangido e forçado pelas circunstâncias da guerra a se empenhar nela, então por que razão alguém não buscaria ter uma compreensão completa desta bela e útil profissão?
+
+[17] (P1.S9)
+Eu me calo a respeito daqueles combates de honra que são chamados de “duelos”, nos quais ninguém pode se considerar honrado, caso esteja completamente ignorante sobre isso.
+
+[18] (P1.S10)
+Em consequência disso, não considero que estes meus discursos tenham se mostrado inúteis.
+
+[19] (P1.S11)
+Eu os compus na forma de um diálogo para que sejam mais facilmente compreendidos por quem quer que chegue a tê-los em mãos.
+
+[20] (P1.S12)
+Foi exatamente dessa forma que tive discussões sobre isso em Brescia, na casa do muito ilustre Senhor Girolamo Martimenghi, com o Senhor Lepido Ranieri, um jovem de comportamento sensato e virtuoso, que compreende bem a prática da esgrima.
+
+[21] (P1.S13)
+Após muitas discussões com ele, ambos sendo levados ao jardim, ele começou a falar assim:
+

@@ -1,0 +1,69 @@
+MASTER: Angelo Viggiani dal Montone
+SOURCE BOOK: angelo viggiani dal montone__introduction_(1575)
+FIELD NAME: Incomplete Translation (from the 1575)(2002)byW. Jherek Swanger
+TOTAL TEXTOS: 21
+================================================================================
+
+[1] (P0.S0)
+O Schermo de Angelo Viggiani dal Montone de Bolonha: no qual, por meio de um diálogo, discute-se a excelência das armas e das letras, da ofensa e da defesa, e ensina-se um schermo da spada da filo desacompanhada, com a qual um homem pode não apenas se defender de qualquer golpe que seu inimigo deseje, mas também ofendê-lo consideravelmente.
+
+[2] (P0.S1)
+Com uma extensa tabela de todas as principais coisas que esta obra contém.
+
+[3] (P0.S2)
+Com privilégio.
+
+[4] (P0.S3)
+Impressão em Veneza por Giorgio Angelieri, 1575.
+
+[5] (P1.S0)
+Ao Santíssimo Maximiliano II, Imperador, etc.
+
+[6] (P1.S1)
+Não muitos anos se passaram desde que meu irmão, que serviu longamente sob a bandeira Imperial e sempre foi o humilde servo da feliz memória de Carlos V, compôs um tratado sobre combate, e ao finalizá-lo, aproximou-se da morte, pedindo que esta, sua composição, não fosse publicada até que o décimo quinto ano tivesse passado; e que eu, na época um rapaz, assim que esse tempo chegasse, deveria oferecê-lo a Vossa Santíssima Majestade, que na ocasião era Rei da Boêmia; a qual prescrição de tempo devo imaginar que ele fez em razão do infinito valor que resplandecia em Vossa Majestade Imperial, pelo qual ele pôde prever que você teria alcançado tal grandeza, que restaria muito pouco para passar, a fim de levá-lo à Monarquia.
+
+[7] (P1.S2)
+E devo também acreditar que ele fez isso, sabendo que, por essa época, eu estaria em uma idade capaz de compreender a disciplina militar.
+
+[8] (P1.S3)
+Mas, ao ser levado à hora de cumprir minha obrigação para com ele, que meu irmão me deixou, e ao desejo de fazer conhecer a Sua Santíssima Majestade a devoção que lhe dedico; venho oferecer a Vossa Santidade este breve tratado em nome de meu irmão, e com servidão, e em súplica para que considere, não ao pequeno valor de dois presentes de pouca importância, mas aos nossos espíritos que lhe são devotados.
+
+[9] (P1.S4)
+Com o qual me curvo reverentemente a você e rogo que tenha a alegria que considero universal.
+
+[10] (P2.S0)
+O mais devotado servo de Sua Santíssima Majestade Imperial, Battista Viggiani.
+
+[11] (P3.S0)
+Ao Mais Invicto e Sereno Maximiliano, Rei da Boêmia.
+
+[12] (P3.S1)
+Muitos já se cansaram, Ó Rei Invencível, ao louvar aqueles que, possuindo alguma virtude particular, lhes parecem dignos de fama eterna, julgando uma única virtude como (como é verdade) a mais digna de louvor.
+
+[13] (P3.S2)
+Mas se por um único atributo eles mereceram ser assim louvados, como então Sua Majestade merecerá, em quem aparecem tantos deles, e tão perfeitos?
+
+[14] (P3.S3)
+Não mencionarei a liberalidade e a renomada magnificência miraculosamente presentes em você, conhecendo a mais generosa linhagem que você traz do ventre materno.
+
+[15] (P3.S4)
+Não mencionarei sua humanidade e magnanimidade, sabendo que a natureza foi uma doadora abundante para você, e falarei particularmente de tantas outras infinitas virtudes que você adquire por meio de seus próprios estudos e de conselhos dos mais sábios, que, nesta sua idade tão estimada, são um sinal de tão profundo discurso e julgamento.
+
+[16] (P3.S5)
+Assim, se aqueles antigos e excelentes escritores se encontrassem nestes tempos, estou certo de que, em relação a tal alta sabedoria, a você apenas dedicariam seus intelectos, seguros de que ao elogiá-lo adquiririam mais glória do que se não o fizessem; embora eu mantenha firmemente que não é pela falta de mentes elevadas que, excitados por tal louvável desejo, eles exibirão seus claros e dignos méritos para as eras que estão por vir.
+
+[17] (P3.S6)
+Por minha parte, estou tão grandemente inspirado pelas obras virtuosas de Sua Majestade, que (se eu pudesse considerar-me em parte digno disso) buscaria celebrá-las com todo o meu poder.
+
+[18] (P3.S7)
+Mas, uma vez que minhas faculdades são desproporcionais a este grave fardo, que eu possa, ao menos, para demonstrar parte da minha devoção, apresentar-lhe esta pequena obra, indigna em si mesma, mas tornada digna pelo nome de Vossa Majestade, suplicando-lhe que a aceite como um sinal da servidão já dedicada a você.
+
+[19] (P3.S8)
+Na primeira parte da qual se trata, como as armas não são menos dignas do que as ciências; então, na segunda, se argumenta qual veio primeiro, se a ofensa ou a defesa; e na terceira e última, é escolhido um único schermo composto de ofensa e de guardas de maior perfeição do que todas as outras, e feito com a spada dafilo (porque é minha intenção discutir sobre isso), no qual reduzo sob poucos títulos toda a perfeita arte da espada, parecendo-me que, com um Príncipe mais perfeito, não se deve tratar de coisas imperfeitas; o que eu lhe mostrarei em fatos quando chegar a hora certa; onde espero lhe fornecer explicações, reconhecendo como é diferente expressar coisas semelhantes a você em ações e na escrita; com o que me curvo a você com toda humildade e me dedico a você, permanecendo desejoso de sua graça e de sua felicidade.
+
+[20] (P3.S9)
+De Bolonha.
+
+[21] (P4.S0)
+À Vossa Majestade Sereníssima, humildemente, S. Angelo Viggiani del Montone.
+

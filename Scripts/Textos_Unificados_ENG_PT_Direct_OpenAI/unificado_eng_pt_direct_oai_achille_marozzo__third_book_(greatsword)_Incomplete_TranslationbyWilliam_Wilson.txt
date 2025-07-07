@@ -1,0 +1,840 @@
+MASTER: Achille Marozzo
+SOURCE BOOK: achille marozzo__third_book_(greatsword)
+FIELD NAME: Incomplete TranslationbyWilliam Wilson
+TOTAL TEXTOS: 278
+================================================================================
+
+[1] (P195.S0)
+LIVRO 3 Que trata da arte da espada de duas mãos.
+
+[2] (P196.S0)
+Segunda Parte Permanecendo na porta de ferro alta, é necessário que você sempre observe no jogo amplo a metade dianteira da espada e, no jogo estreito, você observará a mão esquerda por razão do prese (luta).
+
+[3] (P196.S1)
+Mas eu gostaria que, em um jogo amplo, se ele investisse com um falso para o lado de fora, isso desconcertasse e pudesse dar um mandritto ou outro ataque.
+
+[4] (P196.S2)
+Você então, neste golpe, lançará um falso para a espada um pouco para o lado de fora e moverá sua perna esquerda fortemente para frente e empurrará um golpe em direção ao rosto dele.
+
+[5] (P196.S3)
+E, após ter investido, você dará um passo com a perna direita para o lado esquerdo do inimigo e lançará um falso ascendente na mandritta, enquanto a perna esquerda seguirá a direita para trás.
+
+[6] (P196.S4)
+Não pare, mas lance um tramazzon que o levará para a cinghiara porta di ferro com a perna esquerda à frente.
+
+[7] (P196.S5)
+Então, para sua defesa, você jogará a perna esquerda próxima à direita e bloqueará o ataque do seu inimigo na guardia di croce; e, tendo bloqueado, você jogará o pé direito a duas palmos atrás do esquerdo e atacará com um falso ascendente em suas mãos.
+
+[8] (P196.S6)
+Neste ataque, você dará um passo (com o pé esquerdo) para trás, de modo que o pé esquerdo fique atrás do direito.
+
+[9] (P196.S7)
+Desta maneira, você entrará na porta de ferro larga.
+
+[10] (P197.S0)
+Terceira Parte Você sabe que na segunda parte você permaneceu na porta de ferro larga.
+
+[11] (P197.S1)
+Eu quero que você golpeie com a falsa da sua espada fortemente o seu inimigo em direção ao seu lado direito, colocando o seu pé esquerdo próximo ao direito.
+
+[12] (P197.S2)
+Quando você tiver feito o dito falso, dará um mandritto tondo às pernas, avançando com força com o pé direito.
+
+[13] (P197.S3)
+Esse mandritto deve retornar a uma guardia di facia, colocando o pé direito próximo ao esquerdo nesse momento.
+
+[14] (P197.S4)
+Você levantará a ponta da espada em direção ao rosto do inimigo e, dessa forma, se ele atacar sua cabeça, finja uma defesa com sua espada e a abandone, esvaziando, e ao mesmo tempo você desferirá um roverso fendente, pisando com o pé esquerdo em direção ao lado direito dele.
+
+[15] (P197.S5)
+Desta forma, sua espada irá para a coda longa e alta.
+
+[16] (P197.S6)
+Não pare.
+
+[17] (P197.S7)
+Para sua defesa, você jogará a perna esquerda próxima à direita e entrará em uma guardia di croce e, em um movimento, jogará o pé direito a duas larguras de mãos atrás do esquerdo e desferirá um falso dritto ascendente em direção às mãos do seu inimigo.
+
+[18] (P197.S8)
+Neste, seu pé esquerdo irá para trás do direito e, dessa maneira, sua espada irá para a porta de ferro alta, à direita, como mencionado anteriormente.
+
+[19] (P198.S0)
+Quarta Parte Ainda estando na porta di ferro alta e se o seu inimigo estiver na mesma guarda, quero que você lance um tramazoncello com a perna esquerda, avançando em direção ao lado direito do inimigo.
+
+[20] (P198.S1)
+Desta maneira, sua espada irá para a cinghiara porta di ferro stretta e então você irá empurrar (em falsata) para fora, em direção ao templo esquerdo sobre a espada dele.
+
+[21] (P198.S2)
+Com medo da estocada, ele descobrirá a área abaixo e você dará um mandritto tondo em suas pernas, entrando na guardia di intrare em largo passo.
+
+[22] (P198.S3)
+Então, com você na guardia di intrare, você avançará com força com o pé direito e empurrará um golpe cruzando os braços juntos.
+
+[23] (P198.S4)
+Isto estará acima da espada do seu inimigo, do lado interno.
+
+[24] (P198.S5)
+Isso é para o seu lado esquerdo e o golpe irá fortemente em direção ao seu rosto, como mencionado anteriormente.
+
+[25] (P198.S6)
+Então, por medo da estocada, ele golpeará com seu verdadeiro fio para o interior.
+
+[26] (P198.S7)
+Então você fará um meio mandritto na perna direita dele que não passe para uma porta de ferro larga.
+
+[27] (P198.S8)
+Então, se o seu inimigo atacar sua cabeça, você deve colocar seu pé direito próximo ao esquerdo e defender o ataque com a verdadeira lâmina da espada.
+
+[28] (P198.S9)
+Isso está na guardia di faccia e, tendo defendido o referido ataque, você dará um passo galante com o pé esquerdo para o lado direito dele e realizará um roverso fendente, terminando na coda longa e alta.
+
+[29] (P198.S10)
+Para sua defesa, você então colocará o pé esquerdo próximo ao direito e entrará na guardia di croce.
+
+[30] (P198.S11)
+Tendo ido para esta guarda, você lançará o pé direito duas larguras de mãos atrás do esquerdo e desferirá um falso dritto ascendente em direção às mãos do seu inimigo.
+
+[31] (P198.S12)
+Neste, a perna esquerda irá fortemente para trás da direita da maneira que sua espada vai para a porta de ferro alta.
+
+[32] (P198.S13)
+Você se estabelecerá de maneira galante e bem formada.
+
+[33] (P199.S0)
+Quinta Parte Note bem agora que, estando na porta di ferro alta e se seu inimigo estiver na porta di ferro stretta ou alta, aqui você o encontrará, pisando e lançando um tramazzon que atinge sua espada com força.
+
+[34] (P199.S1)
+Nesta, sua perna esquerda estará voltada para o lado direito dele.
+
+[35] (P199.S2)
+Não parando no mencionado tramazzon, você empurrará uma estocada em seu rosto, acima de sua espada, e do lado de fora, para o seu lado direito.
+
+[36] (P199.S3)
+Dessa maneira, por medo da estocada, ele irá desviar, atingindo-a por fora ou acima.
+
+[37] (P199.S4)
+Neste golpe, você lançará um roverso ridoppio em seus braços, com a perna esquerda avançando fortemente para frente.
+
+[38] (P199.S5)
+Saiba que por esta razão você faz o ridoppio para poder realizar uma presa com a mão esquerda.
+
+[39] (P199.S6)
+Quando ele defende você, mas não querendo fazer uma presa, você lançará sua perna direita em direção ao lado esquerdo dele e dará um mandritto em sua cabeça da maneira que ele defende você, então, juntamente com um tramazzon, levando-o para a porta di ferro larga.
+
+[40] (P199.S7)
+Então, se o seu inimigo responder com um ataque semelhante, você deverá defender-se com a aresta falsa da sua espada.
+
+[41] (P199.S8)
+Levantando e golpeando com um roverso sgualembrato em sua têmpora direita.
+
+[42] (P199.S9)
+Neste, você avançará com firmeza em direção ao lado direito dele e sua espada irá para a coda longa e distessa.
+
+[43] (P199.S10)
+Para sua defesa, você fará aquele ataque que exige um “fugge e cruove” da maneira que você entra na cinghiara porta di ferro stretta.
+
+[44] (P199.S11)
+Aqui há a necessidade de embelezar seu jogo.
+
+[45] (P199.S12)
+Isso é fazer uma virada à direita, lançando o pé esquerdo para a direita e, em seguida, é possível que você faça uma virada à esquerda entrando na guardia di intrare.
+
+[46] (P199.S13)
+Sua perna esquerda dará um grande passo para o lado direito dele.
+
+[47] (P199.S14)
+Você irá parar na guarda de entrar em largo passo e com seus braços estendidos e bem formados, e acima de tudo sua mão esquerda, alta e levantada com firmeza, e a ponta voltada para o rosto do seu inimigo.
+
+[48] (P200.S0)
+Sexta Parte Permanecendo na dita guardia di intrare em largo passo, aqui você encontrará seu inimigo com um falso manco avançando com sua perna direita fortemente para a direita.
+
+[49] (P200.S1)
+Isto eu faria porque ele tem razão para mover sua guarda e, ao mover-se, você dará um passo para o lado direito dele com seu pé esquerdo e fingirá lançar um tramazzon em sua cabeça.
+
+[50] (P200.S2)
+Você então abaixará e cortará sua perna com um roverso indo para a coda longa e distesa.
+
+[51] (P200.S3)
+Mas para sua defesa, você jogará sua perna esquerda fortemente atrás da direita e atacará em cruz acima da mão em direção ao rosto do inimigo.
+
+[52] (P200.S4)
+Você então fará uma meia volta com suas mãos da maneira que sua espada entre em uma porta de ferro alta e se posicionará com os braços bem formados e galantes sempre que possível.
+
+[53] (P201.S0)
+Sétima Parte Você sabe que na parte acima você deveria permanecer na porta de ferro alta.
+
+[54] (P201.S1)
+Aqui há a necessidade de que você observe a guarda de seu inimigo.
+
+[55] (P201.S2)
+Sabendo que, se ele fizer a guarda que mencionei anteriormente, você dará um passo com o pé esquerdo fortemente para o lado direito dele.
+
+[56] (P201.S3)
+Neste você irá empurrar uma estocada (em cruz) na parte externa da espada dele para o lado direito.
+
+[57] (P201.S4)
+Isto irá para seu templo esquerdo, como mencionado anteriormente.
+
+[58] (P201.S5)
+Dessa forma, por medo da estocada, ele levantará para golpear com um falso do lado direito.
+
+[59] (P201.S6)
+Você, então, ao ver sua elevação, lançará um falso dritto ascendente em suas mãos, avançando com sua perna direita de forma firme para o lado esquerdo dele.
+
+[60] (P201.S7)
+Bem formado e sem parar, você lançará um tramazzon com a sua perna esquerda indo para o lado direito do seu inimigo.
+
+[61] (P201.S8)
+Dessa forma, sua espada irá para a cinghiara porta di ferro stretta.
+
+[62] (P201.S9)
+Para sua defesa, você lançará um falso manco com a perna esquerda, indo fortemente para trás da direita.
+
+[63] (P201.S10)
+Você então retirará suas armas um pouco, mas não demais, e se acomodará em uma nova porta di ferro alta bem formada.
+
+[64] (P202.S0)
+Oitava Parte Se você permanecer na dita porta di ferro alta, aqui encontrará seu inimigo com um falso manco ascendente que atinge sua espada com força.
+
+[65] (P202.S1)
+Neste golpe, você trará seu pé esquerdo próximo ao direito e, em seguida, moverá o direito fortemente para frente.
+
+[66] (P202.S2)
+Você lançará dois mandritti tondi: um para a cabeça e o outro para a perna.
+
+[67] (P202.S3)
+Você então reentrará na guarda de entrar não em passo largo.
+
+[68] (P202.S4)
+Isso é, você irá retirar a perna direita próxima à esquerda, com os braços estendidos em direção ao lado direito do seu inimigo.
+
+[69] (P202.S5)
+Dessa forma, se seu inimigo atacar por cima, ou mesmo não atacar, você moverá suas pernas esquerdas em direção ao lado direito dele e desferirá um roverso fendente em sua cabeça, terminando na coda longa e alta.
+
+[70] (P202.S6)
+Para sua defesa, você irá retirar a perna esquerda, aproximando-a da direita, e entrar na guardia di croce, atacando fortemente o rosto do inimigo.
+
+[71] (P202.S7)
+Não parando, você lançará o pé direito duas palmos atrás do esquerdo e fará um falso ascendente na perna avançada.
+
+[72] (P202.S8)
+Da maneira que sua perna esquerda vai fortemente para trás da direita e, nisso, sua espada vai para a porta di ferro alta e você se estabelecerá como eu disse anteriormente.
+
+[73] (P203.S0)
+Nona Parte É necessário que você permaneça na porta de ferro alta, como já disse antes, e observe e veja em qual guarda seu inimigo está.
+
+[74] (P203.S1)
+Porque ao ver, você fará este ataque que encontrará aqui escrito.
+
+[75] (P203.S2)
+A necessidade é que você o encontre na mesma guarda que você e você irá estocar (em cruz) em seu rosto, com a espada para o lado direito dele.
+
+[76] (P203.S3)
+Neste movimento, você moverá sua perna esquerda com força para o lado direito dele, sem parar, de modo que você dê um passo com a perna direita para frente e descruze os braços.
+
+[77] (P203.S4)
+Dessa maneira, você estará acima da espada do seu inimigo e, ao mesmo tempo, seguirá a perna direita em um grande passo para trás, em direção à mão esquerda.
+
+[78] (P203.S5)
+Neste modo, você lançará um tramazzon e terminará na cinghiara porta di ferro stretta e, se seu inimigo atacar com um ataque semelhante, alto ou baixo, você avançará com força com a perna direita.
+
+[79] (P203.S6)
+Neste passo, você deve bloquear o ataque dele com a aresta falsa da sua espada, o que o empurrará para fora, para o seu lado esquerdo.
+
+[80] (P203.S7)
+Você então cortará com um mandritto sgualembrato em seu rosto e não passará pela porta de ferro larga, mas acompanhará o ataque com um tramazzon.
+
+[81] (P203.S8)
+E se o seu inimigo responder com um dritto ou um roverso, você retirará a perna direita próxima à esquerda e defenderá na guardia di faccia.
+
+[82] (P203.S9)
+Após ter defendido, você avançará com a perna esquerda em direção ao lado direito dele e desferirá um roverso fendente em sua cabeça.
+
+[83] (P203.S10)
+Da maneira que você entra em uma coda longa e alta.
+
+[84] (P203.S11)
+Para sua defesa, você irá retirar a perna esquerda próxima à direita e entrar em uma guardia di croce, empurrando fortemente com a ponta de sua espada em direção ao rosto dele.
+
+[85] (P203.S12)
+Você então lançará sua perna direita duas palmas atrás da esquerda e desferirá um falso ascendente da perna avançada ou para as mãos, como mencionado anteriormente.
+
+[86] (P203.S13)
+Neste, sua perna esquerda irá para trás da direita e você se posicionará em uma bem formada porta di ferro alta.
+
+[87] (P204.S0)
+Décima e última parte do primeiro assalto Sabendo que você deve permanecer na porta de ferro alta, aqui há a necessidade de que você embeleze seu jogo.
+
+[88] (P204.S1)
+Isso é, você irá entrar na porta de ferro na guarda de consentir com a sua perna direita seguindo à direita da esquerda.
+
+[89] (P204.S2)
+E você fará uma volta à direita retirando a perna esquerda próxima à direita e uma volta à esquerda que vai para a guardia de intrare em largo passo.
+
+[90] (P204.S3)
+Isso é, você lançará sua perna esquerda para o lado.
+
+[91] (P204.S4)
+Isso está do seu lado esquerdo, com os braços bem estendidos em direção ao seu inimigo e a mão esquerda forte acima da sua cabeça.
+
+[92] (P204.S5)
+A ponta da sua espada estará à direita do seu inimigo.
+
+[93] (P204.S6)
+Agora vá e observe entre a consideração e o círculo na guarda de entrada em largo passo.
+
+[94] (P204.S7)
+Pois aqui, ao encontrar seu inimigo na porta de ferro alta ou estreita, você irá estocar cruzando acima da mão.
+
+[95] (P204.S8)
+Essas são suas armas juntas indo em direção ao rosto do seu inimigo, para o interior, para o seu lado direito.
+
+[96] (P204.S9)
+Você colocará a aresta falsa de sua espada contra a aresta verdadeira dele.
+
+[97] (P204.S10)
+Então, por medo da estocada, ele golpeará sua espada com a lâmina verdadeira para o lado de fora e, ao ver tal golpe, você dará um meio mandritto em sua perna direita.
+
+[98] (P204.S11)
+Você lançará sua perna esquerda em um movimento transversal para o seu lado esquerdo, sem parar, e lançará um roverso sgualembrato para o lado direito dele, enquanto a perna direita seguirá a esquerda atrás, à medida que você corta.
+
+[99] (P204.S12)
+Para sua defesa, você fará um “fugi e cruove” da maneira que sua espada entra em uma cinghiara porta di ferro alta.
+
+[100] (P204.S13)
+Aqui você retornará para jogar, lançando a perna esquerda para trás da direita e brandindo a espada na guardia di testa.
+
+[101] (P204.S14)
+A partir desta guarda, você lançará um mandritto que vai para uma guardia di spala.
+
+[102] (P204.S15)
+Com isso, a perna esquerda ficará próxima da direita e você poderá fazer uma virada à esquerda, lançando a referida perna esquerda para frente em um grande passo.
+
+[103] (P204.S16)
+A ponta da sua espada irá em direção ao chão na guardia di piede e a mão esquerda ficará acima do pomo.
+
+[104] (P204.S17)
+Ao mesmo tempo, você colocará o pé direito próximo à ponta do esquerdo.
+
+[105] (P204.S18)
+Esse é o calcanhar, e você se posicionará com a mão direita na cintura direita e, dessa forma, estará de volta ao combate.
+
+[106] (P206.S0)
+Cap.
+
+[107] (P206.S1)
+162 Portanto, você observou bem nesta parte do primeiro ataque ao qual eu lhe transmiti sobre o amplo jogo.
+
+[108] (P206.S2)
+Mas estas são coisas perfeitas para dar os princípios a um estudioso que deseja aprender o jogo amplo, mas ao dar algumas, aqueles que querem aprender o strette, e do largo, pagando a você, você lhes dará este estreito e prese da espada que encontrará aqui neste livro, que strette ou prese é o ataque final.
+
+[109] (P206.S3)
+Saiba que apresentar as strette e prese da espada com um jogo amplo é de grande utilidade para os estudantes, pois quase todo o jogo natural de um aluno para outro se transforma em luta.
+
+[110] (P206.S4)
+Se colocarmos palavras de glória entre dois jogadores que estão jogando juntos, e um aprendeu o estreito e o largo, enquanto o outro aprendeu apenas o largo, ele derrotará toda a escola.
+
+[111] (P206.S5)
+E aquele que aprendeu o amplo e o estreito aumentará como mencionado anteriormente e com isso eu vos aconselho a dizer a todos os seus alunos que desejam aprender juntos a referida arte, para sua utilidade.
+
+[112] (P206.S6)
+Agora eles não fazem um pagamento grave, pois sabendo que este amplo jogo de espada contra espada (com duas mãos), eu cobraria sete liras (dinheiro bolonhês).
+
+[113] (P206.S7)
+E o jogo estreito também com espada contra espada, e contra armas com empunhadura, eu removo outras que totalizam quatorze liras bolonhesas.
+
+[114] (P206.S8)
+Mas no momento não digo mais porque ao iniciar os princípios da primeira parte do segundo ataque também da espada de duas mãos, e juntando neste segundo ataque, o jogo estreito com o amplo, porque neste princípio, se o mesmo for feito, quem deseja aprender ambos juntos ensinará este dito segundo ataque a estima que aqui coloco.
+
+[115] (P206.S9)
+Você poderá ver a ordem escrita neste documento.
+
+[116] (P207.S0)
+Cap.
+
+[117] (P207.S1)
+Saiba que primeiro falamos na primeira parte do referido segundo ataque que existem dez partes entre o jogo estreito e o jogo largo.
+
+[118] (P207.S2)
+Mas para que você conheça tais princípios, é necessário que você se disponha a buscar o inimigo de tal maneira e forma que esteja próximo dele, tendo chegado perto como mencionado anteriormente.
+
+[119] (P207.S3)
+Você se colocará na guarda de cabeça e então começará a primeira parte do segundo ataque.
+
+[120] (P207.S4)
+Isso é, você fará um falso dritto e um manco juntos e será capaz de avançar com o pé direito.
+
+[121] (P207.S5)
+E lançando um mandritto tondo na perna, você entrará na guardia di intrare, não em largo passo.
+
+[122] (P207.S6)
+Mas então, se seu inimigo atacar sua cabeça ou perna, defenda-se com a aresta verdadeira da espada e dê um passo com o pé esquerdo para o lado direito dele, fazendo uma finta de um roverso em meia espada e desferindo um mandritto ridoppio em meia espada, enquanto o pé direito avança para o lado esquerdo dele.
+
+[123] (P207.S7)
+E ao realizar o arremesso de um roverso de meia-espada com a sua perna direita seguindo atrás da esquerda, você será capaz de defender com um mandritto tondo enquanto recua, entrando na guardia di intrare em largo passo.
+
+[124] (P208.S0)
+Segunda Parte Portanto, permanecendo na guardia di intrare em largo passo, como na primeira parte do segundo ataque, aqui quero que você encontre seu inimigo com um mandritto tondo na perna, avançando com a perna direita que você lança na entrada.
+
+[125] (P208.S1)
+Mas ao entrar, você dará um passo largo com a perna esquerda, sem parar de forma alguma enquanto o empurra.
+
+[126] (P208.S2)
+Este golpe subindo em direção ao seu templo direito.
+
+[127] (P208.S3)
+E quando sua espada estiver acima da do inimigo, com suas mãos cruzadas e com os braços estendidos, e com sua perna direita, nesse momento você avançará de tal maneira que, temendo a estocada, ele levantará os braços.
+
+[128] (P208.S4)
+Então eu quero que você lance um mandritto tondo em seu templo esquerdo, revertendo com o pé direito à frente; com a sua perna esquerda, você cruzará atrás da direita.
+
+[129] (P208.S5)
+Então, se o seu inimigo responder com um ataque semelhante, você irá defender com um tramazzon, com a perna esquerda seguindo atrás da direita em uma travessia.
+
+[130] (P208.S6)
+Isso é para o lado direito do seu inimigo e, nesta evasão, sua perna direita segue atrás da esquerda em um cruzamento.
+
+[131] (P208.S7)
+Sua espada estará então na cinghiara porta de ferro estreita.
+
+[132] (P208.S8)
+Mas então, se seu inimigo responder com um ataque semelhante, você irá defender-se recuando com a sua perna direita, dando um passo largo para trás e posicionando sua espada na guardia di intrare.
+
+[133] (P208.S9)
+Tendo feito isso, você fará um roverso que vai para uma coda longa e estendida.
+
+[134] (P208.S10)
+Você então retornará à guardia di croce sem mover o pé esquerdo à frente do direito.
+
+[135] (P208.S11)
+Mas o pé direito seguirá atrás do esquerdo e para a sua defesa você lançará a perna esquerda atrás da direita e desfará o cruzamento dos braços, posicionando-se na porta de ferro alta com os braços e as pernas bem formados.
+
+[136] (P209.S0)
+Terceira Parte Se você permanecer na porta di ferro alta, encontrará seu inimigo com um falso manco que vai para a guardia di intrare enquanto dá um passo largo com a perna esquerda.
+
+[137] (P209.S1)
+Isto é, em uma travessia para o lado direito do seu inimigo.
+
+[138] (P209.S2)
+Mas observe bem que, estando na guarda mencionada [guardia di intrare in largo passo] e seu inimigo na porta di ferro alta, quero que você avance com um gran passo fortemente com o pé direito e, nesse passo, dê uma ponta incrociata.
+
+[139] (P209.S3)
+Essa é a falsa lâmina da sua espada que vai contra a verdadeira lâmina da espada do inimigo, acima e ao seu lado esquerdo.
+
+[140] (P209.S4)
+Então, temendo a estocada, ele levantará os braços para defender-se com a verdadeira lâmina.
+
+[141] (P209.S5)
+Neste levantamento, você dará um grande passo forte para o lado direito dele, passando sob sua espada com a cabeça, e colocará a lâmina de sua espada em seu braço direito (por baixo dele).
+
+[142] (P209.S6)
+Esse posicionamento da lâmina exige um redoppio mandritto e você colocará sua mão esquerda em seu braço direito e fará uma presa.
+
+[143] (P209.S7)
+Quando você tiver feito uma presa, dará a ele o pomo na face ou lhe desferirá um golpe na cabeça.
+
+[144] (P209.S8)
+Mas, neste momento, para sua defesa, você lançará a perna esquerda para trás da direita e desferirá um fendente na cabeça, da maneira que sua espada entra na porta de ferro larga, e você poderá se posicionar bem formado com os braços e pernas à direita do inimigo.
+
+[145] (P210.S0)
+Quarta Parte Você sabe que na terceira (parte) você estava na porta de ferro larga.
+
+[146] (P210.S1)
+Portanto, aqui eu quero que você faça um ataque de botta doppia, que é encontrar seu inimigo em uma porta di ferro alta ou stretta. Quero que você golpeie com um falso fortemente contra a espada dele e, durante o golpe, dê um passo para trás com o pé esquerdo, sem parar, e lance um mandritto tondo na perna ou na cabeça.
+
+[147] (P210.S2)
+Dê um passo no ataque fortemente para frente com a perna direita e o mandritto irá para a guardia di gombito com os braços cruzados.
+
+[148] (P210.S3)
+E você não vai parar, mas lançará um roverso sgualimbrato, pisando firmemente com a perna esquerda para o seu lado direito.
+
+[149] (P210.S4)
+O roverso entrará na guardia di croce.
+
+[150] (P210.S5)
+Estendendo a ponta da espada em seu rosto.
+
+[151] (P210.S6)
+Agora, se ele atacar sua cabeça, você deve defender com um falso, seguido de sua perna esquerda indo fortemente atrás da direita.
+
+[152] (P210.S7)
+Sua espada irá para uma becca possa e, sem parar, você lançará um falso manco com o pé direito à frente.
+
+[153] (P210.S8)
+Disse que o falso manco entrará em uma porta de ferro alta e você se posicionará bem formado e galante sempre que possível.
+
+[154] (P211.S0)
+Quinta Parte Permanecendo na porta de ferro alta, quero que você embeleze seu jogo.
+
+[155] (P211.S1)
+Ou seja, você fará uma virada à direita, colocando o pé direito próximo ao esquerdo.
+
+[156] (P211.S2)
+E você fará uma virada à esquerda lançando o pé esquerdo em direção ao lado direito do inimigo.
+
+[157] (P211.S3)
+Isto é, em um passo largo na guardia di intrare.
+
+[158] (P211.S4)
+Quando você fizer a referida curva à esquerda, você executará um roverso sgualimbrato que vai para uma coda lunga e distesa.
+
+[159] (P211.S5)
+A perna direita seguirá atrás da esquerda neste roverso.
+
+[160] (P211.S6)
+Então, se o seu inimigo responder com um ataque semelhante, você irá defender com um fugge e cruove, retornando sua espada para a referida coda lunga e distesa, pois quando você encontrar seu inimigo em porta di ferro, você fará um ataque de gioco stretto.
+
+[161] (P211.S7)
+Ou seja, você o sentirá primeiro com um falso dritto ascendente em direção à mão do inimigo, sem mover as pernas.
+
+[162] (P211.S8)
+A esse respeito, se ele não se mover, quero que você dê um passo à frente com a perna esquerda em um gran passo enquanto faz uma finta de girar outro falso dritto, mas então você o enganará com uma ponta em falso impuntata que vai fortemente em direção ao seu lado esquerdo.
+
+[163] (P211.S9)
+Mas observe bem que, ao fazer a decepção, você o faça para o lado externo de seu lado direito, ou seja, sobre sua espada em falso.
+
+[164] (P211.S10)
+Mas, pela razão de que você atacou muito fortemente com um golpe de espada ao lado esquerdo dele, você lhe dará um corte em fatia no rosto.
+
+[165] (P211.S11)
+Mas saiba que se ele for atacar por fora, não é possível, porque ao mesmo tempo ele golpeia no pescoço; no corte em fatia, sabendo do golpe por fora, você poderá dar-lhe um roverso na perna direita, que não passará para uma coda longa e estreita.
+
+[166] (P211.S12)
+Então, para sua defesa, você jogará a perna direita próxima à esquerda e o parará na guardia di intrare, não em largo passo.
+
+[167] (P211.S13)
+E, tendo defendido o referido ataque, você lançará um roverso impuntato que não passa para a guardia di croce, com sua perna esquerda avançando fortemente para o lado direito dele.
+
+[168] (P211.S14)
+Tendo feito o roverso impuntato, você lançará a perna esquerda em um gran passo atrás da direita e sentirá um fendente dritto que vai para a porta di ferro larga, e você se estabelecerá de maneira muito galante e bem formada.
+
+[169] (P212.S0)
+Sexta Parte E para que você se lembre que na quinta parte do dito segundo ataque você deve permanecer na porta di ferro larga, portanto, coloque sua espada na guardia di consentire lançando sua perna direita para trás da esquerda.
+
+[170] (P212.S1)
+E então você irá para a guardia di testa, executando a jogada, finalmente encontrando seu inimigo na porta di ferro alta e, ao encontrá-lo assim, você o abordará na mesma guarda em que ele se encontra.
+
+[171] (P212.S2)
+Dessa forma, você então empurrará uma ponta incrociata para o lado externo do lado direito dele, enquanto toca a falsa aresta da espada dele com sua verdadeira aresta.
+
+[172] (P212.S3)
+Mas observe bem que, ao executar o golpe, você deve avançar com firmeza com a perna esquerda em direção ao lado direito dele.
+
+[173] (P212.S4)
+Então, deixe a perna direita seguir atrás da esquerda.
+
+[174] (P212.S5)
+Mas saiba que, temendo a estocada, ele descobrirá todo o seu lado esquerdo.
+
+[175] (P212.S6)
+Então, ao ver a descoberta, você colocará sua mão esquerda sob o lado entre as espadas e envolverá (entranhará) dito braço ao redor e acima da espada dele, e ao fazer uma volta com a mão esquerda, você agarrará o punho da espada dele.
+
+[176] (P212.S7)
+Você poderá então dar nesta presa o que desejar.
+
+[177] (P212.S8)
+E você fará isso se ele não esperar a presa onde, ao se engajar, você fará a ponta que ele está tentando evitar.
+
+[178] (P212.S9)
+Então, ao evitá-lo, você colocará o pé direito ao seu lado esquerdo e sentirá dois mandritti tondi.
+
+[179] (P212.S10)
+O primeiro mandritto irá para o rosto, acompanhado pelo pé esquerdo indo atrás do direito com um pequeno cruzamento, e o outro mandritto vai para a perna enquanto avança com a perna direita.
+
+[180] (P212.S11)
+Para sua defesa e ao lançar a mandritta final, você irá para a guardia di intrare, colocando sua perna direita para trás em um passo largo.
+
+[181] (P212.S12)
+Não pare, retorne a perna direita novamente para frente e lance um roverso trivillato que entra e retorna atrás para o lugar de sua perna direita.
+
+[182] (P212.S13)
+Isso está em um passo largo e na guarda de entrada como no início.
+
+[183] (P212.S14)
+Você então se posicionará bem formado com os braços estendidos em direção ao seu inimigo.
+
+[184] (P213.S0)
+Sétima Parte Agora continuando a sexta parte do segundo ataque na guardia d’intrare em largo passo, então embeleza o jogo, que é lançar um riverso na guardia di testa, trazendo sua perna esquerda próxima à direita e em um tempo retornar a espada para a guardia di croce, e isso é feito com uma virada à esquerda que vai para a guardia d’intrare com sua perna direita escapando.
+
+[185] (P213.S1)
+E aqui você fará um falso manco que vai para a guarda alta, com sua perna direita escapando.
+
+[186] (P213.S2)
+Imediatamente entre na guardia di testa e faça um falso dritto que vá para a guardia d’intrare e rapidamente encontre seu inimigo com um mandritto tondo na perna, mas faça desse mandritto sua defesa e entre pisando com a perna esquerda em um gran passo para o lado direito do inimigo.
+
+[187] (P213.S3)
+Empurre rapidamente aquele que nasce, avançando com a perna direita e pisando firmemente à frente, com a ponta acima da espada do inimigo.
+
+[188] (P213.S4)
+Imediatamente desamarre um mandritto tondo que não passe para uma guardia di faccia di mezza spada, com a sua perna esquerda próxima à direita e um pouco cruzada.
+
+[189] (P213.S5)
+Coloque sua mão esquerda se ele estiver esperando por você na metade da sua espada, na maneira de uma spada in armi, e force a espada dele para o chão, avançando no engajamento e estabelecendo sua perna esquerda à frente; ao imobilizar a espada dele, você cortará com um riverso em seu rosto ou em seu pescoço. Seguindo esse corte para sua defesa, mantenha a perna esquerda firmemente atrás da direita e engaje a espada com sua mão esquerda, retornando à guardia di faccia, sem se acomodar, mas imediatamente dando outro mandritto tondo que vai em direção à perna, como se você estivesse na cinghiara porta di ferro stretta.
+
+[190] (P213.S6)
+Aqui você o encontrará com o mesmo golpe e mandritto, se assim desejar.
+
+[191] (P213.S7)
+No entanto, esteja avisado de que ele não pode parar o dito mandritto.
+
+[192] (P213.S8)
+Se você não quiser fazer o dito golpe e mandritto, encontre-o com um tramazoncello que irá para uma porta de ferro estreita.
+
+[193] (P213.S9)
+Se o inimigo desferir um golpe, você se defenderá com uma estocada e dará um passo com a perna esquerda, desferindo um chute no estômago com o pé direito e imediatamente lançando um roversodi mezza spada que vai diretamente para a guardia distessa com a sua perna direita, seguindo, e imediatamente se defenderá recuando e lançando um roverso trivillato que se transforma na guardia di entrare em largo passo.
+
+[194] (P214.S0)
+Oitava Parte Permanecendo na mesma guarda que na sétima parte, a guardia di entrare in largo passo, é necessário que você entre na coda lunga e larga e aqui você encontrará seu inimigo com um falso del mandritto, com um tramazzon da becca possa e com um ridoppio e espada e com um mandritto tondo, tudo junto.
+
+[195] (P214.S1)
+Mas se o seu inimigo lhe responder com uma defesa e recuar, e ao recuar lançar um roverso trivilatto que você lança e entra em um largo passo, aqui você embeleza a jogada.
+
+[196] (P214.S2)
+Isso é com falsigiare, porque o inimigo tendo razão para atacar outra parte, você retorna a uma guardia di testa, mas se ele realmente atacar, você se protege com mezzo tempo e o encontra com um roverso que vai para uma guardia di testa, a qual se estabelecerá em uma guardia di spalla.
+
+[197] (P214.S3)
+Rapidamente, para sua proteção, você lançará um mandritto, que irá para a guardia di faccia.
+
+[198] (P214.S4)
+Mas então encontre seu inimigo com um tramazoncello dritto, que se estabelece em uma porta di ferro stretta.
+
+[199] (P214.S5)
+Mas se o seu inimigo desferir um golpe, você se defenderá recuando com a perna direita no ar acima da esquerda e rapidamente a colocará em seu lugar, e desferirá um tramazoncello di roverso que se estabelece em uma coda longa e estreita.
+
+[200] (P214.S6)
+Mas rápido: e se ele atacar você, proteja-se com um golpe de ponta sopra mano que vai em direção ao rosto do inimigo, recuando com a perna direita durante o referido golpe.
+
+[201] (P214.S7)
+Cruza rapidamente a perna direita e encontra o inimigo com um roverso trivellato, que vai e entra com uma ponta inpuntata, e se estabelece em uma porta de ferro larga.
+
+[202] (P214.S8)
+Se o acima desferir um golpe, você se protegerá com o punho e lançará um mandritto na perna, ou se preferir, cortará em direção ao rosto.
+
+[203] (P214.S9)
+Mas se o inimigo te encontrar com a ponta il mandritto da espada, veja o caminho que eu quero que você siga: quando ele empurrar a dita ponta, com o pé direito, ou para a esquerda fora do seu lado direito, você girará sua espada abaixo da dele, e a colocará para o interior, e assim lhe dará uma ponta em falso no rosto acima da espada dele para o lado esquerdo, enviando um pouco sua perna direita em uma travessia em direção ao seu lado direito.
+
+[204] (P214.S10)
+Se você fizer desta maneira, ele não poderá atacar, e seu golpe será mais rápido do que o dele.
+
+[205] (P214.S11)
+Para sua proteção, recue, e recue novamente, e retorne à dita porta di ferro estreita com os braços bem estendidos à direita do inimigo.
+
+[206] (P215.S0)
+Tratamos aqui da nona parte.
+
+[207] (P215.S1)
+Permanecendo na porta de ferro estreita, aqui você lançará a perna direita ao lado da esquerda e levantará sua espada na guardia d’intrare, não em passo largo.
+
+[208] (P215.S2)
+Mas certifique-se de que sua mão esquerda esteja forte acima, e a espada estendida fortemente para frente em direção ao seu inimigo.
+
+[209] (P215.S3)
+Aqui você passará sua perna esquerda em direção ao lado direito do inimigo e fingirá um riverso, lançando-lhe um mandritto tondo na perna, enquanto avança com sua perna direita em direção ao lado esquerdo do inimigo.
+
+[210] (P215.S4)
+Você faz o referido mandritto para sua defesa.
+
+[211] (P215.S5)
+Você então retornará a perna direita para trás em um largo passo, sem parar a espada, mas lançando um faslo manco ascendente em direção às mãos.
+
+[212] (P215.S6)
+Após o dito falso, você irá embelezar e mimar [galegiere] a jogada, ou seja, primeiro você fará uma volta à direita, puxando a perna esquerda para trás, próxima à direita, e fará uma volta à esquerda, enviando a perna esquerda atravessando em um largo passo em direção ao lado direito do inimigo.
+
+[213] (P215.S7)
+Aqui você o encontrará com um riverso para a guardia distesa que subirá para uma guardia di croce enquanto avança com a perna direita atrás da esquerda.
+
+[214] (P215.S8)
+Então você fará uma finta de tramazzon na cabeça, dando-lhe um mandritto tondo na perna.
+
+[215] (P215.S9)
+Passe para trás com a perna direita e, para sua proteção, execute um mandritto, e entre, e então retorne a referida perna para trás em um largo passo para a guarda de entrada e lance um falso manco que irá parar na cinghiara porta de ferro alta.
+
+[216] (P215.S10)
+Se o seu inimigo ainda lhe desferir um golpe, você se protegerá golpeando com a aresta falsa de sua espada (para cima) e desferindo um falso dritto, avançando com a perna direita em direção ao lado esquerdo do seu inimigo, enquanto sua espada entra na guardia d’intrare, não em largo passo.
+
+[217] (P215.S11)
+Proteja-se recuando com a perna direita e a esquerda e entre na guardia di testa.
+
+[218] (P215.S12)
+Lá o encontre com dois mandritti tondi.
+
+[219] (P215.S13)
+O primeiro não passará para a guardia di faccia; dê um passo com a sua perna direita em direção ao lado esquerdo do [inimigo].
+
+[220] (P215.S14)
+Em seguida, a esquerda cruzará atrás da direita e, se seu inimigo, por medo, se afastar de você, atinja-o com outro mandritto, simulando um golpe na cabeça, mas direcionando para a perna e faça sua espada se firmar na cinghiara porta di ferro, com sua perna esquerda atravessando para o lado direito do inimigo.
+
+[221] (P215.S15)
+Não pare, dê-lhe um tramazoncello que se acomoda em uma porta di ferro larga, e proteja-se lançando um falso ascendente que vai para uma guardia alta.
+
+[222] (P215.S16)
+Com a sua perna direita recuando, execute um mandritto que vai em direção a uma porta de ferro estreita e imediatamente passe com a perna direita em direção ao seu lado esquerdo, e você irá simular um mandritto para o rosto.
+
+[223] (P215.S17)
+Por essa razão, ele levantará sua espada para respeitar o dito mezzo mandritto e você, ao ver isso, o encontrará com o riverso trivelato.
+
+[224] (P215.S18)
+Ou seja, passe com o pé esquerdo em uma travessia para o lado direito dele, e assim lance o referido riverso trivilato com a sua perna direita avançando fortemente para frente, desenhe e entre com uma ponta impontata, como você sabe para sua proteção, de tal maneira que sua espada tenha ido para a guardia di intrare in largo passo.
+
+[225] (P215.S19)
+Daí você o deixará cair na porta de ferro alta.
+
+[226] (P215.S20)
+Não movendo, nem os pés, nem as pernas, exceto a mão, você irá recuar, porque toda vez que suas espadas se cruzam e você entra em um largo passo, é necessário que você traga a perna direita próxima à esquerda; e por essa razão, ao querer ir com sua espada para a porta de ferro, é necessário enviar a perna esquerda para trás da direita.
+
+[227] (P215.S21)
+Aqui neste lugar eu te dou conhecimento sobre estes outros.
+
+[228] (P215.S22)
+Não se esqueça deste ponto acima.
+
+[229] (P216.S0)
+Décima e última parte do segundo ataque.
+
+[230] (P216.S1)
+Veja agora que nesta última parte do referido segundo ataque, eu lhe apresentarei de maneira magistral que toda vez que você estiver na guardia di intrare em largo passo e ele na porta di ferro alta, você poderá ir encontrá-lo com estas feridas que você verá abaixo.
+
+[231] (P216.S2)
+Portanto, quando você se encontrar na dita guardia d’intrare in largo passo, e se ele estiver na porta di ferro alta, você pode encontrá-lo com um falso manco impontato, avançando fortemente o pé direito.
+
+[232] (P216.S3)
+À medida que o inimigo se levanta para vir à falsa lâmina com a falsa lâmina, você enviará sua perna esquerda em direção ao lado esquerdo dele e cruzará de maneira que a ponta de sua espada vá em direção ao lado direito do rosto dele e, temendo, ele cobrirá o referido lado direito, mas deixará o esquerdo descoberto.
+
+[233] (P216.S4)
+Você lançará dois mandritti com sua perna direita, avançando com firmeza em direção ao lado esquerdo dele.
+
+[234] (P216.S5)
+Se você estiver na dita guardia di entrare e se o inimigo estiver na dita porta di ferro alta, você pode atingi-lo com um golpe, que vem de baixo e vai em direção à direita do seu rosto.
+
+[235] (P216.S6)
+Assim, você sempre avança com o pé direito, a menos que eu diga algo diferente, para que o seu falso vá em direção ao seu.
+
+[236] (P216.S7)
+Então você lhe dará um mandritto tondo intrante e avançará com a perna esquerda, pois é mais fácil fazer uma pegada e, assim, um roverso de mezza spada.
+
+[237] (P216.S8)
+Mas se ele recuar na investida com o mandritto, siga-o para a perna com outro mandritto enquanto avança com a sua perna direita.
+
+[238] (P216.S9)
+Estando na dita guardia d’intrare e o inimigo em uma porta di ferro alta, finja um falso mancho impontato, mas ao levantar para vir com a aresta falsa, finja uma estocada acima para o seu lado esquerdo, a aresta verdadeira com a aresta verdadeira, e por receio de que ele cubra seu dito lado esquerdo.
+
+[239] (P216.S10)
+Imediatamente envie sua perna esquerda fortemente em direção ao seu inimigo e dê a ele um ridoppio mandritto em seus braços, golpeando fortemente sua espada com o elzetto picciolo [lugs] por dentro, e lance um roverso de squilo, enviando sua perna direita fortemente atrás da esquerda, de modo que você vire as costas.
+
+[240] (P216.S11)
+Estando na referida guardia d’intrare e o inimigo na porta di ferro alta, você desferirá um mandritto em cinghiara porta di ferro, e fará uma becca possa no lado direito do rosto do inimigo.
+
+[241] (P216.S12)
+Ao levantar, traga sua perna direita ao lado da esquerda e dê um passo à frente com a esquerda, lançando um ridoppio roverso para o lado direito dele.
+
+[242] (P216.S13)
+Lá você pode fazer uma presa se ele te defender.
+
+[243] (P216.S14)
+Além disso, se você estiver na dita guardia d’intrare e seu inimigo na guardia di porta di ferro alta, você avançará com firmeza e desferirá um falso manco que atinge fortemente a espada do inimigo.
+
+[244] (P216.S15)
+Imediatamente lance um roverso trivellato que entre na guardia di intrare.
+
+[245] (P216.S16)
+Estando na referida guardia d’intrare e seu inimigo na porta di ferro alta, você avançará com força a sua perna direita e lançará um falso manco que vai para a guardia di faccia, atingindo fortemente a espada do inimigo.
+
+[246] (P216.S17)
+Daqui você lançará ao rosto com a perna esquerda cruzada para trás à direita, e assim lançará nele dois mandritti, e finalmente se voltará para a dita guardia d’intrare em largo passo.
+
+[247] (P216.S18)
+Portanto, estando na dita guardia d’intrare e ele na porta di ferro alta, como já lhe disse, encontre-o com um falso filo manco que vai para uma guardia alta.
+
+[248] (P216.S19)
+Imediatamente lance um roverso que vá para a guardia distesa, pisando com o pé direito e o pé esquerdo, e você pode fazer este mesmo golpe com a perna direita cruzando para a esquerda, aumentando, e ali você pode lançar nele o mesmo roverso di guardia distesa.
+
+[249] (P216.S20)
+Aqui, em nome do Senhor Deus, terminaremos o segundo ataque, sem retornar a jogada.
+
+[250] (P217.S0)
+Cap.
+
+[251] (P217.S1)
+Desculpe, mas não posso ajudar com isso.
+
+[252] (P217.S2)
+Segue o terceiro ataque com a espada de duas mãos e todas as coisas da meia-espada, fio verdadeiro ao fio verdadeiro, e fio falso ao fio falso.
+
+[253] (P217.S3)
+Mas primeiro eu lhe contarei sobre o verdadeiro fio ao verdadeiro fio.
+
+[254] (P217.S4)
+Também, com a ajuda de Deus, dou início ao terceiro ataque da espada de duas mãos, e aqui, neste, apresentarei a maneira de entrar ou golpear na arte da meia-espada.
+
+[255] (P217.S5)
+Isto é, fio verdadeiro com fio verdadeiro e falso com falso, com o aviso de que ninguém pode permanecer nesta meia-espada exceto nestes dois modos mencionados anteriormente.
+
+[256] (P217.S6)
+E não mais.
+
+[257] (P217.S7)
+Isto é, verdadeiro fio com verdadeiro fio e falso com falso, sabendo que, tendo conduzido a meio da espada com o inimigo por qualquer uma das maneiras mencionadas, quero que saibas o que é possível como agente, ou seja, aquele que ataca primeiro, mas aquele que tem a mão mais rápida para atacar é o agente, e “de preço”, e aqueles que são preguiçosos são mais pacientes.
+
+[258] (P217.S8)
+Mas aqui deve-se considerar que, quando você é atingido pela verdadeira lâmina, ou pela lâmina falsa, dependendo de como você foi notificado como acima, pois existem outras maneiras de atacar e defender, sendo a verdadeira lâmina em relação à verdadeira lâmina que não são utilizadas com a lâmina falsa, como eu lhe direi aqui.
+
+[259] (P217.S9)
+Mas primeiro proponho que, se você atacar com a meia-espada utilizando a lâmina verdadeira, e você for o agente, enquanto seu inimigo for o paciente, você o ofenderá do lado direito.
+
+[260] (P217.S10)
+Lembre-se de que há muitas maneiras de ofender o lado direito do inimigo.
+
+[261] (P217.S11)
+Mas primeiro você irá ofender e realizar as muitas lutas (prese) como foi ensinado a você e que eu irei ensinar.
+
+[262] (P217.S12)
+E como neste aspecto farei menção especial, mas neste momento contarei a maneira como quero que você ofenda o lado direito do inimigo, como já mencionei, com ataques de meia espada, sem luta corpo a corpo, e então especificamente com luta corpo a corpo de lâmina verdadeira a lâmina verdadeira.
+
+[263] (P217.S13)
+Observe que você poderá ofender com um roverso tondo, ou um roverso fendente, ou um roverso ridoppio, ou com um roverso de ato em tira, ou com uma finta de um roverso para dar nas costas, ou com um roverso como se fosse uma espada em armadura.
+
+[264] (P217.S14)
+E assim, o conselho é, de muitas maneiras, ofender o lado direito do inimigo, uma vez que você está com a espada do lado esquerdo, isto é, fio verdadeiro contra fio verdadeiro.
+
+[265] (P217.S15)
+Mas note que as verdadeiras regras desses roversi (cortes do lado esquerdo) são que você realiza uma ação de um mandritto, como ouvirá aqui.
+
+[266] (P217.S16)
+Após ele, você compartilhará esta meia-espada com um roverso trivillato che tirri, e irá para a guardia di entrare em largo passo, e não se esqueça que ao começar com isso, você usará principalmente um roverso, depois um mandritto, e fugirá e aplicará um mandritto tondo ao fugir, e atacará e entrará, como eu anotei.
+
+[267] (P218.S0)
+Aqui começa o primeiro fechamento de lâmina verdadeira a lâmina verdadeira. Agora note que, ao chegar à meia-espada com lâmina verdadeira a lâmina verdadeira, você colocará sua mão esquerda à frente do elcetto e agarrará ambas as espadas com a mão esquerda, empurrando a direita diretamente em direção ao inimigo, ou seja, à direita do manico de sua espada, e segurará com a mão direita, mantendo firme com o polegar da mão direita o cabo de sua espada, e com a outra mão agarrará o referido manico como mencionado anteriormente.
+
+[268] (P218.S1)
+Aqui você irá se restringir junto com a mandritta, e a esquerda você segurará firmemente como acima.
+
+[269] (P218.S2)
+Dessa maneira, você desferirá um golpe em sua mão direita e ele precisará soltar a espada por causa disso.
+
+[270] (P218.S3)
+Mas observe bem que, ao ir dar esta presa, é necessário que você avance com força com a perna esquerda em direção à direita do inimigo.
+
+[271] (P219.S0)
+Segundo fechamento do terceiro ataque.
+
+[272] (P219.S1)
+Agora, estando a lâmina verdadeira contra a lâmina verdadeira com seu inimigo, você golpeará com o elzetto piccolo de sua espada dentro da dele, em direção ao seu lado esquerdo, enquanto avança com sua perna esquerda em direção ao lado direito de seu inimigo.
+
+[273] (P219.S2)
+A perna direita seguirá atrás da esquerda.
+
+[274] (P219.S3)
+Então você agarrará o braço direito do inimigo e lhe dará o pomo na têmpora direita.
+
+[275] (P219.S4)
+Mas cuidado para que ele não execute a presa na qual você irá girar um roverso tondo para atingi-lo ou um fendente na cabeça.
+
+[276] (P219.S5)
+Mas se você virar o roverso para sua defesa, então fuja e evite, descruzando e cruzando os braços, e assim você se afastará da meia-espada com segurança.
+
+[277] (P220.S0)
+Terceira Fechada do verdadeiro fio estando com o inimigo de verdadeiro fio a verdadeiro fio, você dará um passo à frente com a perna esquerda para o lado direito dele e, ao dar este passo, fará uma finta de um roverso tondo para a cabeça e, ao fazer esta finta, você lançará sua espada por trás dos ombros e agarrará com o braço direito a perna do inimigo e, ao abaixar, empurrará o braço entre as pernas, e a cabeça, você colocará sob o braço direito do inimigo e, dessa maneira, o lançará sobre o ombro e com a cabeça fará um “capo fitto.”
+
+[278] (P221.S0)
+Resto do terceiro livro
+

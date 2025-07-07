@@ -1,0 +1,27 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__sword_vs._spear
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 7
+================================================================================
+
+[1] (P312.S0)
+Aqui estão três amigos que buscam matar este Mestre, que os espera com sua espada de duas mãos.
+
+[2] (P312.S1)
+O primeiro pretende lançar sua espada ao Mestre como uma lança.
+
+[3] (P312.S2)
+O segundo visa atingi-lo com um golpe ou uma estocada.
+
+[4] (P312.S3)
+O terceiro pretende lançar duas lanças que ele preparou, como você vê desenhado aqui.
+
+[5] (P313.S0)
+Nós somos dois Mestres que aguardam o lançamento. Temos pouco cuidado com lanças, dardos e espadas.
+
+[6] (P313.S1)
+E a defesa que fazemos com nossas espadas Poderíamos igualmente [usar para] nos defender com bastões Com o passo e o golpe que fazemos; Na estreita, a lâmina e a ponta que usamos.
+
+[7] (P313.S2)
+E mesmo que fosse Pulicano, que era um grande lançador, contra nós ele não teria honra.
+

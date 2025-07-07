@@ -1,0 +1,914 @@
+MASTER: Nicoletto Giganti
+SOURCE BOOK: nicoletto giganti__rapier
+FIELD NAME: Draft TranslationbyJeff Vansteenkiste
+TOTAL TEXTOS: 302
+================================================================================
+
+[1] (P21.S0)
+[1] Posturas e Contra-posturas É necessário que alguém que deseja se tornar um especialista na ciência das armas compreenda muitas coisas.
+
+[2] (P21.S1)
+Para dar início às minhas lições, começarei primeiro a discutir as guardas e contraguardas, ou posturas e contraposturas, da espada.
+
+[3] (P21.S2)
+Isto porque, ao chegar a algum incidente de contenda, é primeiro necessário entender isso para poder se proteger contra o inimigo.
+
+[4] (P21.S3)
+Para se posicionar na guarda, portanto, muitas coisas devem ser observadas, como se vê em minhas figuras: Ficar firme sobre os pés, que são a base e o fundamento de todo o corpo, em um passo justo, contido em vez de longo, a fim de poder se estender, segurando a espada e a adaga firmemente nas mãos, a adaga ora alta, ora baixa, ora estendida, a espada ora alta, ora baixa, ora do lado direito, em posição para parar e ferir, de modo que o inimigo, lançando um estocada ou um corte, possa ser parado e ferido no mesmo tempo, com a vita disposta e pronta, pois, faltando sua disposição e prontidão, será fácil para o inimigo desorganizar com um dritto, um riverso, uma estocada, ou de alguma outra maneira, e mesmo que tal pessoa conseguisse parar, ainda assim permaneceria em perigo.
+
+[5] (P21.S4)
+É aconselhável que a adaga proteja a espada do inimigo, pois se o inimigo atacar, ela irá desviar esse golpe, e que a espada deve sempre mirar na parte descoberta do inimigo, para que ele seja ferido ao atacar.
+
+[6] (P21.S5)
+Este é todo o artifício desta profissão.
+
+[7] (P21.S6)
+Além disso, deve-se notar que todos os movimentos da espada são guardas para aqueles que os conhecem, e todas as guardas são boas para a pessoa praticada, pois, ao contrário, nenhum movimento é uma guarda para aqueles que não entendem nenhuma, e elas não são boas para aqueles que não sabem como usá-las.
+
+[8] (P22.S0)
+Esta profissão não requer nada mais do que ciência e prática.
+
+[9] (P22.S1)
+Praticado, confere a ciência.
+
+[10] (P22.S2)
+Colocar-se desprotegido na guarda é uma artimanha e feito para que o inimigo se desordene ao atacar e acabe em perigo.
+
+[11] (P22.S3)
+Colocar-se coberto também é artifício, pois, ao amarrar o inimigo, é possível ferir.
+
+[12] (P22.S4)
+Dessa forma, pode-se entender que toda guarda ajuda aqueles que compreendem e sabem, e nenhuma guarda é valiosa para aqueles que não entendem ou não sabem.
+
+[13] (P22.S5)
+Isto é suficiente sobre as guardas.
+
+[14] (P23.S0)
+Quanto às contraguardas, é aconselhável que alguém que tenha conhecimento desta profissão nunca se posicione em guarda, mas busque se posicionar em uma contraguarda.
+
+[15] (P23.S1)
+Desejando fazer isso, saiba o seguinte: Deve-se posicionar fora da medida—isto é, a uma distância—com a espada e a adaga altas, forte com a vita, com um passo firme e estável, então considere a guarda do inimigo.
+
+[16] (P23.S2)
+Depois, aproxime-se dele pouco a pouco, ligando com a espada para estar seguro—isto é, quase descansando sua espada sobre a dele de modo que a cubra—porque ele não poderá ferir se não desengajar a espada.
+
+[17] (P23.S3)
+A razão para isso é que ao desengajar ele realiza duas ações: Primeiro, ele desengaja, que é o primeiro tempo, e então fere, que é o segundo.
+
+[18] (P23.S4)
+Enquanto ele se desengaja, pode acabar sendo ferido de muitas maneiras no mesmo tempo antes que tenha a oportunidade de ferir, como será visto nas figuras do meu livro.
+
+[19] (P23.S5)
+Se ele mudar a guarda devido à contra-guarda, é necessário segui-lo com a espada à frente, com a adaga ao lado, sempre segurando sua espada, porque no primeiro tempo ele sempre terá que desengajar a espada e necessariamente acaba ferido.
+
+[20] (P23.S6)
+Nem será possível para ele ferir se não for com dois tempos, e a partir disso, a defesa sempre será uma coisa muito fácil.
+
+[21] (P23.S7)
+Isso é o suficiente sobre as guardas e contraguardas.
+
+[22] (P24.S0)
+[4] Tempo e Medida Não é pelo conhecimento de como se posicionar em uma guarda ou contra-guarda, nem de como desferir um estocada, uma imbroccata, um mandritto ou um riverso, nem de como girar o pulso, nem de como portar bem o corpo, nem de como controlar melhor a espada, que se pode dizer que uma pessoa sabe como defender e ferir.
+
+[23] (P24.S1)
+Na verdade, é compreendendo o tempo e a medida.
+
+[24] (P24.S2)
+Aquele que não compreende isso, mesmo que defenda e fira, não pode ser considerado como alguém que entende como defender e ferir, pois tal pessoa pode errar e incorrer em mil perigos ao defender-se assim como ao ferir.
+
+[25] (P25.S0)
+Tendo, portanto, discutido as guardas e contraguardas, resta discutir o tempo e a medida para, em seguida, saber como acomodar o reconhecimento de quando se deve parar e ferir.
+
+[26] (P26.S0)
+Medida, então, significa quando a espada pode alcançar o inimigo.
+
+[27] (P26.S1)
+Quando não pode, é chamado de estar fora de medida.
+
+[28] (P27.S0)
+O tempo é reconhecido desta maneira: Se o inimigo está em guarda, é necessário posicionar-se fora da medida e avançar com a própria guarda, protegendo-se da espada do inimigo com a sua, e concentrar-se no que ele deseja fazer.
+
+[29] (P28.S0)
+Se ele se desvincular, no desvinculamento ele pode ser ferido, e isso é um tempo.
+
+[30] (P28.S1)
+Se ele muda a guarda, enquanto muda, é um tempo.
+
+[31] (P28.S2)
+Se ele se vira, é um tempo.
+
+[32] (P28.S3)
+Se ele se vincula a vir para a medida, enquanto caminha antes de chegar à medida, é um tempo para feri-lo.
+
+[33] (P28.S4)
+Se ele arremessar, parando e ferindo em um tempo também é um tempo.
+
+[34] (P28.S5)
+Se o inimigo permanece parado na guarda para esperar e você avança para amarrá-lo e derrubá-lo onde ele está descoberto quando você está à medida, é um tempo.
+
+[35] (P28.S6)
+Isto se deve ao fato de que em cada movimento da adaga, espada, pé e vida, como na mudança de guarda, há um tempo, da maneira que todas essas coisas são tempos — porque contêm diferentes intervalos.
+
+[36] (P28.S7)
+Enquanto o inimigo realiza um desses movimentos, certamente será ferido, pois enquanto se move, não se pode ferir.
+
+[37] (P28.S8)
+É necessário aprender isso para poder ferir e defender.
+
+[38] (P28.S9)
+Eu demonstrarei mais claramente como se deve fazer isso em minhas figuras.
+
+[39] (P29.S0)
+[9] O método de lançar a stoccata Agora que discutimos as guardas, contraguardas, medidas e tempos, é necessário demonstrar e fazer entender como se deve conduzir a vita para lançar uma stoccata e escapar, pois, desejando aprender esta arte, é primeiro necessário saber como conduzir a vita e lançar longas stoccate, como visto nesta figura.
+
+[40] (P29.S1)
+Tudo reside em desferir estocadas longas, breves, fortes e imediatas, recuando para fora da medida.
+
+[41] (P29.S2)
+Para lançar a longa estocada, deve-se posicionar em um passo justo e forte, curto em vez de longo, a fim de poder estender e, ao lançar a estocada, esticar o braço da espada, dobrando o joelho o máximo possível.
+
+[42] (P29.S3)
+O método adequado para lançar a stoccata é, após estar posicionado na guarda, é necessário lançar o braço primeiro, depois estender-se para frente com a vita em um tempo, de modo que a stoccata chegue e o inimigo não a perceba.
+
+[43] (P29.S4)
+Se a vida fosse apresentada primeiro, o inimigo poderia percebê-la e, aproveitando-se do tempo, conseguiria desviar e ferir em um único tempo.
+
+[44] (P30.S0)
+Ao recuar, deve-se primeiro trazer a cabeça para trás, pois atrás da cabeça seguirá a vida, e depois o pé.
+
+[45] (P30.S1)
+Trazer o pé de volta primeiro e deixar a cabeça e o tronco à frente os mantém em grande perigo.
+
+[46] (P31.S0)
+Portanto, para aprender bem esta arte, deve-se primeiro praticar o lançamento desta stoccata.
+
+[47] (P31.S1)
+Sabendo disso, o restante será aprendido facilmente, e não sabendo, o contrário.
+
+[48] (P31.S2)
+Estejam avisados, Senhores Leitores, que em minhas lições colocarei este método de lançar a stoccata muitas vezes onde for apropriado.
+
+[49] (P31.S3)
+Isto eu sei que torna as lições mais bem compreendidas.
+
+[50] (P31.S4)
+Não se diz de mim que digo uma coisa muitas vezes.
+
+[51] (P32.S0)
+Por que começar com a espada única? Neste, meu primeiro livro de armas, eu pretendia discutir apenas dois tipos de armas—isto é, a espada única e a espada e punhal—deixando de lado a discussão de algumas outras.
+
+[52] (P32.S1)
+Se assim o Senhor permitir, publicarei sobre todos os tipos de armas o mais breve possível.
+
+[53] (P32.S2)
+Porque a espada é a arma mais comum e frequentemente utilizada de todas, eu quis começar por ela, uma vez que aquele que entende bem o manejo da espada também saberá um pouco sobre como manejar todo o resto tipo de arma.
+
+[54] (P32.S3)
+Uma vez que não é costume em todas as partes do mundo portar a adaga, targa ou rotela, e como a luta com a espada única ocorre frequentemente, eu exorto a todos a aprender a lutar com a espada única primeiro, apesar de tudo que se possa ter em embates, como a adaga, targa ou rotela, pois ocorre, como muitas vezes acontece, que a adaga, targa ou rotela cai de sua mão, seria possível para um homem se defender e ferir o inimigo com a espada única, e porque aquele que é praticado na luta com a espada única saberá como parar e ferir tão bem quanto se tivesse espada e adaga.
+
+[55] (P33.S0)
+[13] Guardas, ou Posturas Muitas são as guardas da espada única, e muitas ainda as contraguardas.
+
+[56] (P33.S1)
+No meu primeiro livro, ensinarei não mais do que dois tipos de guardas e contraguardas, que você poderá utilizar em todas as lições das figuras deste livro.
+
+[57] (P33.S2)
+Portanto, antes de vir a fazer o que desejas, deves ir amarrar o inimigo fora de medida, protegendo-te da sua espada ao colocar a tua espada sobre a dele de uma forma que ele não possa ferir-te senão com dois tempos: um será o desengajamento da espada, o outro ferindo-te.
+
+[58] (P33.S3)
+Você se disporá dessa maneira contra todas as guardas, seja alta ou baixa, de acordo com a forma como vê seu inimigo posicionado, sempre tomando cuidado para não lhe dar facilidade e oportunidade de feri-lo em um único tempo.
+
+[59] (P33.S4)
+Você fará isso se cuidar para que a ponta da espada dele não esteja voltada para o meio da sua vida, de modo que, empurrando sua espada para frente de forma rápida e forte, ele não possa te ferir.
+
+[60] (P33.S5)
+Portanto, cubra a espada do inimigo com a sua, como você vê nesta figura, de modo que a espada do inimigo esteja fora da sua linha de vida e ele não possa feri-lo se não desengajar sua espada.
+
+[61] (P33.S6)
+Coloque-se com os pés firmes, estáveis com sua vida, com o braço da espada estendido e forte, a fim de defender e ferir, como a figura lhe mostra.
+
+[62] (P33.S7)
+Se você visse o inimigo em uma guarda alta ou baixa e não se posicionasse em uma contra-guarda e se protegesse de sua espada, estaria em perigo, mesmo que seu inimigo tivesse menos ciência e faltasse prática em comparação a você, pois poderia produzir um incontro e ambos se ferirem, ou ele poderia colocá-lo na defensiva, ou melhor, em obediência, com fintas ou desengates da espada ou outras coisas que são possíveis.
+
+[63] (P33.S8)
+Se você se proteger da espada do inimigo como eu disse acima, ele não poderá se mover nem realizar qualquer ação que você não perceba e da qual consiga se defender com facilidade.
+
+[64] (P34.S0)
+Estas figuras aqui são duas guardas com as espadas para frente e duas contraguardas cobrindo a espada.
+
+[65] (P34.S1)
+Um é feito para prender o inimigo por dentro e o outro por fora, como estas figuras lhe mostram e como eu irei demonstrar nas lições subsequentes.
+
+[66] (P35.S0)
+[15] Explicação do Ferimento em Tempo Esta figura ensina como ferir seu inimigo no tempo em que ele desengata sua espada.
+
+[67] (P35.S1)
+Você fará isso aproximando-se para amarrar o inimigo fora de medida, colocando sua espada sobre a dele para o lado de dentro, como a figura da primeira guarda lhe mostra, de modo que ele não possa feri-lo se não soltar a espada.
+
+[68] (P35.S2)
+Então, no mesmo tempo em que ele se desengaja para te ferir, empurre sua espada para frente, girando seu pulso no mesmo tempo, de modo que você o fira no rosto, como visto na figura.
+
+[69] (P35.S3)
+No caso de você tentar desviar e depois ferir, isso não seria bem-sucedido, uma vez que o inimigo teria tempo para desviar e você estaria em perigo. Mas se você avançar imediatamente com sua espada no tempo em que ele desengata a dele, girando seu pulso e desviando, o inimigo terá dificuldade em se defender.
+
+[70] (P36.S0)
+No caso de o inimigo não desengajar sua espada para feri-lo, quero que você avance para amarrá-lo dentro da medida e imediatamente lance um golpe onde ele está descoberto, recuando para fora da medida e apoiando sua espada sobre a dele.
+
+[71] (P37.S0)
+O Método Apropriado de Ir para Amarrar o Inimigo e Atacá-lo enquanto ele Desengata a Espada. A partir desta figura, você aprende que se seu inimigo está em uma guarda com a espada do lado esquerdo, alta ou baixa, você se aproxima dele para amarrá-lo por fora de sua espada, de fora da medida, com sua espada sobre a dele de modo que mal a toque, com um passo justo e forte, com sua espada pronta para defender e ferir, e com um olhar atento, como você vê na segunda figura das guardas e contraguardas.
+
+[72] (P37.S1)
+Você, estando disposto desta maneira, seu inimigo não poderá feri-lo com um golpe se não desengajar a espada.
+
+[73] (P37.S2)
+Enquanto ele se desengaja, gire seu pulso e, no mesmo tempo, lance uma estocada contra ele, como o quarto figura te ensina.
+
+[74] (P37.S3)
+Tendo lançado esta stoccata, no mesmo tempo, imediatamente retorne para trás, fora de medida, apoiando sua espada sobre a dele, de modo que, se ele tentar desengajar novamente, você lançará a mesma stoccata nele novamente, girando seu pulso como acima e retornando fora de medida.
+
+[75] (P37.S4)
+Quantas vezes ele se desengajar, tantas vezes você usará o mesmo método de girar o pulso e desferir a estocada contra ele.
+
+[76] (P38.S0)
+Muita prática é necessária para executar bem esta jogada, pois é a partir dela que se aprende a defender e ferir com grande habilidade e rapidez.
+
+[77] (P38.S1)
+Tenha cuidado para sempre estar equilibrado com sua vida e para parar fortemente com o forte de sua espada, pois, se seu inimigo atacar com força, parar fortemente o desconcertará e você poderá feri-lo onde ele está desprotegido.
+
+[78] (P38.S2)
+Esta deve ser a primeira lição que se aprende com a espada única, uma vez que todas as outras que coloquei neste livro derivam dela.
+
+[79] (P38.S3)
+Saber fazer isso em tempo te ensina a defender todos os cortes e estocadas resolutas que podem vir para a cabeça, o que ensinarei passo a passo nas lições subsequentes.
+
+[80] (P39.S0)
+O Método Apropriado de Desengajar a Espada As duas figuras colocadas acima ensinam a ferir o inimigo enquanto ele desengaja sua espada.
+
+[81] (P39.S1)
+Porque eu não deixaria nada em minhas lições que não seja mais do que claro, quero mostrar-lhe o método de desengajar a espada.
+
+[82] (P39.S2)
+Note, entretanto, que seu inimigo estando posicionado em qualquer tipo de guarda que desejar, você, ao tentar imobilizá-lo, deve desferir uma estocada onde ele estiver descoberto e, se ele souber tanto quanto você, suas espadas estarão sempre em igualdade.
+
+[83] (P39.S3)
+Quero que você, então, desengaje a espada sob o punho da do inimigo, girando rapidamente o pulso e desferindo uma estocada onde você o encontrar desprotegido no mesmo tempo.
+
+[84] (P39.S4)
+Este é o método adequado e seguro para desengajar a espada e ferir em um só tempo.
+
+[85] (P39.S5)
+Se você fosse desengajar sua espada sem girar o pulso, estaria dando ao inimigo um tempo e um lugar para feri-lo, como você verá muito bem ao praticar e tentar isso por si mesmo.
+
+[86] (P39.S6)
+Se o inimigo fosse a defender, desengaje novamente da maneira mencionada, sempre girando seu pulso.
+
+[87] (P39.S7)
+Quantas vezes ele defende, desengaje da mesma forma tantas outras vezes, que é o mais seguro, e então lance a estocada nele no tempo em que você desengaja.
+
+[88] (P39.S8)
+Este método de desengajar é tão necessário quanto o que foi ensinado na explicação da figura anterior sobre o método de defesa, uma vez que esta é a principal coisa exigida no manejo da espada única.
+
+[89] (P39.S9)
+Portanto, exorto a todos a praticar bem essas duas coisas, pois, estando à medida contra o inimigo, assim que chega o tempo de desengajar a espada, deve-se saber desengajar rápida e bem, e assim que chega o tempo de defender, deve-se saber defender igualmente bem.
+
+[90] (P40.S0)
+[21] O Contra-desengajamento Dentro da Espada Nesta figura, [9] eu descrevo e mostro a você outro método de defesa e ferimento—por meio do contra-desengajamento.
+
+[91] (P40.S1)
+Faz-se assim: Tendo coberto a espada do seu inimigo de modo que, se ele desejar feri-lo, deve desengajar, enquanto ele desengaja, eu quero que você também desengaje para que sua espada retorne à sua posição inicial, cobrindo a do inimigo.
+
+[92] (P40.S2)
+Mas, ao desengajar, aproveitando-se do tempo, lance uma estocada nele onde está descoberto, virando sua vida um pouco para o lado direito e mantendo seu braço estendido para frente, de modo que, se ele vier para te ferir, ele se ferirá por conta própria.
+
+[93] (P40.S3)
+Tendo lançado a stoccata, recue para fora da medida.
+
+[94] (P41.S0)
+[22] O Contra-desengajamento da Espada por Fora Este método de ferir [10] por meio de um contra-desengajamento externo é semelhante ao contra-desengajamento interno, apenas há uma diferença: Seu inimigo estando em guarda e você vindo para se ligar, estando fora de medida, você deve se posicionar em uma contra-guarda, protegendo-se da espada dele por fora e fazendo com que o inimigo se resolva a desengajar.
+
+[95] (P41.S1)
+Enquanto ele se desengaja, você se desengaja novamente no mesmo tempo, virando a ponta de sua espada para baixo da dele junto com seu pulso, apoiando o forte da lâmina de sua espada e acompanhando sua borda, mantendo seu braço longo e estendido, afrouxando a vida e alongando o passo, como visto na figura, de modo que você consiga feri-lo sem que ele perceba.
+
+[96] (P42.S0)
+Esteja ciente, porém, que se o inimigo lançar a espada com força, desejando desengajar a sua para que ele não consiga atingi-lo e feri-lo, você deve recuar sua vida em seu desengajamento para que permaneça seguro.
+
+[97] (P42.S1)
+Supondo que o inimigo tenha atacado com força, ele se desconcertaria e acabaria ferido em sua espada, e você permanecerá superior a ele, podendo feri-lo onde achar conveniente, tomando cuidado para sempre manter sua espada do lado de fora de sua vida, de modo que ele não possa feri-lo.
+
+[98] (P43.S0)
+[24] Explicação da Finta, Fazendo uma demonstração de desengajar a espada com o pulso. As maneiras de ferir são diversas e, consequentemente, minhas lições também são diversas.
+
+[99] (P43.S1)
+Não espere de forma alguma que eu relate todas as coisas que são possíveis nesta profissão, entretanto.
+
+[100] (P43.S2)
+Sendo esses infinitos, meu trabalho seria longo demais e traria tédio aos seus Leitores.
+
+[101] (P43.S3)
+No entanto, eu desvendarei aquelas coisas que me parecem mais belas, artificiais e úteis, das quais surgem muitas outras mais fáceis e menos artificiais.
+
+[102] (P44.S0)
+Portanto, entre todos os métodos de ferir com artifício, na minha opinião, a finta supera todos os outros.
+
+[103] (P44.S1)
+Isto não é nada mais do que insinuar fazer uma coisa e fazer outra.
+
+[104] (P44.S2)
+É feito de diferentes maneiras, e são estas: Quero que você se posicione em pé do lado direito, com a espada à frente e o braço direito estendido, a fim de dar ao seu inimigo a oportunidade de vir te amarrar.
+
+[105] (P44.S3)
+Ao se aproximar para medir com você, observe se ele deseja feri-lo a partir de um pé firme ou, em vez disso, com um passo.
+
+[106] (P44.S4)
+Você reconhecerá isso no desengajamento que você realiza com a espada.
+
+[107] (P44.S5)
+Desengaje a espada com o seu pulso e finja lançar uma estocada em seu rosto, mas desvie para longe da espada do inimigo, de modo que ela não encontre a sua.
+
+[108] (P44.S6)
+Se o inimigo não defende, ataque resolutamente para que o fira.
+
+[109] (P44.S7)
+Se ele defende, em sua defesa, desengaje a espada e ferir, como você vê nesta figura, onde o inimigo se fere descuidadamente.
+
+[110] (P44.S8)
+Ao se desengajar, tenha cuidado para não deixar a espada exposta, pois assim seu plano falharia; e, ao desengajar, traga a cabeça e a vida um pouco para trás a fim de ver o que o inimigo faz, pois se ele atacasse e você não recuasse, ele poderia produzir um incontro e vocês se feririam mutuamente.
+
+[111] (P44.S9)
+Além disso, você deve ser aconselhado a correr com a aresta direita de sua espada ao longo da aresta da espada do inimigo, virando a parte interna do seu pulso para cima ao ferir com sua espada sobre o debole daquela do inimigo.
+
+[112] (P44.S10)
+Assim que a stoccata for dada, seja de forma resoluta ou fingida, recua para fora da medida, garantindo-se como eu lhe mostrei acima.
+
+[113] (P45.S0)
+A finta é, portanto, realizada da seguinte maneira: Primeiro, a espada é apresentada à face ou ao peito do inimigo, então o braço é estendido sem dar um passo.
+
+[114] (P45.S1)
+Daí, se o inimigo tentar desviar, você desengata a espada no mesmo tempo, acompanhando-a para frente com o passo, de modo que o fira sem que ele perceba.
+
+[115] (P46.S0)
+Se ele não tentar desviar, amplie o passo e atinja-o.
+
+[116] (P46.S1)
+Este é o método de ferir por meio de um engano.
+
+[117] (P47.S0)
+Embora pareçam semelhantes, as duas figuras a seguir, no entanto, são diferentes entre si porque contêm diferentes métodos de fingimento.
+
+[118] (P47.S1)
+Embora contenham quase o mesmo objetivo em suas feridas, teria sido suficiente colocar uma única figura com a qual discutir e ensinar diferentes métodos de finta para ferir. Para mostrar claramente as diferentes maneiras de fintar, quis colocar duas delas aqui que diferem amplamente uma da outra, as quais apresento em suas explicações.
+
+[119] (P48.S0)
+Método de Ferir o Peito com a Espada Única Quando Eles Estão à Distância com as Espadas Iguais A figura presente é uma maneira artificial de ferir o inimigo no peito e se proteger de sua espada, de modo que ele não possa ofender enquanto você avança para feri-lo.
+
+[120] (P48.S1)
+Faz-se assim: É necessário colocar-se em guarda com a espada à frente do lado esquerdo e, se o inimigo vier para te amarrar e cobrir a tua espada com a dele, deixe-o vir até que esteja à medida contigo.
+
+[121] (P48.S2)
+Desengaje quando ele estiver à medida com você, colocando sua espada dentro da dele e direcionando a ponta em direção ao rosto do inimigo.
+
+[122] (P48.S3)
+Se ele não tentar desviar, feri-o resolutamente, correndo com a lâmina direita da sua espada na lâmina da dele, como disse acima, girando o pulso e trazendo o corpo um pouco para o lado.
+
+[123] (P48.S4)
+Se o inimigo vier para parry e ferir você enquanto você se desengaja, no entanto, não lance a estocada, mas mantenha-a um pouco para fora, e no mesmo tempo que ele quiser parry e ferir, desengaje sua espada sob o punho da dele, mirando no peito do inimigo para que você o atinja ali com segurança, estendendo um pouco com a espada como você vê na figura presente.
+
+[124] (P49.S0)
+[30] tomando cuidado para desengajar e reengajar no mesmo tempo, nunca mantendo-o parado para que o inimigo não o encontre.
+
+[125] (P49.S1)
+No movimento que ele faz para defender, passe para ele com sua vida por fora, tomando cuidado para colocar sua mão na empunhadura de sua espada.
+
+[126] (P49.S2)
+Esse golpe produz este efeito: Remove a capacidade dele de te ferir e você pode feri-lo como e onde desejar e agradar.
+
+[127] (P50.S0)
+[31] A Passagem por Meio de Finta à Distância Esta é uma maneira de passar ao inimigo com artifício para que ele não perceba, e é altamente valorizada pelo efeito que ilustra, como visto na figura presente, onde se passa com uma finta e se prossegue para ferir o inimigo.
+
+[128] (P50.S1)
+Faz-se assim: É necessário observar em qual guarda seu inimigo se posiciona e como ele está disposto, e ir para amarrá-lo na guarda, direcionando a ponta de sua espada para o rosto dele.
+
+[129] (P50.S2)
+Se você perceber que ele fica esperando e não se move quando você se encontra quase à medida, lance um golpe forte em direção ao seu rosto, como mostra a figura número [7] [12].
+
+[130] (P50.S3)
+Se ele não para com força, você produz o efeito da figura número [8]</ref>A figura número está ausente tanto nas impressões de 1606 quanto de 1628.
+
+[131] (P50.S4)
+A versão em alemão/francês de Jakob de Zeter de 1619 refere-se à Figura 8.</ref> e não há necessidade de realizar outras fintas, mas se ele defende, vocês estarão ambos com suas espadas em igualdade.
+
+[132] (P50.S5)
+Imediatamente recua para fora da medida e coloca-se na mesma guarda que no início e, quando estiver quase na medida, finge lançar o mesmo golpe em seu rosto.
+
+[133] (P50.S6)
+Enquanto ele tenta defender, desengaje a ponta da sua espada sob o punho da espada do inimigo com seu pulso, certificando-se de manter a espada do inimigo do lado de fora da sua vita.
+
+[134] (P50.S7)
+Então, no mesmo tempo, passe, correndo com sua espada sobre o cabo da dele, acompanhando com a mão esquerda e imediatamente colocando-a sobre o cabo da espada do inimigo, de modo que ele não possa lhe dar um riverso no rosto, de forma que, sem dúvida, você o ferirá, uma vez que ele não vê seu objetivo.
+
+[135] (P50.S8)
+Feito isso, salte fora de medida e coloque a espada dentro da do inimigo, garantindo-se da maneira acima e, ao bater na espada dele, você o ferirá novamente com dois ou três golpes resolutos e irreparáveis.
+
+[136] (P51.S0)
+[32] A passagem por meio de um engano sobre a ponta da espada Este é outro tipo de desengajamento e engano, não comumente utilizado, que produz o efeito das duas figuras anteriores.
+
+[137] (P51.S1)
+Faz-se assim: Deve-se colocar em guarda com a espada do lado esquerdo, com o braço estendido e longo.
+
+[138] (P51.S2)
+Deixe o inimigo vir para te prender da maneira descrita, desengaje sua espada sobre a ponta da dele quando ele estiver à medida.
+
+[139] (P51.S3)
+Se você perceber que ele não defende, ataque-o com força e determinação, como eu lhe disse, o que não exigirá outras fintas.
+
+[140] (P51.S4)
+Se ele defende, no entanto, não pare a espada, mas evite a guarda da espada dele, passe da maneira acima e feri-o no peito, retirando-se depois como foi dito.
+
+[141] (P52.S0)
+[33] A Finta para o Rosto à Distância Esta finta se diferencia apenas pelo fato de que a finta anterior completa seu desengajamento sob o punho da espada, enquanto esta o faz sobre ele, a fim de atacar o rosto do inimigo.
+
+[142] (P52.S1)
+Esta estocada torna-se uma finta se ele defende e é resoluta se ele não o faz.
+
+[143] (P52.S2)
+Então, os mesmos guardas, distâncias e medidas são observados no restante.
+
+[144] (P52.S3)
+Um também leva a vida e a espada como visto na figura e imediatamente retorna para fora da medida assim que o golpe é desferido.
+
+[145] (P52.S4)
+A coisa mais importante é saber como tornar a finta natural, de modo que não possa ser distinguida da resoluta, o que é feito da seguinte maneira: A ponta é virada (por exemplo) para cima, do lado de fora, em seu rosto e, ao avançar com a ponta por baixo do punho da espada do inimigo para feri-lo por dentro, é necessário que a estocada atinja seu rosto ou peito com o desengajamento.
+
+[146] (P52.S5)
+Isso é o que se entende por "finta natural".
+
+[147] (P52.S6)
+No entanto, é aconselhável nunca realizar uma finta se o inimigo não se defender de forma resoluta, pois você estaria em perigo de ferir um ao outro e acabar em uma situação arriscada.
+
+[148] (P53.S0)
+[34] O Método Adequado para Dar uma Estocada com a Espada Única enquanto o Inimigo Desferindo um Corte Esta figura ensina você a aproveitar o tempo para dar ao seu inimigo uma estocada no rosto enquanto ele desferiu um corte em sua cabeça—quando ele levanta sua espada, pode-se dar uma estocada enquanto ela está no ar e antes que atinja você.
+
+[149] (P53.S1)
+Observe como isso é feito.
+
+[150] (P53.S2)
+Após ter se posicionado na guarda que preferir, vá para amarrar seu inimigo.
+
+[151] (P53.S3)
+Quando você estiver à medida, se o inimigo desferir um corte em direção à sua cabeça, aproveite o tempo na elevação da espada dele, avance e empurre a espada em direção ao rosto dele, de modo que você, sem dúvida, o ferirá enquanto a espada dele estiver no ar, como você vê na figura.
+
+[152] (P53.S4)
+Mas, ao lançar, vire seu pulso e a borda direita da espada para cima, mantendo seu braço longo e alto, e faça a guarda de sua espada cobrir sua cabeça, de modo que se o inimigo soltar sua espada, você esteja protegido e ele não possa te ofender.
+
+[153] (P54.S0)
+É necessário, no entanto, lançar este golpe rapidamente.
+
+[154] (P54.S1)
+Se não fosse executado rapidamente, o inimigo o defenderia e o feriria.
+
+[155] (P54.S2)
+Após ter lançado, retire-se rapidamente para trás, fora de alcance, protegendo-se com sua espada contra a do inimigo.
+
+[156] (P55.S0)
+[36] Eu não quis incluir todos os métodos de defesa contra cortes, que são muitos, em meu primeiro livro.
+
+[157] (P55.S1)
+Antes, coloquei isso apenas para você, pois me pareceu o mais útil e conveniente para aprender a reconhecer o tempo e fazer uso dele—algo necessário para entender em todos os momentos.
+
+[158] (P56.S0)
+[37] A Maneira Adequada de Ferir com Segurança com a espada única usando ambas as mãos Esta figura mostra um método de ferir o inimigo com segurança que é impossível de defender.
+
+[159] (P56.S1)
+Faz-se de duas maneiras: Primeiro, é necessário encontrar a ocasião para que sua espada esteja igual à do inimigo, a sua por fora.
+
+[160] (P56.S2)
+Você então empurra sua espada em direção ao rosto do inimigo, que, se não for defendido com firmeza, o atinge no rosto, como visto na quarta figura.
+
+[161] (P56.S3)
+Se ele defende bem e com força, estenda com o pé esquerdo, colocando a mão esquerda sobre sua espada, pressionando fortemente com ambas as mãos, direcionando a ponta em direção ao peito do inimigo e abaixando o punho de sua espada como visto na figura presente, cuidando para fazer todas essas coisas em um único tempo.
+
+[162] (P57.S0)
+[38] Em seguida, [13] disposto em guarda da maneira mencionada, mas com sua espada por dentro, quero que você desengaje a espada como se fosse ferir por fora e, no mesmo tempo em que desengaja a espada, coloque sua mão esquerda sobre sua espada e bata na espada do inimigo com a sua, utilizando a força de ambas as mãos.
+
+[163] (P57.S1)
+Afastando isso, imediatamente avance com o pé esquerdo, como visto na figura.
+
+[164] (P57.S2)
+Para que isso saia bem para você, esteja ciente de que é necessário fazer todas essas coisas em um só tempo — isto é, desengajar a espada, colocar a mão sobre ela, bater com a espada do inimigo com a sua e avançar com o pé esquerdo.
+
+[165] (P57.S3)
+Não fazendo essas coisas em um só tempo, você poderia falhar e estar em perigo, assim como estaria com certos homens valentes que sabem como desengajar a espada rápida e bem.
+
+[166] (P57.S4)
+Portanto, para ter sucesso nisso, você deve fazê-lo de forma rápida e repentina.
+
+[167] (P58.S0)
+[39] O Método Apropriado para Defender Contra o Corte ou Riverso que Vem em Direção à Perna Nesta lição, na qual discutiremos o corte mandritto ou riverso na perna, não me é possível dizer mais nada para ensinar a defesa e a ferida do inimigo no mesmo tempo.
+
+[168] (P58.S1)
+Antes, direi por que o inimigo acaba se ofendendo na ponta da sua espada.
+
+[169] (P58.S2)
+O inimigo, ao desferir um dritto ou riverso em sua perna, é necessário que ele amplie seu passo e vida e traga seu rosto para frente.
+
+[170] (P58.S3)
+Enquanto o inimigo se inclina para feri-lo, você então move sua perna da frente, levantando-a para trás, e no mesmo tempo desferindo um golpe em direção ao seu rosto, de modo que ele se ferirá por conta própria, sem a capacidade de se defender, nem poderá feri-lo.
+
+[171] (P58.S4)
+Então (como já disse outras vezes) retorne para trás fora de medida.
+
+[172] (P59.S0)
+E, uma vez que a lição presente é muito artificial, é necessário aprendê-la para poder utilizá-la em uma ocasião como a figura claramente lhe mostra.
+
+[173] (P60.S0)
+A Inquartata ou Deslizamento Conhecer a inquartata, ou deslizamento, é necessário para dominar o corpo.
+
+[174] (P60.S1)
+No entanto, isso não é normalmente utilizado nas escolas, exceto pelos franceses para exercitar a vita.
+
+[175] (P60.S2)
+Na verdade, muitos são esses deslizes, ou inquartate, mas decidi mostrar apenas três deles neste, meu primeiro livro—na minha opinião, os mais seguros e belos, conforme revelado na figura presente.
+
+[176] (P61.S0)
+[43] A inquartata, ou deslize da vita Esta inquartata não é diferente da primeira, exceto pela maneira como fere—isto é, tomando cuidado ao correr ao longo da lâmina da espada do inimigo para feri-lo sob o pomo de sua espada, levantando o braço com o pulso, como visto na figura, e após ter girado seu corpo, parar e não avançar sobre o inimigo para não entrar em contato, pois você estaria em perigo de não conseguir retornar fora da medida e se proteger dele.
+
+[177] (P61.S1)
+Esta inquartata é muito difícil de defender.
+
+[178] (P61.S2)
+Na verdade, direi que é impossível quando é feito com discernimento.
+
+[179] (P62.S0)
+A Terceira Inquartata, ou deslize da vida. Esta terceira inquartata é a mais bela e segura de todas.
+
+[180] (P62.S1)
+Faz-se assim: Coloque-se em guarda como nas outras duas, segurando a espada ao longo do lado direito com o braço estendido e firme.
+
+[181] (P62.S2)
+Enquanto o inimigo vem para te prender com sua espada sobre a sua, desengaje a espada com um giro do seu pulso quando estiver à medida.
+
+[182] (P62.S3)
+Se ele não defender, golpeie-o no rosto e produza o efeito da figura sem precisar fazer mais.
+
+[183] (P62.S4)
+Se ele defende, no entanto, você se encontra com suas espadas em igualdade.
+
+[184] (P62.S5)
+Afronte fortemente sua espada contra a dele para que ele também afronte e, ao se desengajar, corra sob o punho da espada dele com o desengage, virando seu corpo como acima, e ferindo-o no peito, o que ele não perceberá.
+
+[185] (P62.S6)
+O efeito da figura presente produzida, você retornará fora da medida, garantindo-se como nas outras lições.
+
+[186] (P63.S0)
+[45] Um método artificial para atingir o peito, afrontando as espadas. Nas lições anteriores, mostrei o método da inquartate — isto é, como as espadas são afrontadas por fora para que se possa ferir o inimigo por dentro.
+
+[187] (P63.S1)
+Agora direi brevemente como as espadas são carregadas por dentro e enroladas por fora.
+
+[188] (P63.S2)
+Ao encontrar-se com o inimigo, ataque fortemente com a lâmina de sua espada, mantendo a ponta voltada para o rosto dele, com seu forte sobre a espada do inimigo.
+
+[189] (P63.S3)
+Se ele é mais fraco que você, dê-lhe uma estocada no rosto ou no peito que ele não consiga defender.
+
+[190] (P63.S4)
+Se ele é mais forte que você, sentindo o quanto sua espada está sendo afrontada, desengaje sua espada sob o punho dele para que a dele caia para baixo e ele receba um golpe do qual não pode se defender.
+
+[191] (P63.S5)
+No mesmo tempo, passe sem nenhum perigo e, colocando sua mão esquerda na empunhadura dele, feri-o com três ou quatro estocadas que não podem ser evitadas.
+
+[192] (P63.S6)
+Então, retorne para fora da medida, assegurando-se como acima.
+
+[193] (P64.S0)
+[46] O método de lutar com espada única contra espada única com estocadas resolutas Nas escolas, há muitos que, de forma resoluta, vêm desferindo estocadas, imbroccate e cortes ao atacar o inimigo, não dando tempo e sempre atacando com fúria e grande ímpeto.
+
+[194] (P64.S1)
+Essas coisas normalmente confundem e desordenam todo belo jogador e esgrimista, por isso é necessário saber como se defender em tal ocasião.
+
+[195] (P65.S0)
+É necessário que você se coloque em guarda contra a espada do inimigo, com a sua pronta para defender, fora de medida, em um passo que seja contido em vez de longo.
+
+[196] (P65.S1)
+No momento em que ele desferir uma estocada, imbroccata, stoccata ou outro golpe semelhante contra você, bata com a forte da sua espada na dele e, imediatamente alongando seu passo, desferir uma estocada e feri-lo no peito ou no rosto e rapidamente recuar com o pé da frente para onde você estava antes, apoiando sua espada na dele para se proteger, de modo que ele não possa ferir se não se desengajar.
+
+[197] (P65.S2)
+Se o inimigo se desengajar, virando seu pulso para fora, bata novamente com a forte da sua espada na dele e, alongando seu passo, lance uma estocada e o ferir, então rapidamente recue com o pé como acima, assegurando-se também de se proteger da espada dele com a sua.
+
+[198] (P65.S3)
+Se ele se desengajar novamente, sempre repita fazendo o mesmo.
+
+[199] (P66.S0)
+Esta lição é mais útil do que bela e contém dois tempos que você pode executar antes que o inimigo tenha tempo de realizar um deles: o primeiro é a defesa, o outro a ferida.
+
+[200] (P66.S1)
+Desde que foram examinados, você compreendeu.
+
+[201] (P67.S0)
+[49] Parando Stoccate que Vêm ao Peito com a Espada Única Visto nesta figura está o método seguro de parar estocadas que vêm em direção ao seu peito e, em seguida, ferir o peito.
+
+[202] (P67.S1)
+Faz-se de diferentes maneiras, pois alguns passam à distância, outros ficam à medida, e outros dentro da medida, mas alguém que entende o tempo e sabe como defender-se bem, como minha figura lhe mostra, defenderá contra todos esses métodos.
+
+[203] (P67.S2)
+Portanto, note que ao estar com seu inimigo com as espadas em igualdade, se ele avança com a intenção de feri-lo no peito, é necessário seguir a espada dele com a sua no mesmo tempo, baixando, no entanto, a ponta da sua ao levantar o pulso, defendendo-se com a mesma e avançando com o pé esquerdo em direção ao lado direito dele, afastando-se da espada dele.
+
+[204] (P67.S3)
+Ferir-lhe no peito, segurando sua mão esquerda sobre a empunhadura de sua espada, e então, após a estocada dada, desengajar a espada da maneira descrita acima, recuando para fora da medida.
+
+[205] (P68.S0)
+[50] O Golpe no Rosto Virando Seu Pulso Com esta figura, você é ensinado um método muito belo de ferir o rosto de seu inimigo.
+
+[206] (P68.S1)
+Consiste inteiramente em aproveitar a ocasião de estar com as espadas em igualdade e fazer com que seu inimigo esteja em movimento de defesa, criando nele a suspeita de que você deseja soltar a espada.
+
+[207] (P68.S2)
+No mesmo tempo, girando seu pulso, coloque sua mão esquerda na guarda da espada dele e estenda com o pé em um tempo para que você o atinja no rosto, como você vê.
+
+[208] (P68.S3)
+Executando-o corretamente, não pode ser defendido.
+
+[209] (P68.S4)
+Tendo golpeado, estenda sua mão esquerda sobre a empunhadura da espada do inimigo e, ao desengajar a espada, você pode lhe dar duas ou três estocadas onde desejar.
+
+[210] (P68.S5)
+Então, retorne para trás fora da medida, sempre mantendo sua espada sobre a deles, como acima.
+
+[211] (P69.S0)
+[51] O Contra-desengajamento à Distância Estes [15] são um e o mesmo contra-desengajamento à distância contra alguém que tem o pé esquerdo à frente e deseja passar com uma inquartata.
+
+[212] (P69.S1)
+Com essas figuras, eu quis mostrar as posturas e a ferida para que possa ser compreendida de forma completa.
+
+[213] (P69.S2)
+É necessário (quando alguém vem para te amarrar com o pé esquerdo à frente) que você fique em guarda como vê nesta figura, dando ao seu inimigo a oportunidade de atacar seu peito.
+
+[214] (P69.S3)
+Se ele é um homem valente, rapidamente passará com seu pé e girará fortemente seu pulso à maneira da inquartata para se defender de sua espada.
+
+[215] (P69.S4)
+No mesmo tempo em que ele passa, desengaje a espada sob o punho, abaixando sua vida como se vê na figura presente, de modo que você o fira no rosto antes que ele o fira.
+
+[216] (P69.S5)
+Na verdade, ele é incapaz de defender enquanto avança com o pé para passar.
+
+[217] (P69.S6)
+Para produzir o efeito desta figura em ocasião, é necessário praticar bem as duas figuras colocadas acima.
+
+[218] (P70.S0)
+[52] O Método de Lutar com a Espada Única, enquanto o inimigo tem espada e adaga. Com esta figura, eu lhe mostrarei como desviar e ferir com a espada única contra um inimigo que possui espada e adaga.
+
+[219] (P70.S1)
+Fique com o pé direito à frente em um passo adequado, com a vida para trás, segurando a espada à frente, pronto para defender e ferir quando houver um tempo.
+
+[220] (P70.S2)
+É necessário que você não seja o primeiro a atacar, pois estaria em perigo, uma vez que, ao atacar, seu inimigo poderia defender sua estocada com sua adaga e, se ele fosse um homem valente, você não conseguiria defender a dele.
+
+[221] (P70.S3)
+Se você se posicionar na guarda como eu disse acima, no entanto, pronto para defender, mostrando medo dele para que ele se descontrole, quando ele atacar, você deve defender fortemente com o forte da sua espada e desferir a estocada em seu rosto, porque ele atacará você com força e de forma longa e, enquanto ataca, sua adaga se afastará para que você possa atingi-lo com segurança.
+
+[222] (P70.S4)
+Tendo golpeado, imediatamente recue para fora da medida, segurando sua espada da maneira descrita acima.
+
+[223] (P70.S5)
+Faça o mesmo quantas vezes ele atacar, cuidando, no entanto, para não atacar seu peito, o que não seria seguro, pois alguém que possui espada e adaga será muito mais audacioso do que alguém que tem apenas a espada, e assim, pensando em lhe dar quantas estocadas quiser, ele se desconcertará para atacá-lo primeiro, não pensando em mais nada.
+
+[224] (P70.S6)
+Se você se posicionar em guarda de forma judiciosa, poderá desviar com segurança e força e sempre ferir seu inimigo no rosto, então retornar com segurança para fora da medida com sua espada sobre a dele.
+
+[225] (P70.S7)
+Se o seu inimigo fosse desengajar a espada para o interior, gire o pulso e defenda-se, lançando com força, como eu disse.
+
+[226] (P71.S0)
+Se você perceber que ele quer se lançar sobre você, recue e ataque-o no momento em que ele se move para avançar.
+
+[227] (P71.S1)
+Se você se encontrasse em guarda com sua espada em punho e ele quisesse primeiro parry com a adaga e depois ferir, no momento em que você o visse abaixar a adaga para parry, imediatamente desengaje a espada acima da adaga da maneira descrita na figura número … Imediatamente depois, afaste-se da medida com sua espada sobre a dele.
+
+[228] (P72.S0)
+[54] Tenha cuidado, no entanto, para não lançar se ele permanecer em guarda e você não perceber por acaso algum tempo que permita fazê-lo sem que ele o ferir, como foi descrito acima quando se discutiu tempo e medida.
+
+[229] (P72.S1)
+Se ele ficar em guarda esperando, seja por medo ou, ao contrário, com arte para te enganar, mantenha-se fora de medida com sua espada sobre a dele e busque parar e ferir com segurança de acordo com a ocasião.
+
+[230] (P129.S0)
+Um Método Artificial de Deflexão com a Espada Única No meu Primeiro Livro, mostrei como se deve proceder com a espada única para prender o inimigo, cobrindo sua espada, e, enquanto ele se desengaja, feri-lo.
+
+[231] (P129.S1)
+Esta figura agora lhe mostra outra maneira de ferir com artifício.
+
+[232] (P129.S2)
+É isto: Seu inimigo visto em uma guarda com a espada à frente, vá vinculá-lo com a sua sobre a dele, da maneira das primeiras figuras do meu Primeiro Livro e, se seu inimigo desejar feri-lo, é necessário que ele desengaje sua espada.
+
+[233] (P129.S3)
+Enquanto ele desengata a espada, levante seu punho e abaixe sua vida e a ponta da sua espada para que você o atinja no flanco, o que ele não conseguirá defender porque acredita que você deve defender com o punho baixo e a ponta alta.
+
+[234] (P129.S4)
+Fazendo como eu disse, você o atinge de forma inesperada.
+
+[235] (P129.S5)
+A estocada lançada, retorne para trás fora da medida, garantindo-se ao colocar sua espada sobre a dele.
+
+[236] (P130.S0)
+Outro Método Artificial de Ferir, Indo para Amarrar o Inimigo do Lado de Fora de Sua Espada A figura anterior ia amarrar o inimigo do lado de dentro da espada e feriu do lado de fora.
+
+[237] (P130.S1)
+A figura atual é de como se prender por fora da espada.
+
+[238] (P130.S2)
+Faz-se assim: Vá para amarrar o inimigo do lado de fora da espada, com sua espada sobre a dele, e dê-lhe a oportunidade de soltar a espada para feri-lo.
+
+[239] (P130.S3)
+Enquanto ele desengata a espada, você defende, levantando seu pulso e abaixando sua vida e a ponta da espada, como visto na figura, o que o enganará.
+
+[240] (P130.S4)
+A estocada lançada, retorne para trás fora de medida da maneira dita.
+
+[241] (P131.S0)
+O Método Apropriado de Defender-se da Inquartata Com o Vazio da Vita
+
+Todos aqueles que desejam se tornar perfeitos nesta profissão, além de saber como manejar bem a vita, defender-se bem e controlar a espada, também precisam saber como evitar estocadas com a vita, pois nem sempre é possível se defender com a espada, e em caso de necessidade, ao reconhecer o perigo, deve-se evitar a vita.
+
+[242] (P131.S1)
+Quero ensinar-lhe duas maneiras de se defender de estocadas, evitando a vida e ferindo o inimigo.
+
+[243] (P131.S2)
+Faz-se assim: Vá para amarrar seu inimigo por fora com sua espada sobre a dele, mantenha sua postura ereta e dê-lhe a oportunidade de feri-lo com a inquartata.
+
+[244] (P131.S3)
+No tempo em que ele desengata sua espada para te ferir, abaixe rapidamente sua vida para que sua estocada falhe e, no mesmo tempo, desengate a espada sob a mão da espada do inimigo para que você o fira no flanco, como você vê na figura.
+
+[245] (P131.S4)
+Imediatamente coloque sua mão esquerda na empunhadura da espada do inimigo e desengaje sua espada para que você possa ferir com duas ou três estocadas e retornar imediatamente para fora de medida, como de costume.
+
+[246] (P132.S0)
+[25] O Método de Defender da Stoccata Evitando a Vita, Indo para Amarrar o Inimigo por Dentro Esta outra figura mostra que, se você amarrar o adversário por dentro da espada, com sua espada sobre a dele e sua vita reta, se ele desejar feri-lo, é necessário que ele desengaje a espada e gire o pulso para se proteger da sua espada.
+
+[247] (P132.S1)
+De onde você, assim que ele desengajar a espada para feri-lo no rosto, desengaje sua espada sob a dele e abaixe sua vida de modo que você o atinja no flanco e seu estocada falhe, e imediatamente coloque sua mão esquerda sobre os adornos de sua espada, ferindo-o e escapando como acima.
+
+[248] (P133.S0)
+[26] Um Método Que Pode Defender e Dar um Riverso ou Um Golpe ao Rosto Esta figura mostra um método artificial de defender e dar um riverso ou, em vez disso, um golpe seguro ao rosto desta maneira: Se o seu inimigo estiver ansioso para ferir com um golpe e você estiver em uma guarda com a espada à frente, descubra um pouco o seu peito para que ele venha a desferir uma stoccata.
+
+[249] (P133.S1)
+Defenda-se com o forte de sua espada e estenda-se com o pé direito, indo ao encontro da espada dele e levando-a ao chão com seu braço estendido, o forte de sua espada e sua vida, como você vê na figura, de modo que o rosto do inimigo fique completamente descoberto.
+
+[250] (P133.S2)
+Daí você pode imediatamente dar-lhe um riverso no rosto e retornar para fora da medida, estando ciente de que, enquanto o adversário lhe lança a stoccata, é necessário que você defenda da maneira acima e avance, e enquanto você lança o riverso, você recua, fazendo essas duas coisas no mesmo tempo.
+
+[251] (P133.S3)
+Parando dessa maneira, você pode ferir com uma estocada e recuar para fora de alcance.
+
+[252] (P134.S0)
+[27] Um Método Artificial de Defensiva e de Dar um Mandritto ou Um Golpe ao Rosto Esta figura mostra como golpear com um mandritto ou um golpe ao rosto.
+
+[253] (P134.S1)
+Faz-se assim: É necessário colocar-se em uma guarda e descobrir um pouco o seu lado direito para encorajar o inimigo a atacar aquele lado descoberto com uma estocada.
+
+[254] (P134.S2)
+Alternativamente, se você perceber que o adversário está em guarda com a espada à frente, prenda-o por dentro com sua espada e, enquanto ele desengata sua espada, defenda-se da maneira acima.
+
+[255] (P134.S3)
+Enquanto ele desengata a espada, estenda com seu pé e, com o braço estendido e a força do seu ombro e de toda a sua vida, leve a espada do inimigo ao chão, como a figura mostra, de onde seu rosto ficará então descoberto e você poderá, portanto, desferir um mandritto ou, em vez disso, uma estocada em seu rosto e, em seguida, recuar para fora de medida, cuidando para fazer essas coisas no mesmo tempo.
+
+[256] (P135.S0)
+[28] O Método de Defender do Passo do Pé Esquerdo à Distância com o Contra-desengajamento Estas figuras que você vê, uma com o pé esquerdo à frente para passar, a outra com o pé direito à frente para defender e ferir, são muito úteis, como você aprenderá.
+
+[257] (P135.S1)
+Se o inimigo se colocar com o pé esquerdo à frente para te ferir e vier a te amarrar para aproveitar o tempo de passar, coloca-te em guarda com o pé direito à frente e a espada à frente, descobre o ombro direito e dá-lhe um tempo para que ele passe, pois ele pensa que irás defender-te com a lâmina da tua espada e confia na rapidez de lançar uma estocada — isto é, que a sua estocada chegará antes que tenhas tempo de defender.
+
+[258] (P135.S2)
+Ele terá sucesso toda vez que estiver ou dentro da medida, portanto, tenha cuidado para não deixá-lo entrar na medida, e quando você perceber que ele deseja passar, no mesmo tempo desengaje sua espada sob seu punho e retire a vida levemente, acompanhada da espada, de modo que você defenda e ferir no mesmo tempo que você vê que a figura possui, e imediatamente retorne para trás, fora da medida, com sua espada sobre a dele.
+
+[259] (P136.S0)
+O Método de Ferir com Segurança a Perna com a Espada Única A ferida segura na perna é realizada de muitas maneiras, ou seja, fingindo desferir um corte na cabeça e, enquanto o inimigo se move para defender, atacando a perna.
+
+[260] (P136.S1)
+É necessário que você não ataque a perna se a espada do inimigo não for vista passar pela sua vida.
+
+[261] (P136.S2)
+Caso contrário, vocês se atingiriam mutuamente ou, se seu inimigo conseguisse passar a perna sobre a sua, ele o atingiria no rosto e escaparia, como mencionei em meu Primeiro Livro.
+
+[262] (P136.S3)
+Desejando atingir a perna com um mandritto ou riverso de forma segura, é necessário simular um ataque natural à cabeça com um mandritto ou estocada.
+
+[263] (P136.S4)
+Se você perceber que ele não defende de forma resoluta, desferir golpes adicionais na perna ou em outro lugar não se revela.
+
+[264] (P136.S5)
+Se você perceber que ele defende, deixe a espada dele passar pela sua vida com a ponta e imediatamente ataque sua perna, como mostra a figura, tendo o cuidado de que a finta, seja de estocada ou corte, ferindo e recuando para escapar, sejam feitas no mesmo instante.
+
+[265] (P136.S6)
+Pode-se simular da mesma forma no lado de fora da espada e lançar um riverso.
+
+[266] (P137.S0)
+[30] O Método de Entrar em Contato e Ferir o Peito com um Golpe Mostramos muitas maneiras de desviar e ferir com a espada única, tanto em meu Primeiro quanto neste Segundo Livro.
+
+[267] (P137.S1)
+É necessário que mostremos de que maneira se luta, entrando em combate, e como um homem deve escapar.
+
+[268] (P137.S2)
+Neste, meu Segundo Livro, desejo ensinar-lhe apenas quatro métodos, dos quais homens inteligentes podem extrair muitos.
+
+[269] (P137.S3)
+O método adequado e seguro de se aproximar do inimigo para entrar em combate é passar, para o interior ou exterior da espada, ou através da inquartata, como mencionei em meu Primeiro Livro.
+
+[270] (P137.S4)
+Ao passar por fora, você pode entrar em combate quando quiser, como bem sabe, eu disse em meu Primeiro Livro como desferir um golpe firme por dentro e, enquanto seu inimigo o defende, desengajar a espada para fora em direção ao peito do inimigo e passar com o pé esquerdo no mesmo tempo.
+
+[271] (P137.S5)
+Se o seu inimigo é um homem valente, ele o defenderá e, portanto, você estará com suas armas em igualdade.
+
+[272] (P137.S6)
+De onde, aconselho que você imediatamente desengaje a espada sob os móveis da espada dele enquanto retira sua vida levemente e fere no peito, como você vê que a figura faz.
+
+[273] (P137.S7)
+Segurando o braço do inimigo no lugar com sua mão, você pode retirar sua vida, desengajar sua espada, ferir duas ou três vezes e recuar para fora de medida, garantindo-se com sua espada sobre a dele.
+
+[274] (P138.S0)
+[31] Um Método de Entrar em Contato e Dar um Corte na Cabeça Este agarre que você vê é semelhante ao anterior no que diz respeito ao passo, pois isso também é feito com o mesmo passo.
+
+[275] (P138.S1)
+Depois de ter passado, então, e estando ambos com suas espadas em igualdade, coloque sua mão esquerda sobre os adornos da espada do inimigo, pressionando o braço da espada dele com sua mão, como a figura presente lhe mostra, e ao mesmo tempo golpeie-o com um corte na cabeça que, sem dúvida, ele será incapaz de defender.
+
+[276] (P138.S2)
+Dê dois ou três cortes, retirando sua vida, segurando o braço do inimigo no lugar com sua mão.
+
+[277] (P138.S3)
+Você pode dar duas ou três estocadas e, em seguida, recuar para fora da medida da maneira acima.
+
+[278] (P138.S4)
+Executar essas pegadas consiste em saber bem como aproveitar o tempo para passar com segurança.
+
+[279] (P138.S5)
+Pode-se agarrar de muitas maneiras, como descobrindo o lado direito, dando ao inimigo a oportunidade de desferir um golpe, e imediatamente defendendo-se com o forte da espada, passando com o pé, endireitando a ponta da espada em direção ao rosto do inimigo, que, se não a bloquear, receberá um golpe em seu rosto e, assim, nada mais será feito.
+
+[280] (P138.S6)
+Mesmo que ele a defenda, no entanto, vocês estarão com suas espadas em igualdade, e vocês se agarrarão de modo que os adornos de sua espada entrem em contato com os dele.
+
+[281] (P138.S7)
+Então você poderá executar todos os quatro tipos de empunhaduras que coloquei neste livro.
+
+[282] (P138.S8)
+Você também pode ir para amarrar seu inimigo do lado de fora de sua espada e passar com o pé, aproveitando o tempo da maneira mencionada, já que enquanto suas espadas estiverem iguais, você executa um desses quatro agarramentos—qualquer um que mais lhe agradar.
+
+[283] (P138.S9)
+Você também pode passar com segurança de outra maneira: Vá para amarrar seu inimigo por dentro com sua espada sobre a dele e dê-lhe a oportunidade de se desengajar para feri-lo.
+
+[284] (P138.S10)
+Então, enquanto ele desengata a espada, pare a espada do inimigo com o forte de suas armas e avance com o pé.
+
+[285] (P138.S11)
+Assim, se ele não se defender disso, você o atinge no rosto, e, se ele desvia, você estará com suas armas em igualdade.
+
+[286] (P138.S12)
+Dado isso, portanto, eu disse que executar essas pegadas consiste em saber escolher o tempo para passar com segurança.
+
+[287] (P139.S0)
+[32] Um Método de Pegada para Tomar a Espada com a Mão Esquerda e Golpear com um Empurrão no Rosto Esta figura mostra que, tendo agarrado o tempo seguro de qualquer uma das maneiras mencionadas, entre em contato, e passe com o pé, estando com as armas em igualdade, você deve desengajar a espada sob os móveis e colocar sua mão esquerda na parte interna dos móveis, girando seu braço e mão, agarrando os móveis da espada do seu inimigo com sua mão, como a figura mostra.
+
+[288] (P139.S1)
+Virar seu braço em direção ao dele o obriga a soltar a espada, porque enquanto você vira o braço dele, você lhe dá uma estocada no rosto, como pode ver na figura, e ele perde a força do braço por medo da sua espada, de onde é forçado a soltar sua espada.
+
+[289] (P140.S0)
+[33] Um Método de Empunhadura para Tomar a Espada do Inimigo e Atacá-lo com o Punho na Face Tendo entrado em combate com as armas em igualdade, desejando apreender a espada da mão do inimigo e golpeá-lo com o punho na face, você deve proceder da seguinte maneira: Desengaje a espada sob o punho da espada do inimigo e, ao mesmo tempo, puxe seu braço esquerdo para dentro da espada do inimigo e coloque sua mão esquerda em seus adornos, virando seu braço em direção à espada do inimigo sob o flanco esquerdo, como você vê na figura.
+
+[290] (P140.S1)
+No mesmo tempo, golpeie-o com a empunhadura no rosto e, segurando firmemente a espada do inimigo com seu braço, imediatamente vire sua vida para a direita de modo que a força o obrigue a soltar sua espada ou ter sua mão quebrada, pois a força de girar a vida é muito grande.
+
+[291] (P140.S2)
+Por essa razão, se seu inimigo tivesse o dobro da sua força, você tomaria a espada de sua mão.
+
+[292] (P140.S3)
+Esses quatro tipos de empunhaduras são úteis apenas para alguém que as tenha praticado bem, nem deveria alguém que só saiba jogar há um mês ou dois tentar executá-las, pois não teriam sucesso e então diriam que não são bons.
+
+[293] (P140.S4)
+Eu digo que essas empunhaduras são boas para aqueles que sabem como jogar com os pés firmes e com o passo, que reconhecem o tempo e a medida, e que estão praticados com essas empunhaduras.
+
+[294] (P141.S0)
+[34] Prefácio aos Senhores Leitores Neste Segundo Livro, não desejo discutir mais os cortes que podem ser realizados com a espada única, mas você pode fazer uso dos cortes descritos para a espada e o punhal, como defender um corte que vem em direção à cabeça com a espada e desferir um riverso na cabeça ou, em vez disso, na perna.
+
+[295] (P141.S1)
+Você também pode defender um riverso à cabeça e desferir um mandritto à cabeça ou à perna.
+
+[296] (P141.S2)
+Você pode até se defender contra esses cortes evitando a vida, deixando o corte passar e, em seguida, desferindo um golpe ou corte, conforme descrito nas lições da espada e da adaga.
+
+[297] (P141.S3)
+Em contendas com a espada única, é muito seguro e bom fazê-lo desta maneira: Um se coloca em uma guarda com a espada alta como se fosse desferir um mandritto.
+
+[298] (P141.S4)
+Enquanto o adversário lança uma stoccata, é necessário desferir um mandritto em sua espada, e sua stoccata, parryada assim, é necessário imediatamente lançar um mandritto em sua cabeça ou perna e recuar para fora de medida.
+
+[299] (P141.S5)
+É necessário defender-se com força e, em seguida, atacar tantas vezes quantas o adversário lança uma estocada, de modo que ele não consiga ofender.
+
+[300] (P141.S6)
+Desejo ensinar-lhe a desferir uma stoccata, mandritto ou riverso com estocadas resolutas.
+
+[301] (P141.S7)
+Faz-se assim: Se o seu inimigo estiver em guarda esperando por você, vá para amarrá-lo onde ele está descoberto até que você esteja à medida e lance uma stoccata, virando seu pulso em direção à espada do inimigo para se proteger, e se o seu inimigo defender esse golpe, lance um mandritto ou riverso conforme a posição em que você se encontrar—se você lançar a stoccata por dentro, um riverso surgirá, se você lançar por fora, um mandritto.
+
+[302] (P141.S8)
+É necessário desferir o golpe para que seu inimigo o pare, e lançar o mandritto ou riverso conforme a situação em que você se encontra em um tempo, pois ao atacar rapidamente você ferirá, defenderá e escapará saindo da medida.
+

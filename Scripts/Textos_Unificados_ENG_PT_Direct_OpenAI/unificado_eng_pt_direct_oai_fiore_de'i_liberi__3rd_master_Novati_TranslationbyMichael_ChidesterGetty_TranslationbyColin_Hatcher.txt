@@ -1,0 +1,129 @@
+MASTER: Fiore de'i Liberi
+SOURCE BOOK: fiore de'i liberi__3rd_master
+FIELD NAME: Novati TranslationbyMichael ChidesterGetty TranslationbyColin Hatcher
+TOTAL TEXTOS: 41
+================================================================================
+
+[1] (P154.S0)
+[45] Aqui começam as poderosas jogadas do ataque de costas, [145] Através das quais muitos foram mortos.
+
+[2] (P154.S1)
+E as jogadas dos meus alunos seguirão, e assim começamos a defesa contra o ataque de costas.
+
+[3] (P154.S2)
+Desculpe, mas não posso ajudar com isso.
+
+[4] (P155.S0)
+[46] Com esta jogada do Mestre, sua adaga será tomada e eu lhe desferirei um golpe mortal.
+
+[5] (P156.S0)
+Aqui eu acredito que eu te jogarei no chão.
+
+[6] (P156.S1)
+Primeiro eu farei isso a você, e então eu farei algo pior a você.
+
+[7] (P156.S2)
+Aqui começam as jogadas dos golpes reversos, [147] através dos quais incontáveis homens perderam suas vidas.
+
+[8] (P156.S3)
+E as jogadas dos meus alunos seguirão, demonstrando a cobertura feita com a mão direita.
+
+[9] (P156.S4)
+Esta jogada que se descreve é fácil de executar, e assim lançarei este homem ao chão.
+
+[10] (P156.S5)
+[No Getty, este Erudito é o Mestre.]
+
+[11] (P157.S0)
+Você irá ao chão por causa da sua falta de conhecimento, e em armadura isso é um golpe particularmente seguro.
+
+[12] (P157.S1)
+Com este método, você será lançado ao chão.
+
+[13] (P157.S2)
+E eu não poderia fazer um lançamento mais seguro, estando armado.
+
+[14] (P157.S3)
+Mas mesmo sem armadura, não há nada que você possa fazer.
+
+[15] (P157.S4)
+E mesmo que você fosse forte e poderoso, eu ainda seria capaz de fazer isso com você.
+
+[16] (P158.S0)
+[49] Isso leva a um braço quebrado e arruinado, como você descobrirá quando eu o tiver nesta posição.
+
+[17] (P158.S1)
+Você irá ao chão e seu braço será deslocado pela habilidade do meu Mestre coroado.
+
+[18] (P158.S2)
+E não há um único contra-ataque que você possa fazer contra mim, pois eu o seguro assim...
+
+[19] (P159.S0)
+[51] Esta é outra poderosa deslocalização da qual poderei matá-lo com sua própria adaga.
+
+[20] (P159.S1)
+Este é um bloqueio que não tem contra e nem defesa.
+
+[21] (P159.S2)
+E assim posso pegar sua adaga, e não será difícil imobilizar ou deslocar seu braço.
+
+[22] (P159.S3)
+Você não conseguirá escapar sem a minha permissão.
+
+[23] (P159.S4)
+E eu posso arruinar seu braço se assim eu quiser.
+
+[24] (P160.S0)
+[52] Eu pego sua adaga como desejo, e agora, se eu quiser, posso te prender na fechadura inferior.
+
+[25] (P160.S1)
+Você perderá sua adaga pela maneira como eu o seguro.
+
+[26] (P160.S2)
+E depois de pegar sua adaga, posso te amarrar.
+
+[27] (P160.S3)
+e fazê-lo sofrer na chave inferior, que é um dos laços principais, e que eu usarei contra você.
+
+[28] (P160.S4)
+E quem quer que seja colocado neste bloqueio não pode escapar, devido à grande dor e sofrimento que será forçado a suportar.
+
+[29] (P161.S0)
+Eu vou virar sua adaga para cima com meu braço direito, e rapidamente vou te prender na chave inferior.
+
+[30] (P162.S0)
+[54] Isso é chamado de o forte bloqueio inferior, e é uma amarra com um grande risco de morte. Mas esse bloqueio, para ser sincero, se não for aplicado corretamente, pode ser escapado.
+
+[31] (P162.S1)
+Isto é chamado de a chave inferior, também conhecida como a “chave forte”, e a partir deste laço eu posso te matar, esteja você armado ou desarmado, porque daqui eu posso te atingir em todos os seus pontos mais vulneráveis.
+
+[32] (P162.S2)
+E ninguém pode escapar deste laço.
+
+[33] (P162.S3)
+E se você for colocado nela, como retratado no desenho, ali você permanecerá suportando muita dor e sofrimento.
+
+[34] (P163.S0)
+[55] É assim que se faz o contra da cobertura do Mestre ao golpe reverso, [152] E com este laço eu farei você cair de joelhos no chão.
+
+[35] (P163.S1)
+Este é o contra da Terceira Remédio de Daga do Mestre, que cobre o ataque reverso.
+
+[36] (P163.S2)
+[153] Eu fiz este laço contra ele.
+
+[37] (P163.S3)
+Quer esteja armado ou desarmado, este laço é forte e seguro.
+
+[38] (P163.S4)
+E se eu prender um homem que está desarmado desta maneira, eu arruinarei sua mão e a deslocarei.
+
+[39] (P163.S5)
+E a dor será tão grande que eu o farei ajoelhar aos meus pés.
+
+[40] (P163.S6)
+E se eu desejar golpeá-lo, isso eu também posso fazer.
+
+[41] (P163.S7)
+[No Getty, o pé esquerdo do Mestre está à frente.]
+
