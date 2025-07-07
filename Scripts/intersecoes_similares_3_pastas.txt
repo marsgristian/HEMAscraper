@@ -1,0 +1,1712 @@
+RELATÓRIO DE INTERSECÇÕES SIMILARES - 3 PASTAS
+==================================================
+
+Total de grupos similares: 54
+Grupos em 3 pastas: 23
+Grupos em 2 pastas: 23
+
+DETALHES DOS GRUPOS EM 3 PASTAS:
+----------------------------------------
+
+GRUPO 1:
+Base: carlo giuseppe colombani - l'arte maestra complete translationbypiermarco terminiello
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_carlo_giuseppe_colombani__l'arte_maestra_Complete_TranslationbyPiermarco_Terminiello.txt
+[ENG_PT] unificado_eng_pt_oai_carlo_giuseppe_colombani__l'arte_maestra_TranscriptionbyPiermarco_Terminiello.txt
+[PT] unificado_pt_oai_carlo_giuseppe_colombani__l'arte_maestra_TranscriptionbyPiermarco_Terminiello.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.906
+  ENG_PT_Direct ↔ PT: 0.906
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 2:
+Base: nicoletto giganti - rapier and dagger german translation 1619 byjan schäfer
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__rapier_and_dagger_German_Translation_(1619)[edit]Transcribed_byJan_Schäfer.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__rapier_and_other_weapons_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__rapier_and_dagger_French_Translation_(1619)[edit]Transcribed_byOlivier_Delannoy.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__introduction_German_Translation_(1619)[edit]Transcribed_byJan_Schäfer.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__rapier_and_dagger_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__rapier_German_Translation_(1619)[edit]Transcribed_byJan_Schäfer.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__dedication_German_Translation_(1619)[edit]Transcribed_byJan_Schäfer.txt
+[ENG_PT] unificado_eng_pt_oai_nicoletto_giganti__rapier_and_dagger_First_Edition(1608)[edit]Transcribed_byBenjamin_Keiller.txt
+[PT] unificado_pt_oai_nicoletto_giganti__rapier_and_dagger_First_Edition(1608)[edit]Transcribed_byBenjamin_Keiller.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.706
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.795
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.837
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.781
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.919
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.849
+  ENG_PT_Direct ↔ ENG_PT: 0.725
+  ENG_PT_Direct ↔ PT: 0.725
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.671
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.581
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.648
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.589
+  ENG_PT_Direct ↔ ENG_PT: 0.579
+  ENG_PT_Direct ↔ PT: 0.579
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.644
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.728
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.729
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.653
+  ENG_PT_Direct ↔ ENG_PT: 0.671
+  ENG_PT_Direct ↔ PT: 0.671
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.638
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.892
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT: 0.586
+  ENG_PT_Direct ↔ PT: 0.586
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.711
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.633
+  ENG_PT_Direct ↔ ENG_PT: 0.667
+  ENG_PT_Direct ↔ PT: 0.667
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.906
+  ENG_PT_Direct ↔ ENG_PT: 0.661
+  ENG_PT_Direct ↔ PT: 0.661
+  ENG_PT_Direct ↔ ENG_PT: 0.580
+  ENG_PT_Direct ↔ PT: 0.580
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 3:
+Base: fiore de'i liberi - close plays paris translationbykendra brownandrebecca garbermorgan translationbymichael chidester
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__close_plays_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__introduction_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__7th_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__8th_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__grappling_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__9th_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__mounted_fencing_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__spear_vs._other_weapons_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__wide_plays_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__spear_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__sword_in_one_hand_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__dagger_vs._sword_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__sword_in_armor_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__4th_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__axe_in_armor_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__3rd_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__2nd_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__sword_vs._spear_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__6th_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__seven_swords_ParisbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__1st_master_Paris_TranslationbyKendra_BrownandRebecca_GarberMorgan_TranslationbyMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__close_plays_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__close_plays_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.897
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.901
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.969
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.955
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.894
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.923
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.877
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT: 0.723
+  ENG_PT_Direct ↔ PT: 0.723
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.889
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.933
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.911
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.907
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.923
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.931
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.864
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT: 0.614
+  ENG_PT_Direct ↔ PT: 0.614
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.939
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.951
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.982
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.939
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.951
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.982
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.900
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.934
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.946
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.910
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.934
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.934
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.914
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.857
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT: 0.634
+  ENG_PT_Direct ↔ PT: 0.634
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.939
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.951
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.922
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.982
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.862
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.910
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.921
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.908
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.887
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.895
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.908
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.852
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT: 0.625
+  ENG_PT_Direct ↔ PT: 0.625
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.888
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.924
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.903
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.890
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.897
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.919
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.831
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.913
+  ENG_PT_Direct ↔ ENG_PT: 0.610
+  ENG_PT_Direct ↔ PT: 0.610
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.951
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.928
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.906
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.931
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.921
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.927
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.921
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.921
+  ENG_PT_Direct ↔ ENG_PT: 0.684
+  ENG_PT_Direct ↔ PT: 0.684
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.943
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.960
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.951
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.960
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.960
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.956
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.960
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.892
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.960
+  ENG_PT_Direct ↔ ENG_PT: 0.659
+  ENG_PT_Direct ↔ PT: 0.659
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.905
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.954
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.920
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.919
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.911
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.942
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.862
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT: 0.629
+  ENG_PT_Direct ↔ PT: 0.629
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.916
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.924
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.923
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.923
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.937
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.893
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.915
+  ENG_PT_Direct ↔ ENG_PT: 0.611
+  ENG_PT_Direct ↔ PT: 0.611
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.914
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.966
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.940
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.931
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.954
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.914
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.874
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.931
+  ENG_PT_Direct ↔ ENG_PT: 0.628
+  ENG_PT_Direct ↔ PT: 0.628
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.991
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.982
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.902
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.882
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.930
+  ENG_PT_Direct ↔ ENG_PT: 0.635
+  ENG_PT_Direct ↔ PT: 0.635
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.982
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.936
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.927
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.974
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.918
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.879
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.936
+  ENG_PT_Direct ↔ ENG_PT: 0.625
+  ENG_PT_Direct ↔ PT: 0.625
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.982
+  ENG_PT_Direct ↔ ENG_PT: 0.642
+  ENG_PT_Direct ↔ PT: 0.642
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.872
+  ENG_PT_Direct ↔ ENG_PT: 0.667
+  ENG_PT_Direct ↔ PT: 0.667
+  ENG_PT_Direct ↔ ENG_PT: 0.652
+  ENG_PT_Direct ↔ PT: 0.652
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 4:
+Base: paride del pozzo - book 4 the selection of armament english translation 1580 bydavid kite
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_paride_del_pozzo__book_4_-_the_selection_of_armament_English_Translation_(1580)[edit]Transcribed_byDavid_Kite.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_paride_del_pozzo__book_4_-_the_selection_of_armament_Italian_Translation_(1521)Transcribed_byMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_paride_del_pozzo__book_4_-_the_selection_of_armament_Spanish_Translation_(1544)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_paride_del_pozzo__book_4_-_the_selection_of_armament_Draft_TranslationbyMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_paride_del_pozzo__book_4_-_the_selection_of_armament_First_Edition[Latin]_(1476)[edit]Transcribed_byKendra_Brown.txt
+[PT] unificado_pt_oai_paride_del_pozzo__book_4_-_the_selection_of_armament_First_Edition[Latin]_(1476)[edit]Transcribed_byKendra_Brown.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.829
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.851
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.798
+  ENG_PT_Direct ↔ ENG_PT: 0.786
+  ENG_PT_Direct ↔ PT: 0.786
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.926
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.911
+  ENG_PT_Direct ↔ ENG_PT: 0.754
+  ENG_PT_Direct ↔ PT: 0.754
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.911
+  ENG_PT_Direct ↔ ENG_PT: 0.754
+  ENG_PT_Direct ↔ PT: 0.754
+  ENG_PT_Direct ↔ ENG_PT: 0.754
+  ENG_PT_Direct ↔ PT: 0.754
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 5:
+Base: fiore de'i liberi - 5th master draft translation from the paris bykendra brownandrebecca garber
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__5th_master_Draft_Translation_(from_the_Paris)byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__7th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__4th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__spear_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__seven_swords_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__6th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__3rd_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__spear_vs._other_weapons_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__dagger_vs._sword_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__axe_in_armor_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__mounted_fencing_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__introduction_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__wide_plays_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__grappling_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__9th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__2nd_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__1st_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__sword_in_armor_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__5th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__8th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__2nd_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__9th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__6th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__8th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__introduction_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__dagger_vs._sword_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__mounted_fencing_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__3rd_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__seven_swords_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__spear_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__wide_plays_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__sword_in_armor_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__spear_vs._other_weapons_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__5th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__1st_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__7th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__grappling_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__4th_master_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__axe_in_armor_Paris_Version(1420s)[edit]Transcribed_byKendra_BrownandRebecca_Garber.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.788
+  ENG_PT_Direct ↔ ENG_PT: 0.788
+  ENG_PT_Direct ↔ ENG_PT: 0.725
+  ENG_PT_Direct ↔ ENG_PT: 0.731
+  ENG_PT_Direct ↔ ENG_PT: 0.788
+  ENG_PT_Direct ↔ ENG_PT: 0.764
+  ENG_PT_Direct ↔ ENG_PT: 0.719
+  ENG_PT_Direct ↔ ENG_PT: 0.713
+  ENG_PT_Direct ↔ ENG_PT: 0.743
+  ENG_PT_Direct ↔ ENG_PT: 0.741
+  ENG_PT_Direct ↔ ENG_PT: 0.743
+  ENG_PT_Direct ↔ ENG_PT: 0.715
+  ENG_PT_Direct ↔ ENG_PT: 0.720
+  ENG_PT_Direct ↔ ENG_PT: 0.788
+  ENG_PT_Direct ↔ ENG_PT: 0.764
+  ENG_PT_Direct ↔ ENG_PT: 0.776
+  ENG_PT_Direct ↔ ENG_PT: 0.734
+  ENG_PT_Direct ↔ ENG_PT: 0.800
+  ENG_PT_Direct ↔ ENG_PT: 0.788
+  ENG_PT_Direct ↔ PT: 0.764
+  ENG_PT_Direct ↔ PT: 0.788
+  ENG_PT_Direct ↔ PT: 0.788
+  ENG_PT_Direct ↔ PT: 0.788
+  ENG_PT_Direct ↔ PT: 0.743
+  ENG_PT_Direct ↔ PT: 0.713
+  ENG_PT_Direct ↔ PT: 0.741
+  ENG_PT_Direct ↔ PT: 0.764
+  ENG_PT_Direct ↔ PT: 0.731
+  ENG_PT_Direct ↔ PT: 0.725
+  ENG_PT_Direct ↔ PT: 0.715
+  ENG_PT_Direct ↔ PT: 0.734
+  ENG_PT_Direct ↔ PT: 0.719
+  ENG_PT_Direct ↔ PT: 0.800
+  ENG_PT_Direct ↔ PT: 0.776
+  ENG_PT_Direct ↔ PT: 0.788
+  ENG_PT_Direct ↔ PT: 0.720
+  ENG_PT_Direct ↔ PT: 0.788
+  ENG_PT_Direct ↔ PT: 0.743
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.921
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.903
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ ENG_PT: 0.878
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.903
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.921
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.903
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ ENG_PT: 0.878
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.903
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.922
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ ENG_PT: 0.882
+  ENG_PT ↔ ENG_PT: 0.883
+  ENG_PT ↔ ENG_PT: 0.922
+  ENG_PT ↔ ENG_PT: 0.875
+  ENG_PT ↔ ENG_PT: 0.894
+  ENG_PT ↔ ENG_PT: 0.906
+  ENG_PT ↔ ENG_PT: 0.913
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ ENG_PT: 0.909
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ ENG_PT: 0.935
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.894
+  ENG_PT ↔ PT: 0.883
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.922
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.906
+  ENG_PT ↔ PT: 0.909
+  ENG_PT ↔ PT: 0.882
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.913
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.922
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.855
+  ENG_PT ↔ ENG_PT: 0.908
+  ENG_PT ↔ ENG_PT: 0.905
+  ENG_PT ↔ ENG_PT: 0.861
+  ENG_PT ↔ ENG_PT: 0.878
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.869
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.893
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.908
+  ENG_PT ↔ PT: 0.861
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.922
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.893
+  ENG_PT ↔ PT: 0.855
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.869
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.905
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.903
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ ENG_PT: 0.878
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.903
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.866
+  ENG_PT ↔ ENG_PT: 0.853
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.917
+  ENG_PT ↔ ENG_PT: 0.895
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.905
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.853
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.917
+  ENG_PT ↔ PT: 0.905
+  ENG_PT ↔ PT: 0.866
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.895
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.871
+  ENG_PT ↔ ENG_PT: 0.843
+  ENG_PT ↔ ENG_PT: 0.815
+  ENG_PT ↔ ENG_PT: 0.843
+  ENG_PT ↔ ENG_PT: 0.828
+  ENG_PT ↔ ENG_PT: 0.846
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ ENG_PT: 0.866
+  ENG_PT ↔ ENG_PT: 0.832
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ ENG_PT: 0.841
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.843
+  ENG_PT ↔ PT: 0.871
+  ENG_PT ↔ PT: 0.815
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.830
+  ENG_PT ↔ PT: 0.882
+  ENG_PT ↔ PT: 0.828
+  ENG_PT ↔ PT: 0.832
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.866
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.846
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.843
+  ENG_PT ↔ ENG_PT: 0.882
+  ENG_PT ↔ ENG_PT: 0.826
+  ENG_PT ↔ ENG_PT: 0.842
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.859
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.880
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.870
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ ENG_PT: 0.867
+  ENG_PT ↔ PT: 0.880
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.842
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.826
+  ENG_PT ↔ PT: 0.880
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.883
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.870
+  ENG_PT ↔ PT: 0.859
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.859
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.882
+  ENG_PT ↔ ENG_PT: 0.874
+  ENG_PT ↔ ENG_PT: 0.892
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.897
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.947
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ PT: 0.895
+  ENG_PT ↔ PT: 0.874
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.905
+  ENG_PT ↔ PT: 0.908
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.947
+  ENG_PT ↔ PT: 0.843
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.897
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ ENG_PT: 0.874
+  ENG_PT ↔ ENG_PT: 0.859
+  ENG_PT ↔ ENG_PT: 0.878
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.837
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ ENG_PT: 0.872
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.874
+  ENG_PT ↔ PT: 0.826
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.861
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.859
+  ENG_PT ↔ PT: 0.837
+  ENG_PT ↔ PT: 0.790
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.848
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.883
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.880
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ ENG_PT: 0.877
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.855
+  ENG_PT ↔ PT: 0.848
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.894
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.880
+  ENG_PT ↔ PT: 0.830
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.883
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ ENG_PT: 0.895
+  ENG_PT ↔ ENG_PT: 0.875
+  ENG_PT ↔ ENG_PT: 0.889
+  ENG_PT ↔ ENG_PT: 0.875
+  ENG_PT ↔ ENG_PT: 0.892
+  ENG_PT ↔ ENG_PT: 0.875
+  ENG_PT ↔ ENG_PT: 0.875
+  ENG_PT ↔ PT: 0.889
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.853
+  ENG_PT ↔ PT: 0.846
+  ENG_PT ↔ PT: 0.889
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.895
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.884
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.883
+  ENG_PT ↔ PT: 0.859
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.895
+  ENG_PT ↔ PT: 0.869
+  ENG_PT ↔ PT: 0.913
+  ENG_PT ↔ PT: 0.895
+  ENG_PT ↔ PT: 0.884
+  ENG_PT ↔ PT: 0.846
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.897
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ ENG_PT: 0.878
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.903
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.892
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ ENG_PT: 0.958
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.880
+  ENG_PT ↔ PT: 0.886
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.917
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ PT: 0.854
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.904
+  ENG_PT ↔ ENG_PT: 0.892
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ ENG_PT: 0.972
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.904
+  ENG_PT ↔ PT: 0.935
+  ENG_PT ↔ PT: 0.875
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ ENG_PT: 0.865
+  ENG_PT ↔ ENG_PT: 0.865
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.880
+  ENG_PT ↔ PT: 0.870
+  ENG_PT ↔ PT: 0.876
+  ENG_PT ↔ PT: 0.905
+  ENG_PT ↔ PT: 0.893
+  ENG_PT ↔ PT: 0.909
+  ENG_PT ↔ PT: 0.851
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.832
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.892
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.884
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.947
+  ENG_PT ↔ ENG_PT: 0.986
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.903
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.877
+  ENG_PT ↔ PT: 0.867
+  ENG_PT ↔ PT: 0.872
+  ENG_PT ↔ PT: 0.958
+  ENG_PT ↔ PT: 0.890
+  ENG_PT ↔ PT: 0.921
+  ENG_PT ↔ PT: 0.903
+  ENG_PT ↔ PT: 0.878
+  ENG_PT ↔ PT: 0.841
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.972
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.986
+  ENG_PT ↔ PT: 0.890
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.880
+  PT ↔ PT: 0.886
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.921
+  PT ↔ PT: 0.917
+  PT ↔ PT: 0.892
+  PT ↔ PT: 0.854
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.904
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.921
+  PT ↔ PT: 0.903
+  PT ↔ PT: 0.878
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.921
+  PT ↔ PT: 0.903
+  PT ↔ PT: 0.878
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.921
+  PT ↔ PT: 0.903
+  PT ↔ PT: 0.878
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.855
+  PT ↔ PT: 0.848
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.878
+  PT ↔ PT: 0.894
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.880
+  PT ↔ PT: 0.830
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.883
+  PT ↔ PT: 0.877
+  PT ↔ PT: 0.892
+  PT ↔ PT: 0.826
+  PT ↔ PT: 0.880
+  PT ↔ PT: 0.921
+  PT ↔ PT: 0.883
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.870
+  PT ↔ PT: 0.859
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.859
+  PT ↔ PT: 0.867
+  PT ↔ PT: 0.882
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.861
+  PT ↔ PT: 0.875
+  PT ↔ PT: 0.859
+  PT ↔ PT: 0.837
+  PT ↔ PT: 0.790
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.878
+  PT ↔ PT: 0.872
+  PT ↔ PT: 0.848
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.921
+  PT ↔ PT: 0.917
+  PT ↔ PT: 0.905
+  PT ↔ PT: 0.866
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.895
+  PT ↔ PT: 0.958
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.922
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.893
+  PT ↔ PT: 0.855
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.869
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.905
+  PT ↔ PT: 0.906
+  PT ↔ PT: 0.909
+  PT ↔ PT: 0.882
+  PT ↔ PT: 0.935
+  PT ↔ PT: 0.935
+  PT ↔ PT: 0.935
+  PT ↔ PT: 0.913
+  PT ↔ PT: 0.935
+  PT ↔ PT: 0.922
+  PT ↔ PT: 0.892
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.875
+  PT ↔ PT: 0.875
+  PT ↔ PT: 0.875
+  PT ↔ PT: 0.895
+  PT ↔ PT: 0.875
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.832
+  PT ↔ PT: 0.865
+  PT ↔ PT: 0.892
+  PT ↔ PT: 0.865
+  PT ↔ PT: 0.884
+  PT ↔ PT: 0.865
+  PT ↔ PT: 0.947
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.866
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.846
+  PT ↔ PT: 0.841
+  PT ↔ PT: 0.843
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.972
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.986
+  PT ↔ PT: 0.890
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.897
+  PT ↔ PT: 0.890
+
+==================================================
+
+GRUPO 6:
+Base: nicoletto giganti - clearance and copyright draft translationbyjeff vansteenkiste
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__clearance_and_copyright_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__introduction_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__dagger_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__rapier_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__dedication_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__left_foot_Draft_TranslationbyJeff_Vansteenkiste.txt
+[ENG_PT] unificado_eng_pt_oai_nicoletto_giganti__clearance_and_copyright_First_Edition(1606)[edit]Transcribed_byJeff_Vansteenkiste.txt
+[PT] unificado_pt_oai_nicoletto_giganti__clearance_and_copyright_First_Edition(1606)[edit]Transcribed_byJeff_Vansteenkiste.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.789
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.823
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.851
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.814
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.847
+  ENG_PT_Direct ↔ ENG_PT: 0.855
+  ENG_PT_Direct ↔ PT: 0.855
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.877
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.892
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.925
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.887
+  ENG_PT_Direct ↔ ENG_PT: 0.638
+  ENG_PT_Direct ↔ PT: 0.638
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.952
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.906
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.898
+  ENG_PT_Direct ↔ ENG_PT: 0.652
+  ENG_PT_Direct ↔ PT: 0.652
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.906
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.898
+  ENG_PT_Direct ↔ ENG_PT: 0.652
+  ENG_PT_Direct ↔ PT: 0.652
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.901
+  ENG_PT_Direct ↔ ENG_PT: 0.647
+  ENG_PT_Direct ↔ PT: 0.647
+  ENG_PT_Direct ↔ ENG_PT: 0.667
+  ENG_PT_Direct ↔ PT: 0.667
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 7:
+Base: salvator fabris - preface and dedication german translation 1677 bymichael chidester
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__preface_and_dedication_German_Translation_(1677)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__preface_and_dedication_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_nicoletto_giganti__dedication_French_Translation_(1619)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_salvator_fabris__preface_and_dedication_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_salvator_fabris__preface_and_dedication_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.743
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.727
+  ENG_PT_Direct ↔ ENG_PT: 0.826
+  ENG_PT_Direct ↔ PT: 0.826
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.573
+  ENG_PT_Direct ↔ ENG_PT: 0.736
+  ENG_PT_Direct ↔ PT: 0.736
+  ENG_PT_Direct ↔ ENG_PT: 0.634
+  ENG_PT_Direct ↔ PT: 0.634
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 8:
+Base: antonio manciolino - title and dedication incomplete translation
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__title_and_dedication_Incomplete_Translation.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__introduction_Complete_TranslationbyW._Jherek_Swanger.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__title_and_dedication_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__title_and_dedication_TranscriptionbySteven_Reich.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.707
+  ENG_PT_Direct ↔ ENG_PT: 0.760
+  ENG_PT_Direct ↔ PT: 0.760
+  ENG_PT_Direct ↔ ENG_PT: 0.609
+  ENG_PT_Direct ↔ PT: 0.609
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 9:
+Base: antonio manciolino - fifth book sword and cape, sword and dagger incomplete translationpietro bravi
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__fifth_book_(sword_and_cape,_sword_and_dagger)_Incomplete_TranslationPietro_Bravi.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__third_book_(sword_and_buckler)_Incomplete_TranslationbyW._Jherek_Swanger.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__first_book_(sword_and_buckler)_Complete_TranslationbyW._Jherek_Swanger.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__fifth_book_(sword_and_cape,_sword_and_dagger)_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__fifth_book_(sword_and_cape,_sword_and_dagger)_TranscriptionbySteven_Reich.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.720
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.717
+  ENG_PT_Direct ↔ ENG_PT: 0.781
+  ENG_PT_Direct ↔ PT: 0.781
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.955
+  ENG_PT_Direct ↔ ENG_PT: 0.615
+  ENG_PT_Direct ↔ PT: 0.615
+  ENG_PT_Direct ↔ ENG_PT: 0.633
+  ENG_PT_Direct ↔ PT: 0.633
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 10:
+Base: marc'antonio pagano - two handed sword draft translationbyniccolò menozzi
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_marc'antonio_pagano__two_handed_sword_Draft_TranslationbyNiccolò_Menozzi.txt
+[ENG_PT] unificado_eng_pt_oai_marc'antonio_pagano__two_handed_sword_TranscriptionbyNiccolò_Menozzi.txt
+[PT] unificado_pt_oai_marc'antonio_pagano__two_handed_sword_TranscriptionbyNiccolò_Menozzi.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.913
+  ENG_PT_Direct ↔ PT: 0.913
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 11:
+Base: antonio manciolino - sixth book polearms incomplete translationauthor unknown
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__sixth_book_(polearms)_Incomplete_TranslationAuthor_unknown.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__sixth_book_(polearms)_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__sixth_book_(polearms)_TranscriptionbySteven_Reich.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.709
+  ENG_PT_Direct ↔ PT: 0.709
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 12:
+Base: francesco fernando alfieri - la picca "the pike" draft translationbypiermarco terminiello
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_francesco_fernando_alfieri__la_picca("the_pike")_Draft_TranslationbyPiermarco_Terminiello.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_alfonso_falloppia__dedication_Draft_TranslationbyPiermarco_Terminiello.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_francesco_fernando_alfieri__la_bandiera("the_banner")_Draft_TranslationbyPiermarco_TerminielloandCaroline_Stewart.txt
+[ENG_PT] unificado_eng_pt_oai_francesco_fernando_alfieri__la_picca("the_pike")_Transcription(1641)[edit]byAndrea_Conti.txt
+[PT] unificado_pt_oai_francesco_fernando_alfieri__la_picca("the_pike")_Transcription(1641)[edit]byAndrea_Conti.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.731
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.818
+  ENG_PT_Direct ↔ ENG_PT: 0.706
+  ENG_PT_Direct ↔ PT: 0.706
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.589
+  ENG_PT_Direct ↔ ENG_PT: 0.178
+  ENG_PT_Direct ↔ PT: 0.178
+  ENG_PT_Direct ↔ ENG_PT: 0.565
+  ENG_PT_Direct ↔ PT: 0.565
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 13:
+Base: salvator fabris - second part on proceeding with resolution with sword and dagger draft translation from the archetype ca. 1900 bya. f. johnson bymichael chidester
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__second_part_-_on_proceeding_with_resolution_with_sword_and_dagger_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__second_part_-_on_proceeding_with_resolution_with_sword_and_dagger_French_Translation_(1644)[edit].txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__third_part_-_on_wrestling,_grips,_disarms,_cape-throws,_&_dagger_techniques_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__third_part_-_of_sword_and_cape_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__first_part_-_on_proceeding_with_resolution_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__first_part_-_on_the_basics_of_the_sword_alone_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__second_part_-_of_sword_and_dagger_Draft_Translation_(from_the_archetype)(ca._1900)byA._F._Johnson(transcribed_byMichael_Chidester).txt
+[ENG_PT] unificado_eng_pt_oai_salvator_fabris__second_part_-_on_proceeding_with_resolution_with_sword_and_dagger_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_salvator_fabris__second_part_-_on_proceeding_with_resolution_with_sword_and_dagger_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.720
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.753
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.829
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.896
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.834
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.883
+  ENG_PT_Direct ↔ ENG_PT: 0.815
+  ENG_PT_Direct ↔ PT: 0.815
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.445
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.454
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.564
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.500
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.534
+  ENG_PT_Direct ↔ ENG_PT: 0.802
+  ENG_PT_Direct ↔ PT: 0.802
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.788
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.751
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.763
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.767
+  ENG_PT_Direct ↔ ENG_PT: 0.554
+  ENG_PT_Direct ↔ PT: 0.554
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.841
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.884
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.941
+  ENG_PT_Direct ↔ ENG_PT: 0.592
+  ENG_PT_Direct ↔ PT: 0.592
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.853
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.816
+  ENG_PT_Direct ↔ ENG_PT: 0.730
+  ENG_PT_Direct ↔ PT: 0.730
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.867
+  ENG_PT_Direct ↔ ENG_PT: 0.612
+  ENG_PT_Direct ↔ PT: 0.612
+  ENG_PT_Direct ↔ ENG_PT: 0.650
+  ENG_PT_Direct ↔ PT: 0.650
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 14:
+Base: giovanni filoteo achillini - sword and buckler no translation
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_giovanni_filoteo_achillini__sword_and_buckler_No_Translation.txt
+[ENG_PT] unificado_eng_pt_oai_giovanni_filoteo_achillini__sword_and_buckler_TranscriptionbyRob_Runacres.txt
+[PT] unificado_pt_oai_giovanni_filoteo_achillini__sword_and_buckler_TranscriptionbyRob_Runacres.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.824
+  ENG_PT_Direct ↔ PT: 0.824
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 15:
+Base: philippo di vadi - chapter 15 theory of the sword against the rising blow complete translationbyguy windsor
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_philippo_di_vadi__chapter_15_-_theory_of_the_sword_against_the_rising_blow_Complete_TranslationbyGuy_Windsor.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_philippo_di_vadi__chapter_14_-_theory_of_the_half_tempo_of_the_sword_Complete_TranslationbyGuy_Windsor.txt
+[ENG_PT] unificado_eng_pt_oai_philippo_di_vadi__chapter_15_-_theory_of_the_sword_against_the_rising_blow_TranscriptionbyMarco_RubboliandLuca_Cesari.txt
+[PT] unificado_pt_oai_philippo_di_vadi__chapter_15_-_theory_of_the_sword_against_the_rising_blow_TranscriptionbyMarco_RubboliandLuca_Cesari.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.784
+  ENG_PT_Direct ↔ ENG_PT: 0.813
+  ENG_PT_Direct ↔ PT: 0.813
+  ENG_PT_Direct ↔ ENG_PT: 0.620
+  ENG_PT_Direct ↔ PT: 0.620
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 16:
+Base: francesco fernando alfieri - lo spadone "the greatsword" draft translationbyjames clark
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_francesco_fernando_alfieri__lo_spadone("the_greatsword")_Draft_TranslationbyJames_Clark.txt
+[ENG_PT] unificado_eng_pt_oai_francesco_fernando_alfieri__lo_spadone("the_greatsword")_Transcription(1653)[edit]byAndrea_Conti.txt
+[PT] unificado_pt_oai_francesco_fernando_alfieri__lo_spadone("the_greatsword")_Transcription(1653)[edit]byAndrea_Conti.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.780
+  ENG_PT_Direct ↔ PT: 0.780
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 17:
+Base: antonio manciolino - second book sword and buckler complete translationbyw. jherek swanger
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__second_book_(sword_and_buckler)_Complete_TranslationbyW._Jherek_Swanger.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__second_book_(sword_and_buckler)_TranscriptionbySteven_Reich.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__third_book_(sword_and_buckler)_TranscriptionbySteven_Reich.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__first_book_(sword_and_buckler)_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__third_book_(sword_and_buckler)_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__first_book_(sword_and_buckler)_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__second_book_(sword_and_buckler)_TranscriptionbySteven_Reich.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.768
+  ENG_PT_Direct ↔ ENG_PT: 0.712
+  ENG_PT_Direct ↔ ENG_PT: 0.712
+  ENG_PT_Direct ↔ PT: 0.712
+  ENG_PT_Direct ↔ PT: 0.712
+  ENG_PT_Direct ↔ PT: 0.768
+  ENG_PT ↔ ENG_PT: 0.940
+  ENG_PT ↔ ENG_PT: 0.940
+  ENG_PT ↔ PT: 0.940
+  ENG_PT ↔ PT: 0.940
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ ENG_PT: 0.960
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.960
+  ENG_PT ↔ PT: 0.940
+  ENG_PT ↔ PT: 0.960
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.940
+  PT ↔ PT: 0.960
+  PT ↔ PT: 0.940
+  PT ↔ PT: 0.940
+
+==================================================
+
+GRUPO 18:
+Base: alfonso falloppia - sword and dagger draft translationbypiermarco terminiello
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_alfonso_falloppia__sword_and_dagger_Draft_TranslationbyPiermarco_Terminiello.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_alfonso_falloppia__sword_and_cape_Draft_TranslationbyPiermarco_Terminiello.txt
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_alfonso_falloppia__sword_alone_Draft_TranslationbyPiermarco_Terminiello.txt
+[ENG_PT] unificado_eng_pt_oai_alfonso_falloppia__sword_and_dagger_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_alfonso_falloppia__sword_and_dagger_TranscriptionbySteven_Reich.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.959
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.938
+  ENG_PT_Direct ↔ ENG_PT: 0.730
+  ENG_PT_Direct ↔ PT: 0.730
+  ENG_PT_Direct ↔ ENG_PT_Direct: 0.951
+  ENG_PT_Direct ↔ ENG_PT: 0.696
+  ENG_PT_Direct ↔ PT: 0.696
+  ENG_PT_Direct ↔ ENG_PT: 0.682
+  ENG_PT_Direct ↔ PT: 0.682
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 19:
+Base: fiore de'i liberi - latin preface draft translation from the pisani dossi bymichael chidester
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_fiore_de'i_liberi__latin_preface_Draft_Translation_(from_the_Pisani_Dossi)byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__seven_swords_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__second_italian_preface_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__1st_master_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__axe_in_armor_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__sword_in_one_hand_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__latin_preface_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__introduction_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[ENG_PT] unificado_eng_pt_oai_fiore_de'i_liberi__baton_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__latin_preface_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__second_italian_preface_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__sword_in_one_hand_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__introduction_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__1st_master_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__axe_in_armor_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__seven_swords_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_fiore_de'i_liberi__baton_Pisani_Dossi_Version(1409)[edit]Transcribed_byMichael_Chidester.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.704
+  ENG_PT_Direct ↔ ENG_PT: 0.734
+  ENG_PT_Direct ↔ ENG_PT: 0.701
+  ENG_PT_Direct ↔ ENG_PT: 0.717
+  ENG_PT_Direct ↔ ENG_PT: 0.707
+  ENG_PT_Direct ↔ ENG_PT: 0.800
+  ENG_PT_Direct ↔ ENG_PT: 0.742
+  ENG_PT_Direct ↔ ENG_PT: 0.724
+  ENG_PT_Direct ↔ PT: 0.800
+  ENG_PT_Direct ↔ PT: 0.734
+  ENG_PT_Direct ↔ PT: 0.707
+  ENG_PT_Direct ↔ PT: 0.742
+  ENG_PT_Direct ↔ PT: 0.701
+  ENG_PT_Direct ↔ PT: 0.717
+  ENG_PT_Direct ↔ PT: 0.704
+  ENG_PT_Direct ↔ PT: 0.724
+  ENG_PT ↔ ENG_PT: 0.836
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.897
+  ENG_PT ↔ ENG_PT: 0.865
+  ENG_PT ↔ ENG_PT: 0.861
+  ENG_PT ↔ ENG_PT: 0.868
+  ENG_PT ↔ ENG_PT: 0.884
+  ENG_PT ↔ PT: 0.861
+  ENG_PT ↔ PT: 0.836
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.868
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.897
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.884
+  ENG_PT ↔ ENG_PT: 0.819
+  ENG_PT ↔ ENG_PT: 0.849
+  ENG_PT ↔ ENG_PT: 0.834
+  ENG_PT ↔ ENG_PT: 0.898
+  ENG_PT ↔ ENG_PT: 0.808
+  ENG_PT ↔ ENG_PT: 0.835
+  ENG_PT ↔ PT: 0.898
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.834
+  ENG_PT ↔ PT: 0.808
+  ENG_PT ↔ PT: 0.819
+  ENG_PT ↔ PT: 0.849
+  ENG_PT ↔ PT: 0.836
+  ENG_PT ↔ PT: 0.835
+  ENG_PT ↔ ENG_PT: 0.881
+  ENG_PT ↔ ENG_PT: 0.849
+  ENG_PT ↔ ENG_PT: 0.889
+  ENG_PT ↔ ENG_PT: 0.866
+  ENG_PT ↔ ENG_PT: 0.898
+  ENG_PT ↔ PT: 0.889
+  ENG_PT ↔ PT: 0.847
+  ENG_PT ↔ PT: 0.849
+  ENG_PT ↔ PT: 0.866
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 0.896
+  ENG_PT ↔ PT: 0.898
+  ENG_PT ↔ ENG_PT: 0.865
+  ENG_PT ↔ ENG_PT: 0.891
+  ENG_PT ↔ ENG_PT: 0.882
+  ENG_PT ↔ ENG_PT: 0.899
+  ENG_PT ↔ PT: 0.891
+  ENG_PT ↔ PT: 0.849
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.882
+  ENG_PT ↔ PT: 0.881
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.897
+  ENG_PT ↔ PT: 0.899
+  ENG_PT ↔ ENG_PT: 0.859
+  ENG_PT ↔ ENG_PT: 0.851
+  ENG_PT ↔ ENG_PT: 0.866
+  ENG_PT ↔ PT: 0.859
+  ENG_PT ↔ PT: 0.861
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.851
+  ENG_PT ↔ PT: 0.835
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.865
+  ENG_PT ↔ PT: 0.866
+  ENG_PT ↔ ENG_PT: 0.861
+  ENG_PT ↔ ENG_PT: 0.908
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.912
+  ENG_PT ↔ PT: 0.859
+  ENG_PT ↔ PT: 0.861
+  ENG_PT ↔ PT: 0.874
+  ENG_PT ↔ PT: 0.891
+  ENG_PT ↔ PT: 0.861
+  ENG_PT ↔ PT: 0.908
+  ENG_PT ↔ ENG_PT: 0.915
+  ENG_PT ↔ PT: 0.876
+  ENG_PT ↔ PT: 0.808
+  ENG_PT ↔ PT: 0.851
+  ENG_PT ↔ PT: 1.000
+  ENG_PT ↔ PT: 0.866
+  ENG_PT ↔ PT: 0.882
+  ENG_PT ↔ PT: 0.868
+  ENG_PT ↔ PT: 0.915
+  ENG_PT ↔ PT: 0.908
+  ENG_PT ↔ PT: 0.835
+  ENG_PT ↔ PT: 0.866
+  ENG_PT ↔ PT: 0.915
+  ENG_PT ↔ PT: 0.913
+  ENG_PT ↔ PT: 0.899
+  ENG_PT ↔ PT: 0.884
+  ENG_PT ↔ PT: 1.000
+  PT ↔ PT: 0.912
+  PT ↔ PT: 0.859
+  PT ↔ PT: 0.861
+  PT ↔ PT: 0.874
+  PT ↔ PT: 0.891
+  PT ↔ PT: 0.861
+  PT ↔ PT: 0.908
+  PT ↔ PT: 0.834
+  PT ↔ PT: 0.808
+  PT ↔ PT: 0.819
+  PT ↔ PT: 0.849
+  PT ↔ PT: 0.836
+  PT ↔ PT: 0.835
+  PT ↔ PT: 0.851
+  PT ↔ PT: 0.835
+  PT ↔ PT: 0.865
+  PT ↔ PT: 0.865
+  PT ↔ PT: 0.866
+  PT ↔ PT: 0.866
+  PT ↔ PT: 0.882
+  PT ↔ PT: 0.868
+  PT ↔ PT: 0.915
+  PT ↔ PT: 0.881
+  PT ↔ PT: 0.896
+  PT ↔ PT: 0.898
+  PT ↔ PT: 0.897
+  PT ↔ PT: 0.899
+  PT ↔ PT: 0.884
+
+==================================================
+
+GRUPO 20:
+Base: achille marozzo - fourth book pole weapons draft translationbyjon pellett
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_achille_marozzo__fourth_book_(pole_weapons)_Draft_TranslationbyJon_Pellett.txt
+[ENG_PT] unificado_eng_pt_oai_achille_marozzo__fourth_book_(pole_weapons)_Transcription.txt
+[PT] unificado_pt_oai_achille_marozzo__fourth_book_(pole_weapons)_Transcription.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.721
+  ENG_PT_Direct ↔ PT: 0.721
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 21:
+Base: salvator fabris - first part on proceeding with resolution french translation 1644
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__first_part_-_on_proceeding_with_resolution_French_Translation_(1644)[edit].txt
+[ENG_PT] unificado_eng_pt_oai_salvator_fabris__first_part_-_on_proceeding_with_resolution_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_salvator_fabris__first_part_-_on_proceeding_with_resolution_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.749
+  ENG_PT_Direct ↔ PT: 0.749
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 22:
+Base: antonio manciolino - fourth book sword and shield, double swords, single sword incomplete translationbygindi wauchope
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_antonio_manciolino__fourth_book_(sword_and_shield,_double_swords,_single_sword)_Incomplete_TranslationbyGindi_Wauchope.txt
+[ENG_PT] unificado_eng_pt_oai_antonio_manciolino__fourth_book_(sword_and_shield,_double_swords,_single_sword)_TranscriptionbySteven_Reich.txt
+[PT] unificado_pt_oai_antonio_manciolino__fourth_book_(sword_and_shield,_double_swords,_single_sword)_TranscriptionbySteven_Reich.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.831
+  ENG_PT_Direct ↔ PT: 0.831
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
+GRUPO 23:
+Base: salvator fabris - first part on the basics of the sword alone german translation 1677 byalex kiermayer
+
+[ENG_PT_Direct] unificado_eng_pt_direct_oai_salvator_fabris__first_part_-_on_the_basics_of_the_sword_alone_German_Translation_(1677)[edit]Transcribed_byAlex_Kiermayer.txt
+[ENG_PT] unificado_eng_pt_oai_salvator_fabris__first_part_-_on_the_basics_of_the_sword_alone_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+[PT] unificado_pt_oai_salvator_fabris__first_part_-_on_the_basics_of_the_sword_alone_Archetype(1606)[edit]Transcribed_byMichael_Chidester.txt
+
+Similaridades:
+  ENG_PT_Direct ↔ ENG_PT: 0.753
+  ENG_PT_Direct ↔ PT: 0.753
+  ENG_PT ↔ PT: 1.000
+
+==================================================
+
